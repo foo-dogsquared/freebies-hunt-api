@@ -7,6 +7,13 @@
   "devDependencies": {
     "jayson-db": "^0.2.1"
   },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "api/**/*",
+    "docs/**/*",
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,9 +21,6 @@
     "type": "git",
     "url": "git+https://github.com/foo-dogsquared/freebies-hunt-api.git"
   },
-  "files": [
-    "api/**/*.js"
-  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
