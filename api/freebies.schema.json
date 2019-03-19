@@ -46,7 +46,9 @@
             "title": "The Type Schema",
             "default": "Uncategorized",
             "examples": [
-                "Educational Resources"
+                "Educational Resources",
+                "Books",
+                "Communities"
             ],
             "pattern": "^(.*)$"
         },
@@ -67,7 +69,7 @@
                 "recommended",
                 "very recommended"
             ],
-            "pattern": "^(.*)$"            
+            "pattern": "^(.*)$"
         }
     }
 }
