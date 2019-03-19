@@ -6,7 +6,6 @@
 // https://codepen.io/zaydek/pen/gERNJb?editors=1000
 // https://www.youtube.com/watch?v=HxaD_trXwRE
 class MarkdownListLexer {
-
   // PATTERN:
   // ## TYPE
   // - [ NAME ]( LINK ) &mdash; ((** (PERSONAL RATING) **;)? DESCRIPTION)?
@@ -16,13 +15,13 @@ class MarkdownListLexer {
   // OTHER SPECIFICATIONS:
   // - the list item and the headers (and subheaders) should have less than 4 spaces
   //  since it is considered now as a code block
-  // - name and link should be right after each other, no other conditions
+  // - name and link should be right after each other enclosed in their appropriate indicators, no other conditions
   // - personal ratings can be anything until the closing end element/keyword is encountered
   // - description can be anything until a newline is encountered
 
   /** 
   *** TOKENS:
-  *** TYPE - indicated by the markdown subheader (##) token and it'll be used as the type of freebie that'll be parsed, it also has a default value which is "Uncategorized"
+  *** TYPE - indicated by the markdown subheader (##) token and it'll be used as the type of freebie that'll be parsed until the parser encountered another one, it also has a default value which is "Uncategorized"
   *** NAME - indicated by a pair of square brackets
   *** LINK - indicated by a pair of parenthesis and should be followed right after the NAME
   *** PERSONAL_RATING - indicated in the first sentence and two pairs of asterisks and a pair of parenthesis and should be followed after the &mdash; separator
@@ -34,11 +33,13 @@ class MarkdownListLexer {
     return {
       TYPE: {
         tag: "## ",
-        syntax: "<ALL>"
+        syntax: "<ALL>",
+        newline: true
       },
       LIST: {
         tag: "- ",
         composition: "fixed",
+        newline: true,
         syntax: {
           NAME: {
             opening: "[",
@@ -132,7 +133,7 @@ class MarkdownListLexer {
     for (let index = 0, length = Math.abs(size) - includesCurrent; index < length; index++) {
       if (size > 0) {
         string.unshift(this.current);
-        this.previous()
+        this.previous();
       }
       else {
         string.push(this.current);
@@ -189,6 +190,7 @@ class MarkdownListLexer {
           if (newlineElement === tokenConstants.tag) {
             state = name;
             this.seek(tokenConstants.tag.length);
+            break;
           }
         }
 
@@ -245,8 +247,6 @@ class MarkdownListLexer {
 
               if (whitespaceCharacters.test(this.current)) this.skip();
 
-              if (tag === "DESCRIPTION" && syntaxStates["MDASH_SEPARATOR"] && this.slice(2, true) === "; ") this.skip(2);
-
               while (this.current !== '\n') this.next();
               this.emit(tag);
             }
@@ -257,7 +257,10 @@ class MarkdownListLexer {
         }
       }
 
-      if (this.current === '\n') state = "";
+      if (this.current === '\n') {
+        if (state && MarkdownListLexer.BEGINNING_TOKEN_CONSTANTS[state].newline) this.emit("NEWLINE");
+        state = "";
+      }
 
       this.next();
     }

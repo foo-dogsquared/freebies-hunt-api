@@ -1,4 +1,4 @@
-const Freebie = require("./freebies");
+const Freebie = require("./freebie");
 const markdownListLexer = require("./markdownListLexer");
 
 const TOKEN_CONSTANTS = markdownListLexer.BEGINNING_TOKEN_CONSTANTS;
@@ -26,12 +26,12 @@ class MarkdownListParser {
           type = tokenData;
           break;
         case "NAME":
-          item = tokenData;
+          if (tokenData in Freebies) item = `${tokenData} ${type}`;
+          else item = tokenData;
           Freebies[item] = {};
           Freebies[item].type = type;
           break;
         case "DESCRIPTION":
-          tokenData = String(tokenData.slice(0,1).toUpperCase() + tokenData.slice(1)).trim();
         case "LINK":
         case "PERSONAL_RATING":
           Freebies[item][tokenType.toLowerCase()] = tokenData;
