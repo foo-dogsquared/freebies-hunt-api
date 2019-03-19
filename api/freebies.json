@@ -1,1 +1,1536 @@
-{}
+{
+    "awesome": {
+        "id": 0,
+        "name": "awesome",
+        "url": "https://github.com/sindresorhus/awesome",
+        "type": "Other Resource Lists",
+        "description": "; it's a curated list of lists; I guess you can say it's **awesome**, mwehehehehehehehe... 😎",
+        "personalComment": "very much recommended"
+    },
+    "Boomkrak": {
+        "id": 1,
+        "name": "Boomkrak",
+        "url": "http://boomkrak.com/",
+        "type": "Other Resource Lists",
+        "personalComment": "recommended for design-related resources"
+    },
+    "/r/learnmath resource list": {
+        "id": 2,
+        "name": "/r/learnmath resource list",
+        "url": "https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/",
+        "type": "Other Resource Lists"
+    },
+    "Lospec": {
+        "id": 3,
+        "name": "Lospec",
+        "url": "https://lospec.com/",
+        "type": "Other Resource Lists",
+        "description": "; a website that curates digital art-related resources and articles for everyone interested on the field",
+        "personalComment": "recommended for digital art resources/community"
+    },
+    "Tech Dev Guide with Google": {
+        "id": 4,
+        "name": "Tech Dev Guide with Google",
+        "url": "https://techdevguide.withgoogle.com/resources/",
+        "type": "Other Resource Lists",
+        "description": "A curated collection by Google"
+    },
+    "This list on Medium": {
+        "id": 5,
+        "name": "This list on Medium",
+        "url": "https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66",
+        "type": "Other Resource Lists"
+    },
+    "This specialized list for programming on Reddit": {
+        "id": 6,
+        "name": "This specialized list for programming on Reddit",
+        "url": "https://www.reddit.com/r/learnprogramming/wiki/tools",
+        "type": "Other Resource Lists"
+    },
+    "Useful websites for programmers (by *sdmg15* on GitHub)": {
+        "id": 7,
+        "name": "Useful websites for programmers (by *sdmg15* on GitHub)",
+        "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit/",
+        "type": "Other Resource Lists",
+        "description": "Also here's [an mirror article by *Sahil Rajput* on dev.to](https://dev.to/sahilrajput/useful-websites-for-programmers-36k#coding-practice-for-beginners)"
+    },
+    "Web Dev't Study Resources (by *dargaCode* on GitHub)": {
+        "id": 8,
+        "name": "Web Dev't Study Resources (by *dargaCode* on GitHub)",
+        "url": "https://github.com/dargaCode/WebDevStudyResources",
+        "type": "Other Resource Lists"
+    },
+    "Adobe Education Exchange": {
+        "id": 9,
+        "name": "Adobe Education Exchange",
+        "url": "https://edex.adobe.com/en/professional-development/courses",
+        "type": "Online Educational Resources",
+        "description": "Free courses offered by Adobe and its community"
+    },
+    "Brilliant": {
+        "id": 10,
+        "name": "Brilliant",
+        "url": "https://brilliant.org",
+        "type": "Online Educational Resources",
+        "description": "Kind of like those MOOC but they teach you through solving problems"
+    },
+    "Codecademy": {
+        "id": 11,
+        "name": "Codecademy",
+        "url": "https://www.codecademy.com/",
+        "type": "Online Educational Resources"
+    },
+    "Community College Consortium for Open Educational Resources": {
+        "id": 12,
+        "name": "Community College Consortium for Open Educational Resources",
+        "url": "https://www.cccoer.org/",
+        "type": "Online Educational Resources",
+        "description": "You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER)"
+    },
+    "Coursera": {
+        "id": 13,
+        "name": "Coursera",
+        "url": "https://coursera.org",
+        "type": "Online Educational Resources",
+        "personalComment": "recommended"
+    },
+    "CS50 Course by Harvard University": {
+        "id": 14,
+        "name": "CS50 Course by Harvard University",
+        "url": "http://cs50.harvard.edu/",
+        "type": "Online Educational Resources",
+        "description": "; a very good introductory course on computer science in general, just take it easy and follow the schedule then you'll be fine; I also recommend to take it with friends or a study group too, much easier unlike the way I took 😥, but still doable with solo",
+        "personalComment": "very much recommended"
+    },
+    "edX": {
+        "id": 15,
+        "name": "edX",
+        "url": "https://edx.org",
+        "type": "Online Educational Resources",
+        "personalComment": "recommended"
+    },
+    "fast.ai": {
+        "id": 16,
+        "name": "fast.ai",
+        "url": "http://www.fast.ai/",
+        "type": "Online Educational Resources",
+        "description": "Free courses on machine learning, ooooh yeah"
+    },
+    "freeCodeCamp": {
+        "id": 17,
+        "name": "freeCodeCamp",
+        "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+        "type": "YouTube Channel"
+    },
+    "IXL": {
+        "id": 18,
+        "name": "IXL",
+        "url": "https://www.ixl.com/",
+        "type": "Online Educational Resources",
+        "description": "An educational resource and learning site on K-12 curriculum"
+    },
+    "Khan Academy": {
+        "id": 19,
+        "name": "Khan Academy",
+        "url": "https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g",
+        "type": "YouTube Channel",
+        "description": "Videos on various academic topics"
+    },
+    "Learn X in Y Minutes": {
+        "id": 20,
+        "name": "Learn X in Y Minutes",
+        "url": "https://learnxinyminutes.com",
+        "type": "Online Educational Resources",
+        "description": "A community-created repository of summaries for you to learn the X programming languages"
+    },
+    "LinkedIn Learning": {
+        "id": 21,
+        "name": "LinkedIn Learning",
+        "url": "https://learning.linkedin.com/",
+        "type": "Online Educational Resources",
+        "description": "ELearning platform of LinkedIn"
+    },
+    "Microsoft Virtual Academy": {
+        "id": 22,
+        "name": "Microsoft Virtual Academy",
+        "url": "https://mva.microsoft.com/",
+        "type": "Online Educational Resources",
+        "description": "Yup, Microsoft has their own learning platform"
+    },
+    "MIT OpenCourseWare": {
+        "id": 23,
+        "name": "MIT OpenCourseWare",
+        "url": "https://ocw.mit.edu/index.htm",
+        "type": "Online Educational Resources",
+        "description": "; contains courses from a lot of subjects; you also might want to check out their [OCW Scholar Courses](https://ocw.mit.edu/courses/ocw-scholar/) wherein they are essentially more in-depth versions of the usual courses",
+        "personalComment": "recommended"
+    },
+    "MongoDB University": {
+        "id": 24,
+        "name": "MongoDB University",
+        "url": "https://university.mongodb.com/",
+        "type": "Online Educational Resources",
+        "description": "Official courses from MongoDB"
+    },
+    "Open Educational Resources": {
+        "id": 25,
+        "name": "Open Educational Resources",
+        "url": "https://www.oercommons.org/",
+        "type": "Online Educational Resources",
+        "description": "Self-explanatory as to what their content is about"
+    },
+    "Open Yale Courses": {
+        "id": 26,
+        "name": "Open Yale Courses",
+        "url": "https://oyc.yale.edu/courses",
+        "type": "Online Educational Resources"
+    },
+    "Scrimba": {
+        "id": 27,
+        "name": "Scrimba",
+        "url": "https://scrimba.com/",
+        "type": "Online Educational Resources",
+        "description": "; videos with interactive code",
+        "personalComment": "recommended"
+    },
+    "Siyavula": {
+        "id": 28,
+        "name": "Siyavula",
+        "url": "https://everythingmaths.co.za/",
+        "type": "Online Educational Resources",
+        "description": "Mathematics- and science-focused open educational resources"
+    },
+    "SkillShare": {
+        "id": 29,
+        "name": "SkillShare",
+        "url": "https://www.skillshare.com/",
+        "type": "Online Educational Resources",
+        "description": "Almost like Udemy, almost like Udemy"
+    },
+    "Teach Engineering": {
+        "id": 30,
+        "name": "Teach Engineering",
+        "url": "https://www.teachengineering.org/",
+        "type": "Online Educational Resources",
+        "description": "Well, it's a educational resources site containing engineering stuff"
+    },
+    "The Odin Project": {
+        "id": 31,
+        "name": "The Odin Project",
+        "url": "https://www.theodinproject.com/",
+        "type": "Online Educational Resources",
+        "description": "Similar approach to freeCodeCamp"
+    },
+    "Tutorials Point": {
+        "id": 32,
+        "name": "Tutorials Point",
+        "url": "https://www.tutorialspoint.com/index.htm",
+        "type": "Online Educational Resources",
+        "description": "; a good overview on a bunch of programming languages",
+        "personalComment": "recommended"
+    },
+    "TutPlus": {
+        "id": 33,
+        "name": "TutPlus",
+        "url": "https://tutsplus.com/",
+        "type": "Online Educational Resources",
+        "description": "A bunch of tutorials and courses"
+    },
+    "Udacity": {
+        "id": 34,
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "type": "Online Educational Resources",
+        "description": "Ost, if not all courses are focused on technology"
+    },
+    "Udemy": {
+        "id": 35,
+        "name": "Udemy",
+        "url": "https://udemy.com",
+        "type": "Online Educational Resources",
+        "description": "HINT: they are discounted for almost all-year round; I also recommend to only look out for the top courses since there's a lot of cluttering stuff in there"
+    },
+    "W3Schools": {
+        "id": 36,
+        "name": "W3Schools",
+        "url": "https://www.w3schools.com/",
+        "type": "Online Educational Resources"
+    },
+    "Wolfram MathWorld": {
+        "id": 37,
+        "name": "Wolfram MathWorld",
+        "url": "http://mathworld.wolfram.com/",
+        "type": "Online Educational Resources"
+    },
+    "Academia.edu": {
+        "id": 38,
+        "name": "Academia.edu",
+        "url": "https://www.academia.edu/",
+        "type": "Academics-focused Sites"
+    },
+    "Brainly": {
+        "id": 39,
+        "name": "Brainly",
+        "url": "https://brainly.com/",
+        "type": "Academics-focused Sites",
+        "description": "; for students and peer-to-peer engagement",
+        "personalComment": "recommended"
+    },
+    "Mendeley": {
+        "id": 40,
+        "name": "Mendeley",
+        "url": "https://mendeley.com/",
+        "type": "Academics-focused Sites"
+    },
+    "Google Scholar": {
+        "id": 41,
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/",
+        "type": "Academics-focused Sites"
+    },
+    "Researchgate": {
+        "id": 42,
+        "name": "Researchgate",
+        "url": "https://www.researchgate.net/",
+        "type": "Academics-focused Sites",
+        "description": "Most published studies under their platform are free to view"
+    },
+    "DevDocs": {
+        "id": 43,
+        "name": "DevDocs",
+        "url": "https://devdocs.io/",
+        "type": "Documentations",
+        "description": "; a site wherein official documentation of different languages can be found; there's also an offline version of it if you are lacking of internet speed (like me)",
+        "personalComment": "very much recommended"
+    },
+    "GitBook": {
+        "id": 44,
+        "name": "GitBook",
+        "url": "https://www.gitbook.com/",
+        "type": "Documentations",
+        "description": "Easier finding for documentations"
+    },
+    "MDN Web Docs": {
+        "id": 45,
+        "name": "MDN Web Docs",
+        "url": "https://developer.mozilla.org/en-US/",
+        "type": "Documentations",
+        "description": "; if you're trying to learn web development and programming in general, this can be a hub for it",
+        "personalComment": "very much recommended"
+    },
+    "The Architecture on Open Source Applications": {
+        "id": 46,
+        "name": "The Architecture on Open Source Applications",
+        "url": "http://aosabook.org/en/index.html",
+        "type": "Books",
+        "description": "A bundle of books that are free to read online"
+    },
+    "Algorithms (by *Jeff Erickson*)": {
+        "id": 47,
+        "name": "Algorithms (by *Jeff Erickson*)",
+        "url": "http://algorithms.wtf/",
+        "type": "Books",
+        "description": "It's a good book on algorithms (though not recommended as a first book on data structures and algorithms)"
+    },
+    "BC Campus Open Ed Open Textbook Database": {
+        "id": 48,
+        "name": "BC Campus Open Ed Open Textbook Database",
+        "url": "https://open.bccampus.ca/",
+        "type": "Books"
+    },
+    "Bookboon": {
+        "id": 49,
+        "name": "Bookboon",
+        "url": "https://bookboon.com/",
+        "type": "Books",
+        "description": "Offers premium books as well"
+    },
+    "Building Blocks for Theoretical Computer Science": {
+        "id": 50,
+        "name": "Building Blocks for Theoretical Computer Science",
+        "url": "http://mfleck.cs.illinois.edu/building-blocks/",
+        "type": "Books",
+        "description": "Self-explanatory title is self-explanatory"
+    },
+    "Calculus (by *Kalid Azad* from *Better Explained*)": {
+        "id": 51,
+        "name": "Calculus (by *Kalid Azad* from *Better Explained*)",
+        "url": "https://betterexplained.com/calculus/",
+        "type": "Books"
+    },
+    "Free Computer Books": {
+        "id": 52,
+        "name": "Free Computer Books",
+        "url": "http://freecomputerbooks.com",
+        "type": "Books"
+    },
+    "Free Programming Books": {
+        "id": 53,
+        "name": "Free Programming Books",
+        "url": "https://github.com/EbookFoundation/free-programming-books",
+        "type": "Books",
+        "description": "; a GitHub repo by the E-Book Foundation",
+        "personalComment": "recommended"
+    },
+    "Free Science Books": {
+        "id": 54,
+        "name": "Free Science Books",
+        "url": "https://github.com/EbookFoundation/free-science-books",
+        "type": "Books",
+        "description": "Another GitHub repo by the E-Book Foundation"
+    },
+    "Game Programming Patterns": {
+        "id": 55,
+        "name": "Game Programming Patterns",
+        "url": "http://gameprogrammingpatterns.com",
+        "type": "Books"
+    },
+    "Green Tea Press": {
+        "id": 56,
+        "name": "Green Tea Press",
+        "url": "https://greenteapress.com/wp/",
+        "type": "Books",
+        "description": "Free computer science-related ebooks"
+    },
+    "Hack Book of Hoa/Compiler": {
+        "id": 57,
+        "name": "Hack Book of Hoa/Compiler",
+        "url": "https://hoa-project.net/En/",
+        "type": "Books"
+    },
+    "How to Design Programs, 2nd Edition (HTML version)": {
+        "id": 58,
+        "name": "How to Design Programs, 2nd Edition (HTML version)",
+        "url": "https://htdp.org/",
+        "type": "Books"
+    },
+    "Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)": {
+        "id": 59,
+        "name": "Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)",
+        "url": "https://ptolemy.berkeley.edu/books/leeseshia/download.html",
+        "type": "Books"
+    },
+    "Invent with Python": {
+        "id": 60,
+        "name": "Invent with Python",
+        "url": "https://inventwithpython.com/",
+        "type": "Books",
+        "description": "A collection of free Python online books authored by Al Sweigart"
+    },
+    "Learn You A Haskell": {
+        "id": 61,
+        "name": "Learn You A Haskell",
+        "url": "http://learnyouahaskell.com/",
+        "type": "Books"
+    },
+    "Math Wiki": {
+        "id": 62,
+        "name": "Math Wiki",
+        "url": "https://math.wikia.com/wiki/Math_Wiki",
+        "type": "Books",
+        "description": "Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that"
+    },
+    "MIT Press Open": {
+        "id": 63,
+        "name": "MIT Press Open",
+        "url": "https://mitpress.mit.edu/mit-press-open",
+        "type": "Books",
+        "description": "Yes, free and open access books from MIT Press"
+    },
+    "Notes for Professionals": {
+        "id": 64,
+        "name": "Notes for Professionals",
+        "url": "http://book.goalkicker.com/",
+        "type": "Books",
+        "description": "; made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well; also, it is frequently updated like once per week",
+        "personalComment": "very much recommended"
+    },
+    "Open Data Structures": {
+        "id": 65,
+        "name": "Open Data Structures",
+        "url": "http://opendatastructures.org/",
+        "type": "Books",
+        "description": "Offers book"
+    },
+    "Open Library": {
+        "id": 66,
+        "name": "Open Library",
+        "url": "https://openlibrary.org/",
+        "type": "Books"
+    },
+    "Open SUNY Textbooks": {
+        "id": 67,
+        "name": "Open SUNY Textbooks",
+        "url": "https://textbooks.opensuny.org/",
+        "type": "Books"
+    },
+    "Open Textbook Library": {
+        "id": 68,
+        "name": "Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks",
+        "type": "Books",
+        "description": "; same as OpenStax",
+        "personalComment": "recommended"
+    },
+    "OpenStax CNX": {
+        "id": 69,
+        "name": "OpenStax CNX",
+        "url": "https://cnx.org/",
+        "type": "Books",
+        "description": "A database of open educational resources"
+    },
+    "OpenStax": {
+        "id": 70,
+        "name": "OpenStax",
+        "url": "https://openstax.org/",
+        "type": "Books",
+        "description": "; a library of open-licensed expert-curated college textbook and resources",
+        "personalComment": "very much recommended in sciences"
+    },
+    "Scientific Programming and Computer Architecture": {
+        "id": 71,
+        "name": "Scientific Programming and Computer Architecture",
+        "url": "https://divakarvi.github.io/bk-spca/spca.html",
+        "type": "Books"
+    },
+    "Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)": {
+        "id": 72,
+        "name": "Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)",
+        "url": "https://sarabander.github.io/sicp/",
+        "type": "Books",
+        "description": "Unofficial (and prettier) version of [one of MIT's famous programming book (that can also be found online)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)"
+    },
+    "The Feynman's Lectures on Physics": {
+        "id": 73,
+        "name": "The Feynman's Lectures on Physics",
+        "url": "http://www.feynmanlectures.caltech.edu/",
+        "type": "Books"
+    },
+    "WikiToLearn": {
+        "id": 74,
+        "name": "WikiToLearn",
+        "url": "https://www.wikitolearn.org/",
+        "type": "Books"
+    },
+    "/r/dailyprogrammer": {
+        "id": 75,
+        "name": "/r/dailyprogrammer",
+        "url": "https://old.reddit.com/r/dailyprogrammer/",
+        "type": "Katas (Practice Sites)"
+    },
+    "Advent of Code": {
+        "id": 76,
+        "name": "Advent of Code",
+        "url": "https://adventofcode.com/",
+        "type": "Katas (Practice Sites)",
+        "description": "An annual event where a challenge set is gradually released every Advent season",
+        "personalComment": "very much recommended, also beginner-friendly for challenges"
+    },
+    "Coderbyte": {
+        "id": 77,
+        "name": "Coderbyte",
+        "url": "http://coderbyte.com",
+        "type": "Katas (Practice Sites)"
+    },
+    "Codewars": {
+        "id": 78,
+        "name": "Codewars",
+        "url": "http://codewars.com/",
+        "type": "Katas (Practice Sites)",
+        "personalComment": "recommended"
+    },
+    "Euler Project": {
+        "id": 79,
+        "name": "Euler Project",
+        "url": "https://projecteuler.net/",
+        "type": "Katas (Practice Sites)",
+        "description": "; has more focus on applying mathematical concepts than programming",
+        "personalComment": "recommended, if you want to be more challenged"
+    },
+    "Exercism": {
+        "id": 80,
+        "name": "Exercism",
+        "url": "https://exercism.io",
+        "type": "Katas (Practice Sites)",
+        "description": "A site that focuses improving you through the mentor-mentee model"
+    },
+    "Google Coding Competitions": {
+        "id": 81,
+        "name": "Google Coding Competitions",
+        "url": "https://codingcompetitions.withgoogle.com/",
+        "type": "Katas (Practice Sites)"
+    },
+    "HackerRank": {
+        "id": 82,
+        "name": "HackerRank",
+        "url": "http://hackerrank.com/",
+        "type": "Katas (Practice Sites)",
+        "personalComment": "recommended, if you want to be more challenged"
+    },
+    "Pramp": {
+        "id": 83,
+        "name": "Pramp",
+        "url": "https://www.pramp.com/",
+        "type": "Katas (Practice Sites)",
+        "description": "You get to practice some programming interview questions and it's free"
+    },
+    "Brain Pickings": {
+        "id": 84,
+        "name": "Brain Pickings",
+        "url": "https://www.brainpickings.org",
+        "type": "Articles",
+        "description": "It's about whatever your brain might be piqued to"
+    },
+    "Dev.to": {
+        "id": 85,
+        "name": "Dev.to",
+        "url": "https://dev.to/",
+        "type": "Communities",
+        "description": "; beginner-friendly",
+        "personalComment": "recommended"
+    },
+    "Explain That Stuff": {
+        "id": 86,
+        "name": "Explain That Stuff",
+        "url": "https://www.explainthatstuff.com/",
+        "type": "Articles"
+    },
+    "GeeksforGeeks": {
+        "id": 87,
+        "name": "GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/",
+        "type": "Articles",
+        "description": "; a computer science portal (for geeks)",
+        "personalComment": "recommended"
+    },
+    "Medium": {
+        "id": 88,
+        "name": "Medium",
+        "url": "https://medium.com/",
+        "type": "Articles"
+    },
+    "Preadr": {
+        "id": 89,
+        "name": "Preadr",
+        "url": "https://preadr.com/",
+        "type": "Articles",
+        "description": "An article link collector collecting articles related to your configured interests"
+    },
+    "Scratch A Pixel": {
+        "id": 90,
+        "name": "Scratch A Pixel",
+        "url": "http://scratchapixel.com/",
+        "type": "Articles",
+        "description": "A list of articles on computer graphics"
+    },
+    "Wikipedia": {
+        "id": 91,
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/",
+        "type": "Articles",
+        "description": "If you want to learn random things"
+    },
+    "CodeNewbie": {
+        "id": 92,
+        "name": "CodeNewbie",
+        "url": "https://www.codenewbie.org/",
+        "type": "Communities"
+    },
+    "Coding Blocks": {
+        "id": 93,
+        "name": "Coding Blocks",
+        "url": "https://www.codingblocks.net/",
+        "type": "Communities",
+        "description": "They also have a podcast"
+    },
+    "freeCodeCamp Community": {
+        "id": 94,
+        "name": "freeCodeCamp Community",
+        "url": "https://forum.freecodecamp.org",
+        "type": "Communities"
+    },
+    "GitHub": {
+        "id": 95,
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "type": "Platforms For Your Future Apps",
+        "description": "; yeah",
+        "personalComment": "recommended"
+    },
+    "HackerNews": {
+        "id": 96,
+        "name": "HackerNews",
+        "url": "https://news.ycombinator.com/",
+        "type": "Communities"
+    },
+    "Reddit /r/coding": {
+        "id": 97,
+        "name": "Reddit /r/coding",
+        "url": "https://www.reddit.com/r/coding/",
+        "type": "Communities"
+    },
+    "Reddit /r/learnprogramming": {
+        "id": 98,
+        "name": "Reddit /r/learnprogramming",
+        "url": "https://www.reddit.com/r/learnprogramming/",
+        "type": "Communities"
+    },
+    "Stack Overflow": {
+        "id": 99,
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com",
+        "type": "Communities",
+        "description": "Look for the whole Meta Exchange network if you want to visit more communities other than Stack Overflow"
+    },
+    "BaseCS": {
+        "id": 100,
+        "name": "BaseCS",
+        "url": "https://www.codenewbie.org/basecs",
+        "type": "Podcasts"
+    },
+    "CodeNewbie Podcast": {
+        "id": 101,
+        "name": "CodeNewbie Podcast",
+        "url": "https://www.codenewbie.org/podcast",
+        "type": "Podcasts"
+    },
+    "Coding Blocks Podcast": {
+        "id": 102,
+        "name": "Coding Blocks Podcast",
+        "url": "https://www.codingblocks.net/category/podcast/",
+        "type": "Podcasts",
+        "description": "Great for beginners"
+    },
+    "College Info Geek Podcast": {
+        "id": 103,
+        "name": "College Info Geek Podcast",
+        "url": "https://collegeinfogeek.com/cast/",
+        "type": "Podcasts",
+        "description": "Not related to programming; a good refresher about a variety of stuff"
+    },
+    "DevChat": {
+        "id": 104,
+        "name": "DevChat",
+        "url": "https://devchat.tv/",
+        "type": "Podcasts",
+        "description": "A list of podcast"
+    },
+    "Developer Tea": {
+        "id": 105,
+        "name": "Developer Tea",
+        "url": "https://developertea.simplecast.fm/",
+        "type": "Podcasts"
+    },
+    "Syntax": {
+        "id": 106,
+        "name": "Syntax",
+        "url": "https://syntax.fm/",
+        "type": "Podcasts",
+        "personalComment": "recommended if you're into web dev't"
+    },
+    "Programming Throwdown": {
+        "id": 107,
+        "name": "Programming Throwdown",
+        "url": "https://www.programmingthrowdown.com/",
+        "type": "Podcasts",
+        "description": "Beginner-friendly"
+    },
+    "Real Talk JavaScript": {
+        "id": 108,
+        "name": "Real Talk JavaScript",
+        "url": "https://realtalkjavascript.simplecast.fm/",
+        "type": "Podcasts"
+    },
+    "Soft Skills Engineering": {
+        "id": 109,
+        "name": "Soft Skills Engineering",
+        "url": "https://softskills.audio/",
+        "type": "Podcasts",
+        "description": "; it's a podcast series about the things that relate to software engineering that are not mostly coding-related",
+        "personalComment": "recommended"
+    },
+    "You Are Not So Smart": {
+        "id": 110,
+        "name": "You Are Not So Smart",
+        "url": "https://youarenotsosmart.com/podcast/",
+        "type": "Podcasts",
+        "description": "It's a podcast series about exploring self-delusions and some psychological stuff and I really like psychological stuff so that's why it's here"
+    },
+    "Cal Newport": {
+        "id": 111,
+        "name": "Cal Newport",
+        "url": "https://calnewport.com/",
+        "type": "Blogs"
+    },
+    "College Info Geek": {
+        "id": 112,
+        "name": "College Info Geek",
+        "url": "https://collegeinfogeek.com/",
+        "type": "Blogs"
+    },
+    "Scott Young": {
+        "id": 113,
+        "name": "Scott Young",
+        "url": "https://scotthyoung.com/",
+        "type": "Blogs",
+        "description": "A blog that mainly focuses on learning"
+    },
+    "Coding Horror": {
+        "id": 114,
+        "name": "Coding Horror",
+        "url": "https://blog.codinghorror.com/",
+        "type": "Blogs"
+    },
+    "CSS Tricks": {
+        "id": 115,
+        "name": "CSS Tricks",
+        "url": "https://css-tricks.com/",
+        "type": "Blogs",
+        "description": "A blog that focuses on front-end development"
+    },
+    "Derek Sivers": {
+        "id": 116,
+        "name": "Derek Sivers",
+        "url": "https://sivers.org/",
+        "type": "Blogs",
+        "description": "A blog from a guy who had a lot of things to say on a lot of topics"
+    },
+    "Flavio Copes": {
+        "id": 117,
+        "name": "Flavio Copes",
+        "url": "https://flaviocopes.com/",
+        "type": "Blogs",
+        "description": "Another blog that focuses on front-end development"
+    },
+    "Jeremy Kun": {
+        "id": 118,
+        "name": "Jeremy Kun",
+        "url": "https://jeremykun.com/",
+        "type": "Blogs",
+        "description": "A programmer with a focus on mathematics"
+    },
+    "Joel On Software": {
+        "id": 119,
+        "name": "Joel On Software",
+        "url": "https://www.joelonsoftware.com",
+        "type": "Blogs",
+        "description": "A software-related blog from Joel Spolsky, the CEO from Stack Overflow"
+    },
+    "Jon Skeet's Coding Blog": {
+        "id": 120,
+        "name": "Jon Skeet's Coding Blog",
+        "url": "https://codeblog.jonskeet.uk/",
+        "type": "Blogs",
+        "description": "Jon Skeet's blog; \\* insert Jon Skeet fact here \\*"
+    },
+    "Joshua Pullen": {
+        "id": 121,
+        "name": "Joshua Pullen",
+        "url": "https://joshuapullen.com/blog/",
+        "type": "Blogs"
+    },
+    "Mozilla Hacks (Blog)": {
+        "id": 122,
+        "name": "Mozilla Hacks (Blog)",
+        "url": "http://hacks.mozilla.org/",
+        "type": "Blogs",
+        "description": "Mainly focuses on web development progress"
+    },
+    "Scott Logic": {
+        "id": 123,
+        "name": "Scott Logic",
+        "url": "https://blog.scottlogic.com/",
+        "type": "Blogs",
+        "description": "It's a blog that focuses on a broad spectrum of stuff"
+    },
+    "webapplog": {
+        "id": 124,
+        "name": "webapplog",
+        "url": "https://webapplog.com/",
+        "type": "Blogs",
+        "description": "Mainly focuses on Node.js"
+    },
+    "Wes Bos's Blog": {
+        "id": 125,
+        "name": "Wes Bos's Blog",
+        "url": "https://wesbos.com/blog/",
+        "type": "Blogs",
+        "description": "Creator of several courses and some helpful posts along the way"
+    },
+    "Frontend Focus": {
+        "id": 126,
+        "name": "Frontend Focus",
+        "url": "https://frontendfoc.us/",
+        "type": "Newsletter",
+        "description": "Another weekly newsletter about front-end development"
+    },
+    "Gamedev.js Weekly": {
+        "id": 127,
+        "name": "Gamedev.js Weekly",
+        "url": "http://gamedevjsweekly.com/",
+        "type": "Newsletter",
+        "description": "Weekly newsletter about HTML5 Game Development"
+    },
+    "JavaScript Weekly": {
+        "id": 128,
+        "name": "JavaScript Weekly",
+        "url": "https://javascriptweekly.com/",
+        "type": "Newsletter"
+    },
+    "Node Weekly": {
+        "id": 129,
+        "name": "Node Weekly",
+        "url": "http://nodeweekly.com/",
+        "type": "Newsletter"
+    },
+    "Official Node.js Weekly Newsletter": {
+        "id": 130,
+        "name": "Official Node.js Weekly Newsletter",
+        "url": "https://newsletter.nodejs.org/",
+        "type": "Newsletter"
+    },
+    "Postanly": {
+        "id": 131,
+        "name": "Postanly",
+        "url": "https://postanly.ongoodbits.com/",
+        "type": "Newsletter",
+        "description": "A weekly digest of productivity life articles"
+    },
+    "Pycoders Weekly": {
+        "id": 132,
+        "name": "Pycoders Weekly",
+        "url": "https://pycoders.com/",
+        "type": "Newsletter",
+        "description": "A weekly newsletter on Python"
+    },
+    "Crash Course": {
+        "id": 133,
+        "name": "Crash Course",
+        "url": "https://www.youtube.com/user/crashcourse/",
+        "type": "YouTube Channel",
+        "description": "; a YouTube channel that specializes in introducing you to a lot of concepts and subjects such as computers, sciences, and computer science",
+        "personalComment": "recommended"
+    },
+    "DevTips": {
+        "id": 134,
+        "name": "DevTips",
+        "url": "https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ",
+        "type": "YouTube Channel",
+        "description": "; beginner-friendly",
+        "personalComment": "recommended"
+    },
+    "Eddie Woo": {
+        "id": 135,
+        "name": "Eddie Woo",
+        "url": "https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ",
+        "type": "YouTube Channel",
+        "personalComment": "recommended for pre-calculus stuff"
+    },
+    "freeCodeCamp Talks": {
+        "id": 136,
+        "name": "freeCodeCamp Talks",
+        "url": "https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A",
+        "type": "YouTube Channel"
+    },
+    "Fun Fun Function": {
+        "id": 137,
+        "name": "Fun Fun Function",
+        "url": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "type": "YouTube Channel",
+        "description": "; your metaphorical caffeine every Monday",
+        "personalComment": "recommended"
+    },
+    "Jarvis Johnson": {
+        "id": 138,
+        "name": "Jarvis Johnson",
+        "url": "https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA",
+        "type": "YouTube Channel",
+        "description": "Comedy channel with a slight focus on tech"
+    },
+    "LearnCode.academy": {
+        "id": 139,
+        "name": "LearnCode.academy",
+        "url": "https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw",
+        "type": "YouTube Channel"
+    },
+    "LevelUpTuts": {
+        "id": 140,
+        "name": "LevelUpTuts",
+        "url": "https://www.youtube.com/user/LevelUpTuts/",
+        "type": "YouTube Channel",
+        "description": "; a beginner-friendly channel that mostly contains tutorials and introductions on various topics",
+        "personalComment": "recommended"
+    },
+    "Luke Smith": {
+        "id": 141,
+        "name": "Luke Smith",
+        "url": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA",
+        "type": "YouTube Channel",
+        "description": "A YouTube channel for boomers 😎 but it has some good stuff too"
+    },
+    "Majorprep": {
+        "id": 142,
+        "name": "Majorprep",
+        "url": "https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w",
+        "type": "YouTube Channel"
+    },
+    "Mozilla Hacks (YouTube channel)": {
+        "id": 143,
+        "name": "Mozilla Hacks (YouTube channel)",
+        "url": "https://www.youtube.com/user/mozhacks",
+        "type": "YouTube Channel",
+        "description": "Web video series \"Web Demystified\""
+    },
+    "patrickJMT": {
+        "id": 144,
+        "name": "patrickJMT",
+        "url": "https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ",
+        "type": "YouTube Channel",
+        "description": "Focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it"
+    },
+    "Professor Leonard": {
+        "id": 145,
+        "name": "Professor Leonard",
+        "url": "https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg",
+        "type": "YouTube Channel",
+        "description": "A YouTube channel that focuses on giving topics on calculus",
+        "personalComment": "recommended for calculus stuff"
+    },
+    "The Coding Train": {
+        "id": 146,
+        "name": "The Coding Train",
+        "url": "https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw",
+        "type": "YouTube Channel"
+    },
+    "Vsauce": {
+        "id": 147,
+        "name": "Vsauce",
+        "url": "https://www.youtube.com/user/Vsauce",
+        "type": "YouTube Channel",
+        "description": "Need to say more?"
+    },
+    "Wes Bos (YouTube channel)": {
+        "id": 148,
+        "name": "Wes Bos (YouTube channel)",
+        "url": "https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA",
+        "type": "YouTube Channel"
+    },
+    "Windows 10": {
+        "id": 149,
+        "name": "Windows 10",
+        "url": "https://www.microsoft.com/en-us/software-download/windows10ISO",
+        "type": "Operating Systems (yes, some of them are free)",
+        "personalComment": "I guess it is free now, also recommended"
+    },
+    "Arch Linux": {
+        "id": 150,
+        "name": "Arch Linux",
+        "url": "http://archlinux.org/",
+        "type": "Operating Systems (yes, some of them are free)",
+        "description": "Not recommended for beginners"
+    },
+    "Fedora": {
+        "id": 151,
+        "name": "Fedora",
+        "url": "https://fedoraproject.org/",
+        "type": "Operating Systems (yes, some of them are free)",
+        "description": "Kind of similar to Ubuntu"
+    },
+    "Linux Mint": {
+        "id": 152,
+        "name": "Linux Mint",
+        "url": "https://www.linuxmint.com/",
+        "type": "Operating Systems (yes, some of them are free)",
+        "personalComment": "recommended for beginners"
+    },
+    "Manjaro": {
+        "id": 153,
+        "name": "Manjaro",
+        "url": "https://manjaro.org/",
+        "type": "Operating Systems (yes, some of them are free)",
+        "description": "Another one of the beginner-friendly distro"
+    },
+    "OpenSUSE": {
+        "id": 154,
+        "name": "OpenSUSE",
+        "url": "https://www.opensuse.org/",
+        "type": "Operating Systems (yes, some of them are free)",
+        "description": "Available in two distinct versions: Tumbleweed and Leap"
+    },
+    "Solus": {
+        "id": 155,
+        "name": "Solus",
+        "url": "https://getsol.us/",
+        "type": "Operating Systems (yes, some of them are free)"
+    },
+    "Ubuntu": {
+        "id": 156,
+        "name": "Ubuntu",
+        "url": "http://ubuntu.com/",
+        "type": "Operating Systems (yes, some of them are free)",
+        "personalComment": "recommended for beginners"
+    },
+    "Eclipse": {
+        "id": 157,
+        "name": "Eclipse",
+        "url": "https://www.eclipse.org/",
+        "type": "IDE",
+        "description": "Linux alternative; also has Windows version"
+    },
+    "Jetbrains": {
+        "id": 158,
+        "name": "Jetbrains",
+        "url": "https://www.jetbrains.com/",
+        "type": "IDE",
+        "description": "; has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible",
+        "personalComment": "recommended"
+    },
+    "Visual Studio (IDE)": {
+        "id": 159,
+        "name": "Visual Studio (IDE)",
+        "url": "https://www.visualstudio.com/",
+        "type": "IDE",
+        "description": "; Windows-only",
+        "personalComment": "recommended"
+    },
+    "Codeanywhere": {
+        "id": 160,
+        "name": "Codeanywhere",
+        "url": "http://codeanywhere.com/",
+        "type": "IDE"
+    },
+    "CodeSandbox": {
+        "id": 161,
+        "name": "CodeSandbox",
+        "url": "https://codesandbox.io/",
+        "type": "IDE",
+        "description": "; really acts as a solid online alternative in case you want to work on the go (mostly, for JavaScript-oriented web development)",
+        "personalComment": "recommended"
+    },
+    "Codepen": {
+        "id": 162,
+        "name": "Codepen",
+        "url": "https://codepen.io",
+        "type": "IDE",
+        "description": "Focuses on the front-end dev't"
+    },
+    "Repl.it": {
+        "id": 163,
+        "name": "Repl.it",
+        "url": "https://repl.it/",
+        "type": "IDE",
+        "description": "Has stronger support for a back-end dev't"
+    },
+    "Atom": {
+        "id": 164,
+        "name": "Atom",
+        "url": "https://atom.io/",
+        "type": "IDE"
+    },
+    "Vim": {
+        "id": 165,
+        "name": "Vim",
+        "url": "https://www.vim.org/",
+        "type": "IDE",
+        "description": "I have no words for this, yet"
+    },
+    "Visual Studio Code": {
+        "id": 166,
+        "name": "Visual Studio Code",
+        "url": "https://code.visualstudio.com/",
+        "type": "IDE",
+        "description": "; platform-agnostic (found on Windows, Mac, & Linux)",
+        "personalComment": "very much recommended"
+    },
+    "Firefox Developer Edition": {
+        "id": 167,
+        "name": "Firefox Developer Edition",
+        "url": "https://www.mozilla.org/en-US/firefox/developer/all/",
+        "type": "Web Browsers "
+    },
+    "Firefox": {
+        "id": 168,
+        "name": "Firefox",
+        "url": "https://www.mozilla.org/en-US/firefox/all/",
+        "type": "Web Browsers "
+    },
+    "Google Chrome Beta": {
+        "id": 169,
+        "name": "Google Chrome Beta",
+        "url": "https://www.google.com/chrome/browser/beta.html",
+        "type": "Web Browsers ",
+        "description": "Slight alternative for Google Canary"
+    },
+    "Google Chrome Canary": {
+        "id": 170,
+        "name": "Google Chrome Canary",
+        "url": "https://www.google.com/chrome/browser/canary.html",
+        "type": "Web Browsers ",
+        "description": "Windows-only"
+    },
+    "Google Chrome": {
+        "id": 171,
+        "name": "Google Chrome",
+        "url": "https://www.google.com/intl/en/chrome/",
+        "type": "Web Browsers "
+    },
+    "Discord": {
+        "id": 172,
+        "name": "Discord",
+        "url": "https://discordapp.com/",
+        "type": "Communication",
+        "description": "Client messenger"
+    },
+    "Pidgin": {
+        "id": 173,
+        "name": "Pidgin",
+        "url": "https://pidgin.im/",
+        "type": "Communication",
+        "description": "Also a client messenger"
+    },
+    "Slack": {
+        "id": 174,
+        "name": "Slack",
+        "url": "https://slack.com/",
+        "type": "Communication",
+        "description": "; a very good chat client between teams",
+        "personalComment": "recommended"
+    },
+    "Thunderbird": {
+        "id": 175,
+        "name": "Thunderbird",
+        "url": "https://www.thunderbird.net/en-US/",
+        "type": "Communication",
+        "description": "; e-mail client",
+        "personalComment": "recommended"
+    },
+    "A Soft Murmur": {
+        "id": 176,
+        "name": "A Soft Murmur",
+        "url": "https://asoftmurmur.com/",
+        "type": "Productivity Tools",
+        "description": "An ambient noise generator with a lot more sounds than rain"
+    },
+    "LastPass": {
+        "id": 177,
+        "name": "LastPass",
+        "url": "https://lastpass.com",
+        "type": "Productivity Tools",
+        "description": "Cloud password manager"
+    },
+    "MedleyText": {
+        "id": 178,
+        "name": "MedleyText",
+        "url": "https://medleytext.net/",
+        "type": "Productivity Tools",
+        "description": "Evernote but targeted towards developers"
+    },
+    "Notion": {
+        "id": 179,
+        "name": "Notion",
+        "url": "https://www.notion.so/?r=ed358a0e3f6d4e47a5db21a17beaa7dd",
+        "type": "Productivity Tools",
+        "description": "Distraction-free app for taking notes in Markdown"
+    },
+    "Rainy Mood": {
+        "id": 180,
+        "name": "Rainy Mood",
+        "url": "http://www.rainymood.com/",
+        "type": "Productivity Tools",
+        "description": "Lets you focus through the ambience (if you're the type who find rain to be relaxing)"
+    },
+    "Trello": {
+        "id": 181,
+        "name": "Trello",
+        "url": "https://trello.com",
+        "type": "Productivity Tools",
+        "description": "A project management tool"
+    },
+    "Calibre": {
+        "id": 182,
+        "name": "Calibre",
+        "url": "https://calibre-ebook.com/",
+        "type": "Productivity Tools",
+        "description": "An e-book library management tool"
+    },
+    "fxSolver": {
+        "id": 183,
+        "name": "fxSolver",
+        "url": "https://www.fxsolver.com/",
+        "type": "Mathematical Tools"
+    },
+    "Geogebra": {
+        "id": 184,
+        "name": "Geogebra",
+        "url": "https://www.geogebra.org/",
+        "type": "Mathematical Tools"
+    },
+    "Mathway": {
+        "id": 185,
+        "name": "Mathway",
+        "url": "https://www.mathway.com/Algebra",
+        "type": "Mathematical Tools"
+    },
+    "Symbolab": {
+        "id": 186,
+        "name": "Symbolab",
+        "url": "https://www.symbolab.com/",
+        "type": "Mathematical Tools"
+    },
+    "BitBucket": {
+        "id": 187,
+        "name": "BitBucket",
+        "url": "https://bitbucket.org/",
+        "type": "Platforms For Your Future Apps"
+    },
+    "Amazon Web Services (AWS) &mdash; Free Tier": {
+        "id": 188,
+        "name": "Amazon Web Services (AWS) &mdash; Free Tier",
+        "url": "https://aws.amazon.com/free/",
+        "type": "Platforms For Your Future Apps"
+    },
+    "Firebase": {
+        "id": 189,
+        "name": "Firebase",
+        "url": "https://firebase.google.com/",
+        "type": "Platforms For Your Future Apps",
+        "description": "&mdash; comes with a very generous free-tier resources, though integration is a bit of a pain",
+        "personalComment": "recommended"
+    },
+    "GitLab": {
+        "id": 190,
+        "name": "GitLab",
+        "url": "https://gitlab.com/",
+        "type": "Platforms For Your Future Apps",
+        "description": ";",
+        "personalComment": "recommended"
+    },
+    "Heroku": {
+        "id": 191,
+        "name": "Heroku",
+        "url": "http://heroku.com/",
+        "type": "Platforms For Your Future Apps",
+        "description": "; easy to deploy system for backend of your apps",
+        "personalComment": "recommended, if you're starting"
+    },
+    "Microsoft Azure &mdash; Free Tier": {
+        "id": 192,
+        "name": "Microsoft Azure &mdash; Free Tier",
+        "url": "https://azure.microsoft.com/en-us/free/",
+        "type": "Platforms For Your Future Apps"
+    },
+    "Netlify": {
+        "id": 193,
+        "name": "Netlify",
+        "url": "http://netlify.com/",
+        "type": "Platforms For Your Future Apps",
+        "description": "; their free options is pretty much amazing for static websites",
+        "personalComment": "recommended"
+    },
+    "Pexels": {
+        "id": 194,
+        "name": "Pexels",
+        "url": "https://www.pexels.com/",
+        "type": "Stock Resources"
+    },
+    "Pixabay": {
+        "id": 195,
+        "name": "Pixabay",
+        "url": "https://www.pixabay.com/",
+        "type": "Stock Resources"
+    },
+    "Unsplash": {
+        "id": 196,
+        "name": "Unsplash",
+        "url": "https://unsplash.com/",
+        "type": "Stock Resources"
+    },
+    "1001 Fonts": {
+        "id": 197,
+        "name": "1001 Fonts",
+        "url": "http://www.1001fonts.com/",
+        "type": "Stock Resources"
+    },
+    "Font Squirrel": {
+        "id": 198,
+        "name": "Font Squirrel",
+        "url": "https://www.fontsquirrel.com/",
+        "type": "Stock Resources"
+    },
+    "Lost Type": {
+        "id": 199,
+        "name": "Lost Type",
+        "url": "http://www.losttype.com/",
+        "type": "Stock Resources"
+    },
+    "Canva": {
+        "id": 200,
+        "name": "Canva",
+        "url": "https://www.canva.com/",
+        "type": "Stock Resources",
+        "description": "Why not create your own creative designs"
+    },
+    "Coolors": {
+        "id": 201,
+        "name": "Coolors",
+        "url": "https://coolors.co/",
+        "type": "Stock Resources",
+        "description": "; color scheme generator",
+        "personalComment": "recommended, if you are in design"
+    },
+    "Creative Market": {
+        "id": 202,
+        "name": "Creative Market",
+        "url": "https://creativemarket.com/",
+        "type": "Stock Resources",
+        "description": "Free creative stuff weekly"
+    },
+    "cdnjs": {
+        "id": 203,
+        "name": "cdnjs",
+        "url": "https://cdnjs.com/",
+        "type": "Content Delivery Networks (CDN)",
+        "description": "; CDN for web-related libraries",
+        "personalComment": "recommended, if you're in web dev't"
+    },
+    "Cloudinary": {
+        "id": 204,
+        "name": "Cloudinary",
+        "url": "https://cloudinary.com/",
+        "type": "Content Delivery Networks (CDN)",
+        "description": "Mostly images and video CDN; also has image and video manipulation"
+    },
+    "Staticaly": {
+        "id": 205,
+        "name": "Staticaly",
+        "url": "https://www.staticaly.com/",
+        "type": "Content Delivery Networks (CDN)",
+        "description": "CDN that serves files from different repo (BitBucket, GitLab, GitHub, and even GitHub gists) with the proper headers"
+    },
+    "UploadCare": {
+        "id": 206,
+        "name": "UploadCare",
+        "url": "https://uploadcare.com/",
+        "type": "Content Delivery Networks (CDN)",
+        "description": "Image CDN with image manipulation on-the-fly"
+    },
+    "Autocad": {
+        "id": 207,
+        "name": "Autocad",
+        "url": "https://www.autodesk.com",
+        "type": "Student Packs",
+        "description": "Offers free years of the premium version of their products"
+    },
+    "GitHub Educational Pack": {
+        "id": 208,
+        "name": "GitHub Educational Pack",
+        "url": "https://education.github.com/pack/",
+        "type": "Student Packs",
+        "description": "Assortment of benefits like unlimited private repositories on their own site, free domain name for a year, and free premium boosts on more sites"
+    },
+    "JetBrain Student Pack": {
+        "id": 209,
+        "name": "JetBrain Student Pack",
+        "url": "https://www.jetbrains.com/student/",
+        "type": "Student Packs",
+        "description": "Offers free licenses for their tools like [CLion](https://www.jetbrains.com/clion), [WebStorm](https://www.jetbrains.com/webstorm), and [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea)"
+    },
+    "Microsoft Student Pack": {
+        "id": 210,
+        "name": "Microsoft Student Pack",
+        "url": "https://www.microsoft.com/en-us/education/students",
+        "type": "Student Packs"
+    },
+    "A Pragmatic Quick Reference": {
+        "id": 211,
+        "name": "A Pragmatic Quick Reference",
+        "url": "https://blog.codinghorror.com/a-pragmatic-quick-reference/",
+        "type": "Miscellaneous",
+        "description": "It's a collection of wisdoms put together in a list from the Coding Horror"
+    },
+    "Archive": {
+        "id": 212,
+        "name": "Archive",
+        "url": "https://archive.org/",
+        "type": "Miscellaneous",
+        "description": "It's an archive site for everything, it seems; you can find a lot of stuff in there"
+    },
+    "Class Central": {
+        "id": 213,
+        "name": "Class Central",
+        "url": "https://www.class-central.com/",
+        "type": "Miscellaneous",
+        "description": "A search engine for courses at different MOOC sites"
+    },
+    "Developer Roadmap (by kamranahmedse)": {
+        "id": 214,
+        "name": "Developer Roadmap (by kamranahmedse)",
+        "url": "https://github.com/kamranahmedse/developer-roadmap",
+        "type": "Miscellaneous",
+        "description": "; your reference in case you want to choose a specific role in software development (mine is more on the back-end development)",
+        "personalComment": "very much recommended"
+    },
+    "DevTube": {
+        "id": 215,
+        "name": "DevTube",
+        "url": "https://dev.tube",
+        "type": "Miscellaneous",
+        "description": "YouTube for developers"
+    },
+    "Distrowatch": {
+        "id": 216,
+        "name": "Distrowatch",
+        "url": "https://distrowatch.com/",
+        "type": "Miscellaneous",
+        "description": "; website watching for updates around Linux distros",
+        "personalComment": "recommended, if you're into Linux"
+    },
+    "Keep A Changelog": {
+        "id": 217,
+        "name": "Keep A Changelog",
+        "url": "https://keepachangelog.com/en/1.0.0/",
+        "type": "Miscellaneous"
+    },
+    "keyvalues": {
+        "id": 218,
+        "name": "keyvalues",
+        "url": "https://www.keyvalues.com/",
+        "type": "Miscellaneous",
+        "description": "It's a engineering job finder"
+    },
+    "Local Hackday MLH (Major League Hacking)": {
+        "id": 219,
+        "name": "Local Hackday MLH (Major League Hacking)",
+        "url": "https://localhackday.mlh.io/",
+        "type": "Miscellaneous",
+        "description": "It's a global hackathon (that are related to MLH) finder"
+    },
+    "MOOC List": {
+        "id": 220,
+        "name": "MOOC List",
+        "url": "https://www.mooc-list.com/",
+        "type": "Miscellaneous",
+        "description": "Similar to Class Central"
+    },
+    "Open Culture": {
+        "id": 221,
+        "name": "Open Culture",
+        "url": "http://www.openculture.com/",
+        "type": "Miscellaneous",
+        "description": "A site that provides open content and resources"
+    },
+    "Open Source": {
+        "id": 222,
+        "name": "Open Source",
+        "url": "https://opensource.com/",
+        "type": "Miscellaneous",
+        "description": "A site that talks all open source things"
+    },
+    "ossu": {
+        "id": 223,
+        "name": "ossu",
+        "url": "https://github.com/ossu/computer-science",
+        "type": "Miscellaneous",
+        "description": "A community-built and approved curriculum for self-taught students to follow"
+    }
+}
