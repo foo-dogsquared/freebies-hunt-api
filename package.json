@@ -1,0 +1,27 @@
+{
+  "name": "freebies-hunt-api",
+  "version": "1.0.0",
+  "description": "API for the freebies from Freebies Hunt as an npm package.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jayson-db": "^0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foo-dogsquared/freebies-hunt-api.git"
+  },
+  "files": [
+    "api/**/*.js"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foo-dogsquared/freebies-hunt-api/issues"
+  },
+  "homepage": "https://github.com/foo-dogsquared/freebies-hunt-api#readme"
+}
