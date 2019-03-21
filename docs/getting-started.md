@@ -2,6 +2,8 @@
 
 Hello! If you're here, that means you're interested to contribute or at least how the project's code works. Let's get things quick.
 
+In a general manner, the way how this package was managed is inspired by how the [Simple Icons](https://github.com/simple-icons/simple-icons) [npm module](https://www.npmjs.com/package/simple-icons). 
+
 If you're more of a visual person, I've made a workflow chart of how to build the API which you can see below. It also acts as a TL;DR version of this, as well.
 
 ![The code workflow of the project](./assets/freebies-hunt-api-workflow.png)
