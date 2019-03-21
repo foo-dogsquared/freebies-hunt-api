@@ -8,10 +8,10 @@
 class MarkdownListLexer {
   // PATTERN:
   // ## TYPE
-  // - [ NAME ]( LINK ) &mdash; ((** (PERSONAL RATING) **;)? DESCRIPTION)?
+  // - [ NAME ]( LINK ) | ((**(PERSONAL RATING)**)? DESCRIPTION)?
   // The only optional tokens to appear here are the personal rating and description that are indicated by the em-dash HTML entity
   // Also, we have to make sure the pattern is considered as a Markdown list item (with the dash in the front)
-  
+
   // OTHER SPECIFICATIONS:
   // - the list item and the headers (and subheaders) should have less than 4 spaces
   //  since it is considered now as a code block
@@ -50,20 +50,20 @@ class MarkdownListLexer {
             closing: ")",
             after: "NAME"
           },
-          MDASH_SEPARATOR: {
-            value: "&mdash;",
+          PIPE_SEPARATOR: {
+            value: "|",
             after: "LINK",
             optional: true
           },
           PERSONAL_RATING: {
             opening: "**(",
             closing: ")**",
-            after: "MDASH_SEPARATOR",
+            after: "PIPE_SEPARATOR",
             optional: true
           },
           DESCRIPTION: {
             all: true,
-            after: "MDASH_SEPARATOR",
+            after: "PIPE_SEPARATOR",
             before: "NEWLINE",
             optional: true
           }
@@ -98,20 +98,23 @@ class MarkdownListLexer {
   previous() {
     // checking if the cursor is at the beginning of the input
     if (this.pos <= 0) return this.BOF; // ;p
-    
+
     this.pos -= 1;
     const char = this.input[this.pos];
     return char;
   }
 
+  // returns the current character
   get current() {
     return this.input[this.pos];
   }
 
+  // returns the next character
   peek() {
     return this.input[this.pos + 1];
   }
 
+  // returns the previous character
   lookbehind() {
     return this.input[this.pos - 1];
   }
@@ -154,6 +157,7 @@ class MarkdownListLexer {
     this.pos += length;
   }
 
+  // set the starting cursor in the current position of the traversal cursor
   ignore() {
     this.start = this.pos;
   }
@@ -164,7 +168,7 @@ class MarkdownListLexer {
     this.ignore();
   }
 
-  // emit a lex item
+  // emit a lex item and set the cursor
   emit(type) {
     // get the item
     const data = this.input.slice(this.start, this.pos);

@@ -15,15 +15,20 @@
     "index.js"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node ./src/mdList.js",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/foo-dogsquared/freebies-hunt-api.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "freebies",
+    "resource-list",
+    "freebies-hunt"
+  ],
+  "author": "Gabriel Arazas <foo.dogsquared@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/foo-dogsquared/freebies-hunt-api/issues"
   },

@@ -31,10 +31,8 @@ class MarkdownListParser {
           Freebies[item] = {};
           Freebies[item].type = type;
           break;
-        case "DESCRIPTION":
-        case "LINK":
-        case "PERSONAL_RATING":
-          Freebies[item][tokenType.toLowerCase()] = tokenData;
+        default:
+          if (tokenData) Freebies[item][tokenType.toLowerCase()] = tokenData;
           break;
       }
     }
