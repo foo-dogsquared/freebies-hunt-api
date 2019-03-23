@@ -36,6 +36,25 @@ class MarkdownListLexer {
         syntax: "<ALL>",
         newline: true
       },
+      TYPE_METADATA: {
+        tag: "### ",
+        newline: true,
+        composition: "fixed",
+        syntax: {
+          DESCRIPTION: {
+            all: true,
+            separator: '|'
+          },
+          ICON_NAME: {
+            all: true,
+            separator: '|'
+          },
+          MAIN_COLOR: {
+            all: true,
+            separator: '|'
+          }
+        }
+      },
       LIST: {
         tag: "- ",
         composition: "fixed",
@@ -168,12 +187,35 @@ class MarkdownListLexer {
     this.ignore();
   }
 
+  skipUntilNewline() {
+    while (this.current !== '\n') this.skip()
+  }
+
+  // add the lex token object into the items
+  addToken(lexerToken, type) {
+    const data = lexerToken;
+    this.items.push({type, data});
+    this.ignore();
+  }
+
+  emitAndPush(type) {
+    const data = this.input.slice(this.start, this.pos).trim();
+    this.items.push({type, data});
+    this.ignore();
+  }
+
   // emit a lex item and set the cursor
   emit(type) {
     // get the item
-    const data = this.input.slice(this.start, this.pos);
-    this.items.push({type, data});
+    const data = this.input.slice(this.start, this.pos).trim();
     this.ignore();
+    return {type, data}
+  }
+
+  // emit a lex item with a specified type and the token data
+  emitData(type, data) {
+    this.ignore();
+    return {type, data}
   }
 
   // analyzing the markdown syntax and the list types and items
@@ -198,6 +240,7 @@ class MarkdownListLexer {
           }
         }
 
+        if (!state) this.skipUntilNewline();
         this.ignore();
       }
 
@@ -206,12 +249,13 @@ class MarkdownListLexer {
         const token = MarkdownListLexer.BEGINNING_TOKEN_CONSTANTS[state];
         if (token.syntax === "<ALL>") {
           while (this.current !== '\n') this.next();
-          this.emit(state);
+          this.emitAndPush(state);
         }
         // if the composition is fixed (which means it has a fixed pattern and cannot be cut off with a newline), we'll enumerate it
         else if (token.syntax instanceof Object && token.composition === "fixed") {
           // the syntax here will be executed in order
           const syntaxStates = {};
+          const tokenList = {};
           for (const tag in token.syntax) {
             syntaxStates[tag] = false;
           }
@@ -231,8 +275,6 @@ class MarkdownListLexer {
               else this.skip(syntax.opening.length);
 
               while (this.slice(syntax.closing.length, true) !== syntax.closing) this.next();
-              this.emit(tag);
-              this.seek(syntax.closing.length);
             }
             // if the syntax is simply a value
             else if (syntax.value) {
@@ -242,8 +284,6 @@ class MarkdownListLexer {
 
               if (this.slice(syntax.value.length, true) !== syntax.value && syntax.optional) continue;
               else this.skip(syntax.value.length);
-
-              this.emit(tag);
             }
             // if the syntax is the rest of the line (<ALL>)
             else if (syntax.all) {
@@ -251,13 +291,19 @@ class MarkdownListLexer {
 
               if (whitespaceCharacters.test(this.current)) this.skip();
 
-              while (this.current !== '\n') this.next();
-              this.emit(tag);
+              if (syntax.separator) while (this.current !== syntax.separator && this.peek() !== '\n') this.next();
+              else while (this.current !== '\n') this.next();
             }
 
             syntaxStates[tag] = true;
-            this.ignore();
+            const data = this.emit(tag)
+            Object.defineProperty(tokenList, tag, {value: data, enumerable: true, configurable: true})
+
+            if (syntax.all && syntax.separator) this.seek(1);
+            else if (syntax.closing) this.seek(syntax.closing.length);
           }
+
+          this.addToken(tokenList, state);
         }
       }
 

@@ -4,7 +4,7 @@ const markdownListLexer = require("./markdownListLexer");
 const TOKEN_CONSTANTS = markdownListLexer.BEGINNING_TOKEN_CONSTANTS;
 
 class MarkdownListParser {
-  static parse(lexerItems) {
+  static parse(lexerItems, categorized = false) {
     if (!(lexerItems instanceof Array)) throw new TypeError("[input] is not an array.");
 
     // how to parse properly
@@ -14,7 +14,6 @@ class MarkdownListParser {
     // LINK: the associated value of the item
 
     let type = "Uncategorized";
-    let item = "";
     const Freebies = {}
 
     for (const token of lexerItems) {
@@ -24,15 +23,36 @@ class MarkdownListParser {
       switch (tokenType) {
         case "TYPE":
           type = tokenData;
+          if (categorized) {
+            Freebies[type] = {}
+            Freebies[type].children = {}
+          };
           break;
-        case "NAME":
-          if (tokenData in Freebies) item = `${tokenData} ${type}`;
-          else item = tokenData;
-          Freebies[item] = {};
-          Freebies[item].type = type;
+        case "TYPE_METADATA":
+          if (categorized) {
+            for (const metadata in tokenData) 
+              Object.defineProperty(Freebies[type], metadata.toLowerCase(), {value: tokenData[metadata].data, enumerable: true, configurable: true});
+          }
           break;
-        default:
-          if (tokenData) Freebies[item][tokenType.toLowerCase()] = tokenData;
+        case "LIST":
+          let name = tokenData["NAME"].data;
+          if (categorized) {
+            Freebies[type]["children"][name] = {};
+            Freebies[type]["children"][name].type = type;
+  
+            // enumerating through the list
+            for (const part in tokenData) 
+              Object.defineProperty(Freebies[type]["children"][name], part.toLowerCase(), {value: tokenData[part].data, enumerable: true});
+          }
+          else {
+            if (tokenData in Freebies) name = `${name} ${type}`;
+            Freebies[name] = {};
+            Freebies[name].type = type;
+  
+            // enumerating through the list
+            for (const part in tokenData) 
+              Object.defineProperty(Freebies[name], part.toLowerCase(), {value: tokenData[part].data, enumerable: true});
+          }
           break;
       }
     }
