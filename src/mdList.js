@@ -13,23 +13,44 @@ const lexerItems = mdFileParser.analyze();
 // fs.writeFileSync(path.resolve(__dirname, "./lexerTokens.json"), JSON.stringify(lexerItems, null, 4), {encoding: "utf8"});
 
 const freebies = markdownListParser.parse(lexerItems);
+const categorizedFreebies = markdownListParser.parse(lexerItems, true);
 
 /* Just uncomment this if you want to study how the parser parses through the lexer tokens */
-// fs.writeFileSync(path.resolve(__dirname, "./parsingResults.json"), JSON.stringify(freebies, null, 4), {encoding: "utf8"});
+// fs.writeFileSync(path.resolve(__dirname, "./parsingUncategorizedResults.json"), JSON.stringify(freebies, null, 4), {encoding: "utf8"});
+// fs.writeFileSync(path.resolve(__dirname, "./parsingCategorizedResults.json"), JSON.stringify(categorizedFreebies, null, 4), {encoding: "utf8"});
 
-const jdbInstance = jaysonDB.getDB(path.resolve(__dirname, "../api/freebies.json"));
+// writing the freebies in their own object
+const freebiesJdbInstance = jaysonDB.getDB(path.resolve(__dirname, "../api/freebies.json"));
 let index = 0;
 
-jdbInstance.delete(() => true);
+freebiesJdbInstance.delete(() => true);
 
 for (const name in freebies) {
   const freebie = freebies[name];
-  const freebieInstance = new Freebie(index, name, freebie.link, freebie.type, freebie.description, freebie.personal_rating);
+  const freebieInstance = new Freebie.Freebie(index, name, freebie.link, freebie.type, freebie.description, freebie.personal_rating);
 
-  jdbInstance.create(freebieInstance, name);
+  freebiesJdbInstance.create(freebieInstance, name);
 
   index++;
 }
 
-jdbInstance.export();
-console.log("All of the links has been exported to the JSON file.")
+freebiesJdbInstance.export();
+console.log("All of the freebies (uncategorized) has been exported to the JSON file.")
+
+
+const categorizedFreebiesJdbInstance = jaysonDB.getDB(path.resolve(__dirname, "../api/freebies.categorized.json"));
+let secondIndex = 0;
+
+categorizedFreebiesJdbInstance.delete(() => true);
+
+for (const name in categorizedFreebies) {
+  const category = categorizedFreebies[name];
+  const categoryInstance = new Freebie.Category(category.description, category.icon_name, category.main_color, category.children);
+
+  categorizedFreebiesJdbInstance.create(categoryInstance, name);
+
+  secondIndex++;
+}
+
+categorizedFreebiesJdbInstance.export();
+console.log("All of the freebies (in each of their respective categories) has been exported to the JSON file.");
