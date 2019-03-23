@@ -1,6 +1,6 @@
 {
   "name": "freebies-hunt-api",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "API for the digital freebies from Freebies Hunt as an npm package.",
   "main": "index.js",
   "dependencies": {},
