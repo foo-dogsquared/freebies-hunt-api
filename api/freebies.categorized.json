@@ -82,7 +82,7 @@
             }
         },
         "icon_name": "list",
-        "main_color": "#f453a"
+        "main_color": "#f453ab"
     },
     "Distance Learning Resources": {
         "description": "Includes a variety of online platforms that offers premium version of their services as well.",
@@ -218,7 +218,7 @@
             }
         },
         "icon_name": "digital-learning",
-        "main_color": "#f453a"
+        "main_color": "#f453ab"
     },
     "Open Educational Resources": {
         "description": "Includes resources that are openly licensed and can be used and distributed by anyone.",
@@ -376,7 +376,7 @@
             }
         },
         "icon_name": "graduation-hat",
-        "main_color": "#c1ff9"
+        "main_color": "#c1ff9b"
     },
     "Free Textbooks": {
         "description": "This section offers a collection of free (if not, open which is even better) textbooks for everyone. Most of them are something programming-related but you can see more of them at the \"Open Educational Resources\" section.",
@@ -483,7 +483,7 @@
             }
         },
         "icon_name": "textbook",
-        "main_color": "#f2812"
+        "main_color": "#f28123"
     },
     "Massive Open Online Courses (MOOCS)": {
         "description": "Included here are the courses and platforms that offers courses that can be viewed by everyone.",
@@ -573,11 +573,19 @@
             }
         },
         "icon_name": "courses",
-        "main_color": "#e67f0"
+        "main_color": "#e67f0d"
     },
     "Music Resources": {
-        "description": "**(Also comes with a community of musicians, too)** A digital audio workstation that lets you composes beats and music",
+        "description": "Includes a bunch of resources that can aid you in studying music with free resources.",
         "children": {
+            "LMMS": {
+                "type": "Music Resources",
+                "name": "LMMS",
+                "link": "https://lmms.io/",
+                "pipe_separator": "",
+                "personal_rating": "Also comes with a community of musicians, too",
+                "description": "A digital audio workstation that lets you composes beats and music."
+            },
             "teoria": {
                 "type": "Music Resources",
                 "name": "teoria",
@@ -607,7 +615,7 @@
             }
         },
         "icon_name": "music-note",
-        "main_color": "- [LMMS](https://lmms.io/)"
+        "main_color": ""
     },
     "Game Development": {
         "description": "Included are some resources for you to aid (or get started) on your game development process.",
@@ -636,7 +644,7 @@
             }
         },
         "icon_name": "games",
-        "main_color": "#ffe74"
+        "main_color": "#ffe74c"
     },
     "Academics-focused Sites": {
         "description": "Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study.",
@@ -673,7 +681,7 @@
             }
         },
         "icon_name": "study",
-        "main_color": "#8fb8d"
+        "main_color": "#8fb8de"
     },
     "Documentations": {
         "description": "Includes resources and facilities for documentation of different tools and various concepts.",
@@ -710,7 +718,7 @@
             }
         },
         "icon_name": "documentation",
-        "main_color": "#d1ffc"
+        "main_color": "#d1ffc6"
     },
     "Katas (Practice Sites)": {
         "description": "Includes a facility and resources to practice solving programming problems and sharpen your problem solving skills.",
@@ -776,7 +784,7 @@
             }
         },
         "icon_name": "practice-dummy",
-        "main_color": "#d3c1c"
+        "main_color": "#d3c1c3"
     },
     "Articles": {
         "description": "Includes various writings and resources.",
@@ -829,7 +837,7 @@
             }
         },
         "icon_name": "articles",
-        "main_color": "#fe654"
+        "main_color": "#fe654f"
     },
     "Communities": {
         "description": "A group of people with common interest over a particular subject or a field.",
@@ -890,7 +898,7 @@
             }
         },
         "icon_name": "community",
-        "main_color": "#fed99"
+        "main_color": "#fed99b"
     },
     "Podcasts": {
         "description": "A list of podcast series on different subjects, mainly computer science.",
@@ -967,7 +975,7 @@
             }
         },
         "icon_name": "audio",
-        "main_color": "#fed18"
+        "main_color": "#fed18c"
     },
     "Blogs": {
         "description": "Includes a list of blogs of various subjects and knowledge fields (mainly in programming).",
@@ -1071,7 +1079,7 @@
             }
         },
         "icon_name": "blog",
-        "main_color": "#35a7f"
+        "main_color": "#35a7ff"
     },
     "Newsletter": {
         "description": "A list on newsletters reaching a variety of topics, sending you writings and resources in a certain interval.",
@@ -1121,7 +1129,7 @@
             }
         },
         "icon_name": "newsletter",
-        "main_color": "#f4e76"
+        "main_color": "#f4e76e"
     },
     "YouTube Channel": {
         "description": "Includes a list of YouTube channels on various topics that I truly recommend.",
@@ -1246,7 +1254,7 @@
             }
         },
         "icon_name": "youtube",
-        "main_color": "#ff596"
+        "main_color": "#ff5964"
     },
     "Operating Systems": {
         "description": "Includes free operating systems of different platforms to be able to run different programs on your machine. (I mean you wouldn't see this site if it wasn't for those, right?)",
@@ -1307,7 +1315,7 @@
             }
         },
         "icon_name": "operating-systems",
-        "main_color": "#91c5c"
+        "main_color": "#91c5c1"
     },
     "IDE": {
         "description": "Includes text editors and IDE that facilities putting shorter time into programming your project.",
@@ -1384,7 +1392,7 @@
             }
         },
         "icon_name": "ide",
-        "main_color": "#936ba"
+        "main_color": "#936ba7"
     },
     "Web Browsers": {
         "description": "Includes various browsers for you to choose.",
@@ -1424,7 +1432,7 @@
             }
         },
         "icon_name": "web-browsers",
-        "main_color": "#81e97"
+        "main_color": "#81e979"
     },
     "Communication": {
         "description": "Tools for communication and potentially finding a community.",
@@ -1461,7 +1469,7 @@
             }
         },
         "icon_name": "communication",
-        "main_color": "#2b9eb"
+        "main_color": "#2b9eb3"
     },
     "Productivity Tools": {
         "description": "A myriad of tools of various types to aid you into being productive.",
@@ -1518,7 +1526,7 @@
             }
         },
         "icon_name": "clock",
-        "main_color": "#ffa55"
+        "main_color": "#ffa552"
     },
     "Mathematical Tools": {
         "description": "A collection of tools to be able to aid you into solving mathematical problems.",
@@ -1545,7 +1553,7 @@
             }
         },
         "icon_name": "math",
-        "main_color": "#e67f0"
+        "main_color": "#e67f0d"
     },
     "Platforms For Your Future Apps": {
         "description": "A curated collection of platforms that offers an infrastructure and support for your apps.",
@@ -1605,7 +1613,7 @@
             }
         },
         "icon_name": "platform",
-        "main_color": "#a9def"
+        "main_color": "#a9def9"
     },
     "Stock Resources": {
         "description": "A collection of sites that offers digital content with open licensing (or at least free for personal use).",
@@ -1664,7 +1672,7 @@
             }
         },
         "icon_name": "stocks",
-        "main_color": "#ede7b"
+        "main_color": "#ede7b1"
     },
     "Design Tools": {
         "description": "Includes a plethora of resources for you to be able to design and create visual aids and illustrations.",
@@ -1701,7 +1709,7 @@
             }
         },
         "icon_name": "paintbrush",
-        "main_color": "#e67f0"
+        "main_color": "#e67f0d"
     },
     "Content Delivery Networks (CDN)": {
         "description": "Included here are some of the businesses that provides a quick way to fetch your project resources.",
@@ -1737,7 +1745,7 @@
             }
         },
         "icon_name": "cdn",
-        "main_color": "#b0fe7"
+        "main_color": "#b0fe76"
     },
     "Student Packs": {
         "description": "Here are some of the organizations that offers free resources and benefits for students if they choose to sign up for.",
@@ -1771,7 +1779,7 @@
             }
         },
         "icon_name": "student-packs",
-        "main_color": "#cdcdc"
+        "main_color": "#cdcdcd"
     },
     "Open Content": {
         "description": "Included here are some of the communities and organizations that promote open content enthustiastically.",
@@ -1797,7 +1805,7 @@
             }
         },
         "icon_name": "open-content",
-        "main_color": "#d5e1a"
+        "main_color": "#d5e1a3"
     },
     "Miscellaneous": {
         "description": "Ehh... I don't know how to categorize these items yet.",
@@ -1860,6 +1868,6 @@
             }
         },
         "icon_name": "uncategorized",
-        "main_color": "#7c6a5"
+        "main_color": "#7c6a52"
     }
 }
