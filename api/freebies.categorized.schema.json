@@ -1,0 +1,41 @@
+{
+    "type": "object",
+    "title": "The Root Schema",
+    "required": [
+        "description",
+        "children",
+        "icon_name",
+        "main_color"
+    ],
+    "properties": {
+        "description": {
+            "$id": "#/properties/description",
+            "type": "string",
+            "title": "The Description Schema",
+            "default": "",
+            "examples": [],
+            "pattern": "^(.*)$"
+        },
+        "children": {
+            "$id": "#/properties/children",
+            "type": "object",
+            "title": "The Children Schema"
+        },
+        "icon_name": {
+            "$id": "#/properties/icon_name",
+            "type": "string",
+            "title": "The Icon_name Schema",
+            "default": "",
+            "examples": [],
+            "pattern": "^(.*)$"
+        },
+        "main_color": {
+            "$id": "#/properties/main_color",
+            "type": "string",
+            "title": "The Main_color Schema",
+            "default": "",
+            "examples": [],
+            "pattern": "^(.*)$"
+        }
+    }
+}
