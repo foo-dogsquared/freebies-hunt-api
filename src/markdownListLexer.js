@@ -290,16 +290,19 @@ class MarkdownListLexer {
               if (this.current === '\n') continue;
 
               if (whitespaceCharacters.test(this.current)) this.skip();
-
-              if (syntax.separator) while (this.current !== syntax.separator && this.peek() !== '\n') this.next();
+              
+              if (syntax.separator) {
+                const match = new RegExp(`[^${syntax.separator}\n]`);
+                while (this.current.match(match)) this.next();
+              }
               else while (this.current !== '\n') this.next();
             }
 
             syntaxStates[tag] = true;
-            const data = this.emit(tag)
+            const data = this.emit(tag);
             Object.defineProperty(tokenList, tag, {value: data, enumerable: true, configurable: true})
 
-            if (syntax.all && syntax.separator) this.seek(1);
+            if (syntax.all && syntax.separator && this.current !== '\n') this.seek(1);
             else if (syntax.closing) this.seek(syntax.closing.length);
           }
 
