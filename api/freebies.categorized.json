@@ -217,8 +217,8 @@
                 "link": "http://mathworld.wolfram.com/"
             }
         },
-        "icon_name": "digital-learning",
-        "main_color": "#f453ab"
+        "icon_name": "online-learning",
+        "main_color": "#c6f91f"
     },
     "Open Educational Resources": {
         "description": "Includes resources that are openly licensed and can be used and distributed by anyone.",
@@ -573,7 +573,7 @@
             }
         },
         "icon_name": "courses",
-        "main_color": "#e67f0d"
+        "main_color": "#8cd867"
     },
     "Music Resources": {
         "description": "Includes a bunch of resources that can aid you in studying music with free resources.",
@@ -615,7 +615,7 @@
             }
         },
         "icon_name": "music-note",
-        "main_color": ""
+        "main_color": "#13293d"
     },
     "Game Development": {
         "description": "Included are some resources for you to aid (or get started) on your game development process.",
@@ -783,8 +783,8 @@
                 "description": "You get to practice some programming interview questions and it's free."
             }
         },
-        "icon_name": "practice-dummy",
-        "main_color": "#d3c1c3"
+        "icon_name": "algorithm",
+        "main_color": "#b38a58"
     },
     "Articles": {
         "description": "Includes various writings and resources.",
@@ -837,7 +837,7 @@
             }
         },
         "icon_name": "articles",
-        "main_color": "#fe654f"
+        "main_color": "#ff9f1c"
     },
     "Communities": {
         "description": "A group of people with common interest over a particular subject or a field.",
@@ -975,7 +975,7 @@
             }
         },
         "icon_name": "audio",
-        "main_color": "#fed18c"
+        "main_color": "#6b0f1a"
     },
     "Blogs": {
         "description": "Includes a list of blogs of various subjects and knowledge fields (mainly in programming).",
@@ -1314,7 +1314,7 @@
                 "personal_rating": "recommended for beginners"
             }
         },
-        "icon_name": "operating-systems",
+        "icon_name": "operating-system",
         "main_color": "#91c5c1"
     },
     "IDE": {
@@ -1553,7 +1553,7 @@
             }
         },
         "icon_name": "math",
-        "main_color": "#e67f0d"
+        "main_color": "#473144"
     },
     "Platforms For Your Future Apps": {
         "description": "A curated collection of platforms that offers an infrastructure and support for your apps.",
@@ -1805,7 +1805,7 @@
             }
         },
         "icon_name": "open-content",
-        "main_color": "#d5e1a3"
+        "main_color": "#ffbc42"
     },
     "Miscellaneous": {
         "description": "Ehh... I don't know how to categorize these items yet.",

@@ -15,7 +15,7 @@
 - [Web Dev't Study Resources (by *dargaCode* on GitHub)](https://github.com/dargaCode/WebDevStudyResources)
 
 ## Distance Learning Resources
-### Includes a variety of online platforms that offers premium version of their services as well. | digital-learning | #f453ab
+### Includes a variety of online platforms that offers premium version of their services as well. | online-learning | #c6f91f
 - [Adobe Education Exchange](https://edex.adobe.com/en/professional-development/courses) | Free courses offered by Adobe and its community.
 - [Brilliant](https://brilliant.org) | Kind of like those MOOC but they teach you through solving problems.
 - [Codecademy](https://www.codecademy.com/)
@@ -82,7 +82,7 @@
 - [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
 
 ## Massive Open Online Courses (MOOCS)
-### Included here are the courses and platforms that offers courses that can be viewed by everyone. | courses | #e67f0d
+### Included here are the courses and platforms that offers courses that can be viewed by everyone. | courses | #8cd867
 - [edX](https://edx.org) | **(recommended)**
 - [Coursera](https://coursera.org/) | **(recommended)**
 - [Algorithms (Part 1) by Princeton University](https://www.coursera.org/learn/algorithms-part1)
@@ -99,7 +99,7 @@
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96iurJDhAhXSUd4KHQoLCZsQFjAAegQIAhAB&url=http%3A%2F%2Fcs166.stanford.edu%2F&usg=AOvVaw1vgw8PSknY14EqPnlbgezL
 
 ## Music Resources
-### Includes a bunch of resources that can aid you in studying music with free resources. | music-note | 
+### Includes a bunch of resources that can aid you in studying music with free resources. | music-note | #13293d
 - [LMMS](https://lmms.io/) | **(Also comes with a community of musicians, too)** A digital audio workstation that lets you composes beats and music.
 - [teoria](https://www.teoria.com/) | A website that dedicates to list music theory resources and tutorials.
 - [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
@@ -128,7 +128,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96i
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) | **(very much recommended)** If you're trying to learn web development and programming in general, this can be a hub for it.
 
 ## Katas (Practice Sites)
-### Includes a facility and resources to practice solving programming problems and sharpen your problem solving skills. | practice-dummy | #d3c1c3
+### Includes a facility and resources to practice solving programming problems and sharpen your problem solving skills. | algorithm | #b38a58
 - [/r/dailyprogrammer](https://old.reddit.com/r/dailyprogrammer/)
 - [Advent of Code](https://adventofcode.com/) | **(very much recommended, also beginner-friendly for challenges)** An annual event where a challenge set is gradually released every Advent season.
 - [Coderbyte](http://coderbyte.com)
@@ -140,7 +140,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96i
 - [Pramp](https://www.pramp.com/) | You get to practice some programming interview questions and it's free.
 
 ## Articles
-### Includes various writings and resources. | articles | #fe654f
+### Includes various writings and resources. | articles | #ff9f1c
 - [Brain Pickings](https://www.brainpickings.org) | It's about whatever your brain might be piqued to.
 - [Explain That Stuff](https://www.explainthatstuff.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) | **(recommended)** A computer science portal (for geeks).
@@ -162,7 +162,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96i
 - [Stack Overflow](https://stackoverflow.com) | **(look for the whole Meta Exchange network if you want to visit more communities other than Stack Overflow)**
 
 ## Podcasts
-### A list of podcast series on different subjects, mainly computer science. | audio | #fed18c
+### A list of podcast series on different subjects, mainly computer science. | audio | #6b0f1a
 - [BaseCS](https://www.codenewbie.org/basecs)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 - [Coding Blocks Podcast](https://www.codingblocks.net/category/podcast/) | Great for beginners.
@@ -226,7 +226,7 @@ https://8tracks.com/explore/study_music
 - [Wes Bos YouTube Channel](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
 
 ## Operating Systems
-### Includes free operating systems of different platforms to be able to run different programs on your machine. (I mean you wouldn't see this site if it wasn't for those, right?) | operating-systems | #91c5c1
+### Includes free operating systems of different platforms to be able to run different programs on your machine. (I mean you wouldn't see this site if it wasn't for those, right?) | operating-system | #91c5c1
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO) | **(I guess it is free now, also recommended)**
 - [Arch Linux](http://archlinux.org/) | **(Not recommended for beginners)**
 - [Fedora](https://fedoraproject.org/) | Kind of similar to Ubuntu.
@@ -275,7 +275,7 @@ https://8tracks.com/explore/study_music
 - [Calibre](https://calibre-ebook.com/) | An e-book library management tool.
 
 ## Mathematical Tools
-### A collection of tools to be able to aid you into solving mathematical problems. | math | #e67f0d
+### A collection of tools to be able to aid you into solving mathematical problems. | math | #473144
 - [fxSolver](https://www.fxsolver.com/)
 - [Geogebra](https://www.geogebra.org/)
 - [Mathway](https://www.mathway.com/Algebra)
@@ -327,7 +327,7 @@ https://8tracks.com/explore/study_music
 - [Microsoft Student Pack](https://www.microsoft.com/en-us/education/students)
 
 ## Open Content
-### Included here are some of the communities and organizations that promote open content enthustiastically. | open-content | #d5e1a3
+### Included here are some of the communities and organizations that promote open content enthustiastically. | open-content | #ffbc42
 - [Creative Commons](https://creativecommons.org/)
 - [Open Culture](http://www.openculture.com/) | A site that provides open content and resources.
 - [Open Source](https://opensource.com/) | A site that talks all open source things.
