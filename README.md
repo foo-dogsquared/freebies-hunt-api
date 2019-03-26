@@ -5,6 +5,8 @@ API for the digital freebies from Freebies Hunt as an npm package. It's my perso
 
 This also serves as a production use case for my JSON database system, [`jayson-db`](https://github.com/foo-dogsquared/jayson-db) (and also save some money by creating my own little database management system thingamajig ~~It's expensive relative to my budget, OK?~~). Also, it's actually fun.
 
+Anyways, this also represents the tools and resources that I personally use (or previously used) though I admittedly don't all of them at least just yet. If you want to send me feedback whether it regards to the resources or to the site, feel free to do so. Just make sure the suggested resources are legally free 👀. Also look for the [contributing section](#contributing) below for more information.
+
 ## Getting started
 To get started on using the API, just head on over and download it from npm:
 
@@ -28,6 +30,8 @@ Property | Type | Description
 `categorizedDataSchema` | `Object` | Contains the schema (according to [JSON Schema](http://json-schema.org/) spec) of the categories in the `categorizedData` property.
 
 So if you want to iterate through all of the items, just use the `data` property.
+
+Take note that the data is based in Markdown so you have to convert it from Markdown into HTML (or something).
 
 ```js
 const { data } = require("freebies-hunt-api");
