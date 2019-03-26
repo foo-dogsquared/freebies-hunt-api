@@ -5,6 +5,39 @@ API for the digital freebies from Freebies Hunt as an npm package. It's my perso
 
 This also serves as a production use case for my JSON database system, [`jayson-db`](https://github.com/foo-dogsquared/jayson-db) (and also save some money by creating my own little database management system thingamajig ~~It's expensive relative to my budget, OK?~~). Also, it's actually fun.
 
+## Getting started
+To get started on using the API, just head on over and download it from npm:
+
+```sh
+npm i freebies-hunt-api
+```
+
+Import it and presto! You are mostly done!
+
+```js
+const freebiesHuntApi = require("freebies-hunt-api");
+```
+
+Keep in mind that the module is basically a JavaScript object with four properties:
+
+Property | Type | Description
+--- | --- | --- |
+`data` | `Object` | Contains all of the items without being categorized.
+`schema` | `Object` | Contains the schema (according to [JSON Schema](http://json-schema.org/) spec) of the individual items in the `data`.
+`categorizedData` | `Object` | Contains the categories and their items.
+`categorizedDataSchema` | `Object` | Contains the schema (according to [JSON Schema](http://json-schema.org/) spec) of the categories in the `categorizedData` property.
+
+So if you want to iterate through all of the items, just use the `data` property.
+
+```js
+const { data } = require("freebies-hunt-api");
+
+// all of the individual items will be logged
+for (const item in data) {
+    console.log(data[item]);
+}
+```
+
 ## Contributing
 You can contribute mainly either by code, feedback, criticisms, or link suggestions. 
 
