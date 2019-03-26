@@ -85,11 +85,6 @@
                 "pipe_separator": "",
                 "description": "Another curated collection by Google."
             },
-            "This list on Medium": {
-                "type": "Other Resource Lists",
-                "name": "This list on Medium",
-                "link": "https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66"
-            },
             "Useful websites for programmers (by *sdmg15* on GitHub)": {
                 "type": "Other Resource Lists",
                 "name": "Useful websites for programmers (by *sdmg15* on GitHub)",
@@ -247,20 +242,6 @@
                 "pipe_separator": "",
                 "description": "A site that offers open textbooks. It also offers premium books as well."
             },
-            "Building Blocks for Theoretical Computer Science": {
-                "type": "Open Educational Resources",
-                "name": "Building Blocks for Theoretical Computer Science",
-                "link": "http://mfleck.cs.illinois.edu/building-blocks/",
-                "pipe_separator": "",
-                "personal_rating": "Self-explanatory title is self-explanatory, I think."
-            },
-            "Community College Consortium for Open Educational Resources": {
-                "type": "Open Educational Resources",
-                "name": "Community College Consortium for Open Educational Resources",
-                "link": "https://www.cccoer.org/",
-                "pipe_separator": "",
-                "description": "You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER)."
-            },
             "CK12": {
                 "type": "Open Educational Resources",
                 "name": "CK12",
@@ -268,6 +249,13 @@
                 "pipe_separator": "",
                 "personal_rating": "Recommended for looking/reviewing into high school sciences curriculum.",
                 "description": "A community group that offers variety of open educational resources from Flexbooks open textbooks, activities, and simulations."
+            },
+            "Community College Consortium for Open Educational Resources": {
+                "type": "Open Educational Resources",
+                "name": "Community College Consortium for Open Educational Resources",
+                "link": "https://www.cccoer.org/",
+                "pipe_separator": "",
+                "description": "You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER)."
             },
             "freeCodeCamp": {
                 "type": "Open Educational Resources",
@@ -277,6 +265,13 @@
                 "personal_rating": "It has a [forum](https://forum.freecodecamp.org/) to interact and has its curriculum open sourced.",
                 "description": "Project-based curriculum for web development."
             },
+            "IXL": {
+                "type": "Open Educational Resources",
+                "name": "IXL",
+                "link": "https://www.ixl.com/",
+                "pipe_separator": "",
+                "description": "An educational resource and learning site on K-12 curriculum."
+            },
             "Khan Academy": {
                 "type": "Open Educational Resources",
                 "name": "Khan Academy",
@@ -285,13 +280,6 @@
                 "personal_rating": "It's well known and has I think one of the biggest learners' community.",
                 "description": "There are also other topics outside of programming (i.e. mathematics, physics)."
             },
-            "IXL": {
-                "type": "Open Educational Resources",
-                "name": "IXL",
-                "link": "https://www.ixl.com/",
-                "pipe_separator": "",
-                "description": "An educational resource and learning site on K-12 curriculum."
-            },
             "Math Wiki": {
                 "type": "Open Educational Resources",
                 "name": "Math Wiki",
@@ -299,6 +287,13 @@
                 "pipe_separator": "",
                 "personal_rating": "Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that.",
                 "description": "| A community-made and continuously updated textbook on mathematics."
+            },
+            "Merlot": {
+                "type": "Open Educational Resources",
+                "name": "Merlot",
+                "link": "https://www.merlot.org/merlot/index.htm",
+                "pipe_separator": "",
+                "description": "An archive site of open educational resources viewable to everyone."
             },
             "MIT OpenCourseWare": {
                 "type": "Open Educational Resources",
@@ -341,7 +336,7 @@
                 "name": "Open Textbook Library",
                 "link": "https://open.umn.edu/opentextbooks",
                 "pipe_separator": "",
-                "personal_rating": "recommended",
+                "personal_rating": "If you want to look for a wide database of open textbooks, here's one of them that I personally use.",
                 "description": "A library of published open textbooks by different professionals and experts from different institutions."
             },
             "Open University": {
@@ -368,7 +363,7 @@
                 "name": "OpenStax",
                 "link": "https://openstax.org/",
                 "pipe_separator": "",
-                "personal_rating": "I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation]()",
+                "personal_rating": "I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/)",
                 "description": "A library of open-licensed expert-curated high school- and college-level textbook and resources."
             },
             "ossu": {
@@ -377,13 +372,6 @@
                 "link": "https://github.com/ossu/computer-science",
                 "pipe_separator": "",
                 "description": "A community-built and approved curriculum for self-taught students to follow."
-            },
-            "The Open Source Computer Science Degree": {
-                "type": "Open Educational Resources",
-                "name": "The Open Source Computer Science Degree",
-                "link": "https://github.com/ForrestKnight/open-source-cs",
-                "pipe_separator": "",
-                "description": "Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton."
             },
             "Siyavula": {
                 "type": "Open Educational Resources",
@@ -405,6 +393,13 @@
                 "link": "http://www.feynmanlectures.caltech.edu/",
                 "pipe_separator": "",
                 "description": "Well,self-explanatory title is self-explanatory. It's the website that lets you view [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)'s legendary notes on physics."
+            },
+            "The Open Source Computer Science Degree": {
+                "type": "Open Educational Resources",
+                "name": "The Open Source Computer Science Degree",
+                "link": "https://github.com/ForrestKnight/open-source-cs",
+                "pipe_separator": "",
+                "description": "Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton."
             },
             "WikiToLearn": {
                 "type": "Open Educational Resources",
@@ -428,15 +423,21 @@
                 "pipe_separator": "",
                 "description": "It's a good book on algorithms (though not recommended as a first book on data structures and algorithms)."
             },
+            "Building Blocks for Theoretical Computer Science": {
+                "type": "Free and Open Access Textbooks",
+                "name": "Building Blocks for Theoretical Computer Science",
+                "link": "http://mfleck.cs.illinois.edu/building-blocks/",
+                "pipe_separator": "",
+                "personal_rating": "Self-explanatory title is self-explanatory, I think.",
+                "description": "A book that gives you a rudimentary class on theoretical side of computer science. Most of the focus are directed on the formal mathematical side of things with the lessons being set theory, logic, proofs, graphs, and calculus."
+            },
             "Calculus (by *Kalid Azad* from *Better Explained*)": {
                 "type": "Free and Open Access Textbooks",
                 "name": "Calculus (by *Kalid Azad* from *Better Explained*)",
-                "link": "https://betterexplained.com/calculus/"
-            },
-            "Free Computer Books": {
-                "type": "Free and Open Access Textbooks",
-                "name": "Free Computer Books",
-                "link": "http://freecomputerbooks.com"
+                "link": "https://betterexplained.com/calculus/",
+                "pipe_separator": "",
+                "personal_rating": "One of the more beginner-friendly books on learning calculus. I recommend it to give it a chance.",
+                "description": "A free online primer that tackles on learning calculus with intuition."
             },
             "Free Math Textbooks": {
                 "type": "Free and Open Access Textbooks",
@@ -465,17 +466,20 @@
                 "name": "Game Programming Patterns",
                 "link": "http://gameprogrammingpatterns.com/",
                 "pipe_separator": "",
-                "personal_rating": "Recommending this so much when starting out with game development."
+                "personal_rating": "Recommending this so much when starting out with game development.",
+                "description": "A book of patterns that are commonly found in game development. It's also free to read it online (obviously it is why it's in this list)."
             },
             "Hack Book of Hoa/Compiler": {
                 "type": "Free and Open Access Textbooks",
                 "name": "Hack Book of Hoa/Compiler",
                 "link": "https://hoa-project.net/En/"
             },
-            "How to Design Programs, 2nd Edition (HTML version)": {
+            "How to Design Programs, 2nd Edition": {
                 "type": "Free and Open Access Textbooks",
-                "name": "How to Design Programs, 2nd Edition (HTML version)",
-                "link": "https://htdp.org/"
+                "name": "How to Design Programs, 2nd Edition",
+                "link": "https://htdp.org/",
+                "pipe_separator": "",
+                "description": "A computer science book published by the MIT Press that focuses on designing programs and in hindsight, how to efficiently formulate plans and stick with it until the very completion of your program."
             },
             "Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)": {
                 "type": "Free and Open Access Textbooks",
@@ -492,7 +496,9 @@
             "Learn You A Haskell": {
                 "type": "Free and Open Access Textbooks",
                 "name": "Learn You A Haskell",
-                "link": "http://learnyouahaskell.com/"
+                "link": "http://learnyouahaskell.com/",
+                "pipe_separator": "",
+                "description": "A free web book that teaches you functional programming through [Haskell](https://www.haskell.org/)."
             },
             "Notes for Professionals": {
                 "type": "Free and Open Access Textbooks",
@@ -513,7 +519,9 @@
             "Scientific Programming and Computer Architecture": {
                 "type": "Free and Open Access Textbooks",
                 "name": "Scientific Programming and Computer Architecture",
-                "link": "https://divakarvi.github.io/bk-spca/spca.html"
+                "link": "https://divakarvi.github.io/bk-spca/spca.html",
+                "pipe_separator": "",
+                "description": "An open MIT Press web book that focuses on analyzing and discussing the performance of computer programs and the practices of writing fast programs."
             },
             "Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)": {
                 "type": "Free and Open Access Textbooks",
@@ -543,22 +551,6 @@
     "Massive Open Online Courses (MOOCS)": {
         "description": "Included here are the courses and platforms that offers courses that can be viewed by everyone.",
         "children": {
-            "edX": {
-                "type": "Massive Open Online Courses (MOOCS)",
-                "name": "edX",
-                "link": "https://edx.org",
-                "pipe_separator": "",
-                "personal_rating": "Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot.",
-                "description": "An online platform with most of its courses created by figurehead institutions and universities such as Microsoft, Harvard University, Standford University, Linux Foundation, and more."
-            },
-            "Coursera": {
-                "type": "Massive Open Online Courses (MOOCS)",
-                "name": "Coursera",
-                "link": "https://coursera.org/",
-                "pipe_separator": "",
-                "personal_rating": "Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).",
-                "description": "Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities."
-            },
             "Algorithms (Part 1) by Princeton University": {
                 "type": "Massive Open Online Courses (MOOCS)",
                 "name": "Algorithms (Part 1) by Princeton University",
@@ -576,7 +568,9 @@
             "Algorithms and Data Structures by The University of California, San Diego": {
                 "type": "Massive Open Online Courses (MOOCS)",
                 "name": "Algorithms and Data Structures by The University of California, San Diego",
-                "link": "https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures"
+                "link": "https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures",
+                "pipe_separator": "",
+                "description": "A edX algorithms course set offered by The University of California, San Diego. Composes of eight courses tackling on analysis, implementation, and deep discussion on creating data structures and algorithms. Since it's an [edX](https://www.edx.org/) course set, you can just go to the individual courses and audit the course to access its learning materials."
             },
             "Class Central": {
                 "type": "Massive Open Online Courses (MOOCS)",
@@ -593,10 +587,13 @@
                 "personal_rating": "I recommend this very much, personally.",
                 "description": "A course that focuses on how to create effective models and techniques to folster computational thinking."
             },
-            "Computer Science Essentials Software": {
+            "Coursera": {
                 "type": "Massive Open Online Courses (MOOCS)",
-                "name": "Computer Science Essentials Software",
-                "link": "https://www.edx.org/professional-certificate/computer-science-essentials-software"
+                "name": "Coursera",
+                "link": "https://coursera.org/",
+                "pipe_separator": "",
+                "personal_rating": "Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).",
+                "description": "Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities."
             },
             "CS50 Course by Harvard University": {
                 "type": "Massive Open Online Courses (MOOCS)",
@@ -611,7 +608,24 @@
                 "name": "Data Structures and Algorithms Specialization by the University of California, San Diego and National Research University Higher School of Economics",
                 "link": "https://www.coursera.org/specializations/data-structures-algorithms",
                 "pipe_separator": "",
-                "personal_rating": "This one's different from the UC, San Diego edX course, mind you."
+                "personal_rating": "This one's different from the UC, San Diego edX course, mind you.",
+                "description": "| A Coursera Specialization course that focuses on mastering algorithmic programs and techniques to create algorithms on generally complex data structures."
+            },
+            "edX": {
+                "type": "Massive Open Online Courses (MOOCS)",
+                "name": "edX",
+                "link": "https://edx.org",
+                "pipe_separator": "",
+                "personal_rating": "Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot.",
+                "description": "An online platform with most of its courses created by figurehead institutions and universities such as Microsoft, Harvard University, Standford University, Linux Foundation, and more."
+            },
+            "Fundamentals of Computers by the Rice University": {
+                "type": "Massive Open Online Courses (MOOCS)",
+                "name": "Fundamentals of Computers by the Rice University",
+                "link": "https://www.coursera.org/specializations/computer-fundamentals",
+                "pipe_separator": "",
+                "personal_rating": "Like the rest of Coursera's specialization course sets, you can just go and visit the individual course modules to get audit the course for free.",
+                "description": "A Coursera specialization course (that is, a set of courses) said to be equivalent to Rice University's first year computer science students' undertaking. Here you'll be creating up to 20 projects while tackling about the computer sciencey stuff like algorithms, dynamic programming, and recursions."
             },
             "Fundamentals of Music Theory": {
                 "type": "Massive Open Online Courses (MOOCS)",
@@ -628,12 +642,12 @@
                 "pipe_separator": "",
                 "description": "A MOOC search engine, similar to Class Central."
             },
-            "Fundamentals of Computers": {
+            "Software Engineering Micromasters course by The University of British Columbia": {
                 "type": "Massive Open Online Courses (MOOCS)",
-                "name": "Fundamentals of Computers",
-                "link": "https://www.coursera.org/specializations/computer-fundamentals",
+                "name": "Software Engineering Micromasters course by The University of British Columbia",
+                "link": "https://www.edx.org/micromasters/software-development",
                 "pipe_separator": "",
-                "personal_rating": "Like the rest of Coursera's specialization course sets, you can just go and visit the individual course modules to get audit the course for free."
+                "description": "An edX Micromasters course set that introduces you to software engineering and how to effectively plan, organize, and create programs that scale efficiently."
             }
         },
         "icon_name": "courses",
@@ -642,6 +656,20 @@
     "Music Resources": {
         "description": "Includes a bunch of resources that can aid you in studying music with free resources.",
         "children": {
+            "Awesome Music": {
+                "type": "Music Resources",
+                "name": "Awesome Music",
+                "link": "https://github.com/ciconia/awesome-music",
+                "pipe_separator": "",
+                "description": "An [awesome](https://github.com/sindresorhus/awesome) list that lists out free music libraries and tools."
+            },
+            "Fundamentals of Music Theory": {
+                "type": "Music Resources",
+                "name": "Fundamentals of Music Theory",
+                "link": "https://www.coursera.org/learn/edinburgh-music-theory",
+                "pipe_separator": "",
+                "description": "A Coursera course offered by Edinburgh University to get you started on learning the rudimentary information on music theory."
+            },
             "LMMS": {
                 "type": "Music Resources",
                 "name": "LMMS",
@@ -649,20 +677,6 @@
                 "pipe_separator": "",
                 "personal_rating": "Also comes with a community of musicians, too",
                 "description": "A digital audio workstation that lets you composes beats and music."
-            },
-            "teoria": {
-                "type": "Music Resources",
-                "name": "teoria",
-                "link": "https://www.teoria.com/",
-                "pipe_separator": "",
-                "description": "A website that dedicates to list music theory resources and tutorials."
-            },
-            "Open Music Theory": {
-                "type": "Music Resources",
-                "name": "Open Music Theory",
-                "link": "http://openmusictheory.com/",
-                "pipe_separator": "",
-                "description": "A open textbook on college-level music theories and lessons."
             },
             "MuseScore": {
                 "type": "Music Resources",
@@ -672,12 +686,27 @@
                 "personal_rating": "I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company",
                 "description": "A free and open source composition and notation software."
             },
-            "Fundamentals of Music Theory": {
+            "Open Music Theory": {
                 "type": "Music Resources",
-                "name": "Fundamentals of Music Theory",
-                "link": "https://www.coursera.org/learn/edinburgh-music-theory",
+                "name": "Open Music Theory",
+                "link": "http://openmusictheory.com/",
                 "pipe_separator": "",
-                "description": "A Coursera course offered by Edinburgh University to get you started on learning the rudimentary information on music theory."
+                "description": "A open textbook on college-level music theories and lessons."
+            },
+            "Sonic Pi": {
+                "type": "Music Resources",
+                "name": "Sonic Pi",
+                "link": "https://github.com/samaaron/sonic-pi",
+                "pipe_separator": "",
+                "personal_rating": "This is why programming is fantastic.",
+                "description": "A programming language that lets you create music."
+            },
+            "teoria": {
+                "type": "Music Resources",
+                "name": "teoria",
+                "link": "https://www.teoria.com/",
+                "pipe_separator": "",
+                "description": "A website that dedicates to list music theory resources and tutorials."
             }
         },
         "icon_name": "music-note",
@@ -686,12 +715,34 @@
     "Game Development": {
         "description": "Included are some resources for you to aid (or get started) on your game development process.",
         "children": {
+            "Awesome Gamedev (by *Calinou*)": {
+                "type": "Game Development",
+                "name": "Awesome Gamedev (by *Calinou*)",
+                "link": "https://github.com/Calinou/awesome-gamedev",
+                "pipe_separator": "",
+                "personal_rating": "I could've chose [this featured list on awesome](https://github.com/ellisonleao/magictools) but for the spirit of free culture, I decided this pick the list by Calinou, instead.",
+                "description": "An [awesome](https://github.com/sindresorhus/awesome) list on free and open source software and free cultures to aid you in your game developing process."
+            },
+            "Bandlab": {
+                "type": "Game Development",
+                "name": "Bandlab",
+                "link": "https://www.bandlab.com/",
+                "pipe_separator": "",
+                "description": "A free digital audio workstation (DAW) by Cakewalk, known for their premium DAW by the same name."
+            },
+            "Blender": {
+                "type": "Game Development",
+                "name": "Blender",
+                "link": "https://www.blender.org/",
+                "pipe_separator": "",
+                "description": "A free and open source 3D modelling software. Despite being in the game dev't section, it could be used for things outside of game development such as 3D animations and illustrations."
+            },
             "CS50's Introduction to Game Development": {
                 "type": "Game Development",
                 "name": "CS50's Introduction to Game Development",
                 "link": "https://www.edx.org/course/cs50s-introduction-to-game-development",
                 "pipe_separator": "",
-                "personal_rating": "I mean it's CS50, I totally recommend this one",
+                "personal_rating": "I mean it's CS50, I totally recommend this one.",
                 "description": "One of CS50x's branching course. This time they introduce you to the game development process. Just like CS50, it offers you challenging problem sets to be able to get a solid grasp after lectures."
             },
             "Game Programming Patterns": {
@@ -699,15 +750,23 @@
                 "name": "Game Programming Patterns",
                 "link": "http://gameprogrammingpatterns.com/",
                 "pipe_separator": "",
-                "personal_rating": "recommending this so much when starting out with game development"
+                "personal_rating": "Recommending this so much when starting out with game development.",
+                "description": "A free web-based book that discusses about different coding patterns that is usually found on game development."
             },
             "Godot Engine": {
                 "type": "Game Development",
                 "name": "Godot Engine",
                 "link": "https://godotengine.org/",
                 "pipe_separator": "",
-                "personal_rating": "I recommend this very much especially with their free asset store",
+                "personal_rating": "I recommend this very much especially with their free asset store.",
                 "description": "A free and open source cross-platform 2D and 3D game engine. You can visit the source code repo [right here](https://github.com/godotengine/godot)."
+            },
+            "Native Instruments Komplete Start Production Suite": {
+                "type": "Game Development",
+                "name": "Native Instruments Komplete Start Production Suite",
+                "link": "https://www.native-instruments.com/en/products/free/",
+                "pipe_separator": "",
+                "description": "A free music production suite provided by Native Instruments, famous for their sampler program, Kontakt."
             },
             "Open Game Art": {
                 "type": "Game Development",
@@ -720,16 +779,18 @@
         "icon_name": "games",
         "main_color": "#ffe74c"
     },
-    "Academics-focused Sites": {
+    "Research": {
         "description": "Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study.",
         "children": {
             "Academia.edu": {
-                "type": "Academics-focused Sites",
+                "type": "Research",
                 "name": "Academia.edu",
-                "link": "https://www.academia.edu/"
+                "link": "https://www.academia.edu/",
+                "pipe_separator": "",
+                "description": "A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research."
             },
             "Brainly": {
-                "type": "Academics-focused Sites",
+                "type": "Research",
                 "name": "Brainly",
                 "link": "https://brainly.com/",
                 "pipe_separator": "",
@@ -737,19 +798,21 @@
                 "description": "A study group for students and peer-to-peer engagement. Formerly known as *OpenStudy*."
             },
             "Mendeley": {
-                "type": "Academics-focused Sites",
+                "type": "Research",
                 "name": "Mendeley",
-                "link": "https://mendeley.com/"
+                "link": "https://mendeley.com/",
+                "pipe_separator": "",
+                "description": "A research organization tool. Also comes with a research network."
             },
             "Google Scholar": {
-                "type": "Academics-focused Sites",
+                "type": "Research",
                 "name": "Google Scholar",
                 "link": "https://scholar.google.com/",
                 "pipe_separator": "",
                 "description": "An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis."
             },
             "Researchgate": {
-                "type": "Academics-focused Sites",
+                "type": "Research",
                 "name": "Researchgate",
                 "link": "https://www.researchgate.net/",
                 "pipe_separator": "",
@@ -775,14 +838,15 @@
                 "name": "GitBook",
                 "link": "https://www.gitbook.com/",
                 "pipe_separator": "",
-                "description": "GitHub except for documentations."
+                "description": "A GitHub for documentations."
             },
             "Learn X in Y Minutes": {
                 "type": "Documentations",
                 "name": "Learn X in Y Minutes",
                 "link": "https://learnxinyminutes.com",
                 "pipe_separator": "",
-                "description": "A community-created repository of summaries for you to learn the X programming languages."
+                "personal_rating": "What's `Y` minutes, you ask? The world may never know.",
+                "description": "A community-created repository of summaries for you to learn the X programming languages and tools in just Y minutes."
             },
             "MDN Web Docs": {
                 "type": "Documentations",
@@ -839,7 +903,7 @@
                 "name": "Daily Coding Problem",
                 "link": "https://www.dailycodingproblem.com/",
                 "pipe_separator": "",
-                "personal_rating": "They also have a [relatively recent book on it](), as well."
+                "personal_rating": "They also have a [relatively recent book on it](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634), as well."
             },
             "Euler Project": {
                 "type": "Katas (Practice Sites)",
@@ -884,6 +948,14 @@
     "Articles": {
         "description": "Includes various writings and resources.",
         "children": {
+            "Better Explained": {
+                "type": "Articles",
+                "name": "Better Explained",
+                "link": "https://betterexplained.com/",
+                "pipe_separator": "",
+                "personal_rating": "My personal recommendation for mathematical resources. It's seriously one of the best math explainer sites that I've ever seen. To top it all, he also offers a book on [calculus](https://betterexplained.com/calculus/) that you can read for free in the web.",
+                "description": "A site maintained by Kalid Azad that focuses on explaining mathematical concepts as **humanly** as possible. You could visit the [YouTube channel](https://www.youtube.com/user/betterexplained) but it's kinda empty of content at this point."
+            },
             "Brain Pickings": {
                 "type": "Articles",
                 "name": "Brain Pickings",
@@ -980,7 +1052,9 @@
             "freeCodeCamp Community": {
                 "type": "Communities",
                 "name": "freeCodeCamp Community",
-                "link": "https://forum.freecodecamp.org"
+                "link": "https://forum.freecodecamp.org",
+                "pipe_separator": "",
+                "description": "A global community spanning the members who took interest into [freeCodeCamp](http://freecodecamp.org/)."
             },
             "Instructables": {
                 "type": "Communities",
@@ -998,7 +1072,9 @@
             "Reddit /r/coding": {
                 "type": "Communities",
                 "name": "Reddit /r/coding",
-                "link": "https://www.reddit.com/r/coding/"
+                "link": "https://www.reddit.com/r/coding/",
+                "pipe_separator": "",
+                "description": "A subreddit that discusses programming without the constant barrage of HackerNews-esque type of tech and startup news."
             },
             "Reddit /r/learnprogramming": {
                 "type": "Communities",
@@ -1012,7 +1088,8 @@
                 "name": "Stack Overflow",
                 "link": "https://stackoverflow.com",
                 "pipe_separator": "",
-                "personal_rating": "Also look for the whole Meta Exchange network if you want to visit more communities other than Stack Overflow."
+                "personal_rating": "Also look for the whole Meta Exchange network if you want to visit more communities other than Stack Overflow.",
+                "description": "A community for professional developers and those who are aspiring to be one. It revolves around helping each other through code reviews."
             }
         },
         "icon_name": "community",
@@ -1068,7 +1145,8 @@
                 "name": "Syntax",
                 "link": "https://syntax.fm/",
                 "pipe_separator": "",
-                "personal_rating": "Recommended if you're into web dev't."
+                "personal_rating": "Recommended if you're into web dev't.",
+                "description": "A podcast series hosted by Wes Bos and Scott Tolinski discussing about web development and programming."
             },
             "Programming Throwdown": {
                 "type": "Podcasts",
@@ -1388,7 +1466,7 @@
                 "name": "Wes Bos YouTube Channel",
                 "link": "https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA",
                 "pipe_separator": "",
-                "description": "The YouTube channel of [Wes Bos](), a web developer well known for his free courses such as [JavaScript30](https://javascript30.com/), [CSS Grid](https://cssgrid.io/), and [What The Flexbox?!](http://flexbox.io/)."
+                "description": "The YouTube channel of [Wes Bos](https://wesbos.com/), a web developer well known for his free courses such as [JavaScript30](https://javascript30.com/), [CSS Grid](https://cssgrid.io/), and [What The Flexbox?!](http://flexbox.io/)."
             }
         },
         "icon_name": "youtube",
@@ -1411,7 +1489,7 @@
                 "link": "http://archlinux.org/",
                 "pipe_separator": "",
                 "personal_rating": "Not recommended for beginners.",
-                "description": "| A simple and elegant rolling release Linux distro for giving you the only components to make it work and letting you in full control of the customization. If you to know the nuts and bolts of the Linux kernel, then go ahead and try this (hopefully you have all of the needed hardware compatible and has a fast enough internet connection)."
+                "description": "A simple and elegant rolling release Linux distro for giving you the only components to make it work and letting you in full control of the customization. If you to know the nuts and bolts of the Linux kernel, then go ahead and try this (hopefully you have all of the needed hardware compatible and has a fast enough internet connection)."
             },
             "Fedora": {
                 "type": "Operating Systems",
@@ -1419,7 +1497,7 @@
                 "link": "https://fedoraproject.org/",
                 "pipe_separator": "",
                 "personal_rating": "This is the Linux distro that I'm using right now.",
-                "description": "Kind of similar to Ubuntu but it is backed by [Red Hat](https://www.redhat.com/en) and it is used as a testbed for the latest features."
+                "description": "Kind of similar to Ubuntu but it is backed by [Red Hat](https://www.redhat.com/en) and it is used as a testbed for the latest features. Usually updates every 6 months."
             },
             "Linux Mint": {
                 "type": "Operating Systems",
@@ -1466,18 +1544,18 @@
         "icon_name": "operating-system",
         "main_color": "#91c5c1"
     },
-    "IDE": {
+    "IDE and Text Editors": {
         "description": "Includes text editors and IDE that facilities putting shorter time into programming your project.",
         "children": {
             "Eclipse": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Eclipse",
                 "link": "https://www.eclipse.org/",
                 "pipe_separator": "",
                 "description": "Offers a wide variety of programming tools and IDEs for different programming languages and development processes."
             },
             "Jetbrains": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Jetbrains",
                 "link": "https://www.jetbrains.com/",
                 "pipe_separator": "",
@@ -1485,7 +1563,7 @@
                 "description": "Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible."
             },
             "Visual Studio (IDE)": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Visual Studio (IDE)",
                 "link": "https://www.visualstudio.com/",
                 "pipe_separator": "",
@@ -1493,7 +1571,7 @@
                 "description": "A Windows-only IDE that offers wide support for different programming languages and tech stacks from mobile apps, games, desktop apps, and web apps."
             },
             "Codeanywhere": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Codeanywhere",
                 "link": "https://www.codeanywhere.com/",
                 "pipe_separator": "",
@@ -1501,7 +1579,7 @@
                 "description": "An IDE that supports mostly coding anywhere from the web browser to the mobile phone. It has a built-in terminal console, integration support with remote file services such as Dropbox and Google Drive, connection with remote Git repositories, and even build containers with it (like how Docker works)."
             },
             "CodeSandbox": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "CodeSandbox",
                 "link": "https://codesandbox.io/",
                 "pipe_separator": "",
@@ -1509,14 +1587,14 @@
                 "description": "Really acts as a solid online alternative in case you want to work on the go (mostly, for JavaScript-oriented web development). Has strong support for front-end libraries and frameworks such as React, Vue, and Angular."
             },
             "Codepen": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Codepen",
                 "link": "https://codepen.io",
                 "pipe_separator": "",
                 "description": "A playground IDE for front-end development."
             },
             "Repl.it": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Repl.it",
                 "link": "https://repl.it/",
                 "pipe_separator": "",
@@ -1524,14 +1602,14 @@
                 "description": "An IDE for different programming languages. Also supports back-end development to be able to quickly share and test it with other people."
             },
             "Atom": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Atom",
                 "link": "https://atom.io/",
                 "pipe_separator": "",
                 "description": "A text editor made by the team at [GitHub](https://github.com/)."
             },
             "Vim": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Vim",
                 "link": "https://www.vim.org/",
                 "pipe_separator": "",
@@ -1539,7 +1617,7 @@
                 "description": "A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds)."
             },
             "Visual Studio Code": {
-                "type": "IDE",
+                "type": "IDE and Text Editors",
                 "name": "Visual Studio Code",
                 "link": "https://code.visualstudio.com/",
                 "pipe_separator": "",
@@ -1641,6 +1719,13 @@
                 "pipe_separator": "",
                 "description": "An e-book library management tool."
             },
+            "Habitica": {
+                "type": "Productivity Tools",
+                "name": "Habitica",
+                "link": "https://habitica.com/",
+                "pipe_separator": "",
+                "description": "A very cool app that gamifies your life. Turn your life around into an RPG, literally! (READ: not *that* RPG)"
+            },
             "LastPass": {
                 "type": "Productivity Tools",
                 "name": "LastPass",
@@ -1661,6 +1746,13 @@
                 "link": "http://www.rainymood.com/",
                 "pipe_separator": "",
                 "description": "Lets you focus through the ambience (if you're the type who find rain to be relaxing)."
+            },
+            "RescueTime": {
+                "type": "Productivity Tools",
+                "name": "RescueTime",
+                "link": "https://www.rescuetime.com/",
+                "pipe_separator": "",
+                "description": "A time management software that tracks your activities and rating them whether you've been productive or not."
             },
             "StackEdit": {
                 "type": "Productivity Tools",
@@ -2119,12 +2211,12 @@
                 "pipe_separator": "",
                 "description": "An [awesome](https://github.com/sindresorhus/awesome) list of style guides of different programming languages and tools."
             },
-            "Keep A Changelog": {
+            "Choose A License": {
                 "type": "Programming Style Guides and Standards",
-                "name": "Keep A Changelog",
-                "link": "https://keepachangelog.com/en/1.0.0/",
+                "name": "Choose A License",
+                "link": "https://choosealicense.com/",
                 "pipe_separator": "",
-                "description": "Contains specification notes for keeping a changelog file and its conventions of writing one."
+                "description": "A site created by the team behind [GitHub](https://github.com/) that tackles about the topic of choosing licenses for your open source projects."
             },
             "Code of Covenant": {
                 "type": "Programming Style Guides and Standards",
@@ -2132,6 +2224,13 @@
                 "link": "https://www.contributor-covenant.org/",
                 "pipe_separator": "",
                 "description": "This is where the code of conduct often based from."
+            },
+            "Keep A Changelog": {
+                "type": "Programming Style Guides and Standards",
+                "name": "Keep A Changelog",
+                "link": "https://keepachangelog.com/en/1.0.0/",
+                "pipe_separator": "",
+                "description": "Contains specification notes for keeping a changelog file and its conventions of writing one."
             },
             "Semantic Versioning": {
                 "type": "Programming Style Guides and Standards",

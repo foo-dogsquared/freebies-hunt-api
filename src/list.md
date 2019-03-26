@@ -12,7 +12,6 @@
 - [Lospec](https://lospec.com/) | **(If you want to get started on digital art, I recommend you to take a quick gander here.)** A website that curates digital art-related resources and articles for everyone interested on the field.
 - [No Excuse List](http://www.noexcuselist.com/) | A meta-list of resource list that points out to different resources for taking a particular field whether it is cooking, music, or programming.
 - [Tech Dev Guide with Google](https://techdevguide.withgoogle.com/resources/) | Another curated collection by Google.
-- [This list on Medium](https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66)
 - [Useful websites for programmers (by *sdmg15* on GitHub)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/) | Also here's [an mirror article by *Sahil Rajput* on dev.to](https://dev.to/sahilrajput/useful-websites-for-programmers-36k#coding-practice-for-beginners).
 - [Web Dev't Study Resources (by *dargaCode* on GitHub)](https://github.com/dargaCode/WebDevStudyResources) | A list of helpful resources both paid and free pointed out by the author of the repo. This can be a good starter point for those who are looking into web development.
 
@@ -39,96 +38,101 @@
 ### Includes resources that are openly licensed and can be reused and redistributed by anyone. | oer | #c1ff9b
 - [BC Campus Open Ed Open Textbook Database](https://open.bccampus.ca/)
 - [Bookboon](https://bookboon.com/) | A site that offers open textbooks. It also offers premium books as well.
-- [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/) | **(Self-explanatory title is self-explanatory, I think.)**
-- [Community College Consortium for Open Educational Resources](https://www.cccoer.org/) | You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER).
 - [CK12](https://www.ck12.org/student/) | **(Recommended for looking/reviewing into high school sciences curriculum.)** A community group that offers variety of open educational resources from Flexbooks open textbooks, activities, and simulations.
+- [Community College Consortium for Open Educational Resources](https://www.cccoer.org/) | You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER).
 - [freeCodeCamp](https://freecodecamp.org) | **(It has a [forum](https://forum.freecodecamp.org/) to interact and has its curriculum open sourced.)** Project-based curriculum for web development.
-- [Khan Academy](https://khanacademy.org) | **(It's well known and has I think one of the biggest learners' community.)** There are also other topics outside of programming (i.e. mathematics, physics).
 - [IXL](https://www.ixl.com/) | An educational resource and learning site on K-12 curriculum.
+- [Khan Academy](https://khanacademy.org) | **(It's well known and has I think one of the biggest learners' community.)** There are also other topics outside of programming (i.e. mathematics, physics).
 - [Math Wiki](https://math.wikia.com/wiki/Math_Wiki) | **(Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that.)** | A community-made and continuously updated textbook on mathematics.
+- [Merlot](https://www.merlot.org/merlot/index.htm) | An archive site of open educational resources viewable to everyone.
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) | **(Mah boi, I recommend this by a *loooooong* shot.)** Contains courses from a lot of subjects; you also might want to check out their [OCW Scholar Courses](https://ocw.mit.edu/courses/ocw-scholar/) wherein they are essentially more in-depth versions of the usual courses.
 - [MIT Press Open](https://mitpress.mit.edu/mit-press-open) | Yes, free and open access books from MIT Press.
 - [Open Educational Resources](https://www.oercommons.org/) | Self-explanatory as to what their content is about.
 - [Open Library](https://openlibrary.org/) | A web library backed by Internet Archive that contains books that has opened for public domain. Include books for science, literature, novels, and even recipes.
 - [Open SUNY Textbooks](https://textbooks.opensuny.org/) | An open textbook publication platform established by State University of New York libraries and supported by SUNY Innovative Instruction Technology Grants in which they offer their own set of textbooks.
-- [Open Textbook Library](https://open.umn.edu/opentextbooks) | **(recommended)** A library of published open textbooks by different professionals and experts from different institutions.
+- [Open Textbook Library](https://open.umn.edu/opentextbooks) | **(If you want to look for a wide database of open textbooks, here's one of them that I personally use.)** A library of published open textbooks by different professionals and experts from different institutions.
 - [Open University](https://www.open.edu/openlearn/)
 - [Open Yale Courses](https://oyc.yale.edu/courses) | A short list of open courses provided by Yale University.
 - [OpenStax CNX](https://cnx.org/) | A database of open educational resources backed up [OpenStax](https://openstax.org/). Also offers some community-made books.
-- [OpenStax](https://openstax.org/) | **(I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation]())** A library of open-licensed expert-curated high school- and college-level textbook and resources.
+- [OpenStax](https://openstax.org/) | **(I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/))** A library of open-licensed expert-curated high school- and college-level textbook and resources.
 - [ossu](https://github.com/ossu/computer-science) | A community-built and approved curriculum for self-taught students to follow.
-- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) | Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton.
 - [Siyavula](https://everythingmaths.co.za/) | Mathematics- and science-focused open educational resources.
 - [Teach Yourself CS](https://teachyourselfcs.com/) | A site that recommends resources on the topic of learning computer science. Kinda similar to ossu's curriculum.
 - [The Feynman's Lectures on Physics](http://www.feynmanlectures.caltech.edu/) | Well,self-explanatory title is self-explanatory. It's the website that lets you view [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)'s legendary notes on physics.
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) | Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton.
 - [WikiToLearn](https://www.wikitolearn.org/) | **(One of my personal recommendations right here)** A collaborative effort made into an introductory wiki for different subjects such as computer science, mathematics, engineering, business, and more.
 
 ## Free and Open Access Textbooks
 ### This section offers a collection of free (if not, open which is even better) textbooks for everyone. Most of them are something programming-related but you can see more of them at the "Open Educational Resources" section. | textbook | #f28123
 - [Algorithms (by *Jeff Erickson*)](https://algorithms.wtf/) | It's a good book on algorithms (though not recommended as a first book on data structures and algorithms).
-- [Calculus (by *Kalid Azad* from *Better Explained*)](https://betterexplained.com/calculus/)
-- [Free Computer Books](http://freecomputerbooks.com)
+- [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/) | **(Self-explanatory title is self-explanatory, I think.)** A book that gives you a rudimentary class on theoretical side of computer science. Most of the focus are directed on the formal mathematical side of things with the lessons being set theory, logic, proofs, graphs, and calculus.
+- [Calculus (by *Kalid Azad* from *Better Explained*)](https://betterexplained.com/calculus/) | **(One of the more beginner-friendly books on learning calculus. I recommend it to give it a chance.)** A free online primer that tackles on learning calculus with intuition.
 - [Free Math Textbooks](http://www.openculture.com/free-math-textbooks) | A list of free math textbooks from [Open Culture](http://www.openculture.com/).
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | **(One of my top starred recommendations.)** A GitHub repo by the E-Book Foundation that lists out free programming books.
 - [Free Science Books](https://github.com/EbookFoundation/free-science-books) | Another GitHub repo by the E-Book Foundation.
-- [Game Programming Patterns](http://gameprogrammingpatterns.com/) | **(Recommending this so much when starting out with game development.)**
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/) | **(Recommending this so much when starting out with game development.)** A book of patterns that are commonly found in game development. It's also free to read it online (obviously it is why it's in this list).
 - [Hack Book of Hoa/Compiler](https://hoa-project.net/En/)
-- [How to Design Programs, 2nd Edition (HTML version)](https://htdp.org/)
+- [How to Design Programs, 2nd Edition](https://htdp.org/) | A computer science book published by the MIT Press that focuses on designing programs and in hindsight, how to efficiently formulate plans and stick with it until the very completion of your program.
 - [Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)](https://ptolemy.berkeley.edu/books/leeseshia/download.html)
 - [Invent with Python](https://inventwithpython.com/) | A collection of free Python online books authored by Al Sweigart.
-- [Learn You A Haskell](http://learnyouahaskell.com/) 
+- [Learn You A Haskell](http://learnyouahaskell.com/) | A free web book that teaches you functional programming through [Haskell](https://www.haskell.org/).
 - [Notes for Professionals](http://book.goalkicker.com/) | **(Very much recommended, a LOT.)** Made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well; also, it is frequently updated like once per week.
 - [Open Data Structures](http://opendatastructures.org/) | **(I really like the different programming languages approach with this book.)** An open content textbook that tackles the implementation and analysis of data structures such as queues, dictionaries, and graphs. Offers versions for different programming languages as well for you to take the book with ease in your favorite programming language. 
-- [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html)
+- [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) | An open MIT Press web book that focuses on analyzing and discussing the performance of computer programs and the practices of writing fast programs.
 - [Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)](https://sarabander.github.io/sicp/) | Unofficial (and prettier) version of [one of MIT's famous programming book (that can also be found online)](https://mitpress.mit.edu/sites/default/files/sicp/index.html).
 - [The Architecture on Open Source Applications](http://aosabook.org/en/index.html) | A bundle of books that are free to read online.
 - [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
 
 ## Massive Open Online Courses (MOOCS)
 ### Included here are the courses and platforms that offers courses that can be viewed by everyone. | courses | #8cd867
-- [edX](https://edx.org) | **(Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot.)** An online platform with most of its courses created by figurehead institutions and universities such as Microsoft, Harvard University, Standford University, Linux Foundation, and more.
-- [Coursera](https://coursera.org/) | **(Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).)** Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities.
 - [Algorithms (Part 1) by Princeton University](https://www.coursera.org/learn/algorithms-part1) | An online course offered by Princeton University that tackles the essential concepts and information on algorithms. This is a fit for programmers who seriously need to know about algorithms and data structure. As you can tell, it's a two-parter and in this part, it mainly tackles sorting algorithms and some data structures.
 - [Algorithms (Part 2) by Princeton University](https://www.coursera.org/learn/algorithms-part2) | The second part of the Algorithms course from Princeton University. In this part, it mainly tackles about recursive data structures such as tries, trees, and graphs.
-- [Algorithms and Data Structures by The University of California, San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
+- [Algorithms and Data Structures by The University of California, San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) | A edX algorithms course set offered by The University of California, San Diego. Composes of eight courses tackling on analysis, implementation, and deep discussion on creating data structures and algorithms. Since it's an [edX](https://www.edx.org/) course set, you can just go to the individual courses and audit the course to access its learning materials.
 - [Class Central](https://www.class-central.com/) | A search engine for courses at different MOOC sites.
 - [Computational Thinking for Modeling and Simulation](https://courses.edx.org/courses/course-v1:MITx+2.086x+3T2018/course/) | **(I recommend this very much, personally.)** A course that focuses on how to create effective models and techniques to folster computational thinking.
-- [Computer Science Essentials Software](https://www.edx.org/professional-certificate/computer-science-essentials-software)
+- [Coursera](https://coursera.org/) | **(Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).)** Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities.
 - [CS50 Course by Harvard University](http://cs50.harvard.edu/) | **(Very very recommend. Much cool and intuitive.)** A very good introductory course on computer science in general, just take it easy and follow the schedule then you'll be fine; I also recommend to take it with friends or a study group too, much easier unlike the way I took 😥, but still doable with solo. Also, [CS50 has branched out some courses](https://www.edx.org/cs50) for you to take specific development skills.
-- [Data Structures and Algorithms Specialization by the University of California, San Diego and National Research University Higher School of Economics](https://www.coursera.org/specializations/data-structures-algorithms) | **(This one's different from the UC, San Diego edX course, mind you.)**
+- [Data Structures and Algorithms Specialization by the University of California, San Diego and National Research University Higher School of Economics](https://www.coursera.org/specializations/data-structures-algorithms) | **(This one's different from the UC, San Diego edX course, mind you.)** | A Coursera Specialization course that focuses on mastering algorithmic programs and techniques to create algorithms on generally complex data structures.
+- [edX](https://edx.org) | **(Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot.)** An online platform with most of its courses created by figurehead institutions and universities such as Microsoft, Harvard University, Standford University, Linux Foundation, and more.
+- [Fundamentals of Computers by the Rice University](https://www.coursera.org/specializations/computer-fundamentals) | **(Like the rest of Coursera's specialization course sets, you can just go and visit the individual course modules to get audit the course for free.)** A Coursera specialization course (that is, a set of courses) said to be equivalent to Rice University's first year computer science students' undertaking. Here you'll be creating up to 20 projects while tackling about the computer sciencey stuff like algorithms, dynamic programming, and recursions.
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | **(Also, it could use some textbooks to supplement some learnings, I recommend checking to the music resources for that.)** It's a Coursera course offered by Edinburgh University on fundamentals of music theory.
 - [MOOC List](https://www.mooc-list.com/) | A MOOC search engine, similar to Class Central.
-- [Fundamentals of Computers](https://www.coursera.org/specializations/computer-fundamentals) | **(Like the rest of Coursera's specialization course sets, you can just go and visit the individual course modules to get audit the course for free.)**
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96iurJDhAhXSUd4KHQoLCZsQFjAAegQIAhAB&url=http%3A%2F%2Fcs166.stanford.edu%2F&usg=AOvVaw1vgw8PSknY14EqPnlbgezL
+- [Software Engineering Micromasters course by The University of British Columbia](https://www.edx.org/micromasters/software-development) | An edX Micromasters course set that introduces you to software engineering and how to effectively plan, organize, and create programs that scale efficiently.
 
 ## Music Resources
 ### Includes a bunch of resources that can aid you in studying music with free resources. | music-note | #13293d
-- [LMMS](https://lmms.io/) | **(Also comes with a community of musicians, too)** A digital audio workstation that lets you composes beats and music.
-- [teoria](https://www.teoria.com/) | A website that dedicates to list music theory resources and tutorials.
-- [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
-- [MuseScore](https://musescore.org/) | **(I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company)** A free and open source composition and notation software.
+- [Awesome Music](https://github.com/ciconia/awesome-music) | An [awesome](https://github.com/sindresorhus/awesome) list that lists out free music libraries and tools.
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | A Coursera course offered by Edinburgh University to get you started on learning the rudimentary information on music theory.
+- [LMMS](https://lmms.io/) | **(Also comes with a community of musicians, too)** A digital audio workstation that lets you composes beats and music.
+- [MuseScore](https://musescore.org/) | **(I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company)** A free and open source composition and notation software.
+- [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
+- [Sonic Pi](https://github.com/samaaron/sonic-pi) | **(This is why programming is fantastic.)** A programming language that lets you create music.
+- [teoria](https://www.teoria.com/) | A website that dedicates to list music theory resources and tutorials.
 
 ## Game Development
 ### Included are some resources for you to aid (or get started) on your game development process. | games | #ffe74c
-- [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) | **(I mean it's CS50, I totally recommend this one)** One of CS50x's branching course. This time they introduce you to the game development process. Just like CS50, it offers you challenging problem sets to be able to get a solid grasp after lectures.
-- [Game Programming Patterns](http://gameprogrammingpatterns.com/) | **(recommending this so much when starting out with game development)**
-- [Godot Engine](https://godotengine.org/) | **(I recommend this very much especially with their free asset store)** A free and open source cross-platform 2D and 3D game engine. You can visit the source code repo [right here](https://github.com/godotengine/godot).
+- [Awesome Gamedev (by *Calinou*)](https://github.com/Calinou/awesome-gamedev) | **(I could've chose [this featured list on awesome](https://github.com/ellisonleao/magictools) but for the spirit of free culture, I decided this pick the list by Calinou, instead.)** An [awesome](https://github.com/sindresorhus/awesome) list on free and open source software and free cultures to aid you in your game developing process.
+- [Bandlab](https://www.bandlab.com/) | A free digital audio workstation (DAW) by Cakewalk, known for their premium DAW by the same name.
+- [Blender](https://www.blender.org/) | A free and open source 3D modelling software. Despite being in the game dev't section, it could be used for things outside of game development such as 3D animations and illustrations.
+- [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) | **(I mean it's CS50, I totally recommend this one.)** One of CS50x's branching course. This time they introduce you to the game development process. Just like CS50, it offers you challenging problem sets to be able to get a solid grasp after lectures.
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/) | **(Recommending this so much when starting out with game development.)** A free web-based book that discusses about different coding patterns that is usually found on game development.
+- [Godot Engine](https://godotengine.org/) | **(I recommend this very much especially with their free asset store.)** A free and open source cross-platform 2D and 3D game engine. You can visit the source code repo [right here](https://github.com/godotengine/godot).
+- [Native Instruments Komplete Start Production Suite](https://www.native-instruments.com/en/products/free/) | A free music production suite provided by Native Instruments, famous for their sampler program, Kontakt.
 - [Open Game Art](https://opengameart.org/) | A website that offers free stock resources/assets for your game development process.
 
-## Academics-focused Sites
+## Research
 ### Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study. | study | #8fb8de
-- [Academia.edu](https://www.academia.edu/)
+- [Academia.edu](https://www.academia.edu/) | A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research.
 - [Brainly](https://brainly.com/) | **(Recommended if you're looking for a academics study group.)** A study group for students and peer-to-peer engagement. Formerly known as *OpenStudy*.
-- [Mendeley](https://mendeley.com/)
+- [Mendeley](https://mendeley.com/) | A research organization tool. Also comes with a research network.
 - [Google Scholar](https://scholar.google.com/) | An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis.
 - [Researchgate](https://www.researchgate.net/) | Most published studies under their platform are free to view.
 
 ## Documentations
 ### Includes resources and facilities for documentation of different tools and various concepts. | documentation | #d1ffc6
 - [DevDocs](https://devdocs.io/) | **(Offline, easy to use, and usable on mobile devices. I dig it.)** A site wherein official documentation of different languages can be found; there's also an offline version of it if you are lacking of internet speed (like me).
-- [GitBook](https://www.gitbook.com/) | GitHub except for documentations.
-- [Learn X in Y Minutes](https://learnxinyminutes.com) | A community-created repository of summaries for you to learn the X programming languages.
+- [GitBook](https://www.gitbook.com/) | A GitHub for documentations.
+- [Learn X in Y Minutes](https://learnxinyminutes.com) | **(What's `Y` minutes, you ask? The world may never know.)** A community-created repository of summaries for you to learn the X programming languages and tools in just Y minutes.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) | **(I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site.)** If you're trying to learn web development and programming in general, this can be a hub for it.
 
 ## Katas (Practice Sites)
@@ -138,7 +142,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96i
 - [Coderbyte](http://coderbyte.com)
 - [Codewars](http://codewars.com/) | **(It's probably one of the most popular kata site out there.)** A community-focused programming kata site where users can create their own katas to let other people solve it.
 - [Codingame](https://www.codingame.com/) | A coding practice site where you get to train with visual feedbacks (in other words, playing video games). They also have an active community behind it, too.
-- [Daily Coding Problem](https://www.dailycodingproblem.com/) | **(They also have a [relatively recent book on it](), as well.)**
+- [Daily Coding Problem](https://www.dailycodingproblem.com/) | **(They also have a [relatively recent book on it](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634), as well.)**
 - [Euler Project](https://projecteuler.net/) | **(Recommend it a lot, especially if you want to be more challenged.)** Has more focus on applying mathematical concepts than programming.
 - [Exercism](https://exercism.io) | A site that focuses improving you through the mentor-mentee model.
 - [Google Coding Competitions](https://codingcompetitions.withgoogle.com/) | A site where Google coding competitions take place. Also hosts a variety of competitions and you even have access when a certain coding competition is done so you can take at your own pace.
@@ -147,6 +151,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96i
 
 ## Articles
 ### Includes various writings and resources. | articles | #ff9f1c
+- [Better Explained](https://betterexplained.com/) | **(My personal recommendation for mathematical resources. It's seriously one of the best math explainer sites that I've ever seen. To top it all, he also offers a book on [calculus](https://betterexplained.com/calculus/) that you can read for free in the web.)** A site maintained by Kalid Azad that focuses on explaining mathematical concepts as **humanly** as possible. You could visit the [YouTube channel](https://www.youtube.com/user/betterexplained) but it's kinda empty of content at this point.
 - [Brain Pickings](https://www.brainpickings.org) | It's about whatever your brain might be piqued to.
 - [Explain That Stuff](https://www.explainthatstuff.com/) | A series of explainer article of science and technology topics.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) | **(Recommend as a referential material.)** A computer science portal (for geeks).
@@ -162,12 +167,12 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96i
 - [Coding Blocks](https://www.codingblocks.net/) | They also have a podcast.
 - [Dev.to](https://dev.to/) | **(Recommend it a lot, also be sure to give me a [visit](http://dev.to/foodogsquared) as well.)** A beginner-friendly dev community.
 - [GitHub](https://github.com/) | Well, any tool has a community around it but this is where one of the biggest (if not, *the* biggest) open source community can be found so there's that.
-- [freeCodeCamp Community](https://forum.freecodecamp.org)
+- [freeCodeCamp Community](https://forum.freecodecamp.org) | A global community spanning the members who took interest into [freeCodeCamp](http://freecodecamp.org/).
 - [Instructables](https://www.instructables.com) | **(One of the best DIY community out there. Easy to navigate and explore, too.)** A community of DIY and hardware hackers that shares and explore for your DIY journey. They also offer [an array of courses regarding DIY](https://www.instructables.com/classes/) within the website, as well. We have electronics, 3D printing, cooking, and so much more.
 - [HackerNews](https://news.ycombinator.com/)
-- [Reddit /r/coding](https://www.reddit.com/r/coding/)
+- [Reddit /r/coding](https://www.reddit.com/r/coding/) | A subreddit that discusses programming without the constant barrage of HackerNews-esque type of tech and startup news.
 - [Reddit /r/learnprogramming](https://www.reddit.com/r/learnprogramming/) | A beginner-friendly dev subreddit for well, learning programming.
-- [Stack Overflow](https://stackoverflow.com) | **(Also look for the whole Meta Exchange network if you want to visit more communities other than Stack Overflow.)**
+- [Stack Overflow](https://stackoverflow.com) | **(Also look for the whole Meta Exchange network if you want to visit more communities other than Stack Overflow.)** A community for professional developers and those who are aspiring to be one. It revolves around helping each other through code reviews.
 
 ## Podcasts
 ### A list of podcast series on different subjects, mainly computer science. | audio | #6b0f1a
@@ -177,7 +182,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjR96i
 - [College Info Geek Podcast](https://collegeinfogeek.com/cast/) | Not related to programming; a good refresher about a variety of stuff mainly about productivity and learning.
 - [DevChat](https://devchat.tv/) | A list of podcast.
 - [Developer Tea](https://developertea.simplecast.fm/) | A podcast series for developers that focuses on the non-technical side of the development process.
-- [Syntax](https://syntax.fm/) | **(Recommended if you're into web dev't.)**
+- [Syntax](https://syntax.fm/) | **(Recommended if you're into web dev't.)** A podcast series hosted by Wes Bos and Scott Tolinski discussing about web development and programming.
 - [Programming Throwdown](https://www.programmingthrowdown.com/) | A programming podcast series that focuses on deeply breaking down various programming tools and process.
 - [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/) | A relatively recent podcast series that focuses on JavaScript and only JavaScript. Includes technical JavaScript guides, too.
 - [Soft Skills Engineering](https://softskills.audio/) | **(Hoohoo! I recommend this podcast series since it's quite different.)** It's a podcast series about the things that relate to software engineering that are not mostly coding-related.
@@ -229,13 +234,13 @@ https://8tracks.com/explore/study_music
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | **(Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.)** A YouTube channel that focuses on giving topics on calculus.
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) | **(Recommend it a lot! Dan Shiffman is not only a good instructor but a very entertaining one, too! 🤗)** A programming YouTube channel mainly hosted by [Dan Shiffman](https://shiffman.net/) that focuses on mathematical and creative coding.
 - [Vsauce](https://www.youtube.com/user/Vsauce) | **(Need to say more?)** It's a YouTube channel led by Michael Stevens that focuses on the knowledge. Any type of knowledge and nerd-labelled stuff, really.
-- [Wes Bos YouTube Channel](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) | The YouTube channel of [Wes Bos](), a web developer well known for his free courses such as [JavaScript30](https://javascript30.com/), [CSS Grid](https://cssgrid.io/), and [What The Flexbox?!](http://flexbox.io/).
+- [Wes Bos YouTube Channel](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) | The YouTube channel of [Wes Bos](https://wesbos.com/), a web developer well known for his free courses such as [JavaScript30](https://javascript30.com/), [CSS Grid](https://cssgrid.io/), and [What The Flexbox?!](http://flexbox.io/).
 
 ## Operating Systems
 ### Includes free operating systems of different platforms to be able to run different programs on your machine. (I mean you wouldn't see this site if it wasn't for those, right?) | operating-system | #91c5c1
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO) | **(I guess it is free now, also recommended if you want to explore Windows app marketplace.)** Includes various reasons to stay or dual-boot with a Linux distro.
-- [Arch Linux](http://archlinux.org/) | **(Not recommended for beginners.)** | A simple and elegant rolling release Linux distro for giving you the only components to make it work and letting you in full control of the customization. If you to know the nuts and bolts of the Linux kernel, then go ahead and try this (hopefully you have all of the needed hardware compatible and has a fast enough internet connection).
-- [Fedora](https://fedoraproject.org/) | **(This is the Linux distro that I'm using right now.)** Kind of similar to Ubuntu but it is backed by [Red Hat](https://www.redhat.com/en) and it is used as a testbed for the latest features.
+- [Arch Linux](http://archlinux.org/) | **(Not recommended for beginners.)** A simple and elegant rolling release Linux distro for giving you the only components to make it work and letting you in full control of the customization. If you to know the nuts and bolts of the Linux kernel, then go ahead and try this (hopefully you have all of the needed hardware compatible and has a fast enough internet connection).
+- [Fedora](https://fedoraproject.org/) | **(This is the Linux distro that I'm using right now.)** Kind of similar to Ubuntu but it is backed by [Red Hat](https://www.redhat.com/en) and it is used as a testbed for the latest features. Usually updates every 6 months.
 - [Linux Mint](https://www.linuxmint.com/) | **(Recommended for beginners.)**
 - [Manjaro](https://manjaro.org/) | Another one of the beginner-friendly distro.
 - [OpenSUSE](https://www.opensuse.org/) | A stable release Linux distro for accessibility. Available in two distinct versions: Tumbleweed and Leap.
@@ -243,7 +248,7 @@ https://8tracks.com/explore/study_music
 - [Ubuntu](http://ubuntu.com/) | **(I recommend this one for beginners. Though I have some problems with it due to hardware issues.)** A stable release Linux distro made by Canonical being updated every 6 months starting from April. Has two releases, one being the long-term support (LTS) version and the other is the more advanced version.
 - [FreeBSD](https://www.freebsd.org/) | A free and open source operating system based on BSD.
 
-## IDE
+## IDE and Text Editors
 ### Includes text editors and IDE that facilities putting shorter time into programming your project. | ide | #936ba7
 - [Eclipse](https://www.eclipse.org/) | Offers a wide variety of programming tools and IDEs for different programming languages and development processes.
 - [Jetbrains](https://www.jetbrains.com/) | **(Recommend it a lot for the variety of tools that they're offering.)** Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.
@@ -274,9 +279,11 @@ https://8tracks.com/explore/study_music
 ### A myriad of tools of various types to aid you into being productive. | clock | #ffa552
 - [A Soft Murmur](https://asoftmurmur.com/) | An ambient noise generator with a lot more sounds than rain.
 - [Calibre](https://calibre-ebook.com/) | An e-book library management tool.
+- [Habitica](https://habitica.com/) | A very cool app that gamifies your life. Turn your life around into an RPG, literally! (READ: not *that* RPG)
 - [LastPass](https://lastpass.com) | A cloud password manager.
 - [Notion](https://www.notion.so/) | Distraction-free app for taking notes in Markdown.
 - [Rainy Mood](http://www.rainymood.com/) | Lets you focus through the ambience (if you're the type who find rain to be relaxing).
+- [RescueTime](https://www.rescuetime.com/) | A time management software that tracks your activities and rating them whether you've been productive or not.
 - [StackEdit](https://stackedit.io) | **(Really, really recommending you to check this one out.)** A web-based Markdown editor that comes with a lot of integration options to sync your notes with (include GitHub).
 - [Trello](https://trello.com) | A project management tool mainly through arranging a list of cards.
 
@@ -358,8 +365,9 @@ https://8tracks.com/explore/study_music
 ## Programming Style Guides and Standards
 ### Want a quick list of programming standard and style guides? Well, I got that just for you. | standards | #54426b
 - [Awesome Style Guide (by *kciter*)](https://github.com/kciter/awesome-style-guide) | An [awesome](https://github.com/sindresorhus/awesome) list of style guides of different programming languages and tools.
-- [Keep A Changelog](https://keepachangelog.com/en/1.0.0/) | Contains specification notes for keeping a changelog file and its conventions of writing one. 
+- [Choose A License](https://choosealicense.com/) | A site created by the team behind [GitHub](https://github.com/) that tackles about the topic of choosing licenses for your open source projects.
 - [Code of Covenant](https://www.contributor-covenant.org/) | This is where the code of conduct often based from.
+- [Keep A Changelog](https://keepachangelog.com/en/1.0.0/) | Contains specification notes for keeping a changelog file and its conventions of writing one. 
 - [Semantic Versioning](https://semver.org/) | Contains the specification on how to number your software versions.
 
 ## Miscellaneous
