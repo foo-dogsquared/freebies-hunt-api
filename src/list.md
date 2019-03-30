@@ -21,6 +21,8 @@
 - [Brilliant](https://brilliant.org) | An online education platform where they encourage learning through constantly solving of challenging problems.
 - [Codecademy](https://www.codecademy.com/) | **(Their free courses is enough if you want to get started.)** A programming online learning platform. Offers premium courses.
 - [fast.ai](http://www.fast.ai/) | Free courses on machine learning, ooooh yeah.
+- [HTML5 Rocks](https://www.html5rocks.com/en/) | A tutorial and explainer site for web developers.
+- [Learn X in Y Minutes](https://learnxinyminutes.com) | **(What's `Y` minutes, you ask? The world may never know.)** A community-created repository of summaries for you to learn the X programming languages and tools in just Y minutes.
 - [LinkedIn Learning](https://learning.linkedin.com/) | eLearning platform of LinkedIn.
 - [Microsoft Virtual Academy](https://mva.microsoft.com/) | Microsoft's own learning platform. 
 - [MongoDB University](https://university.mongodb.com/) | Official courses from MongoDB.
@@ -29,20 +31,21 @@
 - [Teach Engineering](https://www.teachengineering.org/) | It's a educational resources site containing engineering stuff.
 - [The Odin Project](https://www.theodinproject.com/) | A site that provides a project-based learning and a curriculum centered around it similar to freeCodeCamp.
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm) | **(I recommend this one though not as much.)** A good overview on a bunch of programming languages.
-- [TutPlus](https://tutsplus.com/) | A bunch of tutorials and courses.
+- [TutPlus](https://tutsplus.com/) | A website that offers resources such as course, articles, and ebooks on different fields such as web design, programming, graphic design, and business.
 - [Udacity](https://www.udacity.com/) | Most, if not all courses are focused on technology.
 - [Udemy](https://udemy.com) | **(HINT: they are discounted for almost all-year round. I also recommend to only look out for the top courses since there's a lot of cluttering stuff in there.)** An online course platform for anyone who wants to publish their own courses.
 - [W3Schools](https://www.w3schools.com/) | **(Personally, I mostly see this more of a quick referential site instead of a tutorial site.)** A site of programming tutorials and such.
 
 ## Open Educational Resources
 ### Includes resources that are openly licensed and can be reused and redistributed by anyone. | oer | #c1ff9b
-- [BC Campus Open Ed Open Textbook Database](https://open.bccampus.ca/)
+- [BC Campus Open Ed Open Textbook Database](https://open.bccampus.ca/) | An open educational resource database backed by [BC Campus](https://bccampus.ca/). Offers wide variety of open textbooks for arts, sciences, and business (among many others).
 - [Bookboon](https://bookboon.com/) | A site that offers open textbooks. It also offers premium books as well.
 - [CK12](https://www.ck12.org/student/) | **(Recommended for looking/reviewing into high school sciences curriculum.)** A community group that offers variety of open educational resources from Flexbooks open textbooks, activities, and simulations.
 - [Community College Consortium for Open Educational Resources](https://www.cccoer.org/) | You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER).
-- [freeCodeCamp](https://freecodecamp.org) | **(It has a [forum](https://forum.freecodecamp.org/) to interact and has its curriculum open sourced.)** Project-based curriculum for web development.
+- [freeCodeCamp](https://freecodecamp.org) | **(It has a [forum](https://forum.freecodecamp.org/) to interact and has its curriculum open sourced.)** Project-based curriculum for web development. Also has its codebase and curriculum open sourced on [GitHub](http://github.com/freeCodeCamp/freeCodeCamp).
 - [IXL](https://www.ixl.com/) | An educational resource and learning site on K-12 curriculum.
 - [Khan Academy](https://khanacademy.org) | **(It's well known and has I think one of the biggest learners' community.)** There are also other topics outside of programming (i.e. mathematics, physics).
+- [LibreText](https://libretexts.org/) | A library of open educational resources from other educational institutions. Offers a list of them from various disciplines such as [engineering](https://eng.libretexts.org/), [business](https://biz.libretexts.org/), [medicine](https://med.libretexts.org/), and [mathematics](https://math.libretexts.org/).
 - [Math Wiki](https://math.wikia.com/wiki/Math_Wiki) | **(Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that.)** | A community-made and continuously updated textbook on mathematics.
 - [Merlot](https://www.merlot.org/merlot/index.htm) | An archive site of open educational resources viewable to everyone.
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) | **(Mah boi, I recommend this by a *loooooong* shot.)** Contains courses from a lot of subjects; you also might want to check out their [OCW Scholar Courses](https://ocw.mit.edu/courses/ocw-scholar/) wherein they are essentially more in-depth versions of the usual courses.
@@ -54,13 +57,13 @@
 - [Open University](https://www.open.edu/openlearn/)
 - [Open Yale Courses](https://oyc.yale.edu/courses) | A short list of open courses provided by Yale University.
 - [OpenStax CNX](https://cnx.org/) | A database of open educational resources backed up [OpenStax](https://openstax.org/). Also offers some community-made books.
-- [OpenStax](https://openstax.org/) | **(I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/))** A library of open-licensed expert-curated high school- and college-level textbook and resources.
+- [OpenStax](https://openstax.org/) | **(I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/).)** A library of open-licensed expert-curated high school- and college-level textbook and resources.
 - [ossu](https://github.com/ossu/computer-science) | A community-built and approved curriculum for self-taught students to follow.
 - [Siyavula](https://everythingmaths.co.za/) | Mathematics- and science-focused open educational resources.
 - [Teach Yourself CS](https://teachyourselfcs.com/) | A site that recommends resources on the topic of learning computer science. Kinda similar to ossu's curriculum.
 - [The Feynman's Lectures on Physics](http://www.feynmanlectures.caltech.edu/) | Well,self-explanatory title is self-explanatory. It's the website that lets you view [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)'s legendary notes on physics.
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) | Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton.
-- [WikiToLearn](https://www.wikitolearn.org/) | **(One of my personal recommendations right here)** A collaborative effort made into an introductory wiki for different subjects such as computer science, mathematics, engineering, business, and more.
+- [WikiToLearn](https://www.wikitolearn.org/) | **(One of my personal recommendations right here.)** A collaborative effort made into an introductory wiki for different subjects such as computer science, mathematics, engineering, business, and more.
 
 ## Free and Open Access Textbooks
 ### This section offers a collection of free (if not, open which is even better) textbooks for everyone. Most of them are something programming-related but you can see more of them at the "Open Educational Resources" section. | textbook | #f28123
@@ -88,6 +91,7 @@
 - [Algorithms (Part 1) by Princeton University](https://www.coursera.org/learn/algorithms-part1) | An online course offered by Princeton University that tackles the essential concepts and information on algorithms. This is a fit for programmers who seriously need to know about algorithms and data structure. As you can tell, it's a two-parter and in this part, it mainly tackles sorting algorithms and some data structures.
 - [Algorithms (Part 2) by Princeton University](https://www.coursera.org/learn/algorithms-part2) | The second part of the Algorithms course from Princeton University. In this part, it mainly tackles about recursive data structures such as tries, trees, and graphs.
 - [Algorithms and Data Structures by The University of California, San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) | A edX algorithms course set offered by The University of California, San Diego. Composes of eight courses tackling on analysis, implementation, and deep discussion on creating data structures and algorithms. Since it's an [edX](https://www.edx.org/) course set, you can just go to the individual courses and audit the course to access its learning materials.
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) | A GitHub repo containing a list of free computer science courses from well-known universities such as MIT, Stanford, UC Berkeley, and Harvard.
 - [Class Central](https://www.class-central.com/) | A search engine for courses at different MOOC sites.
 - [Computational Thinking for Modeling and Simulation](https://courses.edx.org/courses/course-v1:MITx+2.086x+3T2018/course/) | **(I recommend this very much, personally.)** A course that focuses on how to create effective models and techniques to folster computational thinking.
 - [Coursera](https://coursera.org/) | **(Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).)** Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities.
@@ -99,41 +103,49 @@
 - [MOOC List](https://www.mooc-list.com/) | A MOOC search engine, similar to Class Central.
 - [Software Engineering Micromasters course by The University of British Columbia](https://www.edx.org/micromasters/software-development) | An edX Micromasters course set that introduces you to software engineering and how to effectively plan, organize, and create programs that scale efficiently.
 
-## Music Resources
+## Music
 ### Includes a bunch of resources that can aid you in studying music with free resources. | music-note | #13293d
 - [Awesome Music](https://github.com/ciconia/awesome-music) | An [awesome](https://github.com/sindresorhus/awesome) list that lists out free music libraries and tools.
+- [Bandlab](https://www.bandlab.com/) | A free web-based digital audio workstation (DAW) by Cakewalk, known for their premium DAW by the same name. It's also a social platform for musicians to share their work.
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | A Coursera course offered by Edinburgh University to get you started on learning the rudimentary information on music theory.
 - [LMMS](https://lmms.io/) | **(Also comes with a community of musicians, too)** A digital audio workstation that lets you composes beats and music.
-- [MuseScore](https://musescore.org/) | **(I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company)** A free and open source composition and notation software.
+- [MuseScore](https://musescore.org/) | **(I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company.)** A free and open source composition and notation software.
+- [Native Instruments Komplete Start Production Suite](https://www.native-instruments.com/en/products/free/) | A free music production suite provided by Native Instruments, famous for their sampler program, Kontakt.
 - [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) | **(This is why programming is fantastic.)** A programming language that lets you create music.
 - [teoria](https://www.teoria.com/) | A website that dedicates to list music theory resources and tutorials.
 
 ## Game Development
-### Included are some resources for you to aid (or get started) on your game development process. | games | #ffe74c
+### Included are some resources for you to aid (or get started) on your game development process. If you want to add composing music and designing assets yourself for your own game, head on over to the Music Resources and Design Tool sections to check the options. | games | #ffe74c
 - [Awesome Gamedev (by *Calinou*)](https://github.com/Calinou/awesome-gamedev) | **(I could've chose [this featured list on awesome](https://github.com/ellisonleao/magictools) but for the spirit of free culture, I decided this pick the list by Calinou, instead.)** An [awesome](https://github.com/sindresorhus/awesome) list on free and open source software and free cultures to aid you in your game developing process.
-- [Bandlab](https://www.bandlab.com/) | A free digital audio workstation (DAW) by Cakewalk, known for their premium DAW by the same name.
 - [Blender](https://www.blender.org/) | A free and open source 3D modelling software. Despite being in the game dev't section, it could be used for things outside of game development such as 3D animations and illustrations.
 - [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) | **(I mean it's CS50, I totally recommend this one.)** One of CS50x's branching course. This time they introduce you to the game development process. Just like CS50, it offers you challenging problem sets to be able to get a solid grasp after lectures.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) | **(Recommending this so much when starting out with game development.)** A free web-based book that discusses about different coding patterns that is usually found on game development.
 - [Godot Engine](https://godotengine.org/) | **(I recommend this very much especially with their free asset store.)** A free and open source cross-platform 2D and 3D game engine. You can visit the source code repo [right here](https://github.com/godotengine/godot).
-- [Native Instruments Komplete Start Production Suite](https://www.native-instruments.com/en/products/free/) | A free music production suite provided by Native Instruments, famous for their sampler program, Kontakt.
+- [Make Human](http://www.makehumancommunity.org/) | A professional-grade free and open source software for creating 3D human (and humanoid) models.
 - [Open Game Art](https://opengameart.org/) | A website that offers free stock resources/assets for your game development process.
 
 ## Research
 ### Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study. | study | #8fb8de
+- [Awesome Research (by *emptymalei*)](https://github.com/emptymalei/awesome-research) | An [awesome](https://github.com/sindresorhus/awesome) list of mostly free and open source research tools and resources for your research project.
 - [Academia.edu](https://www.academia.edu/) | A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research.
 - [Brainly](https://brainly.com/) | **(Recommended if you're looking for a academics study group.)** A study group for students and peer-to-peer engagement. Formerly known as *OpenStudy*.
+- [Figshare](https://figshare.com/) | A platform for open scientific research data. 
 - [Mendeley](https://mendeley.com/) | A research organization tool. Also comes with a research network.
 - [Google Scholar](https://scholar.google.com/) | An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis.
-- [Researchgate](https://www.researchgate.net/) | Most published studies under their platform are free to view.
+- [LaTeX](https://www.latex-project.org/) | A highly regarded typesetting system for scientific documents. Supports a wide variety of mathematical (and scientific) expressions and symbols from algebra, logic, calculus, and more advanced mathematical disciplines. The program is not standalone itself but it does have plenty of text editors built on top of the typesetting system to let you prepare LaTeX documents easily. The provided website already has a list of programs for you to easily refer to a text editor but still [here's a list of programs built on top of LaTeX.](https://github.com/egeerardyn/awesome-LaTeX).
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love) | A community on reading and discussing academic computer science papers. The linked hyperlink is a GitHub repo containing a list of local chapters of the community, a list of resources to look for other papers, and a list of links for how to read an academic paper (which is always a very nice feature to include).
+- [Researchgate](https://www.researchgate.net/) | An online community of researchers sharing and exploring other academic papers. Also, most published studies under their platform are free to view though you can't join their community unless you've proven your credentials as an academic research student.
 
 ## Documentations
 ### Includes resources and facilities for documentation of different tools and various concepts. | documentation | #d1ffc6
 - [DevDocs](https://devdocs.io/) | **(Offline, easy to use, and usable on mobile devices. I dig it.)** A site wherein official documentation of different languages can be found; there's also an offline version of it if you are lacking of internet speed (like me).
-- [GitBook](https://www.gitbook.com/) | A GitHub for documentations.
-- [Learn X in Y Minutes](https://learnxinyminutes.com) | **(What's `Y` minutes, you ask? The world may never know.)** A community-created repository of summaries for you to learn the X programming languages and tools in just Y minutes.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) | **(I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site.)** If you're trying to learn web development and programming in general, this can be a hub for it.
+- [Doxygen](http://doxygen.nl/) | A free and open source documentation tool to generate online/offline references for your written software. Mainly supports C++ but it has support for other programming languages too. If you want to see the code yourself, you can visit the [repo](https://github.com/doxygen/doxygen).
+- [GitBook](https://www.gitbook.com/) | A GitHub for documentations, enabling team-based documenation work much easier and more searchable.
+- [Google Developers](https://developers.google.com/) | A hub of extensive documenations provided by Google developers. Not only it contains documentation on [web development](https://developers.google.com/web/) but also could get you started on [Android app development](https://developer.android.com/) and developing products utilizing [YouTube](https://developers.google.com/youtube/).
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) | **(I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site.)** An extensive documentation on web development provided by Mozilla Developer Network. Contains a gigantic amount of resources especially for those who are new to web development and programming, in general.
+- [Sphinx](http://sphinx-doc.org/) | A documenation generator originally written in Python for Python projects by converting [reStructuredText](http://docutils.sourceforge.net/rst.html) into different formats such as  You can find their GitHub repo [right here](https://github.com/sphinx-doc/sphinx).
+- [Pandoc](http://pandoc.org/) | **(I haven't used much of this tool but this is one of the tools that I look forward to adding to my toolbelt.)** A free and open source document converter. Can convert various document formats (i.e. LaTeX, JSON, their own variant of Markdown (and other Markdown flavors)) into various output formats such as HTML, eBook formats, PDF, and other TeX formats. You could also extend into writing your own custom format, provided you'll write one. If you're interested in finding the source code, you can see it from [their GitHub repo](https://github.com/jgm/pandoc).
 
 ## Katas (Practice Sites)
 ### Includes a facility and resources to practice solving programming problems and sharpen your problem solving skills. | algorithm | #b38a58
@@ -162,11 +174,13 @@
 
 ## Communities
 ### A group of people with common interest over a particular subject or a field. | community | #fed99b
-- [CodeNewbie](https://www.codenewbie.org/)
+- [CodeNewbie](https://www.codenewbie.org/) | A supportive community of developers welcoming others into learning to code. Includes a [weekly Twitter chat](https://www.codenewbie.org/chat) that you can watch and participate, a [Slack group](http://bit.ly/CodeNewbieSlack) to actively chat with other CodeNewbie members, and hosts a [podcast series](https://www.codenewbie.org/podcast) that tackles a variety of code-related stuff.
 - [CodeProject](https://www.codeproject.com) | **(Seriously speaking, it's one of the best communities I've been to so far. They also have a selection of articles and resources for beginners so they can have a leeway into joining this community.)** A community of software developers of various skill levels around the world for one common goal: to learn, to teach, and have fun.
 - [Coding Blocks](https://www.codingblocks.net/) | They also have a podcast.
-- [Dev.to](https://dev.to/) | **(Recommend it a lot, also be sure to give me a [visit](http://dev.to/foodogsquared) as well.)** A beginner-friendly dev community.
+- [Dev.to](https://dev.to/) | **(Recommend it a lot, also be sure to give me a [visit](http://dev.to/foodogsquared) as well.)** A beginner-friendly dev community that takes pride in its inclusivity.
 - [GitHub](https://github.com/) | Well, any tool has a community around it but this is where one of the biggest (if not, *the* biggest) open source community can be found so there's that.
+- [Hackster](https://www.hackster.io/) | A online global community dedicated to learning hardware. 
+- [Hackaday](https://hackaday.io/) | A online global hardware-/hacker-oriented community dedicated on sharing hardware-related knowledge to fellow hackers and to those with budding interests on the hardware hacking field.
 - [freeCodeCamp Community](https://forum.freecodecamp.org) | A global community spanning the members who took interest into [freeCodeCamp](http://freecodecamp.org/).
 - [Instructables](https://www.instructables.com) | **(One of the best DIY community out there. Easy to navigate and explore, too.)** A community of DIY and hardware hackers that shares and explore for your DIY journey. They also offer [an array of courses regarding DIY](https://www.instructables.com/classes/) within the website, as well. We have electronics, 3D printing, cooking, and so much more.
 - [HackerNews](https://news.ycombinator.com/)
@@ -216,7 +230,7 @@
 - [Pycoders Weekly](https://pycoders.com/) | A weekly newsletter on Python.
 https://8tracks.com/explore/study_music
 
-## YouTube Channel
+## YouTube Channels
 ### Includes a list of YouTube channels on various topics that I truly recommend. | youtube | #ff5964
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) | **(This could be handy for a sudden random tech learning.)** Includes tech talks and discussions.
 - [Crash Course](https://www.youtube.com/user/crashcourse/) | **(Recommended for introducing to the slightly deep topics of different fields.)** A YouTube channel that specializes in introducing you to a lot of concepts and subjects such as computers, sciences, and computer science.
@@ -244,35 +258,37 @@ https://8tracks.com/explore/study_music
 - [Linux Mint](https://www.linuxmint.com/) | **(Recommended for beginners.)**
 - [Manjaro](https://manjaro.org/) | Another one of the beginner-friendly distro.
 - [OpenSUSE](https://www.opensuse.org/) | A stable release Linux distro for accessibility. Available in two distinct versions: Tumbleweed and Leap.
-- [Solus](https://getsol.us/)
+- [Solus](https://getsol.us/) | A desktop/workstation Linux distro that is made from scratch. There's plenty of support for most production use cases such as for software development, content creation, and office use.
 - [Ubuntu](http://ubuntu.com/) | **(I recommend this one for beginners. Though I have some problems with it due to hardware issues.)** A stable release Linux distro made by Canonical being updated every 6 months starting from April. Has two releases, one being the long-term support (LTS) version and the other is the more advanced version.
 - [FreeBSD](https://www.freebsd.org/) | A free and open source operating system based on BSD.
 
 ## IDE and Text Editors
 ### Includes text editors and IDE that facilities putting shorter time into programming your project. | ide | #936ba7
+- [Atom](https://atom.io/) | A text editor made by the team at [GitHub](https://github.com/). Offers extensibility and user customization to suit their specific needs with HTML, CSS, and JavaScript since it runs on [Electron](https://electronjs.org/), a JavaScript framework for building cross-platform desktop apps also built by the GitHub team. Offers a platform for user-created packages and themes.
+- [Codeanywhere](https://www.codeanywhere.com/) | **(If you want to code with the mobile phone, I recommend using a bluetooth keyboard with a USB-on-the-go adapter. It's not fun typing on the touchscreen keyboard.)** An IDE that supports mostly coding anywhere from the web browser to the mobile phone. It has a built-in terminal console, integration support with remote file services such as Dropbox and Google Drive, connection with remote Git repositories, and even build containers with it (like how Docker works).
+- [Codepen](https://codepen.io) | A playground IDE for front-end development.
+- [CodeSandbox](https://codesandbox.io/) | **(Also it works offline and mainly used for front-end frameworks so it's a double plus for me.)** Really acts as a solid online alternative in case you want to work on the go (mostly, for JavaScript-oriented web development). Has strong support for front-end libraries and frameworks such as React, Vue, and Angular.
 - [Eclipse](https://www.eclipse.org/) | Offers a wide variety of programming tools and IDEs for different programming languages and development processes.
 - [Jetbrains](https://www.jetbrains.com/) | **(Recommend it a lot for the variety of tools that they're offering.)** Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.
-- [Visual Studio (IDE)](https://www.visualstudio.com/) | **(I recommend this but don't be overly reliant ;p)** A Windows-only IDE that offers wide support for different programming languages and tech stacks from mobile apps, games, desktop apps, and web apps. 
-- [Codeanywhere](https://www.codeanywhere.com/) | **(If you want to code with the mobile phone, I recommend using a bluetooth keyboard with a USB-on-the-go adapter. It's not fun typing on the touchscreen keyboard.)** An IDE that supports mostly coding anywhere from the web browser to the mobile phone. It has a built-in terminal console, integration support with remote file services such as Dropbox and Google Drive, connection with remote Git repositories, and even build containers with it (like how Docker works).
-- [CodeSandbox](https://codesandbox.io/) | **(Also it works offline and mainly used for front-end frameworks so it's a double plus for me.)** Really acts as a solid online alternative in case you want to work on the go (mostly, for JavaScript-oriented web development). Has strong support for front-end libraries and frameworks such as React, Vue, and Angular.
-- [Codepen](https://codepen.io) | A playground IDE for front-end development.
 - [Repl.it](https://repl.it/) | **(Recommend it a lot when starting out with back-end development.)** An IDE for different programming languages. Also supports back-end development to be able to quickly share and test it with other people.
-- [Atom](https://atom.io/) | A text editor made by the team at [GitHub](https://github.com/).
 - [Vim](https://www.vim.org/) | **(I have no words for this, yet. The closest experience so far is by using the default text editor on my Git installation.)** A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds). 
+- [Visual Studio (IDE)](https://www.visualstudio.com/) | **(I recommend this but don't be overly reliant ;p)** A Windows-only IDE that offers wide support for different programming languages and tech stacks from mobile apps, games, desktop apps, and web apps. 
 - [Visual Studio Code](https://code.visualstudio.com/) | **(THIS VERY MUCH!)** A free and open source platform-agnostic (found on Windows, Mac, & Linux) text editor that runs in Electron. You can visit the source code right [here](https://github.com/Microsoft/vscode).
 
 ## Web Browsers
 ### Includes various browsers for you to choose. | web-browsers | #81e979
-- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/all/) | **(My choice of web browser in development. Though, it doesn't mean it's the only dev browser I use.)**
-- [Firefox](https://www.mozilla.org/en-US/firefox/all/) | **(My choice of web browser.)** A free web browser made by [Mozilla Foundations](https://foundation.mozilla.org/) and one of the major web browsers as well.
+- [Brave](https://brave.com/) | A free and open source Chromium-based (similar to the roots of Google Chrome browser) browser that focuses on privacy and security. You can find its repo [over here](https://github.com/brave/brave-browser) along with the links of its mobile version of the app.
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/all/) | **(My choice of web browser in development. Though, it doesn't mean it's the only dev browser I use.)** | A developer-oriented version of Firefox web browser made by Mozilla Foundations allowing you to explore the upcoming production features.
+- [Firefox](https://www.mozilla.org/en-US/firefox/all/) | **(My choice of web browser from desktop to mobile.)** A free web browser made by [Mozilla Foundations](https://foundation.mozilla.org/) and one of the major web browsers as well.
 - [Google Chrome Beta](https://www.google.com/chrome/browser/beta.html) | It's the developer version of the Google browser for you to test its upcoming official release features.
 - [Google Chrome](https://www.google.com/intl/en/chrome/) | It's one of the major browsers in the web development field. Also has the biggest market so I have to include it here.
 
 ## Communication
 ### Tools for communication and potentially finding a community. | communication | #2b9eb3
 - [Discord](https://discordapp.com/) | **(Just don't get into the dark side.)** A client messenger. Can be used on the web or with a desktop app run in Electron.
-- [Pidgin](https://pidgin.im/) | Also a client messenger.
-- [Slack](https://slack.com/) | **(Recommended for using it for a group chat. Also supports a lot of integrations as well with the API.)** A very good chat client between teams.
+- [Pidgin](https://pidgin.im/) | Also a client messenger. Supports several chat networks such as IRC, AIM, and Google Talk all in one interface.
+- [Hexchat](https://hexchat.github.io/) | **(Here's the IRC client I personally use.)** A free and open source IRC client that can be run on the three major desktop platforms: Windows, Mac OS, and Linux. You can visit the source code in this [GitHub repo](https://github.com/hexchat/hexchat).
+- [Slack](https://slack.com/) | **(Recommended for using it for a group chat. Also supports a lot of integrations as well with the API.)** A very good chat client between teams especially in a professional environment. Can also be used as a hub for study groups as well.
 - [Thunderbird](https://www.thunderbird.net/en-US/) | **(Free, made by Mozilla, and it has been recently updated.)** A free e-mail client made by Mozilla Foundations.
 
 ## Productivity Tools
@@ -316,6 +332,7 @@ https://8tracks.com/explore/study_music
 - [Creative Market](https://creativemarket.com/) | A marketplace for stock resources such as illustrations, fonts, images, vectors, Photoshop templates, and more. But the main reason why I'm listing here is because of the weekly free creative stuff roundabout thing that's going on.
 - [Font Squirrel](https://www.fontsquirrel.com/) | **(IDK, is it free for personal use though? 🤔)** Offers a hand-selected font selection that features fonts that are free to use for commercial projects.
 - [Free Sound](https://freesound.org/) | A user-centric sound archive site that lets you freely use their hosted sounds.
+- [Freepik](https://www.freepik.com/) | **(This is the source of icons used for all of the icons here (except the website logo).)** A website that offers free vectors, icons, photos, and Photoshop templates.
 - [Iconmonstr](http://iconmonstr.com/) | **(This is my personal go-to when looking for an icon since it is also used for free without a required attribution.)** A free collection of icons for general objects. Also, the iconset is periodically being expanded.
 - [Open Clip Art](https://www.openclipart.org/) | Includes clip art open to use and modify for everybody.
 - [Petrucci Music Library](https://imslp.org/wiki/) | A music library containing public domain songs.
@@ -325,12 +342,14 @@ https://8tracks.com/explore/study_music
 
 ## Design
 ### Includes a plethora of resources for you to be able to design and create visual aids and illustrations. | paintbrush | #e67f0d
+- [Awesome Design (by *gztchan*)](https://github.com/gztchan/awesome-design) | An [awesome](https://github.com/sindresorhus/awesome) list of design-related resources for you to explore more of it, if you're looking for more.
 - [Canva](https://www.canva.com/) | Why not create your own creative designs.
 - [Coolors](https://coolors.co/) | **(My go-to color scheme generator.)** An intuitive color scheme generator.
 - [draw.io](https://draw.io) | **(I recommend this a lot if you want to design some visual aid. Also comes with desktop versions though I don't really recommend it as it's mostly the same except you run it in the desktop.)** A web-based online diagram and flowchart maker software.
 - [Figma](https://www.figma.com/) | **(Recommended for designing and prototyping apps.)** Basically, a FREE web-based version of Adobe XD.
 - [GIMP](https://www.gimp.org/) | **(Yup, this is basically a viable free replacement for Photoshop)** A free and open source photo editor similar to Adobe's Photoshop. You can view its source code right [here](https://gitlab.gnome.org/GNOME/gimp).
 - [Inkscape](https://inkscape.org/) | **(Yup, this is basically a viable free replacement for Illustrator.)** A free and open source vector illustration tool similar to Adobe's Illustrator. If you're interested in seeing the source code for yourself, you can view it [here](https://gitlab.com/inkscape/inkscape).
+- [Krita](https://krita.org/en/) | A professional free and open source program for professionals, I think. It is available on the major desktop platforms: Windows, Mac OS, and Linux. If you want to visit the repo yourself, you can visit it from their [GitHub repo](https://github.com/KDE/krita).
 
 ## Content Delivery Networks (CDN)
 ### Included here are some of the businesses that provides a quick way to fetch your project resources. | cdn | #b0fe76
@@ -348,18 +367,18 @@ https://8tracks.com/explore/study_music
 
 ## Inspiration
 ### Needed some inspiration for ideas or projects (or just want to get some things done)? Here's some of the resources that offers that. | inspiration | #f3dfa2
-- [Project Based Learning (by *tuvtran*)](https://github.com/tuvtran/project-based-learning) | **(You can also make a project based on the things that listed here. Think of it like a fork of the project.)** A GitHub repo that offers a curated list for project-based learning. If you're the type of person who's quite comfortable learning by doing, have a quick go.
 - [Dribbble](https://dribbble.com/) | If you want some inspiration for some design-related projects, here's a community site of designers that share their own work.
+- [Project Based Learning (by *tuvtran*)](https://github.com/tuvtran/project-based-learning) | **(You can also make a project based on the things that listed here. Think of it like a fork of the project.)** A GitHub repo that offers a curated list for project-based learning. If you're the type of person who's quite comfortable learning by doing, have a quick go.
 - [Projects (by *karan*)](https://github.com/karan/Projects) | A GitHub repo of a project list.
 - [Rosetta Code Programming Tasklist](https://rosettacode.org/wiki/Category:Programming_Tasks) | It's a humungous list of programming tasks that you can do ranging from intermediate to advanced thinking and planning skills to get the job rolling.
 
-## Open Content
+## Open Content Communities
 ### Included here are some of the communities and organizations that proudly promote open content. | open-content | #ffbc42
-- [Creative Commons](https://creativecommons.org/)
+- [Creative Commons](https://creativecommons.org/) | An organization that provides easy-to-use licenses for your intellectual works while giving the public the permission to use, enabling for easier collaboration with protection for your efforts.
 - [Linux.com](https://www.linux.com/) | It's about Linux and open source software, overall.
 - [Mozilla Foundations](https://foundation.mozilla.org/) | A software foundation that pushes free internet for all.
 - [Open Culture](http://www.openculture.com/) | A site that provides open content and resources.
-- [Open Source](https://opensource.com/) | A site that talks all open source things.
+- [Open Source](https://opensource.com/) | A site supported by [Red Hat](https://www.redhat.com/en) that talks all open source things.
 - [Linux Foundation](https://www.linuxfoundation.org) | A open source software foundation that brings technology together to create an ecosystem of open source programs.
 
 ## Programming Style Guides and Standards
@@ -379,4 +398,5 @@ https://8tracks.com/explore/study_music
 - [Distrowatch](https://distrowatch.com/) | **(Recommended, if you're into Linux.)** A website watching for updates around Linux distros.
 - [keyvalues](https://www.keyvalues.com/) | It's a engineering job finder.
 - [Local Hackday MLH (Major League Hacking)](https://localhackday.mlh.io/) | It's a global hackathon (that are related to MLH) finder.
+- [The Book of Secret Knowledge (by *trimstray*)](https://github.com/trimstray/the-book-of-secret-knowledge) | A GitHub repo that contains a list of programmer-related materials that [trimstray](https://github.com/trimstray) (along with the other contributors) refer to every day. You have a list of GUI tools, CLI tools, blogs, one-liners (not *that* one-liner), and a lot more.
 - [Wayback Machine](https://archive.org/web/web.php) | A time machine for the web (not exactly that but you know...).
