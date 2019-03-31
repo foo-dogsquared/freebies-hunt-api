@@ -20,6 +20,8 @@
 - [Adobe Education Exchange](https://edex.adobe.com/en/professional-development/courses) | Free courses offered by Adobe and its community.
 - [Brilliant](https://brilliant.org) | An online education platform where they encourage learning through constantly solving of challenging problems.
 - [Codecademy](https://www.codecademy.com/) | **(Their free courses is enough if you want to get started.)** A programming online learning platform. Offers premium courses.
+- [Coursera](https://coursera.org/) | **(Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).)** Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities.
+- [edX](https://edx.org) | **(Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot.)** An online platform with most of its courses created by figurehead institutions and universities such as Microsoft, Harvard University, Standford University, Linux Foundation, and more.
 - [fast.ai](http://www.fast.ai/) | Free courses on machine learning, ooooh yeah.
 - [HTML5 Rocks](https://www.html5rocks.com/en/) | A tutorial and explainer site for web developers.
 - [Learn X in Y Minutes](https://learnxinyminutes.com) | **(What's `Y` minutes, you ask? The world may never know.)** A community-created repository of summaries for you to learn the X programming languages and tools in just Y minutes.
@@ -46,7 +48,7 @@
 - [IXL](https://www.ixl.com/) | An educational resource and learning site on K-12 curriculum.
 - [Khan Academy](https://khanacademy.org) | **(It's well known and has I think one of the biggest learners' community.)** There are also other topics outside of programming (i.e. mathematics, physics).
 - [LibreText](https://libretexts.org/) | A library of open educational resources from other educational institutions. Offers a list of them from various disciplines such as [engineering](https://eng.libretexts.org/), [business](https://biz.libretexts.org/), [medicine](https://med.libretexts.org/), and [mathematics](https://math.libretexts.org/).
-- [Math Wiki](https://math.wikia.com/wiki/Math_Wiki) | **(Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that.)** | A community-made and continuously updated textbook on mathematics.
+- [Math Wiki](https://math.wikia.com/wiki/Math_Wiki) | **(Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that.)** A community-made and continuously updated textbook on mathematics.
 - [Merlot](https://www.merlot.org/merlot/index.htm) | An archive site of open educational resources viewable to everyone.
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) | **(Mah boi, I recommend this by a *loooooong* shot.)** Contains courses from a lot of subjects; you also might want to check out their [OCW Scholar Courses](https://ocw.mit.edu/courses/ocw-scholar/) wherein they are essentially more in-depth versions of the usual courses.
 - [MIT Press Open](https://mitpress.mit.edu/mit-press-open) | Yes, free and open access books from MIT Press.
@@ -58,6 +60,7 @@
 - [Open Yale Courses](https://oyc.yale.edu/courses) | A short list of open courses provided by Yale University.
 - [OpenStax CNX](https://cnx.org/) | A database of open educational resources backed up [OpenStax](https://openstax.org/). Also offers some community-made books.
 - [OpenStax](https://openstax.org/) | **(I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/).)** A library of open-licensed expert-curated high school- and college-level textbook and resources.
+- [OSDev.org](https://wiki.osdev.org/Main_Page) | A detailed wiki on operating system development.
 - [ossu](https://github.com/ossu/computer-science) | A community-built and approved curriculum for self-taught students to follow.
 - [Siyavula](https://everythingmaths.co.za/) | Mathematics- and science-focused open educational resources.
 - [Teach Yourself CS](https://teachyourselfcs.com/) | A site that recommends resources on the topic of learning computer science. Kinda similar to ossu's curriculum.
@@ -96,10 +99,11 @@
 - [Computational Thinking for Modeling and Simulation](https://courses.edx.org/courses/course-v1:MITx+2.086x+3T2018/course/) | **(I recommend this very much, personally.)** A course that focuses on how to create effective models and techniques to folster computational thinking.
 - [Coursera](https://coursera.org/) | **(Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).)** Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities.
 - [CS50 Course by Harvard University](http://cs50.harvard.edu/) | **(Very very recommend. Much cool and intuitive.)** A very good introductory course on computer science in general, just take it easy and follow the schedule then you'll be fine; I also recommend to take it with friends or a study group too, much easier unlike the way I took 😥, but still doable with solo. Also, [CS50 has branched out some courses](https://www.edx.org/cs50) for you to take specific development skills.
-- [Data Structures and Algorithms Specialization by the University of California, San Diego and National Research University Higher School of Economics](https://www.coursera.org/specializations/data-structures-algorithms) | **(This one's different from the UC, San Diego edX course, mind you.)** | A Coursera Specialization course that focuses on mastering algorithmic programs and techniques to create algorithms on generally complex data structures.
+- [Data Structures and Algorithms Specialization by the University of California, San Diego and National Research University Higher School of Economics](https://www.coursera.org/specializations/data-structures-algorithms) | **(This one's different from the UC, San Diego edX course, mind you.)** A Coursera Specialization course that focuses on mastering algorithmic programs and techniques to create algorithms on generally complex data structures.
 - [edX](https://edx.org) | **(Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot.)** An online platform with most of its courses created by figurehead institutions and universities such as Microsoft, Harvard University, Standford University, Linux Foundation, and more.
 - [Fundamentals of Computers by the Rice University](https://www.coursera.org/specializations/computer-fundamentals) | **(Like the rest of Coursera's specialization course sets, you can just go and visit the individual course modules to get audit the course for free.)** A Coursera specialization course (that is, a set of courses) said to be equivalent to Rice University's first year computer science students' undertaking. Here you'll be creating up to 20 projects while tackling about the computer sciencey stuff like algorithms, dynamic programming, and recursions.
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | **(Also, it could use some textbooks to supplement some learnings, I recommend checking to the music resources for that.)** It's a Coursera course offered by Edinburgh University on fundamentals of music theory.
+- [Hacker Tools](https://hacker-tools.github.io/) | **(I recommend this a lot if you want to explore options for programming. A lot of people said that tools are not much of importance but I still think it's great to have an overview course regarding those said tools.)** An MIT lecture series on programming tools. Also can serve as a resource list for different programming tools on text editors, version control systems, and desktop configurations.
 - [MOOC List](https://www.mooc-list.com/) | A MOOC search engine, similar to Class Central.
 - [Software Engineering Micromasters course by The University of British Columbia](https://www.edx.org/micromasters/software-development) | An edX Micromasters course set that introduces you to software engineering and how to effectively plan, organize, and create programs that scale efficiently.
 
@@ -108,8 +112,9 @@
 - [Awesome Music](https://github.com/ciconia/awesome-music) | An [awesome](https://github.com/sindresorhus/awesome) list that lists out free music libraries and tools.
 - [Bandlab](https://www.bandlab.com/) | A free web-based digital audio workstation (DAW) by Cakewalk, known for their premium DAW by the same name. It's also a social platform for musicians to share their work.
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | A Coursera course offered by Edinburgh University to get you started on learning the rudimentary information on music theory.
-- [LMMS](https://lmms.io/) | **(Also comes with a community of musicians, too)** A digital audio workstation that lets you composes beats and music.
-- [MuseScore](https://musescore.org/) | **(I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company.)** A free and open source composition and notation software.
+- [LMMS](https://lmms.io/) | **(Also comes with a community of musicians, too)** A free and open source digital audio workstation that lets you composes beats and music. It can run on the major desktop operating systems: Windows, Mac OS, and Linux. If you want to visit the source code, you can go [right here](https://github.com/LMMS/lmms/).
+- [MuseScore](https://musescore.org/) | **(I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company.)** A free and open source composition and notation software. It also has cross-platform support for Windows, Mac OS, and Linux. You can see the source code itself on their [remote Git repo](https://github.com/musescore/MuseScore/).
+- [Music Theory for Musicians and Normal People (by *Toby W. Rush*)](http://tobyrush.com/theorypages/index.html) | A free collection of one-page PDFs created by Toby Rush discussing the basics of music theory. (Also, you could just download all of the pages in one PDF if you look at the bottom.)
 - [Native Instruments Komplete Start Production Suite](https://www.native-instruments.com/en/products/free/) | A free music production suite provided by Native Instruments, famous for their sampler program, Kontakt.
 - [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) | **(This is why programming is fantastic.)** A programming language that lets you create music.
@@ -150,11 +155,12 @@
 ## Katas (Practice Sites)
 ### Includes a facility and resources to practice solving programming problems and sharpen your problem solving skills. | algorithm | #b38a58
 - [/r/dailyprogrammer](https://old.reddit.com/r/dailyprogrammer/) | Includes challenges set for beginners, intermediate, and advanced programmers.
-- [Advent of Code](https://adventofcode.com/) | **(Very much recommended, also beginner-friendly for challenges (kinda).)** An annual event where a challenge set is gradually released every Advent season.
-- [Coderbyte](http://coderbyte.com)
+- [Advent of Code](https://adventofcode.com/) | **(Very much recommended, also beginner-friendly for challenges (kinda).)** An annual event where a challenge set is gradually released every Advent season (starting from December 1st).
+- [Coderbyte](http://coderbyte.com) | A website to improve your coding skills with a set of coding challenges. It can also help with your upcoming interview with their set of challenges designed for that.
+- [Codechef](http://www.codechef.com/) | **(One of my personal recommendations. Give it a try.)** A website and a community of coding challengers that offers a wide variety of coding challenges-related activities. Includes occasional contests, programming tutorials, a freeCodeCamp forum-esque Q&A forum, and coding challenges for all programmers of different skill levels.
 - [Codewars](http://codewars.com/) | **(It's probably one of the most popular kata site out there.)** A community-focused programming kata site where users can create their own katas to let other people solve it.
 - [Codingame](https://www.codingame.com/) | A coding practice site where you get to train with visual feedbacks (in other words, playing video games). They also have an active community behind it, too.
-- [Daily Coding Problem](https://www.dailycodingproblem.com/) | **(They also have a [relatively recent book on it](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634), as well.)**
+- [Daily Coding Problem](https://www.dailycodingproblem.com/) | **(They also have a [relatively recent book on it](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634), as well.)** A set of coding problems that's being asked by top tech companies such as Google and IBM is being sent to your email one problem every day. Offers at least a hundred of coding challenges from easy to advanced problems to be solved in your way.
 - [Euler Project](https://projecteuler.net/) | **(Recommend it a lot, especially if you want to be more challenged.)** Has more focus on applying mathematical concepts than programming.
 - [Exercism](https://exercism.io) | A site that focuses improving you through the mentor-mentee model.
 - [Google Coding Competitions](https://codingcompetitions.withgoogle.com/) | A site where Google coding competitions take place. Also hosts a variety of competitions and you even have access when a certain coding competition is done so you can take at your own pace.
@@ -189,7 +195,8 @@
 - [Stack Overflow](https://stackoverflow.com) | **(Also look for the whole Meta Exchange network if you want to visit more communities other than Stack Overflow.)** A community for professional developers and those who are aspiring to be one. It revolves around helping each other through code reviews.
 
 ## Podcasts
-### A list of podcast series on different subjects, mainly computer science. | audio | #6b0f1a
+### A list of podcast series on different subjects that I personally listen to. | audio | #6b0f1a
+- [Awesome Podcasts for Software Engineers (by *rShetty*)](https://github.com/rShetty/awesome-podcasts) | **(I recommend you to go here if you didn't like what I enlisted here.)** An [awesome](https://github.com/sindresorhus/awesome) list of podcasts for software engineering and programming. It contains detailed information on the individual podcasts (which is always neat) with the host(s) and the average running time of each episode. The list also offers podcast series in different languages aside in English.
 - [BaseCS](https://www.codenewbie.org/basecs) | A podcast series that focuses on computer science concepts explained in such humanly way as possible.
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | A tech podcast series that tackles a variety of subjects such as career advices, product management, and technical concepts.
 - [Coding Blocks Podcast](https://www.codingblocks.net/category/podcast/) | Great for beginners.
@@ -199,11 +206,12 @@
 - [Syntax](https://syntax.fm/) | **(Recommended if you're into web dev't.)** A podcast series hosted by Wes Bos and Scott Tolinski discussing about web development and programming.
 - [Programming Throwdown](https://www.programmingthrowdown.com/) | A programming podcast series that focuses on deeply breaking down various programming tools and process.
 - [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/) | A relatively recent podcast series that focuses on JavaScript and only JavaScript. Includes technical JavaScript guides, too.
-- [Soft Skills Engineering](https://softskills.audio/) | **(Hoohoo! I recommend this podcast series since it's quite different.)** It's a podcast series about the things that relate to software engineering that are not mostly coding-related.
+- [Soft Skills Engineering](https://softskills.audio/) | **(Hoohoo! I recommend this podcast series since it's quite different from my usual podcast series that I listen to.)** It's a podcast series about the things that relate to software engineering that are not mostly coding-related.
 - [You Are Not So Smart](https://youarenotsosmart.com/podcast/) | It's a podcast series about exploring self-delusions and some psychological stuff and I really like psychological stuff so that's why it's here.
 
 ## Blogs
 ### Includes a list of blogs of various subjects and knowledge fields (mainly in programming). | blog | #35a7ff
+- [Awesome Engineering Blogs (by *kilimchoi*)](https://github.com/kilimchoi/engineering-blogs) | An [awesome](https://github.com/sindresorhus/awesome) list that lists out engineering blogs from technologies, companies, and persons that you can refer to.
 - [Cal Newport](http://calnewport.com/) | A computer science professor at Georgetown University that is known for writing student and learning productivity.
 - [College Info Geek](https://collegeinfogeek.com/) | Includes a plethora of articles ranging from productivity hacks to learning advices.
 - [Scott Young](https://scotthyoung.com/) | A blog that mainly focuses on learning and entrepreneurship.
@@ -219,25 +227,25 @@
 - [webapplog](https://webapplog.com/) | Mainly focuses on Node.js.
 - [Wes Bos's Blog](https://wesbos.com/blog/) | Creator of several courses and some helpful posts along the way.
 
-## Newsletter
-### A list on newsletters reaching a variety of topics, sending you writings and resources in a certain interval. | newsletter | #f4e76e
-- [Frontend Focus](https://frontendfoc.us/) | Another weekly newsletter about front-end development.
+## Newsletters
+### A list on newsletters of various topics, sending you writings and resources in a certain interval of time. | newsletter | #f4e76e
+- [Awesome C++](https://cpp.libhunt.com/newsletter) | A curated weekly newsletter on anything new on C++ from libraries, frameworks, and language specifications.
+- [Awesome Newsletters (by *zudochkin*)](https://github.com/zudochkin/awesome-newsletters) | **(I would you to refer here if you're looking for your specific needs.)** An [awesome](https://github.com/sindresorhus/awesome) resource list on newsletters for different programming subfields, programming languages and tools such as C++, Python, JavaScript, and HTML5 game development.
+- [Frontend Focus](https://frontendfoc.us/) | A weekly newsletter about front-end development.
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/) | Weekly newsletter about HTML5 Game Development.
-- [JavaScript Weekly](https://javascriptweekly.com/)
-- [Node Weekly](http://nodeweekly.com/)
-- [Official Node.js Weekly Newsletter](https://newsletter.nodejs.org/)
+- [JavaScript Weekly](https://javascriptweekly.com/) | A weekly newsletter that sends a curated list of JavaScript-related articles and tutorials.
+- [Official Node.js Weekly Newsletter](https://newsletter.nodejs.org/) | A monthly newsletter that sends you a curated list of news and resources involving Node.js.
 - [Postanly](https://postanly.ongoodbits.com/) | A weekly digest of productivity life articles.
 - [Pycoders Weekly](https://pycoders.com/) | A weekly newsletter on Python.
-https://8tracks.com/explore/study_music
 
 ## YouTube Channels
-### Includes a list of YouTube channels on various topics that I truly recommend. | youtube | #ff5964
+### Includes a list of YouTube channels on various topics that I personally watch out for. | youtube | #ff5964
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) | **(This could be handy for a sudden random tech learning.)** Includes tech talks and discussions.
 - [Crash Course](https://www.youtube.com/user/crashcourse/) | **(Recommended for introducing to the slightly deep topics of different fields.)** A YouTube channel that specializes in introducing you to a lot of concepts and subjects such as computers, sciences, and computer science.
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) | **(It has [@mpjme](https://twitter.com/mpjme) from Fun Fun Function so I dig it.)** A beginner-friendly dev channel.
-- [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) | **(Recommended for pre-calculus concepts.)**
+- [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) | **(Recommended for pre-calculus concepts. Pair that up with Professor Leonard (another of my personal recommendations) and you have a pair of YouTube channels that teaches high school mathematics for you.)** A YouTube channel led by [the titular mathematics teacher](https://misterwootube.com/) who produces online content for mathematics, mainly on pre-calculus topics.
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | **(Since the amount of content in this channel is gigantic and most of them came from third-party developers, it's a good idea to use this as a browser of referential videos.)** freeCodeCamp's official YouTube channel. Its content varies from tutorials from other developers to a whole course series (in fact, CS50 made it as one of them). You could also view some of their content from their [freeCodeCamp Talks channel](https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A/videos).
-- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | **(An entertaining developer, a plus for me.)** Your metaphorical caffeine every Monday.
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | **(An entertaining developer, a plus for me.)** Your metaphorical caffeine every Monday. A YouTube channel hosted by [@mpjme](https://twitter.com/mpjme) that focuses on various developer-related concepts.
 - [Jarvis Johnson](https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA) | **(I think he doesn't do those tech videos anymore.)** A commentary channel with a slightest bit of tech.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) | Videos on various academic topics from mathematics, electronics, to economics and politics.
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
@@ -247,20 +255,21 @@ https://8tracks.com/explore/study_music
 - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) | Focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it.
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | **(Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.)** A YouTube channel that focuses on giving topics on calculus.
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) | **(Recommend it a lot! Dan Shiffman is not only a good instructor but a very entertaining one, too! 🤗)** A programming YouTube channel mainly hosted by [Dan Shiffman](https://shiffman.net/) that focuses on mathematical and creative coding.
+- [Travesty Media](https://www.youtube.com/user/TechGuyWeb/) | **(A very good starting point on web development.)** Focuses on creating simple and easy-to-follow web development and programming content.
 - [Vsauce](https://www.youtube.com/user/Vsauce) | **(Need to say more?)** It's a YouTube channel led by Michael Stevens that focuses on the knowledge. Any type of knowledge and nerd-labelled stuff, really.
 - [Wes Bos YouTube Channel](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) | The YouTube channel of [Wes Bos](https://wesbos.com/), a web developer well known for his free courses such as [JavaScript30](https://javascript30.com/), [CSS Grid](https://cssgrid.io/), and [What The Flexbox?!](http://flexbox.io/).
 
 ## Operating Systems
 ### Includes free operating systems of different platforms to be able to run different programs on your machine. (I mean you wouldn't see this site if it wasn't for those, right?) | operating-system | #91c5c1
-- [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO) | **(I guess it is free now, also recommended if you want to explore Windows app marketplace.)** Includes various reasons to stay or dual-boot with a Linux distro.
 - [Arch Linux](http://archlinux.org/) | **(Not recommended for beginners.)** A simple and elegant rolling release Linux distro for giving you the only components to make it work and letting you in full control of the customization. If you to know the nuts and bolts of the Linux kernel, then go ahead and try this (hopefully you have all of the needed hardware compatible and has a fast enough internet connection).
 - [Fedora](https://fedoraproject.org/) | **(This is the Linux distro that I'm using right now.)** Kind of similar to Ubuntu but it is backed by [Red Hat](https://www.redhat.com/en) and it is used as a testbed for the latest features. Usually updates every 6 months.
-- [Linux Mint](https://www.linuxmint.com/) | **(Recommended for beginners.)**
-- [Manjaro](https://manjaro.org/) | Another one of the beginner-friendly distro.
+- [FreeBSD](https://www.freebsd.org/) | A free and open source operating system based on BSD.
+- [Linux Mint](https://www.linuxmint.com/) | **(Recommended for beginners.)** An Ubuntu-based distro with a fixed release model that provides a classic desktop experience with multimedia support out-of-the-box and user-created configuration.
+- [Manjaro](https://manjaro.org/) | An Arch-based desktop and intuitive Linux distro with a rolling release model. Another one of the beginner-friendly distro that gives you an ease of maintenance and a wide range of available software with Arch Linux software repositories.
 - [OpenSUSE](https://www.opensuse.org/) | A stable release Linux distro for accessibility. Available in two distinct versions: Tumbleweed and Leap.
 - [Solus](https://getsol.us/) | A desktop/workstation Linux distro that is made from scratch. There's plenty of support for most production use cases such as for software development, content creation, and office use.
 - [Ubuntu](http://ubuntu.com/) | **(I recommend this one for beginners. Though I have some problems with it due to hardware issues.)** A stable release Linux distro made by Canonical being updated every 6 months starting from April. Has two releases, one being the long-term support (LTS) version and the other is the more advanced version.
-- [FreeBSD](https://www.freebsd.org/) | A free and open source operating system based on BSD.
+- [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO) | **(I guess it is free now, also recommended if you want to explore Windows app marketplace.)** Includes various reasons to stay or dual-boot with a Linux distro.
 
 ## IDE and Text Editors
 ### Includes text editors and IDE that facilities putting shorter time into programming your project. | ide | #936ba7
@@ -278,10 +287,11 @@ https://8tracks.com/explore/study_music
 ## Web Browsers
 ### Includes various browsers for you to choose. | web-browsers | #81e979
 - [Brave](https://brave.com/) | A free and open source Chromium-based (similar to the roots of Google Chrome browser) browser that focuses on privacy and security. You can find its repo [over here](https://github.com/brave/brave-browser) along with the links of its mobile version of the app.
-- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/all/) | **(My choice of web browser in development. Though, it doesn't mean it's the only dev browser I use.)** | A developer-oriented version of Firefox web browser made by Mozilla Foundations allowing you to explore the upcoming production features.
-- [Firefox](https://www.mozilla.org/en-US/firefox/all/) | **(My choice of web browser from desktop to mobile.)** A free web browser made by [Mozilla Foundations](https://foundation.mozilla.org/) and one of the major web browsers as well.
+- [Chromium](https://chromium.org/) | An open-source browser initiated by Google.
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/all/) | **(My choice of web browser in development. Though, it doesn't mean it's the only dev browser I use.)** A developer-oriented version of Firefox web browser made by Mozilla Foundations allowing you to explore the upcoming production features.
+- [Firefox](https://www.mozilla.org/en-US/firefox/all/) | **(My choice of web browser from desktop to mobile.)** A free and open source web browser made by [Mozilla Foundations](https://foundation.mozilla.org/) and one of the major web browsers as well.
 - [Google Chrome Beta](https://www.google.com/chrome/browser/beta.html) | It's the developer version of the Google browser for you to test its upcoming official release features.
-- [Google Chrome](https://www.google.com/intl/en/chrome/) | It's one of the major browsers in the web development field. Also has the biggest market so I have to include it here.
+- [Google Chrome](https://www.google.com/intl/en/chrome/) | A free web browser created by Google based on their Chromium project. It's one of the major browsers in the web development field. Also has the biggest market so I have to include it here.
 
 ## Communication
 ### Tools for communication and potentially finding a community. | communication | #2b9eb3
@@ -367,7 +377,10 @@ https://8tracks.com/explore/study_music
 
 ## Inspiration
 ### Needed some inspiration for ideas or projects (or just want to get some things done)? Here's some of the resources that offers that. | inspiration | #f3dfa2
+- [Build Your Own X (by *danistefanovic*)](https://github.com/danistefanovic/build-your-own-x) | A list of resources for building your own version of a technology from programming languages, 3D renderers, bots, games, and text editors.
 - [Dribbble](https://dribbble.com/) | If you want some inspiration for some design-related projects, here's a community site of designers that share their own work.
+- [OS Tutorial (by *cfenollosa*)](https://github.com/cfenollosa/os-tutorial) | A GitHub repo that contains a tutorial on making your own operating system from scratch.
+- [OSDev.org](https://wiki.osdev.org/Main_Page) | A detailed wiki on operating system development.
 - [Project Based Learning (by *tuvtran*)](https://github.com/tuvtran/project-based-learning) | **(You can also make a project based on the things that listed here. Think of it like a fork of the project.)** A GitHub repo that offers a curated list for project-based learning. If you're the type of person who's quite comfortable learning by doing, have a quick go.
 - [Projects (by *karan*)](https://github.com/karan/Projects) | A GitHub repo of a project list.
 - [Rosetta Code Programming Tasklist](https://rosettacode.org/wiki/Category:Programming_Tasks) | It's a humungous list of programming tasks that you can do ranging from intermediate to advanced thinking and planning skills to get the job rolling.
@@ -393,7 +406,7 @@ https://8tracks.com/explore/study_music
 ### Ehh... I don't know how to categorize these items yet. | uncategorized | #7c6a52
 - [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/) | It's a collection of wisdoms put together in a list from the Coding Horror blog.
 - [Archive](https://archive.org/) | **(It's also a good site to get public domain materials and some textbooks in here.)** It's an archive site for everything. You can find a lot of stuff in there.
-- [Developer Roadmap (by kamranahmedse)](https://github.com/kamranahmedse/developer-roadmap) | **(If you're looking for a web development roadmap, here's one quality resource for that.)** Your reference in case you want to choose a specific role in software development (specifically, in web development).
+- [Developer Roadmap (by *kamranahmedse*)](https://github.com/kamranahmedse/developer-roadmap) | **(If you're looking for a web development roadmap, here's one quality resource for that.)** Your reference in case you want to choose a specific role in software development (specifically, in web development).
 - [DevTube](https://dev.tube) | YouTube for developers.
 - [Distrowatch](https://distrowatch.com/) | **(Recommended, if you're into Linux.)** A website watching for updates around Linux distros.
 - [keyvalues](https://www.keyvalues.com/) | It's a engineering job finder.

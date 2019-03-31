@@ -128,6 +128,22 @@
                 "personal_rating": "Their free courses is enough if you want to get started.",
                 "description": "A programming online learning platform. Offers premium courses."
             },
+            "Coursera": {
+                "type": "Distance Learning Resources",
+                "name": "Coursera",
+                "link": "https://coursera.org/",
+                "pipe_separator": "",
+                "personal_rating": "Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).",
+                "description": "Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities."
+            },
+            "edX": {
+                "type": "Distance Learning Resources",
+                "name": "edX",
+                "link": "https://edx.org",
+                "pipe_separator": "",
+                "personal_rating": "Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot.",
+                "description": "An online platform with most of its courses created by figurehead institutions and universities such as Microsoft, Harvard University, Standford University, Linux Foundation, and more."
+            },
             "fast.ai": {
                 "type": "Distance Learning Resources",
                 "name": "fast.ai",
@@ -310,7 +326,7 @@
                 "link": "https://math.wikia.com/wiki/Math_Wiki",
                 "pipe_separator": "",
                 "personal_rating": "Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that.",
-                "description": "| A community-made and continuously updated textbook on mathematics."
+                "description": "A community-made and continuously updated textbook on mathematics."
             },
             "Merlot": {
                 "type": "Open Educational Resources",
@@ -389,6 +405,13 @@
                 "pipe_separator": "",
                 "personal_rating": "I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/).",
                 "description": "A library of open-licensed expert-curated high school- and college-level textbook and resources."
+            },
+            "OSDev.org": {
+                "type": "Open Educational Resources",
+                "name": "OSDev.org",
+                "link": "https://wiki.osdev.org/Main_Page",
+                "pipe_separator": "",
+                "description": "A detailed wiki on operating system development."
             },
             "ossu": {
                 "type": "Open Educational Resources",
@@ -640,7 +663,7 @@
                 "link": "https://www.coursera.org/specializations/data-structures-algorithms",
                 "pipe_separator": "",
                 "personal_rating": "This one's different from the UC, San Diego edX course, mind you.",
-                "description": "| A Coursera Specialization course that focuses on mastering algorithmic programs and techniques to create algorithms on generally complex data structures."
+                "description": "A Coursera Specialization course that focuses on mastering algorithmic programs and techniques to create algorithms on generally complex data structures."
             },
             "edX": {
                 "type": "Massive Open Online Courses (MOOCS)",
@@ -665,6 +688,14 @@
                 "pipe_separator": "",
                 "personal_rating": "Also, it could use some textbooks to supplement some learnings, I recommend checking to the music resources for that.",
                 "description": "It's a Coursera course offered by Edinburgh University on fundamentals of music theory."
+            },
+            "Hacker Tools": {
+                "type": "Massive Open Online Courses (MOOCS)",
+                "name": "Hacker Tools",
+                "link": "https://hacker-tools.github.io/",
+                "pipe_separator": "",
+                "personal_rating": "I recommend this a lot if you want to explore options for programming. A lot of people said that tools are not much of importance but I still think it's great to have an overview course regarding those said tools.",
+                "description": "An MIT lecture series on programming tools. Also can serve as a resource list for different programming tools on text editors, version control systems, and desktop configurations."
             },
             "MOOC List": {
                 "type": "Massive Open Online Courses (MOOCS)",
@@ -714,7 +745,7 @@
                 "link": "https://lmms.io/",
                 "pipe_separator": "",
                 "personal_rating": "Also comes with a community of musicians, too",
-                "description": "A digital audio workstation that lets you composes beats and music."
+                "description": "A free and open source digital audio workstation that lets you composes beats and music. It can run on the major desktop operating systems: Windows, Mac OS, and Linux. If you want to visit the source code, you can go [right here](https://github.com/LMMS/lmms/)."
             },
             "MuseScore": {
                 "type": "Music",
@@ -722,7 +753,14 @@
                 "link": "https://musescore.org/",
                 "pipe_separator": "",
                 "personal_rating": "I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company.",
-                "description": "A free and open source composition and notation software."
+                "description": "A free and open source composition and notation software. It also has cross-platform support for Windows, Mac OS, and Linux. You can see the source code itself on their [remote Git repo](https://github.com/musescore/MuseScore/)."
+            },
+            "Music Theory for Musicians and Normal People (by *Toby W. Rush*)": {
+                "type": "Music",
+                "name": "Music Theory for Musicians and Normal People (by *Toby W. Rush*)",
+                "link": "http://tobyrush.com/theorypages/index.html",
+                "pipe_separator": "",
+                "description": "A free collection of one-page PDFs created by Toby Rush discussing the basics of music theory. (Also, you could just download all of the pages in one PDF if you look at the bottom.)"
             },
             "Native Instruments Komplete Start Production Suite": {
                 "type": "Music",
@@ -963,12 +1001,22 @@
                 "link": "https://adventofcode.com/",
                 "pipe_separator": "",
                 "personal_rating": "Very much recommended, also beginner-friendly for challenges (kinda).",
-                "description": "An annual event where a challenge set is gradually released every Advent season."
+                "description": "An annual event where a challenge set is gradually released every Advent season (starting from December 1st)."
             },
             "Coderbyte": {
                 "type": "Katas (Practice Sites)",
                 "name": "Coderbyte",
-                "link": "http://coderbyte.com"
+                "link": "http://coderbyte.com",
+                "pipe_separator": "",
+                "description": "A website to improve your coding skills with a set of coding challenges. It can also help with your upcoming interview with their set of challenges designed for that."
+            },
+            "Codechef": {
+                "type": "Katas (Practice Sites)",
+                "name": "Codechef",
+                "link": "http://www.codechef.com/",
+                "pipe_separator": "",
+                "personal_rating": "One of my personal recommendations. Give it a try.",
+                "description": "A website and a community of coding challengers that offers a wide variety of coding challenges-related activities. Includes occasional contests, programming tutorials, a freeCodeCamp forum-esque Q&A forum, and coding challenges for all programmers of different skill levels."
             },
             "Codewars": {
                 "type": "Katas (Practice Sites)",
@@ -990,7 +1038,8 @@
                 "name": "Daily Coding Problem",
                 "link": "https://www.dailycodingproblem.com/",
                 "pipe_separator": "",
-                "personal_rating": "They also have a [relatively recent book on it](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634), as well."
+                "personal_rating": "They also have a [relatively recent book on it](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634), as well.",
+                "description": "A set of coding problems that's being asked by top tech companies such as Google and IBM is being sent to your email one problem every day. Offers at least a hundred of coding challenges from easy to advanced problems to be solved in your way."
             },
             "Euler Project": {
                 "type": "Katas (Practice Sites)",
@@ -1199,8 +1248,16 @@
         "main_color": "#fed99b"
     },
     "Podcasts": {
-        "description": "A list of podcast series on different subjects, mainly computer science.",
+        "description": "A list of podcast series on different subjects that I personally listen to.",
         "children": {
+            "Awesome Podcasts for Software Engineers (by *rShetty*)": {
+                "type": "Podcasts",
+                "name": "Awesome Podcasts for Software Engineers (by *rShetty*)",
+                "link": "https://github.com/rShetty/awesome-podcasts",
+                "pipe_separator": "",
+                "personal_rating": "I recommend you to go here if you didn't like what I enlisted here.",
+                "description": "An [awesome](https://github.com/sindresorhus/awesome) list of podcasts for software engineering and programming. It contains detailed information on the individual podcasts (which is always neat) with the host(s) and the average running time of each episode. The list also offers podcast series in different languages aside in English."
+            },
             "BaseCS": {
                 "type": "Podcasts",
                 "name": "BaseCS",
@@ -1270,7 +1327,7 @@
                 "name": "Soft Skills Engineering",
                 "link": "https://softskills.audio/",
                 "pipe_separator": "",
-                "personal_rating": "Hoohoo! I recommend this podcast series since it's quite different.",
+                "personal_rating": "Hoohoo! I recommend this podcast series since it's quite different from my usual podcast series that I listen to.",
                 "description": "It's a podcast series about the things that relate to software engineering that are not mostly coding-related."
             },
             "You Are Not So Smart": {
@@ -1287,6 +1344,13 @@
     "Blogs": {
         "description": "Includes a list of blogs of various subjects and knowledge fields (mainly in programming).",
         "children": {
+            "Awesome Engineering Blogs (by *kilimchoi*)": {
+                "type": "Blogs",
+                "name": "Awesome Engineering Blogs (by *kilimchoi*)",
+                "link": "https://github.com/kilimchoi/engineering-blogs",
+                "pipe_separator": "",
+                "description": "An [awesome](https://github.com/sindresorhus/awesome) list that lists out engineering blogs from technologies, companies, and persons that you can refer to."
+            },
             "Cal Newport": {
                 "type": "Blogs",
                 "name": "Cal Newport",
@@ -1391,47 +1455,61 @@
         "icon_name": "blog",
         "main_color": "#35a7ff"
     },
-    "Newsletter": {
-        "description": "A list on newsletters reaching a variety of topics, sending you writings and resources in a certain interval.",
+    "Newsletters": {
+        "description": "A list on newsletters of various topics, sending you writings and resources in a certain interval of time.",
         "children": {
+            "Awesome C++": {
+                "type": "Newsletters",
+                "name": "Awesome C++",
+                "link": "https://cpp.libhunt.com/newsletter",
+                "pipe_separator": "",
+                "description": "A curated weekly newsletter on anything new on C++ from libraries, frameworks, and language specifications."
+            },
+            "Awesome Newsletters (by *zudochkin*)": {
+                "type": "Newsletters",
+                "name": "Awesome Newsletters (by *zudochkin*)",
+                "link": "https://github.com/zudochkin/awesome-newsletters",
+                "pipe_separator": "",
+                "personal_rating": "I would you to refer here if you're looking for your specific needs.",
+                "description": "An [awesome](https://github.com/sindresorhus/awesome) resource list on newsletters for different programming subfields, programming languages and tools such as C++, Python, JavaScript, and HTML5 game development."
+            },
             "Frontend Focus": {
-                "type": "Newsletter",
+                "type": "Newsletters",
                 "name": "Frontend Focus",
                 "link": "https://frontendfoc.us/",
                 "pipe_separator": "",
-                "description": "Another weekly newsletter about front-end development."
+                "description": "A weekly newsletter about front-end development."
             },
             "Gamedev.js Weekly": {
-                "type": "Newsletter",
+                "type": "Newsletters",
                 "name": "Gamedev.js Weekly",
                 "link": "http://gamedevjsweekly.com/",
                 "pipe_separator": "",
                 "description": "Weekly newsletter about HTML5 Game Development."
             },
             "JavaScript Weekly": {
-                "type": "Newsletter",
+                "type": "Newsletters",
                 "name": "JavaScript Weekly",
-                "link": "https://javascriptweekly.com/"
-            },
-            "Node Weekly": {
-                "type": "Newsletter",
-                "name": "Node Weekly",
-                "link": "http://nodeweekly.com/"
+                "link": "https://javascriptweekly.com/",
+                "pipe_separator": "",
+                "description": "A weekly newsletter that sends a curated list of JavaScript-related articles and tutorials."
             },
             "Official Node.js Weekly Newsletter": {
-                "type": "Newsletter",
+                "type": "Newsletters",
                 "name": "Official Node.js Weekly Newsletter",
-                "link": "https://newsletter.nodejs.org/"
+                "link": "https://newsletter.nodejs.org/",
+                "pipe_separator": "",
+                "description": "A monthly newsletter that sends you a curated list of news and resources involving Node.js."
             },
             "Postanly": {
-                "type": "Newsletter",
+                "type": "Newsletters",
                 "name": "Postanly",
                 "link": "https://postanly.ongoodbits.com/",
                 "pipe_separator": "",
                 "description": "A weekly digest of productivity life articles."
             },
             "Pycoders Weekly": {
-                "type": "Newsletter",
+                "type": "Newsletters",
                 "name": "Pycoders Weekly",
                 "link": "https://pycoders.com/",
                 "pipe_separator": "",
@@ -1442,7 +1520,7 @@
         "main_color": "#f4e76e"
     },
     "YouTube Channels": {
-        "description": "Includes a list of YouTube channels on various topics that I truly recommend.",
+        "description": "Includes a list of YouTube channels on various topics that I personally watch out for.",
         "children": {
             "Coding Tech": {
                 "type": "YouTube Channels",
@@ -1473,7 +1551,8 @@
                 "name": "Eddie Woo",
                 "link": "https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ",
                 "pipe_separator": "",
-                "personal_rating": "Recommended for pre-calculus concepts."
+                "personal_rating": "Recommended for pre-calculus concepts. Pair that up with Professor Leonard (another of my personal recommendations) and you have a pair of YouTube channels that teaches high school mathematics for you.",
+                "description": "A YouTube channel led by [the titular mathematics teacher](https://misterwootube.com/) who produces online content for mathematics, mainly on pre-calculus topics."
             },
             "freeCodeCamp": {
                 "type": "YouTube Channels",
@@ -1489,7 +1568,7 @@
                 "link": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q",
                 "pipe_separator": "",
                 "personal_rating": "An entertaining developer, a plus for me.",
-                "description": "Your metaphorical caffeine every Monday."
+                "description": "Your metaphorical caffeine every Monday. A YouTube channel hosted by [@mpjme](https://twitter.com/mpjme) that focuses on various developer-related concepts."
             },
             "Jarvis Johnson": {
                 "type": "YouTube Channels",
@@ -1556,6 +1635,14 @@
                 "personal_rating": "Recommend it a lot! Dan Shiffman is not only a good instructor but a very entertaining one, too! 🤗",
                 "description": "A programming YouTube channel mainly hosted by [Dan Shiffman](https://shiffman.net/) that focuses on mathematical and creative coding."
             },
+            "Travesty Media": {
+                "type": "YouTube Channels",
+                "name": "Travesty Media",
+                "link": "https://www.youtube.com/user/TechGuyWeb/",
+                "pipe_separator": "",
+                "personal_rating": "A very good starting point on web development.",
+                "description": "Focuses on creating simple and easy-to-follow web development and programming content."
+            },
             "Vsauce": {
                 "type": "YouTube Channels",
                 "name": "Vsauce",
@@ -1578,14 +1665,6 @@
     "Operating Systems": {
         "description": "Includes free operating systems of different platforms to be able to run different programs on your machine. (I mean you wouldn't see this site if it wasn't for those, right?)",
         "children": {
-            "Windows 10": {
-                "type": "Operating Systems",
-                "name": "Windows 10",
-                "link": "https://www.microsoft.com/en-us/software-download/windows10ISO",
-                "pipe_separator": "",
-                "personal_rating": "I guess it is free now, also recommended if you want to explore Windows app marketplace.",
-                "description": "Includes various reasons to stay or dual-boot with a Linux distro."
-            },
             "Arch Linux": {
                 "type": "Operating Systems",
                 "name": "Arch Linux",
@@ -1602,19 +1681,27 @@
                 "personal_rating": "This is the Linux distro that I'm using right now.",
                 "description": "Kind of similar to Ubuntu but it is backed by [Red Hat](https://www.redhat.com/en) and it is used as a testbed for the latest features. Usually updates every 6 months."
             },
+            "FreeBSD": {
+                "type": "Operating Systems",
+                "name": "FreeBSD",
+                "link": "https://www.freebsd.org/",
+                "pipe_separator": "",
+                "description": "A free and open source operating system based on BSD."
+            },
             "Linux Mint": {
                 "type": "Operating Systems",
                 "name": "Linux Mint",
                 "link": "https://www.linuxmint.com/",
                 "pipe_separator": "",
-                "personal_rating": "Recommended for beginners."
+                "personal_rating": "Recommended for beginners.",
+                "description": "An Ubuntu-based distro with a fixed release model that provides a classic desktop experience with multimedia support out-of-the-box and user-created configuration."
             },
             "Manjaro": {
                 "type": "Operating Systems",
                 "name": "Manjaro",
                 "link": "https://manjaro.org/",
                 "pipe_separator": "",
-                "description": "Another one of the beginner-friendly distro."
+                "description": "An Arch-based desktop and intuitive Linux distro with a rolling release model. Another one of the beginner-friendly distro that gives you an ease of maintenance and a wide range of available software with Arch Linux software repositories."
             },
             "OpenSUSE": {
                 "type": "Operating Systems",
@@ -1638,12 +1725,13 @@
                 "personal_rating": "I recommend this one for beginners. Though I have some problems with it due to hardware issues.",
                 "description": "A stable release Linux distro made by Canonical being updated every 6 months starting from April. Has two releases, one being the long-term support (LTS) version and the other is the more advanced version."
             },
-            "FreeBSD": {
+            "Windows 10": {
                 "type": "Operating Systems",
-                "name": "FreeBSD",
-                "link": "https://www.freebsd.org/",
+                "name": "Windows 10",
+                "link": "https://www.microsoft.com/en-us/software-download/windows10ISO",
                 "pipe_separator": "",
-                "description": "A free and open source operating system based on BSD."
+                "personal_rating": "I guess it is free now, also recommended if you want to explore Windows app marketplace.",
+                "description": "Includes various reasons to stay or dual-boot with a Linux distro."
             }
         },
         "icon_name": "operating-system",
@@ -1743,13 +1831,20 @@
                 "pipe_separator": "",
                 "description": "A free and open source Chromium-based (similar to the roots of Google Chrome browser) browser that focuses on privacy and security. You can find its repo [over here](https://github.com/brave/brave-browser) along with the links of its mobile version of the app."
             },
+            "Chromium": {
+                "type": "Web Browsers",
+                "name": "Chromium",
+                "link": "https://chromium.org/",
+                "pipe_separator": "",
+                "description": "An open-source browser initiated by Google."
+            },
             "Firefox Developer Edition": {
                 "type": "Web Browsers",
                 "name": "Firefox Developer Edition",
                 "link": "https://www.mozilla.org/en-US/firefox/developer/all/",
                 "pipe_separator": "",
                 "personal_rating": "My choice of web browser in development. Though, it doesn't mean it's the only dev browser I use.",
-                "description": "| A developer-oriented version of Firefox web browser made by Mozilla Foundations allowing you to explore the upcoming production features."
+                "description": "A developer-oriented version of Firefox web browser made by Mozilla Foundations allowing you to explore the upcoming production features."
             },
             "Firefox": {
                 "type": "Web Browsers",
@@ -1757,7 +1852,7 @@
                 "link": "https://www.mozilla.org/en-US/firefox/all/",
                 "pipe_separator": "",
                 "personal_rating": "My choice of web browser from desktop to mobile.",
-                "description": "A free web browser made by [Mozilla Foundations](https://foundation.mozilla.org/) and one of the major web browsers as well."
+                "description": "A free and open source web browser made by [Mozilla Foundations](https://foundation.mozilla.org/) and one of the major web browsers as well."
             },
             "Google Chrome Beta": {
                 "type": "Web Browsers",
@@ -1771,7 +1866,7 @@
                 "name": "Google Chrome",
                 "link": "https://www.google.com/intl/en/chrome/",
                 "pipe_separator": "",
-                "description": "It's one of the major browsers in the web development field. Also has the biggest market so I have to include it here."
+                "description": "A free web browser created by Google based on their Chromium project. It's one of the major browsers in the web development field. Also has the biggest market so I have to include it here."
             }
         },
         "icon_name": "web-browsers",
@@ -2264,12 +2359,33 @@
     "Inspiration": {
         "description": "Needed some inspiration for ideas or projects (or just want to get some things done)? Here's some of the resources that offers that.",
         "children": {
+            "Build Your Own X (by *danistefanovic*)": {
+                "type": "Inspiration",
+                "name": "Build Your Own X (by *danistefanovic*)",
+                "link": "https://github.com/danistefanovic/build-your-own-x",
+                "pipe_separator": "",
+                "description": "A list of resources for building your own version of a technology from programming languages, 3D renderers, bots, games, and text editors."
+            },
             "Dribbble": {
                 "type": "Inspiration",
                 "name": "Dribbble",
                 "link": "https://dribbble.com/",
                 "pipe_separator": "",
                 "description": "If you want some inspiration for some design-related projects, here's a community site of designers that share their own work."
+            },
+            "OS Tutorial (by *cfenollosa*)": {
+                "type": "Inspiration",
+                "name": "OS Tutorial (by *cfenollosa*)",
+                "link": "https://github.com/cfenollosa/os-tutorial",
+                "pipe_separator": "",
+                "description": "A GitHub repo that contains a tutorial on making your own operating system from scratch."
+            },
+            "OSDev.org": {
+                "type": "Inspiration",
+                "name": "OSDev.org",
+                "link": "https://wiki.osdev.org/Main_Page",
+                "pipe_separator": "",
+                "description": "A detailed wiki on operating system development."
             },
             "Project Based Learning (by *tuvtran*)": {
                 "type": "Inspiration",
@@ -2406,9 +2522,9 @@
                 "personal_rating": "It's also a good site to get public domain materials and some textbooks in here.",
                 "description": "It's an archive site for everything. You can find a lot of stuff in there."
             },
-            "Developer Roadmap (by kamranahmedse)": {
+            "Developer Roadmap (by *kamranahmedse*)": {
                 "type": "Miscellaneous",
-                "name": "Developer Roadmap (by kamranahmedse)",
+                "name": "Developer Roadmap (by *kamranahmedse*)",
                 "link": "https://github.com/kamranahmedse/developer-roadmap",
                 "pipe_separator": "",
                 "personal_rating": "If you're looking for a web development roadmap, here's one quality resource for that.",
