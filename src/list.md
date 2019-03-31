@@ -70,7 +70,7 @@
 
 ## Free and Open Access Textbooks
 ### This section offers a collection of free (if not, open which is even better) textbooks for everyone. Most of them are something programming-related but you can see more of them at the "Open Educational Resources" section. | textbook | #f28123
-- [Algorithms (by *Jeff Erickson*)](https://algorithms.wtf/) | It's a good book on algorithms (though not recommended as a first book on data structures and algorithms).
+- [Algorithms (by *Jeff Erickson*)](http://algorithms.wtf/) | It's a good book on algorithms (though not recommended as a first book on data structures and algorithms).
 - [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/) | **(Self-explanatory title is self-explanatory, I think.)** A book that gives you a rudimentary class on theoretical side of computer science. Most of the focus are directed on the formal mathematical side of things with the lessons being set theory, logic, proofs, graphs, and calculus.
 - [Calculus (by *Kalid Azad* from *Better Explained*)](https://betterexplained.com/calculus/) | **(One of the more beginner-friendly books on learning calculus. I recommend it to give it a chance.)** A free online primer that tackles on learning calculus with intuition.
 - [Free Math Textbooks](http://www.openculture.com/free-math-textbooks) | A list of free math textbooks from [Open Culture](http://www.openculture.com/).
@@ -82,7 +82,7 @@
 - [Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)](https://ptolemy.berkeley.edu/books/leeseshia/download.html)
 - [Invent with Python](https://inventwithpython.com/) | A collection of free Python online books authored by Al Sweigart.
 - [Learn You A Haskell](http://learnyouahaskell.com/) | A free web book that teaches you functional programming through [Haskell](https://www.haskell.org/).
-- [Notes for Professionals](http://book.goalkicker.com/) | **(Very much recommended, a LOT.)** Made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well; also, it is frequently updated like once per week.
+- [Notes for Professionals](http://book.goalkicker.com/) | **(This is not much of a recommended resource in the long term since it's based on [Stack Overflow's experimental documenation project that has been abandoned recently](https://meta.stackoverflow.com/questions/354217/sunsetting-documentation). Also see the /r/learnprogramming explanation as to [why this resource is discouraged](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_discouraged_resources). Yeah, take caution when referring with this material. Ultimately, it's better to refer to the official documentation than this one though it's nice while it still lasts.)** Made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well. 
 - [Open Data Structures](http://opendatastructures.org/) | **(I really like the different programming languages approach with this book.)** An open content textbook that tackles the implementation and analysis of data structures such as queues, dictionaries, and graphs. Offers versions for different programming languages as well for you to take the book with ease in your favorite programming language. 
 - [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) | An open MIT Press web book that focuses on analyzing and discussing the performance of computer programs and the practices of writing fast programs.
 - [Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)](https://sarabander.github.io/sicp/) | Unofficial (and prettier) version of [one of MIT's famous programming book (that can also be found online)](https://mitpress.mit.edu/sites/default/files/sicp/index.html).
@@ -109,10 +109,12 @@
 
 ## Music
 ### Includes a bunch of resources that can aid you in studying music with free resources. | music-note | #13293d
+- [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw) | A YouTube channel that focuses on video game music from dynamic music similar to [Banjo Kazooie](https://en.wikipedia.org/wiki/Banjo-Kazooie)'s (or [A Hat in Time](http://hatintime.com/), if you want a modern example) varying version of the stage theme to video game music with odd time signatures.
+- [Ardour](https://ardour.org/) | A free and open source digital audio workstation (DAW) with an emphasis on audio recording. It is also a cross-platform tool being able to run on the three major OS (Windows, Mac OS, and Linux). If you want to see the source code of this tool, you can visit the [remote repo](https://github.com/Ardour/ardour).
 - [Awesome Music](https://github.com/ciconia/awesome-music) | An [awesome](https://github.com/sindresorhus/awesome) list that lists out free music libraries and tools.
 - [Bandlab](https://www.bandlab.com/) | A free web-based digital audio workstation (DAW) by Cakewalk, known for their premium DAW by the same name. It's also a social platform for musicians to share their work.
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | A Coursera course offered by Edinburgh University to get you started on learning the rudimentary information on music theory.
-- [LMMS](https://lmms.io/) | **(Also comes with a community of musicians, too)** A free and open source digital audio workstation that lets you composes beats and music. It can run on the major desktop operating systems: Windows, Mac OS, and Linux. If you want to visit the source code, you can go [right here](https://github.com/LMMS/lmms/).
+- [LMMS](https://lmms.io/) | **(Also comes with a community of musicians with their sharing platform.)** A free and open source digital audio workstation that lets you composes beats and music. It can run on the major desktop operating systems: Windows, Mac OS, and Linux. If you want to visit the source code, you can go [right here](https://github.com/LMMS/lmms/).
 - [MuseScore](https://musescore.org/) | **(I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company.)** A free and open source composition and notation software. It also has cross-platform support for Windows, Mac OS, and Linux. You can see the source code itself on their [remote Git repo](https://github.com/musescore/MuseScore/).
 - [Music Theory for Musicians and Normal People (by *Toby W. Rush*)](http://tobyrush.com/theorypages/index.html) | A free collection of one-page PDFs created by Toby Rush discussing the basics of music theory. (Also, you could just download all of the pages in one PDF if you look at the bottom.)
 - [Native Instruments Komplete Start Production Suite](https://www.native-instruments.com/en/products/free/) | A free music production suite provided by Native Instruments, famous for their sampler program, Kontakt.
@@ -123,6 +125,7 @@
 ## Game Development
 ### Included are some resources for you to aid (or get started) on your game development process. If you want to add composing music and designing assets yourself for your own game, head on over to the Music Resources and Design Tool sections to check the options. | games | #ffe74c
 - [Awesome Gamedev (by *Calinou*)](https://github.com/Calinou/awesome-gamedev) | **(I could've chose [this featured list on awesome](https://github.com/ellisonleao/magictools) but for the spirit of free culture, I decided this pick the list by Calinou, instead.)** An [awesome](https://github.com/sindresorhus/awesome) list on free and open source software and free cultures to aid you in your game developing process.
+- [Boundary Break video series by *Shesez*](https://www.youtube.com/playlist?list=PLYfhW_P-MkU7vBmWwwyqdIWNDzXfEZwnO) | A YouTube video series by Shesez where he plays video games outside of gameplay boundaries. If you want to see how video games set are made, this can be a good starting point. 
 - [Blender](https://www.blender.org/) | A free and open source 3D modelling software. Despite being in the game dev't section, it could be used for things outside of game development such as 3D animations and illustrations.
 - [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) | **(I mean it's CS50, I totally recommend this one.)** One of CS50x's branching course. This time they introduce you to the game development process. Just like CS50, it offers you challenging problem sets to be able to get a solid grasp after lectures.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) | **(Recommending this so much when starting out with game development.)** A free web-based book that discusses about different coding patterns that is usually found on game development.
@@ -134,7 +137,7 @@
 ### Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study. | study | #8fb8de
 - [Awesome Research (by *emptymalei*)](https://github.com/emptymalei/awesome-research) | An [awesome](https://github.com/sindresorhus/awesome) list of mostly free and open source research tools and resources for your research project.
 - [Academia.edu](https://www.academia.edu/) | A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research.
-- [Brainly](https://brainly.com/) | **(Recommended if you're looking for a academics study group.)** A study group for students and peer-to-peer engagement. Formerly known as *OpenStudy*.
+- [Brainly](https://brainly.com/) | **(Recommended if you're looking for an academics study group.)** A study group for students and peer-to-peer engagement. Formerly known as *OpenStudy*.
 - [Figshare](https://figshare.com/) | A platform for open scientific research data. 
 - [Mendeley](https://mendeley.com/) | A research organization tool. Also comes with a research network.
 - [Google Scholar](https://scholar.google.com/) | An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis.
@@ -190,6 +193,7 @@
 - [freeCodeCamp Community](https://forum.freecodecamp.org) | A global community spanning the members who took interest into [freeCodeCamp](http://freecodecamp.org/).
 - [Instructables](https://www.instructables.com) | **(One of the best DIY community out there. Easy to navigate and explore, too.)** A community of DIY and hardware hackers that shares and explore for your DIY journey. They also offer [an array of courses regarding DIY](https://www.instructables.com/classes/) within the website, as well. We have electronics, 3D printing, cooking, and so much more.
 - [HackerNews](https://news.ycombinator.com/)
+- [Maker's Kitchen](https://makerskitchen.xyz/) | A community of indie product makers and enthusiasts. They have a Slack group with a wide range of channels and topics to discuss.
 - [Reddit /r/coding](https://www.reddit.com/r/coding/) | A subreddit that discusses programming without the constant barrage of HackerNews-esque type of tech and startup news.
 - [Reddit /r/learnprogramming](https://www.reddit.com/r/learnprogramming/) | A beginner-friendly dev subreddit for well, learning programming.
 - [Stack Overflow](https://stackoverflow.com) | **(Also look for the whole Meta Exchange network if you want to visit more communities other than Stack Overflow.)** A community for professional developers and those who are aspiring to be one. It revolves around helping each other through code reviews.
@@ -213,9 +217,8 @@
 ### Includes a list of blogs of various subjects and knowledge fields (mainly in programming). | blog | #35a7ff
 - [Awesome Engineering Blogs (by *kilimchoi*)](https://github.com/kilimchoi/engineering-blogs) | An [awesome](https://github.com/sindresorhus/awesome) list that lists out engineering blogs from technologies, companies, and persons that you can refer to.
 - [Cal Newport](http://calnewport.com/) | A computer science professor at Georgetown University that is known for writing student and learning productivity.
-- [College Info Geek](https://collegeinfogeek.com/) | Includes a plethora of articles ranging from productivity hacks to learning advices.
-- [Scott Young](https://scotthyoung.com/) | A blog that mainly focuses on learning and entrepreneurship.
 - [Coding Horror](https://blog.codinghorror.com/) | **(There's a wide array of topics he discussed in here despite the title of the blog.)** A tech blog that focuses on some things about the programming side of things.
+- [College Info Geek](https://collegeinfogeek.com/) | Includes a plethora of articles ranging from productivity hacks to learning advices.
 - [CSS Tricks](https://css-tricks.com/) | A blog that focuses on front-end development.
 - [Derek Sivers](https://sivers.org/) | A blog from a guy who had a lot of things to say on a lot of topics.
 - [Flavio Copes](https://flaviocopes.com/) | Another blog that focuses on front-end development.
@@ -224,6 +227,7 @@
 - [Jon Skeet's Coding Blog](https://codeblog.jonskeet.uk/) | Jon Skeet's blog; *\* insert Jon Skeet fact here \**
 - [Mozilla Hacks](http://hacks.mozilla.org/) | Mainly focuses on web development progress.
 - [Scott Logic](https://blog.scottlogic.com/) | It's a blog that focuses on a broad spectrum of stuff.
+- [Scott Young](https://scotthyoung.com/) | A blog that mainly focuses on learning and entrepreneurship.
 - [webapplog](https://webapplog.com/) | Mainly focuses on Node.js.
 - [Wes Bos's Blog](https://wesbos.com/blog/) | Creator of several courses and some helpful posts along the way.
 
@@ -240,24 +244,27 @@
 
 ## YouTube Channels
 ### Includes a list of YouTube channels on various topics that I personally watch out for. | youtube | #ff5964
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) | A YouTube channel that focuses on teaching mathematics intuitively by including animations.
+- [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw) | A YouTube channel that focuses on video game music from dynamic music similar to [Banjo Kazooie](https://en.wikipedia.org/wiki/Banjo-Kazooie)'s (or [A Hat in Time](http://hatintime.com/), if you want a modern example) varying version of the stage theme to video game music with odd time signatures.
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) | **(This could be handy for a sudden random tech learning.)** Includes tech talks and discussions.
 - [Crash Course](https://www.youtube.com/user/crashcourse/) | **(Recommended for introducing to the slightly deep topics of different fields.)** A YouTube channel that specializes in introducing you to a lot of concepts and subjects such as computers, sciences, and computer science.
-- [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) | **(It has [@mpjme](https://twitter.com/mpjme) from Fun Fun Function so I dig it.)** A beginner-friendly dev channel.
 - [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) | **(Recommended for pre-calculus concepts. Pair that up with Professor Leonard (another of my personal recommendations) and you have a pair of YouTube channels that teaches high school mathematics for you.)** A YouTube channel led by [the titular mathematics teacher](https://misterwootube.com/) who produces online content for mathematics, mainly on pre-calculus topics.
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | **(Since the amount of content in this channel is gigantic and most of them came from third-party developers, it's a good idea to use this as a browser of referential videos.)** freeCodeCamp's official YouTube channel. Its content varies from tutorials from other developers to a whole course series (in fact, CS50 made it as one of them). You could also view some of their content from their [freeCodeCamp Talks channel](https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A/videos).
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | **(An entertaining developer, a plus for me.)** Your metaphorical caffeine every Monday. A YouTube channel hosted by [@mpjme](https://twitter.com/mpjme) that focuses on various developer-related concepts.
-- [Jarvis Johnson](https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA) | **(I think he doesn't do those tech videos anymore.)** A commentary channel with a slightest bit of tech.
+- [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337) | Focuses on anything that is game design and development. Gives you insight on how Half Life teaches without a tutorial, how Megaman 11's level design does more with less, and the how does a particular level has been designed.
+- [Jarvis Johnson](https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA) | **(I think he doesn't do those tech videos anymore but I'm not complaining.)** A commentary channel with a slightest bit of tech.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) | Videos on various academic topics from mathematics, electronics, to economics and politics.
-- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
-- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) | **(Recommend it for web-development videos.)** A beginner-friendly channel that mostly contains tutorials and introductions on various topics.
-- [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) | Led by the titular Luke Smith focused for boomers 😎.
+- [LGR](https://www.youtube.com/channel/UCLx053rWZxCiYWsBETgdKrQ) | A YouTube channel that has a focus on retro computing though it does have a bit of a variety of content from game reviews to thrift store trips.
+- [LOOK MUM NO COMPUTER](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw) | Includes content on creating weird inventions and other stuff by a musician and inventor: a fart box, a synth that plays on a bike, a DIY envelope generator, and much more.
+- [LowSpecGamer](https://www.youtube.com/channel/UCQkd05iAYed2-LOmhjzDG6g) | **(As someone with a low-end computer myself, I really appreciate this channel. Pushing the limits of low-end hardware by forcing it to play modern games as smoothly as possible, no matter how it'll look like &mdash; it's ridiculously funny.)** A YouTube channel introducing you how to play modern/high-end video games with low-end computers and configurations.
 - [Majorprep](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w) | Mainly creates content for preparing you to choose a major to be taken in college. Includes introductory videos for various majors such as mathematics, engineering, and physics. Also includes some student productivity and learning advices, as well.
-- [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) | Focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it.
+- [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) | Focuses on mathematicLs so if you want to learn math through YouTube, here is one channel that specializes on it.
+- [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA) | A YouTube channel of a teacher who produces content on various academic topics including mathematics, sciences, and history.
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | **(Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.)** A YouTube channel that focuses on giving topics on calculus.
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) | A YouTuber that focuses on anything related to machine learning and AI development.
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) | **(Recommend it a lot! Dan Shiffman is not only a good instructor but a very entertaining one, too! 🤗)** A programming YouTube channel mainly hosted by [Dan Shiffman](https://shiffman.net/) that focuses on mathematical and creative coding.
 - [Travesty Media](https://www.youtube.com/user/TechGuyWeb/) | **(A very good starting point on web development.)** Focuses on creating simple and easy-to-follow web development and programming content.
 - [Vsauce](https://www.youtube.com/user/Vsauce) | **(Need to say more?)** It's a YouTube channel led by Michael Stevens that focuses on the knowledge. Any type of knowledge and nerd-labelled stuff, really.
-- [Wes Bos YouTube Channel](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) | The YouTube channel of [Wes Bos](https://wesbos.com/), a web developer well known for his free courses such as [JavaScript30](https://javascript30.com/), [CSS Grid](https://cssgrid.io/), and [What The Flexbox?!](http://flexbox.io/).
 
 ## Operating Systems
 ### Includes free operating systems of different platforms to be able to run different programs on your machine. (I mean you wouldn't see this site if it wasn't for those, right?) | operating-system | #91c5c1
@@ -278,8 +285,8 @@
 - [Codepen](https://codepen.io) | A playground IDE for front-end development.
 - [CodeSandbox](https://codesandbox.io/) | **(Also it works offline and mainly used for front-end frameworks so it's a double plus for me.)** Really acts as a solid online alternative in case you want to work on the go (mostly, for JavaScript-oriented web development). Has strong support for front-end libraries and frameworks such as React, Vue, and Angular.
 - [Eclipse](https://www.eclipse.org/) | Offers a wide variety of programming tools and IDEs for different programming languages and development processes.
-- [Jetbrains](https://www.jetbrains.com/) | **(Recommend it a lot for the variety of tools that they're offering.)** Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.
-- [Repl.it](https://repl.it/) | **(Recommend it a lot when starting out with back-end development.)** An IDE for different programming languages. Also supports back-end development to be able to quickly share and test it with other people.
+- [Jetbrains Tools Suite](https://www.jetbrains.com/) | **(Recommend it a lot for the variety of tools that they're offering.)** Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.
+- [Repl.it](https://repl.it/) | **(Recommend it a lot when starting out with back-end development. The tool also has a hacker community behind it so I recommend you to take a look at it.)** An IDE for different programming languages. Also supports back-end development to be able to quickly share and test it with other people.
 - [Vim](https://www.vim.org/) | **(I have no words for this, yet. The closest experience so far is by using the default text editor on my Git installation.)** A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds). 
 - [Visual Studio (IDE)](https://www.visualstudio.com/) | **(I recommend this but don't be overly reliant ;p)** A Windows-only IDE that offers wide support for different programming languages and tech stacks from mobile apps, games, desktop apps, and web apps. 
 - [Visual Studio Code](https://code.visualstudio.com/) | **(THIS VERY MUCH!)** A free and open source platform-agnostic (found on Windows, Mac, & Linux) text editor that runs in Electron. You can visit the source code right [here](https://github.com/Microsoft/vscode).
@@ -304,10 +311,13 @@
 ## Productivity Tools
 ### A myriad of tools of various types to aid you into being productive. | clock | #ffa552
 - [A Soft Murmur](https://asoftmurmur.com/) | An ambient noise generator with a lot more sounds than rain.
+- [Buttercup](https://buttercup.pw/) | **(I'm thinking of migrating to this password manager now.)** A free and open source cross-platform password manager for your computer. Available in desktop, mobile, and as browser extensions to easily integrate with your browsing experience.  One neat feature of this password manager is that the credentials can be stored on your own computer or on the cloud with default support for cloud services (like Dropbox). You could visit the repo of this program [in this GitHub repo](https://github.com/buttercup/buttercup-desktop).
 - [Calibre](https://calibre-ebook.com/) | An e-book library management tool.
 - [Habitica](https://habitica.com/) | A very cool app that gamifies your life. Turn your life around into an RPG, literally! (READ: not *that* RPG)
+- [Keepass](https://keepass.info/) | A free and open source password manager for your desktop. If you want to see the source code, you can go to the [repo at Sourceforge](https://sourceforge.net/projects/keepass/).
 - [LastPass](https://lastpass.com) | A cloud password manager.
 - [Notion](https://www.notion.so/) | Distraction-free app for taking notes in Markdown.
+- [Makerlog](https://getmakerlog.com) | A productive logger for makers. You also get to meet a community of hackers and makers who create useful (or not) products.
 - [Rainy Mood](http://www.rainymood.com/) | Lets you focus through the ambience (if you're the type who find rain to be relaxing).
 - [RescueTime](https://www.rescuetime.com/) | A time management software that tracks your activities and rating them whether you've been productive or not.
 - [StackEdit](https://stackedit.io) | **(Really, really recommending you to check this one out.)** A web-based Markdown editor that comes with a lot of integration options to sync your notes with (include GitHub).
@@ -315,9 +325,14 @@
 
 ## Mathematics
 ### A collection of resources and tools to be able to aid you into solving mathematical problems. | math | #473144
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) | A YouTube channel that focuses on teaching mathematics intuitively by including animations. If you want to get started learning mathematics with this channel, I recommend to look into the playlist (or the Essence of X series).
+- [Awesome Math (by *rossant*)](https://github.com/rossant/awesome-math) | An [awesome](https://github.com/sindresorhus/awesome) list of websites, tools, and lecture notes for the branches of mathematics such as topology, calculus, analysis, and more.
+- [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) | **(Recommended for pre-calculus concepts. Pair that up with Professor Leonard (another of my personal recommendations) and you have a pair of YouTube channels that teaches high school mathematics for you.)** A YouTube channel led by [the titular mathematics teacher](https://misterwootube.com/) who produces online content for mathematics, mainly on pre-calculus topics.
 - [fxSolver](https://www.fxsolver.com/) | A mathematical solver. Also provides formula for different fields including medical sciences, aerospace engineering, computer sciences, and much more.
 - [Geogebra](https://www.geogebra.org/) | A free and open source web suite of mathematical tools. Includes a graphing calculator, a 3D graphing tool, and geometry tools. Also provides mathematical resources for different mathematical branches which you can see in their [Resources section](https://www.geogebra.org/materials).
 - [Mathway](https://www.mathway.com/) | Similar to Geogebra, it provides a free online-based suite of mathematical tools to help in solving problems ranging from algebra, calculus, statistics, linear algebra, and even chemistry.
+- [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) | A YouTube channel that focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it.
+- [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | **(Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.)** A YouTube channel that focuses on giving topics on calculus.
 - [Symbolab](https://www.symbolab.com/) | A step by step calculator aiding you in solving algebra and calculus problems. One of the main features here is they also provide [practice problems and quizzes](https://www.symbolab.com/practice) in the site to help you improve your problem solving skills.
 - [SciPy](https://www.scipy.org/) | A free and open source mathematical, science, and engineering set of Python-based libraries and frameworks.
 - [Sage](http://www.sagemath.org/index.html) | A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more.
@@ -333,7 +348,8 @@
 - [GitLab](https://gitlab.com/) | **(Like GitHub, they also provide [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) which can serve static files.)** Includes unlimited ~~blade~~ free privated repos and an integrated continuous integration/continuous delivery (CI/CD) services.
 - [Heroku](http://heroku.com/) | **(Recommended, if you're starting with back-end development. I find it easy to deploy apps with it.)** Easy to deploy system for backend of your apps. Supports a wide variety of tech stacks such as for Python, PHP, Node, and Ruby on Rails.
 - [Microsoft Azure | Free Tier](https://azure.microsoft.com/en-us/free/) | Includes a year of free trial for their premium products such as Linux and Windows virtual machines, file storage, and SQL databases.
-- [Netlify](http://netlify.com/) | **(Also comes with ways on how to make your static site be dynamic or something.)** Their free options is pretty much amazing for static websites. 
+- [Netlify](http://netlify.com/) | **(Also comes with ways on how to make your static site be dynamic or something.)** Their free options is pretty much amazing for static websites.
+- [Sourceforge](https://sourceforge.net/) | A platform for your upcoming open source software projects.
 
 ## Stock Resources
 ### A collection of sites that offers digital content with open licensing (or at least free for personal use). | stocks | #ede7b1
@@ -371,7 +387,8 @@
 ## Student Packs
 ### Here are some of the organizations that offers free resources and benefits for students if they choose to sign up for. | student-packs | #cdcdcd
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) | Offers a free educational license for using Amazon Web Services (AWS).
-- [Autocad](https://www.autodesk.com/education/free-software/featured) | Offers free years of the premium version of their productline of computer-aided design (CAD) programs.
+- [Autocad Education](https://www.autodesk.com/education/free-software/featured) | Offers free years of the premium version of their productline of computer-aided design (CAD) programs.
+- [Azure for Education](https://azure.microsoft.com/en-us/free/students/) | A free student grant for students. Grants you $100 Azure Credits and a wide range of free developer products. Also, no credit card needed but you have to prove you're a student through email address (I guess those .edu top-level domain or something).
 - [GitHub Educational Pack](https://education.github.com/pack/) | **(Recommending this by a long shot. A plethora of benefits from here.)** Assortment of benefits like unlimited private repositories on their own site, free domain name for a year, and free premium boosts on more sites.
 - [JetBrain Student Pack](https://www.jetbrains.com/student/) | Offers free educational licenses for their tools such as [WebStorm](https://www.jetbrains.com/webstorm/), [Clion](https://www.jetbrains.com/clion/), and [PhpStorm](https://www.jetbrains.com/phpstorm/). You could also re-apply as long as you're still eligible.
 
@@ -381,6 +398,7 @@
 - [Dribbble](https://dribbble.com/) | If you want some inspiration for some design-related projects, here's a community site of designers that share their own work.
 - [OS Tutorial (by *cfenollosa*)](https://github.com/cfenollosa/os-tutorial) | A GitHub repo that contains a tutorial on making your own operating system from scratch.
 - [OSDev.org](https://wiki.osdev.org/Main_Page) | A detailed wiki on operating system development.
+- [Product Hunt](https://www.producthunt.com/) | A platform for 
 - [Project Based Learning (by *tuvtran*)](https://github.com/tuvtran/project-based-learning) | **(You can also make a project based on the things that listed here. Think of it like a fork of the project.)** A GitHub repo that offers a curated list for project-based learning. If you're the type of person who's quite comfortable learning by doing, have a quick go.
 - [Projects (by *karan*)](https://github.com/karan/Projects) | A GitHub repo of a project list.
 - [Rosetta Code Programming Tasklist](https://rosettacode.org/wiki/Category:Programming_Tasks) | It's a humungous list of programming tasks that you can do ranging from intermediate to advanced thinking and planning skills to get the job rolling.
@@ -390,6 +408,7 @@
 - [Creative Commons](https://creativecommons.org/) | An organization that provides easy-to-use licenses for your intellectual works while giving the public the permission to use, enabling for easier collaboration with protection for your efforts.
 - [Linux.com](https://www.linux.com/) | It's about Linux and open source software, overall.
 - [Mozilla Foundations](https://foundation.mozilla.org/) | A software foundation that pushes free internet for all.
+- [OER Commons](https://www.oercommons.org/) | A community that supports open educational resources to be accessible to all.
 - [Open Culture](http://www.openculture.com/) | A site that provides open content and resources.
 - [Open Source](https://opensource.com/) | A site supported by [Red Hat](https://www.redhat.com/en) that talks all open source things.
 - [Linux Foundation](https://www.linuxfoundation.org) | A open source software foundation that brings technology together to create an ecosystem of open source programs.

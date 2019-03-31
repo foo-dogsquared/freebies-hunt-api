@@ -466,7 +466,7 @@
             "Algorithms (by *Jeff Erickson*)": {
                 "type": "Free and Open Access Textbooks",
                 "name": "Algorithms (by *Jeff Erickson*)",
-                "link": "https://algorithms.wtf/",
+                "link": "http://algorithms.wtf/",
                 "pipe_separator": "",
                 "description": "It's a good book on algorithms (though not recommended as a first book on data structures and algorithms)."
             },
@@ -552,8 +552,8 @@
                 "name": "Notes for Professionals",
                 "link": "http://book.goalkicker.com/",
                 "pipe_separator": "",
-                "personal_rating": "Very much recommended, a LOT.",
-                "description": "Made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well; also, it is frequently updated like once per week."
+                "personal_rating": "This is not much of a recommended resource in the long term since it's based on [Stack Overflow's experimental documenation project that has been abandoned recently](https://meta.stackoverflow.com/questions/354217/sunsetting-documentation). Also see the /r/learnprogramming explanation as to [why this resource is discouraged](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_discouraged_resources). Yeah, take caution when referring with this material. Ultimately, it's better to refer to the official documentation than this one though it's nice while it still lasts.",
+                "description": "Made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well."
             },
             "Open Data Structures": {
                 "type": "Free and Open Access Textbooks",
@@ -718,6 +718,20 @@
     "Music": {
         "description": "Includes a bunch of resources that can aid you in studying music with free resources.",
         "children": {
+            "8-bit Music Theory": {
+                "type": "Music",
+                "name": "8-bit Music Theory",
+                "link": "https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw",
+                "pipe_separator": "",
+                "description": "A YouTube channel that focuses on video game music from dynamic music similar to [Banjo Kazooie](https://en.wikipedia.org/wiki/Banjo-Kazooie)'s (or [A Hat in Time](http://hatintime.com/), if you want a modern example) varying version of the stage theme to video game music with odd time signatures."
+            },
+            "Ardour": {
+                "type": "Music",
+                "name": "Ardour",
+                "link": "https://ardour.org/",
+                "pipe_separator": "",
+                "description": "A free and open source digital audio workstation (DAW) with an emphasis on audio recording. It is also a cross-platform tool being able to run on the three major OS (Windows, Mac OS, and Linux). If you want to see the source code of this tool, you can visit the [remote repo](https://github.com/Ardour/ardour)."
+            },
             "Awesome Music": {
                 "type": "Music",
                 "name": "Awesome Music",
@@ -744,7 +758,7 @@
                 "name": "LMMS",
                 "link": "https://lmms.io/",
                 "pipe_separator": "",
-                "personal_rating": "Also comes with a community of musicians, too",
+                "personal_rating": "Also comes with a community of musicians with their sharing platform.",
                 "description": "A free and open source digital audio workstation that lets you composes beats and music. It can run on the major desktop operating systems: Windows, Mac OS, and Linux. If you want to visit the source code, you can go [right here](https://github.com/LMMS/lmms/)."
             },
             "MuseScore": {
@@ -805,6 +819,13 @@
                 "pipe_separator": "",
                 "personal_rating": "I could've chose [this featured list on awesome](https://github.com/ellisonleao/magictools) but for the spirit of free culture, I decided this pick the list by Calinou, instead.",
                 "description": "An [awesome](https://github.com/sindresorhus/awesome) list on free and open source software and free cultures to aid you in your game developing process."
+            },
+            "Boundary Break video series by *Shesez*": {
+                "type": "Game Development",
+                "name": "Boundary Break video series by *Shesez*",
+                "link": "https://www.youtube.com/playlist?list=PLYfhW_P-MkU7vBmWwwyqdIWNDzXfEZwnO",
+                "pipe_separator": "",
+                "description": "A YouTube video series by Shesez where he plays video games outside of gameplay boundaries. If you want to see how video games set are made, this can be a good starting point."
             },
             "Blender": {
                 "type": "Game Development",
@@ -877,7 +898,7 @@
                 "name": "Brainly",
                 "link": "https://brainly.com/",
                 "pipe_separator": "",
-                "personal_rating": "Recommended if you're looking for a academics study group.",
+                "personal_rating": "Recommended if you're looking for an academics study group.",
                 "description": "A study group for students and peer-to-peer engagement. Formerly known as *OpenStudy*."
             },
             "Figshare": {
@@ -1221,6 +1242,13 @@
                 "name": "HackerNews",
                 "link": "https://news.ycombinator.com/"
             },
+            "Maker's Kitchen": {
+                "type": "Communities",
+                "name": "Maker's Kitchen",
+                "link": "https://makerskitchen.xyz/",
+                "pipe_separator": "",
+                "description": "A community of indie product makers and enthusiasts. They have a Slack group with a wide range of channels and topics to discuss."
+            },
             "Reddit /r/coding": {
                 "type": "Communities",
                 "name": "Reddit /r/coding",
@@ -1358,20 +1386,6 @@
                 "pipe_separator": "",
                 "description": "A computer science professor at Georgetown University that is known for writing student and learning productivity."
             },
-            "College Info Geek": {
-                "type": "Blogs",
-                "name": "College Info Geek",
-                "link": "https://collegeinfogeek.com/",
-                "pipe_separator": "",
-                "description": "Includes a plethora of articles ranging from productivity hacks to learning advices."
-            },
-            "Scott Young": {
-                "type": "Blogs",
-                "name": "Scott Young",
-                "link": "https://scotthyoung.com/",
-                "pipe_separator": "",
-                "description": "A blog that mainly focuses on learning and entrepreneurship."
-            },
             "Coding Horror": {
                 "type": "Blogs",
                 "name": "Coding Horror",
@@ -1379,6 +1393,13 @@
                 "pipe_separator": "",
                 "personal_rating": "There's a wide array of topics he discussed in here despite the title of the blog.",
                 "description": "A tech blog that focuses on some things about the programming side of things."
+            },
+            "College Info Geek": {
+                "type": "Blogs",
+                "name": "College Info Geek",
+                "link": "https://collegeinfogeek.com/",
+                "pipe_separator": "",
+                "description": "Includes a plethora of articles ranging from productivity hacks to learning advices."
             },
             "CSS Tricks": {
                 "type": "Blogs",
@@ -1436,6 +1457,13 @@
                 "link": "https://blog.scottlogic.com/",
                 "pipe_separator": "",
                 "description": "It's a blog that focuses on a broad spectrum of stuff."
+            },
+            "Scott Young": {
+                "type": "Blogs",
+                "name": "Scott Young",
+                "link": "https://scotthyoung.com/",
+                "pipe_separator": "",
+                "description": "A blog that mainly focuses on learning and entrepreneurship."
             },
             "webapplog": {
                 "type": "Blogs",
@@ -1522,6 +1550,20 @@
     "YouTube Channels": {
         "description": "Includes a list of YouTube channels on various topics that I personally watch out for.",
         "children": {
+            "3Blue1Brown": {
+                "type": "YouTube Channels",
+                "name": "3Blue1Brown",
+                "link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+                "pipe_separator": "",
+                "description": "A YouTube channel that focuses on teaching mathematics intuitively by including animations."
+            },
+            "8-bit Music Theory": {
+                "type": "YouTube Channels",
+                "name": "8-bit Music Theory",
+                "link": "https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw",
+                "pipe_separator": "",
+                "description": "A YouTube channel that focuses on video game music from dynamic music similar to [Banjo Kazooie](https://en.wikipedia.org/wiki/Banjo-Kazooie)'s (or [A Hat in Time](http://hatintime.com/), if you want a modern example) varying version of the stage theme to video game music with odd time signatures."
+            },
             "Coding Tech": {
                 "type": "YouTube Channels",
                 "name": "Coding Tech",
@@ -1537,14 +1579,6 @@
                 "pipe_separator": "",
                 "personal_rating": "Recommended for introducing to the slightly deep topics of different fields.",
                 "description": "A YouTube channel that specializes in introducing you to a lot of concepts and subjects such as computers, sciences, and computer science."
-            },
-            "DevTips": {
-                "type": "YouTube Channels",
-                "name": "DevTips",
-                "link": "https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ",
-                "pipe_separator": "",
-                "personal_rating": "It has [@mpjme](https://twitter.com/mpjme) from Fun Fun Function so I dig it.",
-                "description": "A beginner-friendly dev channel."
             },
             "Eddie Woo": {
                 "type": "YouTube Channels",
@@ -1570,12 +1604,19 @@
                 "personal_rating": "An entertaining developer, a plus for me.",
                 "description": "Your metaphorical caffeine every Monday. A YouTube channel hosted by [@mpjme](https://twitter.com/mpjme) that focuses on various developer-related concepts."
             },
+            "Game Maker's Toolkit": {
+                "type": "YouTube Channels",
+                "name": "Game Maker's Toolkit",
+                "link": "https://www.youtube.com/user/McBacon1337",
+                "pipe_separator": "",
+                "description": "Focuses on anything that is game design and development. Gives you insight on how Half Life teaches without a tutorial, how Megaman 11's level design does more with less, and the how does a particular level has been designed."
+            },
             "Jarvis Johnson": {
                 "type": "YouTube Channels",
                 "name": "Jarvis Johnson",
                 "link": "https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA",
                 "pipe_separator": "",
-                "personal_rating": "I think he doesn't do those tech videos anymore.",
+                "personal_rating": "I think he doesn't do those tech videos anymore but I'm not complaining.",
                 "description": "A commentary channel with a slightest bit of tech."
             },
             "Khan Academy": {
@@ -1585,25 +1626,27 @@
                 "pipe_separator": "",
                 "description": "Videos on various academic topics from mathematics, electronics, to economics and politics."
             },
-            "LearnCode.academy": {
+            "LGR": {
                 "type": "YouTube Channels",
-                "name": "LearnCode.academy",
-                "link": "https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw"
-            },
-            "LevelUpTuts": {
-                "type": "YouTube Channels",
-                "name": "LevelUpTuts",
-                "link": "https://www.youtube.com/user/LevelUpTuts/",
+                "name": "LGR",
+                "link": "https://www.youtube.com/channel/UCLx053rWZxCiYWsBETgdKrQ",
                 "pipe_separator": "",
-                "personal_rating": "Recommend it for web-development videos.",
-                "description": "A beginner-friendly channel that mostly contains tutorials and introductions on various topics."
+                "description": "A YouTube channel that has a focus on retro computing though it does have a bit of a variety of content from game reviews to thrift store trips."
             },
-            "Luke Smith": {
+            "LOOK MUM NO COMPUTER": {
                 "type": "YouTube Channels",
-                "name": "Luke Smith",
-                "link": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA",
+                "name": "LOOK MUM NO COMPUTER",
+                "link": "https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw",
                 "pipe_separator": "",
-                "description": "Led by the titular Luke Smith focused for boomers 😎."
+                "description": "Includes content on creating weird inventions and other stuff by a musician and inventor: a fart box, a synth that plays on a bike, a DIY envelope generator, and much more."
+            },
+            "LowSpecGamer": {
+                "type": "YouTube Channels",
+                "name": "LowSpecGamer",
+                "link": "https://www.youtube.com/channel/UCQkd05iAYed2-LOmhjzDG6g",
+                "pipe_separator": "",
+                "personal_rating": "As someone with a low-end computer myself, I really appreciate this channel. Pushing the limits of low-end hardware by forcing it to play modern games as smoothly as possible, no matter how it'll look like &mdash; it's ridiculously funny.",
+                "description": "A YouTube channel introducing you how to play modern/high-end video games with low-end computers and configurations."
             },
             "Majorprep": {
                 "type": "YouTube Channels",
@@ -1617,7 +1660,14 @@
                 "name": "patrickJMT",
                 "link": "https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ",
                 "pipe_separator": "",
-                "description": "Focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it."
+                "description": "Focuses on mathematicLs so if you want to learn math through YouTube, here is one channel that specializes on it."
+            },
+            "Professor Dave Explains": {
+                "type": "YouTube Channels",
+                "name": "Professor Dave Explains",
+                "link": "https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA",
+                "pipe_separator": "",
+                "description": "A YouTube channel of a teacher who produces content on various academic topics including mathematics, sciences, and history."
             },
             "Professor Leonard": {
                 "type": "YouTube Channels",
@@ -1626,6 +1676,13 @@
                 "pipe_separator": "",
                 "personal_rating": "Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.",
                 "description": "A YouTube channel that focuses on giving topics on calculus."
+            },
+            "Siraj Raval": {
+                "type": "YouTube Channels",
+                "name": "Siraj Raval",
+                "link": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+                "pipe_separator": "",
+                "description": "A YouTuber that focuses on anything related to machine learning and AI development."
             },
             "The Coding Train": {
                 "type": "YouTube Channels",
@@ -1650,13 +1707,6 @@
                 "pipe_separator": "",
                 "personal_rating": "Need to say more?",
                 "description": "It's a YouTube channel led by Michael Stevens that focuses on the knowledge. Any type of knowledge and nerd-labelled stuff, really."
-            },
-            "Wes Bos YouTube Channel": {
-                "type": "YouTube Channels",
-                "name": "Wes Bos YouTube Channel",
-                "link": "https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA",
-                "pipe_separator": "",
-                "description": "The YouTube channel of [Wes Bos](https://wesbos.com/), a web developer well known for his free courses such as [JavaScript30](https://javascript30.com/), [CSS Grid](https://cssgrid.io/), and [What The Flexbox?!](http://flexbox.io/)."
             }
         },
         "icon_name": "youtube",
@@ -1777,9 +1827,9 @@
                 "pipe_separator": "",
                 "description": "Offers a wide variety of programming tools and IDEs for different programming languages and development processes."
             },
-            "Jetbrains": {
+            "Jetbrains Tools Suite": {
                 "type": "IDE and Text Editors",
-                "name": "Jetbrains",
+                "name": "Jetbrains Tools Suite",
                 "link": "https://www.jetbrains.com/",
                 "pipe_separator": "",
                 "personal_rating": "Recommend it a lot for the variety of tools that they're offering.",
@@ -1790,7 +1840,7 @@
                 "name": "Repl.it",
                 "link": "https://repl.it/",
                 "pipe_separator": "",
-                "personal_rating": "Recommend it a lot when starting out with back-end development.",
+                "personal_rating": "Recommend it a lot when starting out with back-end development. The tool also has a hacker community behind it so I recommend you to take a look at it.",
                 "description": "An IDE for different programming languages. Also supports back-end development to be able to quickly share and test it with other people."
             },
             "Vim": {
@@ -1928,6 +1978,14 @@
                 "pipe_separator": "",
                 "description": "An ambient noise generator with a lot more sounds than rain."
             },
+            "Buttercup": {
+                "type": "Productivity Tools",
+                "name": "Buttercup",
+                "link": "https://buttercup.pw/",
+                "pipe_separator": "",
+                "personal_rating": "I'm thinking of migrating to this password manager now.",
+                "description": "A free and open source cross-platform password manager for your computer. Available in desktop, mobile, and as browser extensions to easily integrate with your browsing experience.  One neat feature of this password manager is that the credentials can be stored on your own computer or on the cloud with default support for cloud services (like Dropbox). You could visit the repo of this program [in this GitHub repo](https://github.com/buttercup/buttercup-desktop)."
+            },
             "Calibre": {
                 "type": "Productivity Tools",
                 "name": "Calibre",
@@ -1942,6 +2000,13 @@
                 "pipe_separator": "",
                 "description": "A very cool app that gamifies your life. Turn your life around into an RPG, literally! (READ: not *that* RPG)"
             },
+            "Keepass": {
+                "type": "Productivity Tools",
+                "name": "Keepass",
+                "link": "https://keepass.info/",
+                "pipe_separator": "",
+                "description": "A free and open source password manager for your desktop. If you want to see the source code, you can go to the [repo at Sourceforge](https://sourceforge.net/projects/keepass/)."
+            },
             "LastPass": {
                 "type": "Productivity Tools",
                 "name": "LastPass",
@@ -1955,6 +2020,13 @@
                 "link": "https://www.notion.so/",
                 "pipe_separator": "",
                 "description": "Distraction-free app for taking notes in Markdown."
+            },
+            "Makerlog": {
+                "type": "Productivity Tools",
+                "name": "Makerlog",
+                "link": "https://getmakerlog.com",
+                "pipe_separator": "",
+                "description": "A productive logger for makers. You also get to meet a community of hackers and makers who create useful (or not) products."
             },
             "Rainy Mood": {
                 "type": "Productivity Tools",
@@ -1992,6 +2064,28 @@
     "Mathematics": {
         "description": "A collection of resources and tools to be able to aid you into solving mathematical problems.",
         "children": {
+            "3Blue1Brown": {
+                "type": "Mathematics",
+                "name": "3Blue1Brown",
+                "link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+                "pipe_separator": "",
+                "description": "A YouTube channel that focuses on teaching mathematics intuitively by including animations. If you want to get started learning mathematics with this channel, I recommend to look into the playlist (or the Essence of X series)."
+            },
+            "Awesome Math (by *rossant*)": {
+                "type": "Mathematics",
+                "name": "Awesome Math (by *rossant*)",
+                "link": "https://github.com/rossant/awesome-math",
+                "pipe_separator": "",
+                "description": "An [awesome](https://github.com/sindresorhus/awesome) list of websites, tools, and lecture notes for the branches of mathematics such as topology, calculus, analysis, and more."
+            },
+            "Eddie Woo": {
+                "type": "Mathematics",
+                "name": "Eddie Woo",
+                "link": "https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ",
+                "pipe_separator": "",
+                "personal_rating": "Recommended for pre-calculus concepts. Pair that up with Professor Leonard (another of my personal recommendations) and you have a pair of YouTube channels that teaches high school mathematics for you.",
+                "description": "A YouTube channel led by [the titular mathematics teacher](https://misterwootube.com/) who produces online content for mathematics, mainly on pre-calculus topics."
+            },
             "fxSolver": {
                 "type": "Mathematics",
                 "name": "fxSolver",
@@ -2012,6 +2106,21 @@
                 "link": "https://www.mathway.com/",
                 "pipe_separator": "",
                 "description": "Similar to Geogebra, it provides a free online-based suite of mathematical tools to help in solving problems ranging from algebra, calculus, statistics, linear algebra, and even chemistry."
+            },
+            "patrickJMT": {
+                "type": "Mathematics",
+                "name": "patrickJMT",
+                "link": "https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ",
+                "pipe_separator": "",
+                "description": "A YouTube channel that focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it."
+            },
+            "Professor Leonard": {
+                "type": "Mathematics",
+                "name": "Professor Leonard",
+                "link": "https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg",
+                "pipe_separator": "",
+                "personal_rating": "Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.",
+                "description": "A YouTube channel that focuses on giving topics on calculus."
             },
             "Symbolab": {
                 "type": "Mathematics",
@@ -2116,6 +2225,13 @@
                 "pipe_separator": "",
                 "personal_rating": "Also comes with ways on how to make your static site be dynamic or something.",
                 "description": "Their free options is pretty much amazing for static websites."
+            },
+            "Sourceforge": {
+                "type": "Platforms For Your Future Apps",
+                "name": "Sourceforge",
+                "link": "https://sourceforge.net/",
+                "pipe_separator": "",
+                "description": "A platform for your upcoming open source software projects."
             }
         },
         "icon_name": "platform",
@@ -2330,12 +2446,19 @@
                 "pipe_separator": "",
                 "description": "Offers a free educational license for using Amazon Web Services (AWS)."
             },
-            "Autocad": {
+            "Autocad Education": {
                 "type": "Student Packs",
-                "name": "Autocad",
+                "name": "Autocad Education",
                 "link": "https://www.autodesk.com/education/free-software/featured",
                 "pipe_separator": "",
                 "description": "Offers free years of the premium version of their productline of computer-aided design (CAD) programs."
+            },
+            "Azure for Education": {
+                "type": "Student Packs",
+                "name": "Azure for Education",
+                "link": "https://azure.microsoft.com/en-us/free/students/",
+                "pipe_separator": "",
+                "description": "A free student grant for students. Grants you $100 Azure Credits and a wide range of free developer products. Also, no credit card needed but you have to prove you're a student through email address (I guess those .edu top-level domain or something)."
             },
             "GitHub Educational Pack": {
                 "type": "Student Packs",
@@ -2387,6 +2510,13 @@
                 "pipe_separator": "",
                 "description": "A detailed wiki on operating system development."
             },
+            "Product Hunt": {
+                "type": "Inspiration",
+                "name": "Product Hunt",
+                "link": "https://www.producthunt.com/",
+                "pipe_separator": "",
+                "description": "A platform for"
+            },
             "Project Based Learning (by *tuvtran*)": {
                 "type": "Inspiration",
                 "name": "Project Based Learning (by *tuvtran*)",
@@ -2436,6 +2566,13 @@
                 "link": "https://foundation.mozilla.org/",
                 "pipe_separator": "",
                 "description": "A software foundation that pushes free internet for all."
+            },
+            "OER Commons": {
+                "type": "Open Content Communities",
+                "name": "OER Commons",
+                "link": "https://www.oercommons.org/",
+                "pipe_separator": "",
+                "description": "A community that supports open educational resources to be accessible to all."
             },
             "Open Culture": {
                 "type": "Open Content Communities",
