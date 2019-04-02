@@ -3,6 +3,7 @@
 ### Here's a meta-list of other resource lists. | list | #f453ab
 - [/r/learnmath resource list](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/) | **(Best explanation right there, folks.)** It's a resource list for learning math made by the [/r/learnmath](https://www.reddit.com/r/learnmath/) community.
 - [/r/learnprogramming wiki](https://www.reddit.com/r/learnprogramming/wiki/tools) | Contains an overview of tools and some recommendations that you'll be using for the process of programming.
+- [/r/AskElectronics wiki](https://www.reddit.com/r/AskElectronics/wiki/index) | If you're looking on electronics-related resources, here's a community-made wiki from [/r/AskElectronics](https://www.reddit.com/r/AskElectronics/) that gives details and pointers on it.
 - [awesome](https://github.com/sindresorhus/awesome) | **(This is one of the most starred project in GitHub and for a good reason. It's a very cool project suitable for all especially for tech.)** It's a curated list of lists; I guess you can say it's **awesome**, mwehehehehehehehe... 😎
 - [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html) | **(Recommended if you're starting into programming.)** A site of resource list of programming-related stuff for you to take a testdive into the programming world. With the resource list also includes an attention-inducing title, good visuals, and a graphic of a man pointing a gun at you (unless you're on mobile), isn't that lovely.
 - [Best For Dev](https://bestfordev.github.io/) | A technical resource list, mainly includes tutorials, at one place.
@@ -52,11 +53,11 @@
 - [Merlot](https://www.merlot.org/merlot/index.htm) | An archive site of open educational resources viewable to everyone.
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) | **(Mah boi, I recommend this by a *loooooong* shot.)** Contains courses from a lot of subjects; you also might want to check out their [OCW Scholar Courses](https://ocw.mit.edu/courses/ocw-scholar/) wherein they are essentially more in-depth versions of the usual courses.
 - [MIT Press Open](https://mitpress.mit.edu/mit-press-open) | Yes, free and open access books from MIT Press.
-- [Open Educational Resources](https://www.oercommons.org/) | Self-explanatory as to what their content is about.
+- [OER Commons](https://www.oercommons.org/) | Offers an archive of open educational resources for all educational levels from preschool to college level.
 - [Open Library](https://openlibrary.org/) | A web library backed by Internet Archive that contains books that has opened for public domain. Include books for science, literature, novels, and even recipes.
 - [Open SUNY Textbooks](https://textbooks.opensuny.org/) | An open textbook publication platform established by State University of New York libraries and supported by SUNY Innovative Instruction Technology Grants in which they offer their own set of textbooks.
 - [Open Textbook Library](https://open.umn.edu/opentextbooks) | **(If you want to look for a wide database of open textbooks, here's one of them that I personally use.)** A library of published open textbooks by different professionals and experts from different institutions.
-- [Open University](https://www.open.edu/openlearn/)
+- [Open University](https://www.open.edu/openlearn/) |
 - [Open Yale Courses](https://oyc.yale.edu/courses) | A short list of open courses provided by Yale University.
 - [OpenStax CNX](https://cnx.org/) | A database of open educational resources backed up [OpenStax](https://openstax.org/). Also offers some community-made books.
 - [OpenStax](https://openstax.org/) | **(I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/).)** A library of open-licensed expert-curated high school- and college-level textbook and resources.
@@ -70,6 +71,7 @@
 
 ## Free and Open Access Textbooks
 ### This section offers a collection of free (if not, open which is even better) textbooks for everyone. Most of them are something programming-related but you can see more of them at the "Open Educational Resources" section. | textbook | #f28123
+- [All About Circuits Textbook](https://www.allaboutcircuits.com/textbook/) | An electronics textbook made by the Tony R. Kuphaldt. Contains a set of volumes covering electricity and electronics.
 - [Algorithms (by *Jeff Erickson*)](http://algorithms.wtf/) | It's a good book on algorithms (though not recommended as a first book on data structures and algorithms).
 - [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/) | **(Self-explanatory title is self-explanatory, I think.)** A book that gives you a rudimentary class on theoretical side of computer science. Most of the focus are directed on the formal mathematical side of things with the lessons being set theory, logic, proofs, graphs, and calculus.
 - [Calculus (by *Kalid Azad* from *Better Explained*)](https://betterexplained.com/calculus/) | **(One of the more beginner-friendly books on learning calculus. I recommend it to give it a chance.)** A free online primer that tackles on learning calculus with intuition.
@@ -121,6 +123,21 @@
 - [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) | **(This is why programming is fantastic.)** A programming language that lets you create music.
 - [teoria](https://www.teoria.com/) | A website that dedicates to list music theory resources and tutorials.
+
+## Electronics
+### Includes various reference points to get you started on tinkering hardware. | hardware | #81f4e1
+- [/r/AskElectronics](https://www.reddit.com/r/AskElectronics/) | A beginner-friendly subreddit on getting help on your electronics projects or anything hardware-related. Just be sure to help them helping you by providing as much necessary details as possible.
+- [/r/electronics](https://www.reddit.com/r/electronics/) | A subreddit on anything electronics-related from news, articles, discussions, or project showoffs.
+- [All About Circuits](https://www.allaboutcircuits.com/) | **(I recommend it a lot if you're looking for an electronics/hardware reference. Also, they provide a really good starting point on electronics by providing you with various video lessons, articles, and even a textbook with multiple volumes.)** A website that is all about electronics and hardware. They offer a wide range of electronic-related materials such as datasheets, calculators, video lessons, articles, a discussion forum, and a textbook.
+- [Awesome Electronics (by *kitspace*)](https://github.com/kitspace/awesome-electronics) | An [awesome](https://github.com/sindresorhus/awesome) list of various links and references to get started in electronics.
+- [Circuitlab](https://www.circuitlab.com/) | An online circuit schematics editor and simulator. Supports analog and digital circuits and no installation or registration required to use it.
+- [FreeCAD](https://www.freecadweb.org/) | A free and open source computer-aided design (CAD) program and modeller created mainly in C++. It can also run on multiple platforms, mainly on Windows, Mac OS, and Linux. If you want to look for the source code, you can take a visit at their [GitHub repo](https://github.com/FreeCAD/FreeCAD).
+- [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ) | A YouTube channel of electronic projects how-tos and tutorials.
+- [Hackaday](https://hackaday.io/) | A community of hardware hackers mainly helps each other by sharing their projects and discussing hardware-related stuff among them.
+- [Hackster](https://www.hackster.io/) | A community of hardware hackers similar to Hackaday.
+- [Instructables](https://www.instructables.com/) | A do-it-yourself (DIY) community but it also has one of the largest hardware/electronics hackers community out there.
+- [KTechLabs](https://github.com/ktechlab/ktechlab) | A free and open source IDE for microcontrollers and electronics.
+- [Tinkercad](https://www.tinkercad.com/) | A free collection of tools by Autodesk to get started on electronics, engineering, and programming. It may look like it's targeted for kids but it's still a good way on getting started with electronics, nonetheless by offering a circuit simulator and an integrated environment for programming and debugging your circuits.
 
 ## Game Development
 ### Included are some resources for you to aid (or get started) on your game development process. If you want to add composing music and designing assets yourself for your own game, head on over to the Music Resources and Design Tool sections to check the options. | games | #ffe74c
@@ -252,6 +269,7 @@
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | **(Since the amount of content in this channel is gigantic and most of them came from third-party developers, it's a good idea to use this as a browser of referential videos.)** freeCodeCamp's official YouTube channel. Its content varies from tutorials from other developers to a whole course series (in fact, CS50 made it as one of them). You could also view some of their content from their [freeCodeCamp Talks channel](https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A/videos).
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | **(An entertaining developer, a plus for me.)** Your metaphorical caffeine every Monday. A YouTube channel hosted by [@mpjme](https://twitter.com/mpjme) that focuses on various developer-related concepts.
 - [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337) | Focuses on anything that is game design and development. Gives you insight on how Half Life teaches without a tutorial, how Megaman 11's level design does more with less, and the how does a particular level has been designed.
+- [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ) | A YouTube channel of electronic projects how-tos and tutorials.
 - [Jarvis Johnson](https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA) | **(I think he doesn't do those tech videos anymore but I'm not complaining.)** A commentary channel with a slightest bit of tech.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) | Videos on various academic topics from mathematics, electronics, to economics and politics.
 - [LGR](https://www.youtube.com/channel/UCLx053rWZxCiYWsBETgdKrQ) | A YouTube channel that has a focus on retro computing though it does have a bit of a variety of content from game reviews to thrift store trips.
@@ -331,11 +349,12 @@
 - [fxSolver](https://www.fxsolver.com/) | A mathematical solver. Also provides formula for different fields including medical sciences, aerospace engineering, computer sciences, and much more.
 - [Geogebra](https://www.geogebra.org/) | A free and open source web suite of mathematical tools. Includes a graphing calculator, a 3D graphing tool, and geometry tools. Also provides mathematical resources for different mathematical branches which you can see in their [Resources section](https://www.geogebra.org/materials).
 - [Mathway](https://www.mathway.com/) | Similar to Geogebra, it provides a free online-based suite of mathematical tools to help in solving problems ranging from algebra, calculus, statistics, linear algebra, and even chemistry.
+- [Octave](https://www.gnu.org/software/octave/) | A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). It is made by the team at [GNU Software](https://www.gnu.org/).
 - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) | A YouTube channel that focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it.
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | **(Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.)** A YouTube channel that focuses on giving topics on calculus.
 - [Symbolab](https://www.symbolab.com/) | A step by step calculator aiding you in solving algebra and calculus problems. One of the main features here is they also provide [practice problems and quizzes](https://www.symbolab.com/practice) in the site to help you improve your problem solving skills.
 - [SciPy](https://www.scipy.org/) | A free and open source mathematical, science, and engineering set of Python-based libraries and frameworks.
-- [Sage](http://www.sagemath.org/index.html) | A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more.
+- [Sage](http://www.sagemath.org/index.html) | A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more. Another free and open source alternative to [MATLAB](https://www.mathworks.com/products/matlab.html).
 - [Wolfram Alpha](https://www.wolframalpha.com/) | **(What is a mathematical tool list without Wolfram Alpha?)** Offers a plethora of mathematical (and non-mathematical) tools.
 - [Wolfram MathWorld](http://mathworld.wolfram.com/) | An encyclopedia of mathematics-related topics.
 
@@ -398,7 +417,7 @@
 - [Dribbble](https://dribbble.com/) | If you want some inspiration for some design-related projects, here's a community site of designers that share their own work.
 - [OS Tutorial (by *cfenollosa*)](https://github.com/cfenollosa/os-tutorial) | A GitHub repo that contains a tutorial on making your own operating system from scratch.
 - [OSDev.org](https://wiki.osdev.org/Main_Page) | A detailed wiki on operating system development.
-- [Product Hunt](https://www.producthunt.com/) | A platform for 
+- [Product Hunt](https://www.producthunt.com/) | A platform for finding and exploring products made from a wide variety of people and organizations who create a product.
 - [Project Based Learning (by *tuvtran*)](https://github.com/tuvtran/project-based-learning) | **(You can also make a project based on the things that listed here. Think of it like a fork of the project.)** A GitHub repo that offers a curated list for project-based learning. If you're the type of person who's quite comfortable learning by doing, have a quick go.
 - [Projects (by *karan*)](https://github.com/karan/Projects) | A GitHub repo of a project list.
 - [Rosetta Code Programming Tasklist](https://rosettacode.org/wiki/Category:Programming_Tasks) | It's a humungous list of programming tasks that you can do ranging from intermediate to advanced thinking and planning skills to get the job rolling.

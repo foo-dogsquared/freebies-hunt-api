@@ -17,6 +17,13 @@
                 "pipe_separator": "",
                 "description": "Contains an overview of tools and some recommendations that you'll be using for the process of programming."
             },
+            "/r/AskElectronics wiki": {
+                "type": "Other Resource Lists",
+                "name": "/r/AskElectronics wiki",
+                "link": "https://www.reddit.com/r/AskElectronics/wiki/index",
+                "pipe_separator": "",
+                "description": "If you're looking on electronics-related resources, here's a community-made wiki from [/r/AskElectronics](https://www.reddit.com/r/AskElectronics/) that gives details and pointers on it."
+            },
             "awesome": {
                 "type": "Other Resource Lists",
                 "name": "awesome",
@@ -350,12 +357,12 @@
                 "pipe_separator": "",
                 "description": "Yes, free and open access books from MIT Press."
             },
-            "Open Educational Resources": {
+            "OER Commons": {
                 "type": "Open Educational Resources",
-                "name": "Open Educational Resources",
+                "name": "OER Commons",
                 "link": "https://www.oercommons.org/",
                 "pipe_separator": "",
-                "description": "Self-explanatory as to what their content is about."
+                "description": "Offers an archive of open educational resources for all educational levels from preschool to college level."
             },
             "Open Library": {
                 "type": "Open Educational Resources",
@@ -382,7 +389,8 @@
             "Open University": {
                 "type": "Open Educational Resources",
                 "name": "Open University",
-                "link": "https://www.open.edu/openlearn/"
+                "link": "https://www.open.edu/openlearn/",
+                "pipe_separator": ""
             },
             "Open Yale Courses": {
                 "type": "Open Educational Resources",
@@ -463,6 +471,13 @@
     "Free and Open Access Textbooks": {
         "description": "This section offers a collection of free (if not, open which is even better) textbooks for everyone. Most of them are something programming-related but you can see more of them at the \"Open Educational Resources\" section.",
         "children": {
+            "All About Circuits Textbook": {
+                "type": "Free and Open Access Textbooks",
+                "name": "All About Circuits Textbook",
+                "link": "https://www.allaboutcircuits.com/textbook/",
+                "pipe_separator": "",
+                "description": "An electronics textbook made by the Tony R. Kuphaldt. Contains a set of volumes covering electricity and electronics."
+            },
             "Algorithms (by *Jeff Erickson*)": {
                 "type": "Free and Open Access Textbooks",
                 "name": "Algorithms (by *Jeff Erickson*)",
@@ -808,6 +823,98 @@
         },
         "icon_name": "music-note",
         "main_color": "#13293d"
+    },
+    "Electronics": {
+        "description": "Includes various reference points to get you started on tinkering hardware.",
+        "children": {
+            "/r/AskElectronics": {
+                "type": "Electronics",
+                "name": "/r/AskElectronics",
+                "link": "https://www.reddit.com/r/AskElectronics/",
+                "pipe_separator": "",
+                "description": "A beginner-friendly subreddit on getting help on your electronics projects or anything hardware-related. Just be sure to help them helping you by providing as much necessary details as possible."
+            },
+            "/r/electronics": {
+                "type": "Electronics",
+                "name": "/r/electronics",
+                "link": "https://www.reddit.com/r/electronics/",
+                "pipe_separator": "",
+                "description": "A subreddit on anything electronics-related from news, articles, discussions, or project showoffs."
+            },
+            "All About Circuits": {
+                "type": "Electronics",
+                "name": "All About Circuits",
+                "link": "https://www.allaboutcircuits.com/",
+                "pipe_separator": "",
+                "personal_rating": "I recommend it a lot if you're looking for an electronics/hardware reference. Also, they provide a really good starting point on electronics by providing you with various video lessons, articles, and even a textbook with multiple volumes.",
+                "description": "A website that is all about electronics and hardware. They offer a wide range of electronic-related materials such as datasheets, calculators, video lessons, articles, a discussion forum, and a textbook."
+            },
+            "Awesome Electronics (by *kitspace*)": {
+                "type": "Electronics",
+                "name": "Awesome Electronics (by *kitspace*)",
+                "link": "https://github.com/kitspace/awesome-electronics",
+                "pipe_separator": "",
+                "description": "An [awesome](https://github.com/sindresorhus/awesome) list of various links and references to get started in electronics."
+            },
+            "Circuitlab": {
+                "type": "Electronics",
+                "name": "Circuitlab",
+                "link": "https://www.circuitlab.com/",
+                "pipe_separator": "",
+                "description": "An online circuit schematics editor and simulator. Supports analog and digital circuits and no installation or registration required to use it."
+            },
+            "FreeCAD": {
+                "type": "Electronics",
+                "name": "FreeCAD",
+                "link": "https://www.freecadweb.org/",
+                "pipe_separator": "",
+                "description": "A free and open source computer-aided design (CAD) program and modeller created mainly in C++. It can also run on multiple platforms, mainly on Windows, Mac OS, and Linux. If you want to look for the source code, you can take a visit at their [GitHub repo](https://github.com/FreeCAD/FreeCAD)."
+            },
+            "GreatScott!": {
+                "type": "Electronics",
+                "name": "GreatScott!",
+                "link": "https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ",
+                "pipe_separator": "",
+                "description": "A YouTube channel of electronic projects how-tos and tutorials."
+            },
+            "Hackaday": {
+                "type": "Electronics",
+                "name": "Hackaday",
+                "link": "https://hackaday.io/",
+                "pipe_separator": "",
+                "description": "A community of hardware hackers mainly helps each other by sharing their projects and discussing hardware-related stuff among them."
+            },
+            "Hackster": {
+                "type": "Electronics",
+                "name": "Hackster",
+                "link": "https://www.hackster.io/",
+                "pipe_separator": "",
+                "description": "A community of hardware hackers similar to Hackaday."
+            },
+            "Instructables": {
+                "type": "Electronics",
+                "name": "Instructables",
+                "link": "https://www.instructables.com/",
+                "pipe_separator": "",
+                "description": "A do-it-yourself (DIY) community but it also has one of the largest hardware/electronics hackers community out there."
+            },
+            "KTechLabs": {
+                "type": "Electronics",
+                "name": "KTechLabs",
+                "link": "https://github.com/ktechlab/ktechlab",
+                "pipe_separator": "",
+                "description": "A free and open source IDE for microcontrollers and electronics."
+            },
+            "Tinkercad": {
+                "type": "Electronics",
+                "name": "Tinkercad",
+                "link": "https://www.tinkercad.com/",
+                "pipe_separator": "",
+                "description": "A free collection of tools by Autodesk to get started on electronics, engineering, and programming. It may look like it's targeted for kids but it's still a good way on getting started with electronics, nonetheless by offering a circuit simulator and an integrated environment for programming and debugging your circuits."
+            }
+        },
+        "icon_name": "hardware",
+        "main_color": "#81f4e1"
     },
     "Game Development": {
         "description": "Included are some resources for you to aid (or get started) on your game development process. If you want to add composing music and designing assets yourself for your own game, head on over to the Music Resources and Design Tool sections to check the options.",
@@ -1611,6 +1718,13 @@
                 "pipe_separator": "",
                 "description": "Focuses on anything that is game design and development. Gives you insight on how Half Life teaches without a tutorial, how Megaman 11's level design does more with less, and the how does a particular level has been designed."
             },
+            "GreatScott!": {
+                "type": "YouTube Channels",
+                "name": "GreatScott!",
+                "link": "https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ",
+                "pipe_separator": "",
+                "description": "A YouTube channel of electronic projects how-tos and tutorials."
+            },
             "Jarvis Johnson": {
                 "type": "YouTube Channels",
                 "name": "Jarvis Johnson",
@@ -2107,6 +2221,13 @@
                 "pipe_separator": "",
                 "description": "Similar to Geogebra, it provides a free online-based suite of mathematical tools to help in solving problems ranging from algebra, calculus, statistics, linear algebra, and even chemistry."
             },
+            "Octave": {
+                "type": "Mathematics",
+                "name": "Octave",
+                "link": "https://www.gnu.org/software/octave/",
+                "pipe_separator": "",
+                "description": "A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). It is made by the team at [GNU Software](https://www.gnu.org/)."
+            },
             "patrickJMT": {
                 "type": "Mathematics",
                 "name": "patrickJMT",
@@ -2141,7 +2262,7 @@
                 "name": "Sage",
                 "link": "http://www.sagemath.org/index.html",
                 "pipe_separator": "",
-                "description": "A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more."
+                "description": "A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more. Another free and open source alternative to [MATLAB](https://www.mathworks.com/products/matlab.html)."
             },
             "Wolfram Alpha": {
                 "type": "Mathematics",
@@ -2515,7 +2636,7 @@
                 "name": "Product Hunt",
                 "link": "https://www.producthunt.com/",
                 "pipe_separator": "",
-                "description": "A platform for"
+                "description": "A platform for finding and exploring products made from a wide variety of people and organizations who create a product."
             },
             "Project Based Learning (by *tuvtran*)": {
                 "type": "Inspiration",
