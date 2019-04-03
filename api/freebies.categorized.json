@@ -320,13 +320,6 @@
                 "personal_rating": "It's well known and has I think one of the biggest learners' community.",
                 "description": "There are also other topics outside of programming (i.e. mathematics, physics)."
             },
-            "LibreText": {
-                "type": "Open Educational Resources",
-                "name": "LibreText",
-                "link": "https://libretexts.org/",
-                "pipe_separator": "",
-                "description": "A library of open educational resources from other educational institutions. Offers a list of them from various disciplines such as [engineering](https://eng.libretexts.org/), [business](https://biz.libretexts.org/), [medicine](https://med.libretexts.org/), and [mathematics](https://math.libretexts.org/)."
-            },
             "Math Wiki": {
                 "type": "Open Educational Resources",
                 "name": "Math Wiki",
@@ -427,13 +420,6 @@
                 "link": "https://github.com/ossu/computer-science",
                 "pipe_separator": "",
                 "description": "A community-built and approved curriculum for self-taught students to follow."
-            },
-            "Siyavula": {
-                "type": "Open Educational Resources",
-                "name": "Siyavula",
-                "link": "https://everythingmaths.co.za/",
-                "pipe_separator": "",
-                "description": "Mathematics- and science-focused open educational resources."
             },
             "Teach Yourself CS": {
                 "type": "Open Educational Resources",
@@ -993,6 +979,13 @@
                 "pipe_separator": "",
                 "description": "An [awesome](https://github.com/sindresorhus/awesome) list of mostly free and open source research tools and resources for your research project."
             },
+            "Awesome Public Datasets (by *awesomedata*)": {
+                "type": "Research",
+                "name": "Awesome Public Datasets (by *awesomedata*)",
+                "link": "https://github.com/awesomedata/awesome-public-datasets",
+                "pipe_separator": "",
+                "description": "An [awesome](https://github.com/sindresorhus/awesome) list of publicly available datasets for your research (or just to find a data set for your data visualization/science learning or something)."
+            },
             "Academia.edu": {
                 "type": "Research",
                 "name": "Academia.edu",
@@ -1028,6 +1021,13 @@
                 "link": "https://scholar.google.com/",
                 "pipe_separator": "",
                 "description": "An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis."
+            },
+            "Kaggle": {
+                "type": "Research",
+                "name": "Kaggle",
+                "link": "https://www.kaggle.com/datasets",
+                "pipe_separator": "",
+                "description": "A website that references public data sets. It's quite a website for your data science or research projects."
             },
             "LaTeX": {
                 "type": "Research",
@@ -2076,7 +2076,7 @@
                 "link": "https://www.thunderbird.net/en-US/",
                 "pipe_separator": "",
                 "personal_rating": "Free, made by Mozilla, and it has been recently updated.",
-                "description": "A free e-mail client made by Mozilla Foundations."
+                "description": "A free and cross-platform e-mail client made by Mozilla Foundations."
             }
         },
         "icon_name": "communication",
@@ -2126,14 +2126,7 @@
                 "name": "LastPass",
                 "link": "https://lastpass.com",
                 "pipe_separator": "",
-                "description": "A cloud password manager."
-            },
-            "Notion": {
-                "type": "Productivity Tools",
-                "name": "Notion",
-                "link": "https://www.notion.so/",
-                "pipe_separator": "",
-                "description": "Distraction-free app for taking notes in Markdown."
+                "description": "A cloud password manager. Offers web extension for even more convenience into your browsing experience."
             },
             "Makerlog": {
                 "type": "Productivity Tools",
@@ -2226,7 +2219,7 @@
                 "name": "Octave",
                 "link": "https://www.gnu.org/software/octave/",
                 "pipe_separator": "",
-                "description": "A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). It is made by the team at [GNU Software](https://www.gnu.org/)."
+                "description": "A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). In fact, it is mostly compatible with MATLAB code (READ: mostly). It is made by the team at [GNU Software](https://www.gnu.org/)."
             },
             "patrickJMT": {
                 "type": "Mathematics",
@@ -2572,7 +2565,7 @@
                 "name": "Autocad Education",
                 "link": "https://www.autodesk.com/education/free-software/featured",
                 "pipe_separator": "",
-                "description": "Offers free years of the premium version of their productline of computer-aided design (CAD) programs."
+                "description": "Offers free years of the premium version of their productline of computer-aided design (CAD) programs. You could also re-apply as long as you're still eligible."
             },
             "Azure for Education": {
                 "type": "Student Packs",
@@ -2816,6 +2809,13 @@
                 "link": "https://localhackday.mlh.io/",
                 "pipe_separator": "",
                 "description": "It's a global hackathon (that are related to MLH) finder."
+            },
+            "Odoo": {
+                "type": "Miscellaneous",
+                "name": "Odoo",
+                "link": "https://www.odoo.com/",
+                "pipe_separator": "",
+                "description": "An open source suite of web apps for growing your source. If you're curious about the open source part, you can personally give the [source code a visit](https://github.com/odoo/odoo) to see it yourself."
             },
             "The Book of Secret Knowledge (by *trimstray*)": {
                 "type": "Miscellaneous",

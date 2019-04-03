@@ -48,7 +48,6 @@
 - [freeCodeCamp](https://freecodecamp.org) | **(It has a [forum](https://forum.freecodecamp.org/) to interact and has its curriculum open sourced.)** Project-based curriculum for web development. Also has its codebase and curriculum open sourced on [GitHub](http://github.com/freeCodeCamp/freeCodeCamp).
 - [IXL](https://www.ixl.com/) | An educational resource and learning site on K-12 curriculum.
 - [Khan Academy](https://khanacademy.org) | **(It's well known and has I think one of the biggest learners' community.)** There are also other topics outside of programming (i.e. mathematics, physics).
-- [LibreText](https://libretexts.org/) | A library of open educational resources from other educational institutions. Offers a list of them from various disciplines such as [engineering](https://eng.libretexts.org/), [business](https://biz.libretexts.org/), [medicine](https://med.libretexts.org/), and [mathematics](https://math.libretexts.org/).
 - [Math Wiki](https://math.wikia.com/wiki/Math_Wiki) | **(Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that.)** A community-made and continuously updated textbook on mathematics.
 - [Merlot](https://www.merlot.org/merlot/index.htm) | An archive site of open educational resources viewable to everyone.
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) | **(Mah boi, I recommend this by a *loooooong* shot.)** Contains courses from a lot of subjects; you also might want to check out their [OCW Scholar Courses](https://ocw.mit.edu/courses/ocw-scholar/) wherein they are essentially more in-depth versions of the usual courses.
@@ -63,7 +62,6 @@
 - [OpenStax](https://openstax.org/) | **(I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/).)** A library of open-licensed expert-curated high school- and college-level textbook and resources.
 - [OSDev.org](https://wiki.osdev.org/Main_Page) | A detailed wiki on operating system development.
 - [ossu](https://github.com/ossu/computer-science) | A community-built and approved curriculum for self-taught students to follow.
-- [Siyavula](https://everythingmaths.co.za/) | Mathematics- and science-focused open educational resources.
 - [Teach Yourself CS](https://teachyourselfcs.com/) | A site that recommends resources on the topic of learning computer science. Kinda similar to ossu's curriculum.
 - [The Feynman's Lectures on Physics](http://www.feynmanlectures.caltech.edu/) | Well,self-explanatory title is self-explanatory. It's the website that lets you view [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)'s legendary notes on physics.
 - [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) | Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton.
@@ -153,11 +151,13 @@
 ## Research
 ### Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study. | study | #8fb8de
 - [Awesome Research (by *emptymalei*)](https://github.com/emptymalei/awesome-research) | An [awesome](https://github.com/sindresorhus/awesome) list of mostly free and open source research tools and resources for your research project.
+- [Awesome Public Datasets (by *awesomedata*)](https://github.com/awesomedata/awesome-public-datasets) | An [awesome](https://github.com/sindresorhus/awesome) list of publicly available datasets for your research (or just to find a data set for your data visualization/science learning or something).
 - [Academia.edu](https://www.academia.edu/) | A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research.
 - [Brainly](https://brainly.com/) | **(Recommended if you're looking for an academics study group.)** A study group for students and peer-to-peer engagement. Formerly known as *OpenStudy*.
 - [Figshare](https://figshare.com/) | A platform for open scientific research data. 
 - [Mendeley](https://mendeley.com/) | A research organization tool. Also comes with a research network.
 - [Google Scholar](https://scholar.google.com/) | An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis.
+- [Kaggle](https://www.kaggle.com/datasets) | A website that references public data sets. It's quite a website for your data science or research projects.
 - [LaTeX](https://www.latex-project.org/) | A highly regarded typesetting system for scientific documents. Supports a wide variety of mathematical (and scientific) expressions and symbols from algebra, logic, calculus, and more advanced mathematical disciplines. The program is not standalone itself but it does have plenty of text editors built on top of the typesetting system to let you prepare LaTeX documents easily. The provided website already has a list of programs for you to easily refer to a text editor but still [here's a list of programs built on top of LaTeX.](https://github.com/egeerardyn/awesome-LaTeX).
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love) | A community on reading and discussing academic computer science papers. The linked hyperlink is a GitHub repo containing a list of local chapters of the community, a list of resources to look for other papers, and a list of links for how to read an academic paper (which is always a very nice feature to include).
 - [Researchgate](https://www.researchgate.net/) | An online community of researchers sharing and exploring other academic papers. Also, most published studies under their platform are free to view though you can't join their community unless you've proven your credentials as an academic research student.
@@ -324,7 +324,7 @@
 - [Pidgin](https://pidgin.im/) | Also a client messenger. Supports several chat networks such as IRC, AIM, and Google Talk all in one interface.
 - [Hexchat](https://hexchat.github.io/) | **(Here's the IRC client I personally use.)** A free and open source IRC client that can be run on the three major desktop platforms: Windows, Mac OS, and Linux. You can visit the source code in this [GitHub repo](https://github.com/hexchat/hexchat).
 - [Slack](https://slack.com/) | **(Recommended for using it for a group chat. Also supports a lot of integrations as well with the API.)** A very good chat client between teams especially in a professional environment. Can also be used as a hub for study groups as well.
-- [Thunderbird](https://www.thunderbird.net/en-US/) | **(Free, made by Mozilla, and it has been recently updated.)** A free e-mail client made by Mozilla Foundations.
+- [Thunderbird](https://www.thunderbird.net/en-US/) | **(Free, made by Mozilla, and it has been recently updated.)** A free and cross-platform e-mail client made by Mozilla Foundations.
 
 ## Productivity Tools
 ### A myriad of tools of various types to aid you into being productive. | clock | #ffa552
@@ -333,8 +333,7 @@
 - [Calibre](https://calibre-ebook.com/) | An e-book library management tool.
 - [Habitica](https://habitica.com/) | A very cool app that gamifies your life. Turn your life around into an RPG, literally! (READ: not *that* RPG)
 - [Keepass](https://keepass.info/) | A free and open source password manager for your desktop. If you want to see the source code, you can go to the [repo at Sourceforge](https://sourceforge.net/projects/keepass/).
-- [LastPass](https://lastpass.com) | A cloud password manager.
-- [Notion](https://www.notion.so/) | Distraction-free app for taking notes in Markdown.
+- [LastPass](https://lastpass.com) | A cloud password manager. Offers web extension for even more convenience into your browsing experience.
 - [Makerlog](https://getmakerlog.com) | A productive logger for makers. You also get to meet a community of hackers and makers who create useful (or not) products.
 - [Rainy Mood](http://www.rainymood.com/) | Lets you focus through the ambience (if you're the type who find rain to be relaxing).
 - [RescueTime](https://www.rescuetime.com/) | A time management software that tracks your activities and rating them whether you've been productive or not.
@@ -349,7 +348,7 @@
 - [fxSolver](https://www.fxsolver.com/) | A mathematical solver. Also provides formula for different fields including medical sciences, aerospace engineering, computer sciences, and much more.
 - [Geogebra](https://www.geogebra.org/) | A free and open source web suite of mathematical tools. Includes a graphing calculator, a 3D graphing tool, and geometry tools. Also provides mathematical resources for different mathematical branches which you can see in their [Resources section](https://www.geogebra.org/materials).
 - [Mathway](https://www.mathway.com/) | Similar to Geogebra, it provides a free online-based suite of mathematical tools to help in solving problems ranging from algebra, calculus, statistics, linear algebra, and even chemistry.
-- [Octave](https://www.gnu.org/software/octave/) | A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). It is made by the team at [GNU Software](https://www.gnu.org/).
+- [Octave](https://www.gnu.org/software/octave/) | A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). In fact, it is mostly compatible with MATLAB code (READ: mostly). It is made by the team at [GNU Software](https://www.gnu.org/).
 - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) | A YouTube channel that focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it.
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | **(Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.)** A YouTube channel that focuses on giving topics on calculus.
 - [Symbolab](https://www.symbolab.com/) | A step by step calculator aiding you in solving algebra and calculus problems. One of the main features here is they also provide [practice problems and quizzes](https://www.symbolab.com/practice) in the site to help you improve your problem solving skills.
@@ -406,7 +405,7 @@
 ## Student Packs
 ### Here are some of the organizations that offers free resources and benefits for students if they choose to sign up for. | student-packs | #cdcdcd
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) | Offers a free educational license for using Amazon Web Services (AWS).
-- [Autocad Education](https://www.autodesk.com/education/free-software/featured) | Offers free years of the premium version of their productline of computer-aided design (CAD) programs.
+- [Autocad Education](https://www.autodesk.com/education/free-software/featured) | Offers free years of the premium version of their productline of computer-aided design (CAD) programs. You could also re-apply as long as you're still eligible.
 - [Azure for Education](https://azure.microsoft.com/en-us/free/students/) | A free student grant for students. Grants you $100 Azure Credits and a wide range of free developer products. Also, no credit card needed but you have to prove you're a student through email address (I guess those .edu top-level domain or something).
 - [GitHub Educational Pack](https://education.github.com/pack/) | **(Recommending this by a long shot. A plethora of benefits from here.)** Assortment of benefits like unlimited private repositories on their own site, free domain name for a year, and free premium boosts on more sites.
 - [JetBrain Student Pack](https://www.jetbrains.com/student/) | Offers free educational licenses for their tools such as [WebStorm](https://www.jetbrains.com/webstorm/), [Clion](https://www.jetbrains.com/clion/), and [PhpStorm](https://www.jetbrains.com/phpstorm/). You could also re-apply as long as you're still eligible.
@@ -449,5 +448,6 @@
 - [Distrowatch](https://distrowatch.com/) | **(Recommended, if you're into Linux.)** A website watching for updates around Linux distros.
 - [keyvalues](https://www.keyvalues.com/) | It's a engineering job finder.
 - [Local Hackday MLH (Major League Hacking)](https://localhackday.mlh.io/) | It's a global hackathon (that are related to MLH) finder.
+- [Odoo](https://www.odoo.com/) | An open source suite of web apps for growing your source. If you're curious about the open source part, you can personally give the [source code a visit](https://github.com/odoo/odoo) to see it yourself.
 - [The Book of Secret Knowledge (by *trimstray*)](https://github.com/trimstray/the-book-of-secret-knowledge) | A GitHub repo that contains a list of programmer-related materials that [trimstray](https://github.com/trimstray) (along with the other contributors) refer to every day. You have a list of GUI tools, CLI tools, blogs, one-liners (not *that* one-liner), and a lot more.
 - [Wayback Machine](https://archive.org/web/web.php) | A time machine for the web (not exactly that but you know...).
