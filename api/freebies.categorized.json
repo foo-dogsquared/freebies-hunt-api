@@ -993,6 +993,14 @@
                 "pipe_separator": "",
                 "description": "A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research."
             },
+            "arXiv": {
+                "type": "Research",
+                "name": "arXiv",
+                "link": "https://arxiv.org/",
+                "pipe_separator": "",
+                "personal_rating": "Recommending this one if you want to look for a literature for your research.",
+                "description": "A website that offers over 1 million open e-prints of papers on various fields such as astronomy, computer science, engineering, mathematics, and more."
+            },
             "Brainly": {
                 "type": "Research",
                 "name": "Brainly",
@@ -1021,6 +1029,13 @@
                 "link": "https://scholar.google.com/",
                 "pipe_separator": "",
                 "description": "An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis."
+            },
+            "Google Dataset Search": {
+                "type": "Research",
+                "name": "Google Dataset Search",
+                "link": "https://toolbox.google.com/datasetsearch",
+                "pipe_separator": "",
+                "description": "A search engine made by Google for publicly available datasets."
             },
             "Kaggle": {
                 "type": "Research",
@@ -1057,6 +1072,13 @@
     "Documentations": {
         "description": "Includes resources and facilities for documentation of different tools and various concepts.",
         "children": {
+            "Asciidoctor": {
+                "type": "Documentations",
+                "name": "Asciidoctor",
+                "link": "https://asciidoctor.org/",
+                "pipe_separator": "",
+                "description": "A free and open source text processor for [AsciiDoc](https://asciidoctor.org/docs/what-is-asciidoc/). A solid alternative for Markdown."
+            },
             "DevDocs": {
                 "type": "Documentations",
                 "name": "DevDocs",
@@ -1100,6 +1122,13 @@
                 "link": "http://sphinx-doc.org/",
                 "pipe_separator": "",
                 "description": "A documenation generator originally written in Python for Python projects by converting [reStructuredText](http://docutils.sourceforge.net/rst.html) into different formats such as  You can find their GitHub repo [right here](https://github.com/sphinx-doc/sphinx)."
+            },
+            "Tiddlywiki": {
+                "type": "Documentations",
+                "name": "Tiddlywiki",
+                "link": "https://tiddlywiki.com/",
+                "pipe_separator": "",
+                "description": "A free and open-source software (FOSS) that serves as a non-linear personal notebook. It can be hosted on GitHub and GitLab (and other similar web hosting services). Think of it as a personal Wikipedia."
             },
             "Pandoc": {
                 "type": "Documentations",
