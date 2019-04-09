@@ -805,6 +805,14 @@
                 "link": "https://www.teoria.com/",
                 "pipe_separator": "",
                 "description": "A website that dedicates to list music theory resources and tutorials."
+            },
+            "Virtual Piano": {
+                "type": "Music",
+                "name": "Virtual Piano",
+                "link": "https://virtualpiano.net/",
+                "pipe_separator": "",
+                "personal_rating": "If you don't have any physical instrument to interact with at the moment, you could always take a virtual instrument. Like this virtual piano, for instance.",
+                "description": "A virtual piano that can be interacted with the computer keyboard."
             }
         },
         "icon_name": "music-note",
@@ -942,6 +950,13 @@
                 "pipe_separator": "",
                 "personal_rating": "Recommending this so much when starting out with game development.",
                 "description": "A free web-based book that discusses about different coding patterns that is usually found on game development."
+            },
+            "GDevelop": {
+                "type": "Game Development",
+                "name": "GDevelop",
+                "link": "https://gdevelop-app.com/",
+                "pipe_separator": "",
+                "description": "A free and open source app for game creation. You could create games without programming skills, a suitable tool for introducing to game development (and programming, overall)."
             },
             "Godot Engine": {
                 "type": "Game Development",
@@ -1087,6 +1102,13 @@
                 "personal_rating": "Offline, easy to use, and usable on mobile devices. I dig it.",
                 "description": "A site wherein official documentation of different languages can be found; there's also an offline version of it if you are lacking of internet speed (like me)."
             },
+            "DokuWiki": {
+                "type": "Documentations",
+                "name": "DokuWiki",
+                "link": "https://www.dokuwiki.org/dokuwiki",
+                "pipe_separator": "",
+                "description": "A free and open source collaborative wiki software without the use of a database."
+            },
             "Doxygen": {
                 "type": "Documentations",
                 "name": "Doxygen",
@@ -1223,9 +1245,16 @@
             "HackerRank": {
                 "type": "Katas (Practice Sites)",
                 "name": "HackerRank",
-                "link": "http://hackerrank.com/",
+                "link": "https://hackerrank.com/",
                 "pipe_separator": "",
                 "description": "A site that offers programming challenges along with some beginner-friendly sets."
+            },
+            "HackerEarth": {
+                "type": "Katas (Practice Sites)",
+                "name": "HackerEarth",
+                "link": "https://www.hackerearth.com/",
+                "pipe_separator": "",
+                "description": "A programming challenge site that well, encourages you to take on the challenges in programming. It includes programming hackathons, challenge sets, and a curated collection of programming problems for various technical concepts such as data structures, mathematics, and basic programming."
             },
             "Pramp": {
                 "type": "Katas (Practice Sites)",
@@ -2111,18 +2140,18 @@
         "icon_name": "communication",
         "main_color": "#2b9eb3"
     },
-    "Productivity Tools": {
+    "Productivity": {
         "description": "A myriad of tools of various types to aid you into being productive.",
         "children": {
             "A Soft Murmur": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "A Soft Murmur",
                 "link": "https://asoftmurmur.com/",
                 "pipe_separator": "",
                 "description": "An ambient noise generator with a lot more sounds than rain."
             },
             "Buttercup": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "Buttercup",
                 "link": "https://buttercup.pw/",
                 "pipe_separator": "",
@@ -2130,56 +2159,64 @@
                 "description": "A free and open source cross-platform password manager for your computer. Available in desktop, mobile, and as browser extensions to easily integrate with your browsing experience.  One neat feature of this password manager is that the credentials can be stored on your own computer or on the cloud with default support for cloud services (like Dropbox). You could visit the repo of this program [in this GitHub repo](https://github.com/buttercup/buttercup-desktop)."
             },
             "Calibre": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "Calibre",
                 "link": "https://calibre-ebook.com/",
                 "pipe_separator": "",
                 "description": "An e-book library management tool."
             },
+            "Clockify": {
+                "type": "Productivity",
+                "name": "Clockify",
+                "link": "https://clockify.me/",
+                "pipe_separator": "",
+                "personal_rating": "The offer is really good here.",
+                "description": "A virtually free web-based time tracking tool for you and your team (if you have any) taking on projects. Includes unlimited time and unlimited person to join in your team, only the extra functionalities are in the premium version. You could also self-host the program if you like."
+            },
             "Habitica": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "Habitica",
                 "link": "https://habitica.com/",
                 "pipe_separator": "",
                 "description": "A very cool app that gamifies your life. Turn your life around into an RPG, literally! (READ: not *that* RPG)"
             },
             "Keepass": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "Keepass",
                 "link": "https://keepass.info/",
                 "pipe_separator": "",
                 "description": "A free and open source password manager for your desktop. If you want to see the source code, you can go to the [repo at Sourceforge](https://sourceforge.net/projects/keepass/)."
             },
             "LastPass": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "LastPass",
                 "link": "https://lastpass.com",
                 "pipe_separator": "",
                 "description": "A cloud password manager. Offers web extension for even more convenience into your browsing experience."
             },
             "Makerlog": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "Makerlog",
                 "link": "https://getmakerlog.com",
                 "pipe_separator": "",
                 "description": "A productive logger for makers. You also get to meet a community of hackers and makers who create useful (or not) products."
             },
             "Rainy Mood": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "Rainy Mood",
                 "link": "http://www.rainymood.com/",
                 "pipe_separator": "",
                 "description": "Lets you focus through the ambience (if you're the type who find rain to be relaxing)."
             },
             "RescueTime": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "RescueTime",
                 "link": "https://www.rescuetime.com/",
                 "pipe_separator": "",
                 "description": "A time management software that tracks your activities and rating them whether you've been productive or not."
             },
             "StackEdit": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "StackEdit",
                 "link": "https://stackedit.io",
                 "pipe_separator": "",
@@ -2187,7 +2224,7 @@
                 "description": "A web-based Markdown editor that comes with a lot of integration options to sync your notes with (include GitHub)."
             },
             "Trello": {
-                "type": "Productivity Tools",
+                "type": "Productivity",
                 "name": "Trello",
                 "link": "https://trello.com",
                 "pipe_separator": "",
@@ -2772,6 +2809,13 @@
                 "link": "https://keepachangelog.com/en/1.0.0/",
                 "pipe_separator": "",
                 "description": "Contains specification notes for keeping a changelog file and its conventions of writing one."
+            },
+            "Internation Organization for Standardization (ISO)": {
+                "type": "Programming Style Guides and Standards",
+                "name": "Internation Organization for Standardization (ISO)",
+                "link": "https://www.iso.org/standards.html",
+                "pipe_separator": "",
+                "description": "An organization mostly known for publishing international and global standards on various fields such as computer science, mathematics, healthcare, and music."
             },
             "Semantic Versioning": {
                 "type": "Programming Style Guides and Standards",

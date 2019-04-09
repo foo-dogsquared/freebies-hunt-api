@@ -121,6 +121,7 @@
 - [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) | **(This is why programming is fantastic.)** A programming language that lets you create music.
 - [teoria](https://www.teoria.com/) | A website that dedicates to list music theory resources and tutorials.
+- [Virtual Piano](https://virtualpiano.net/) | **(If you don't have any physical instrument to interact with at the moment, you could always take a virtual instrument. Like this virtual piano, for instance.)** A virtual piano that can be interacted with the computer keyboard.
 
 ## Electronics
 ### Includes various reference points to get you started on tinkering hardware. | hardware | #81f4e1
@@ -144,6 +145,7 @@
 - [Blender](https://www.blender.org/) | A free and open source 3D modelling software. Despite being in the game dev't section, it could be used for things outside of game development such as 3D animations and illustrations.
 - [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development) | **(I mean it's CS50, I totally recommend this one.)** One of CS50x's branching course. This time they introduce you to the game development process. Just like CS50, it offers you challenging problem sets to be able to get a solid grasp after lectures.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) | **(Recommending this so much when starting out with game development.)** A free web-based book that discusses about different coding patterns that is usually found on game development.
+- [GDevelop](https://gdevelop-app.com/) | A free and open source app for game creation. You could create games without programming skills, a suitable tool for introducing to game development (and programming, overall).
 - [Godot Engine](https://godotengine.org/) | **(I recommend this very much especially with their free asset store.)** A free and open source cross-platform 2D and 3D game engine. You can visit the source code repo [right here](https://github.com/godotengine/godot).
 - [Make Human](http://www.makehumancommunity.org/) | A professional-grade free and open source software for creating 3D human (and humanoid) models.
 - [Open Game Art](https://opengameart.org/) | A website that offers free stock resources/assets for your game development process.
@@ -168,6 +170,7 @@
 ### Includes resources and facilities for documentation of different tools and various concepts. | documentation | #d1ffc6
 - [Asciidoctor](https://asciidoctor.org/) | A free and open source text processor for [AsciiDoc](https://asciidoctor.org/docs/what-is-asciidoc/). A solid alternative for Markdown.
 - [DevDocs](https://devdocs.io/) | **(Offline, easy to use, and usable on mobile devices. I dig it.)** A site wherein official documentation of different languages can be found; there's also an offline version of it if you are lacking of internet speed (like me).
+- [DokuWiki](https://www.dokuwiki.org/dokuwiki) | A free and open source collaborative wiki software without the use of a database.
 - [Doxygen](http://doxygen.nl/) | A free and open source documentation tool to generate online/offline references for your written software. Mainly supports C++ but it has support for other programming languages too. If you want to see the code yourself, you can visit the [repo](https://github.com/doxygen/doxygen).
 - [GitBook](https://www.gitbook.com/) | A GitHub for documentations, enabling team-based documenation work much easier and more searchable.
 - [Google Developers](https://developers.google.com/) | A hub of extensive documenations provided by Google developers. Not only it contains documentation on [web development](https://developers.google.com/web/) but also could get you started on [Android app development](https://developer.android.com/) and developing products utilizing [YouTube](https://developers.google.com/youtube/).
@@ -188,7 +191,8 @@
 - [Euler Project](https://projecteuler.net/) | **(Recommend it a lot, especially if you want to be more challenged.)** Has more focus on applying mathematical concepts than programming.
 - [Exercism](https://exercism.io) | A site that focuses improving you through the mentor-mentee model.
 - [Google Coding Competitions](https://codingcompetitions.withgoogle.com/) | A site where Google coding competitions take place. Also hosts a variety of competitions and you even have access when a certain coding competition is done so you can take at your own pace.
-- [HackerRank](http://hackerrank.com/) | A site that offers programming challenges along with some beginner-friendly sets.
+- [HackerRank](https://hackerrank.com/) | A site that offers programming challenges along with some beginner-friendly sets.
+- [HackerEarth](https://www.hackerearth.com/) | A programming challenge site that well, encourages you to take on the challenges in programming. It includes programming hackathons, challenge sets, and a curated collection of programming problems for various technical concepts such as data structures, mathematics, and basic programming.
 - [Pramp](https://www.pramp.com/) | You get to practice some programming interview questions and it's free.
 
 ## Articles
@@ -330,11 +334,12 @@
 - [Slack](https://slack.com/) | **(Recommended for using it for a group chat. Also supports a lot of integrations as well with the API.)** A very good chat client between teams especially in a professional environment. Can also be used as a hub for study groups as well.
 - [Thunderbird](https://www.thunderbird.net/en-US/) | **(Free, made by Mozilla, and it has been recently updated.)** A free and cross-platform e-mail client made by Mozilla Foundations.
 
-## Productivity Tools
+## Productivity
 ### A myriad of tools of various types to aid you into being productive. | clock | #ffa552
 - [A Soft Murmur](https://asoftmurmur.com/) | An ambient noise generator with a lot more sounds than rain.
 - [Buttercup](https://buttercup.pw/) | **(I'm thinking of migrating to this password manager now.)** A free and open source cross-platform password manager for your computer. Available in desktop, mobile, and as browser extensions to easily integrate with your browsing experience.  One neat feature of this password manager is that the credentials can be stored on your own computer or on the cloud with default support for cloud services (like Dropbox). You could visit the repo of this program [in this GitHub repo](https://github.com/buttercup/buttercup-desktop).
 - [Calibre](https://calibre-ebook.com/) | An e-book library management tool.
+- [Clockify](https://clockify.me/) | **(The offer is really good here.)** A virtually free web-based time tracking tool for you and your team (if you have any) taking on projects. Includes unlimited time and unlimited person to join in your team, only the extra functionalities are in the premium version. You could also self-host the program if you like.
 - [Habitica](https://habitica.com/) | A very cool app that gamifies your life. Turn your life around into an RPG, literally! (READ: not *that* RPG)
 - [Keepass](https://keepass.info/) | A free and open source password manager for your desktop. If you want to see the source code, you can go to the [repo at Sourceforge](https://sourceforge.net/projects/keepass/).
 - [LastPass](https://lastpass.com) | A cloud password manager. Offers web extension for even more convenience into your browsing experience.
@@ -441,6 +446,7 @@
 - [Choose A License](https://choosealicense.com/) | A site created by the team behind [GitHub](https://github.com/) that tackles about the topic of choosing licenses for your open source projects.
 - [Code of Covenant](https://www.contributor-covenant.org/) | This is where the code of conduct often based from.
 - [Keep A Changelog](https://keepachangelog.com/en/1.0.0/) | Contains specification notes for keeping a changelog file and its conventions of writing one. 
+- [Internation Organization for Standardization (ISO)](https://www.iso.org/standards.html) | An organization mostly known for publishing international and global standards on various fields such as computer science, mathematics, healthcare, and music.
 - [Semantic Versioning](https://semver.org/) | Contains the specification on how to number your software versions.
 
 ## Miscellaneous
