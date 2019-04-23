@@ -4,7 +4,7 @@
 - [/r/learnmath resource list](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/) | **(Best explanation right there, folks.)** It's a resource list for learning math made by the [/r/learnmath](https://www.reddit.com/r/learnmath/) community.
 - [/r/learnprogramming wiki](https://www.reddit.com/r/learnprogramming/wiki/tools) | Contains an overview of tools and some recommendations that you'll be using for the process of programming.
 - [/r/AskElectronics wiki](https://www.reddit.com/r/AskElectronics/wiki/index) | If you're looking on electronics-related resources, here's a community-made wiki from [/r/AskElectronics](https://www.reddit.com/r/AskElectronics/) that gives details and pointers on it.
-- [awesome](https://github.com/sindresorhus/awesome) | **(This is one of the most starred project in GitHub and for a good reason. It's a very cool project suitable for all especially for tech.)** It's a curated list of lists; I guess you can say it's **awesome**, mwehehehehehehehe... 😎
+- [awesome](https://github.com/sindresorhus/awesome) | **(This is one of the most starred project in GitHub and for a good reason. It's a very cool project suitable for all especially for tech.)** It's a curated tech-oriented list of resource lists; I guess you can say it's **awesome**, mwehehehehehehehe... 😎
 - [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html) | **(Recommended if you're starting into programming.)** A site of resource list of programming-related stuff for you to take a testdive into the programming world. With the resource list also includes an attention-inducing title, good visuals, and a graphic of a man pointing a gun at you (unless you're on mobile), isn't that lovely.
 - [Best For Dev](https://bestfordev.github.io/) | A technical resource list, mainly includes tutorials, at one place.
 - [Boomkrak](http://boomkrak.com/) | **(Recommended for design-related resources.)** A resource list of tools for aiding you into getting started with your next project.
@@ -14,20 +14,19 @@
 - [No Excuse List](http://www.noexcuselist.com/) | A meta-list of resource list that points out to different resources for taking a particular field whether it is cooking, music, or programming.
 - [Tech Dev Guide with Google](https://techdevguide.withgoogle.com/resources/) | Another curated collection by Google.
 - [Useful websites for programmers (by *sdmg15* on GitHub)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/) | Also here's [an mirror article by *Sahil Rajput* on dev.to](https://dev.to/sahilrajput/useful-websites-for-programmers-36k#coding-practice-for-beginners).
-- [Web Dev't Study Resources (by *dargaCode* on GitHub)](https://github.com/dargaCode/WebDevStudyResources) | A list of helpful resources both paid and free pointed out by the author of the repo. This can be a good starter point for those who are looking into web development.
 
 ## Distance Learning Resources
 ### Includes a variety of online platforms that offers premium version of their services as well. | online-learning | #c6f91f
 - [Adobe Education Exchange](https://edex.adobe.com/en/professional-development/courses) | Free courses offered by Adobe and its community.
 - [Brilliant](https://brilliant.org) | An online education platform where they encourage learning through constantly solving of challenging problems.
-- [Codecademy](https://www.codecademy.com/) | **(Their free courses is enough if you want to get started.)** A programming online learning platform. Offers premium courses.
 - [Coursera](https://coursera.org/) | **(Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway).)** Similar to edX over the content and entry barrier being the platform is filled with courses created by institutions and universities.
 - [edX](https://edx.org) | **(Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot.)** An online platform with most of its courses created by figurehead institutions and universities such as Microsoft, Harvard University, Standford University, Linux Foundation, and more.
 - [fast.ai](http://www.fast.ai/) | Free courses on machine learning, ooooh yeah.
+- [Google Developers](https://developers.google.com/) | A hub of extensive documenations provided by Google developers. Not only it contains documentation on [web development](https://developers.google.com/web/) but also could get you started on [Android app development](https://developer.android.com/) and developing products utilizing [YouTube](https://developers.google.com/youtube/).
 - [HTML5 Rocks](https://www.html5rocks.com/en/) | A tutorial and explainer site for web developers.
 - [Learn X in Y Minutes](https://learnxinyminutes.com) | **(What's `Y` minutes, you ask? The world may never know.)** A community-created repository of summaries for you to learn the X programming languages and tools in just Y minutes.
 - [LinkedIn Learning](https://learning.linkedin.com/) | eLearning platform of LinkedIn.
-- [Microsoft Virtual Academy](https://mva.microsoft.com/) | Microsoft's own learning platform. 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) | **(I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site.)** An extensive documentation on web development provided by Mozilla Developer Network. Contains a gigantic amount of resources especially for those who are new to web development and programming, in general.
 - [MongoDB University](https://university.mongodb.com/) | Official courses from MongoDB.
 - [Scrimba](https://scrimba.com/) | **(recommended)** A free online platform that offers videos with interactive code. It's like a child of [YouTube](https://youtube.com/) and [Glitch](https://glitch.com/), as they say.
 - [SkillShare](https://www.skillshare.com/) | An online platform for well-known instructors. It requires you to have some form of subscription to be able to access its premium courses but you can find some free trials with a new account.
@@ -47,6 +46,7 @@
 - [Community College Consortium for Open Educational Resources](https://www.cccoer.org/) | You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER).
 - [freeCodeCamp](https://freecodecamp.org) | **(It has a [forum](https://forum.freecodecamp.org/) to interact and has its curriculum open sourced.)** Project-based curriculum for web development. Also has its codebase and curriculum open sourced on [GitHub](http://github.com/freeCodeCamp/freeCodeCamp).
 - [IXL](https://www.ixl.com/) | An educational resource and learning site on K-12 curriculum.
+- [JHU Data Science Lab](https://jhudatascience.org/) | An organization with the goal of making learning data science accessible. They mainly do their goal by providing open source educational content for learning different subfields on data science.
 - [Khan Academy](https://khanacademy.org) | **(It's well known and has I think one of the biggest learners' community.)** There are also other topics outside of programming (i.e. mathematics, physics).
 - [Math Wiki](https://math.wikia.com/wiki/Math_Wiki) | **(Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that.)** A community-made and continuously updated textbook on mathematics.
 - [Merlot](https://www.merlot.org/merlot/index.htm) | An archive site of open educational resources viewable to everyone.
@@ -56,8 +56,7 @@
 - [Open Library](https://openlibrary.org/) | A web library backed by Internet Archive that contains books that has opened for public domain. Include books for science, literature, novels, and even recipes.
 - [Open SUNY Textbooks](https://textbooks.opensuny.org/) | An open textbook publication platform established by State University of New York libraries and supported by SUNY Innovative Instruction Technology Grants in which they offer their own set of textbooks.
 - [Open Textbook Library](https://open.umn.edu/opentextbooks) | **(If you want to look for a wide database of open textbooks, here's one of them that I personally use.)** A library of published open textbooks by different professionals and experts from different institutions.
-- [Open University](https://www.open.edu/openlearn/) |
-- [Open Yale Courses](https://oyc.yale.edu/courses) | A short list of open courses provided by Yale University.
+- [Open University](https://www.open.edu/openlearn/) | Features free courses, interactives, and educational materials. They also provide TV & audio programs which is certainly interesting, to say the least.
 - [OpenStax CNX](https://cnx.org/) | A database of open educational resources backed up [OpenStax](https://openstax.org/). Also offers some community-made books.
 - [OpenStax](https://openstax.org/) | **(I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/).)** A library of open-licensed expert-curated high school- and college-level textbook and resources.
 - [OSDev.org](https://wiki.osdev.org/Main_Page) | A detailed wiki on operating system development.
@@ -69,25 +68,26 @@
 
 ## Free and Open Access Textbooks
 ### This section offers a collection of free (if not, open which is even better) textbooks for everyone. Most of them are something programming-related but you can see more of them at the "Open Educational Resources" section. | textbook | #f28123
-- [All About Circuits Textbook](https://www.allaboutcircuits.com/textbook/) | An electronics textbook made by the Tony R. Kuphaldt. Contains a set of volumes covering electricity and electronics.
 - [Algorithms (by *Jeff Erickson*)](http://algorithms.wtf/) | It's a good book on algorithms (though not recommended as a first book on data structures and algorithms).
+- [All About Circuits Textbook](https://www.allaboutcircuits.com/textbook/) | An electronics textbook made by the Tony R. Kuphaldt. Contains a set of volumes covering electricity and electronics.
 - [Building Blocks for Theoretical Computer Science](http://mfleck.cs.illinois.edu/building-blocks/) | **(Self-explanatory title is self-explanatory, I think.)** A book that gives you a rudimentary class on theoretical side of computer science. Most of the focus are directed on the formal mathematical side of things with the lessons being set theory, logic, proofs, graphs, and calculus.
 - [Calculus (by *Kalid Azad* from *Better Explained*)](https://betterexplained.com/calculus/) | **(One of the more beginner-friendly books on learning calculus. I recommend it to give it a chance.)** A free online primer that tackles on learning calculus with intuition.
 - [Free Math Textbooks](http://www.openculture.com/free-math-textbooks) | A list of free math textbooks from [Open Culture](http://www.openculture.com/).
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | **(One of my top starred recommendations.)** A GitHub repo by the E-Book Foundation that lists out free programming books.
 - [Free Science Books](https://github.com/EbookFoundation/free-science-books) | Another GitHub repo by the E-Book Foundation.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) | **(Recommending this so much when starting out with game development.)** A book of patterns that are commonly found in game development. It's also free to read it online (obviously it is why it's in this list).
-- [Hack Book of Hoa/Compiler](https://hoa-project.net/En/)
 - [How to Design Programs, 2nd Edition](https://htdp.org/) | A computer science book published by the MIT Press that focuses on designing programs and in hindsight, how to efficiently formulate plans and stick with it until the very completion of your program.
 - [Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)](https://ptolemy.berkeley.edu/books/leeseshia/download.html)
 - [Invent with Python](https://inventwithpython.com/) | A collection of free Python online books authored by Al Sweigart.
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) | A free and open source textbook authored by Addy Osmani. It describes different design patterns that are commonly found written in JavaScript as a bridge to implementing them.
 - [Learn You A Haskell](http://learnyouahaskell.com/) | A free web book that teaches you functional programming through [Haskell](https://www.haskell.org/).
 - [Notes for Professionals](http://book.goalkicker.com/) | **(This is not much of a recommended resource in the long term since it's based on [Stack Overflow's experimental documenation project that has been abandoned recently](https://meta.stackoverflow.com/questions/354217/sunsetting-documentation). Also see the /r/learnprogramming explanation as to [why this resource is discouraged](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_discouraged_resources). Yeah, take caution when referring with this material. Ultimately, it's better to refer to the official documentation than this one though it's nice while it still lasts.)** Made by folks at Stack Overflow from the Stack Overflow documentation for variety of languages and despite the title, it is quite helpful for beginners like me, as well. 
 - [Open Data Structures](http://opendatastructures.org/) | **(I really like the different programming languages approach with this book.)** An open content textbook that tackles the implementation and analysis of data structures such as queues, dictionaries, and graphs. Offers versions for different programming languages as well for you to take the book with ease in your favorite programming language. 
+- [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
+- [Project Gutenburg](http://www.gutenberg.org/) | An archive site of more than 50,000 publicly available (mostly from public domain) digital books. It contains literary materials for different subjects such as music, science, psychology, and more.
 - [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) | An open MIT Press web book that focuses on analyzing and discussing the performance of computer programs and the practices of writing fast programs.
 - [Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)](https://sarabander.github.io/sicp/) | Unofficial (and prettier) version of [one of MIT's famous programming book (that can also be found online)](https://mitpress.mit.edu/sites/default/files/sicp/index.html).
 - [The Architecture on Open Source Applications](http://aosabook.org/en/index.html) | A bundle of books that are free to read online.
-- [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
 
 ## Massive Open Online Courses (MOOCS)
 ### Included here are the courses and platforms that offers courses that can be viewed by everyone. | courses | #8cd867
@@ -113,9 +113,11 @@
 - [Ardour](https://ardour.org/) | A free and open source digital audio workstation (DAW) with an emphasis on audio recording. It is also a cross-platform tool being able to run on the three major OS (Windows, Mac OS, and Linux). If you want to see the source code of this tool, you can visit the [remote repo](https://github.com/Ardour/ardour).
 - [Awesome Music](https://github.com/ciconia/awesome-music) | An [awesome](https://github.com/sindresorhus/awesome) list that lists out free music libraries and tools.
 - [Bandlab](https://www.bandlab.com/) | A free web-based digital audio workstation (DAW) by Cakewalk, known for their premium DAW by the same name. It's also a social platform for musicians to share their work.
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) | A compilation of experimental musical tools built by Google. It could be a fun way of fiddling around with music.
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | A Coursera course offered by Edinburgh University to get you started on learning the rudimentary information on music theory.
 - [LMMS](https://lmms.io/) | **(Also comes with a community of musicians with their sharing platform.)** A free and open source digital audio workstation that lets you composes beats and music. It can run on the major desktop operating systems: Windows, Mac OS, and Linux. If you want to visit the source code, you can go [right here](https://github.com/LMMS/lmms/).
 - [MuseScore](https://musescore.org/) | **(I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company.)** A free and open source composition and notation software. It also has cross-platform support for Windows, Mac OS, and Linux. You can see the source code itself on their [remote Git repo](https://github.com/musescore/MuseScore/).
+- [musictheory.net](https://www.musictheory.net/) | A website that mainly features lessons, exercises, and tools for you to learn and practice on music theory topics.
 - [Music Theory for Musicians and Normal People (by *Toby W. Rush*)](http://tobyrush.com/theorypages/index.html) | A free collection of one-page PDFs created by Toby Rush discussing the basics of music theory. (Also, you could just download all of the pages in one PDF if you look at the bottom.)
 - [Native Instruments Komplete Start Production Suite](https://www.native-instruments.com/en/products/free/) | A free music production suite provided by Native Instruments, famous for their sampler program, Kontakt.
 - [Open Music Theory](http://openmusictheory.com/) | A open textbook on college-level music theories and lessons.
@@ -173,8 +175,6 @@
 - [DokuWiki](https://www.dokuwiki.org/dokuwiki) | A free and open source collaborative wiki software without the use of a database.
 - [Doxygen](http://doxygen.nl/) | A free and open source documentation tool to generate online/offline references for your written software. Mainly supports C++ but it has support for other programming languages too. If you want to see the code yourself, you can visit the [repo](https://github.com/doxygen/doxygen).
 - [GitBook](https://www.gitbook.com/) | A GitHub for documentations, enabling team-based documenation work much easier and more searchable.
-- [Google Developers](https://developers.google.com/) | A hub of extensive documenations provided by Google developers. Not only it contains documentation on [web development](https://developers.google.com/web/) but also could get you started on [Android app development](https://developer.android.com/) and developing products utilizing [YouTube](https://developers.google.com/youtube/).
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) | **(I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site.)** An extensive documentation on web development provided by Mozilla Developer Network. Contains a gigantic amount of resources especially for those who are new to web development and programming, in general.
 - [Sphinx](http://sphinx-doc.org/) | A documenation generator originally written in Python for Python projects by converting [reStructuredText](http://docutils.sourceforge.net/rst.html) into different formats such as  You can find their GitHub repo [right here](https://github.com/sphinx-doc/sphinx).
 - [Tiddlywiki](https://tiddlywiki.com/) | A free and open-source software (FOSS) that serves as a non-linear personal notebook. It can be hosted on GitHub and GitLab (and other similar web hosting services). Think of it as a personal Wikipedia.
 - [Pandoc](http://pandoc.org/) | **(I haven't used much of this tool but this is one of the tools that I look forward to adding to my toolbelt.)** A free and open source document converter. Can convert various document formats (i.e. LaTeX, JSON, their own variant of Markdown (and other Markdown flavors)) into various output formats such as HTML, eBook formats, PDF, and other TeX formats. You could also extend into writing your own custom format, provided you'll write one. If you're interested in finding the source code, you can see it from [their GitHub repo](https://github.com/jgm/pandoc).
@@ -230,7 +230,6 @@
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | A tech podcast series that tackles a variety of subjects such as career advices, product management, and technical concepts.
 - [Coding Blocks Podcast](https://www.codingblocks.net/category/podcast/) | Great for beginners.
 - [College Info Geek Podcast](https://collegeinfogeek.com/cast/) | Not related to programming; a good refresher about a variety of stuff mainly about productivity and learning.
-- [DevChat](https://devchat.tv/) | A list of podcast.
 - [Developer Tea](https://developertea.simplecast.fm/) | A podcast series for developers that focuses on the non-technical side of the development process.
 - [Syntax](https://syntax.fm/) | **(Recommended if you're into web dev't.)** A podcast series hosted by Wes Bos and Scott Tolinski discussing about web development and programming.
 - [Programming Throwdown](https://www.programmingthrowdown.com/) | A programming podcast series that focuses on deeply breaking down various programming tools and process.
@@ -253,8 +252,6 @@
 - [Mozilla Hacks](http://hacks.mozilla.org/) | Mainly focuses on web development progress.
 - [Scott Logic](https://blog.scottlogic.com/) | It's a blog that focuses on a broad spectrum of stuff.
 - [Scott Young](https://scotthyoung.com/) | A blog that mainly focuses on learning and entrepreneurship.
-- [webapplog](https://webapplog.com/) | Mainly focuses on Node.js.
-- [Wes Bos's Blog](https://wesbos.com/blog/) | Creator of several courses and some helpful posts along the way.
 
 ## Newsletters
 ### A list on newsletters of various topics, sending you writings and resources in a certain interval of time. | newsletter | #f4e76e
@@ -344,6 +341,7 @@
 - [Keepass](https://keepass.info/) | A free and open source password manager for your desktop. If you want to see the source code, you can go to the [repo at Sourceforge](https://sourceforge.net/projects/keepass/).
 - [LastPass](https://lastpass.com) | A cloud password manager. Offers web extension for even more convenience into your browsing experience.
 - [Makerlog](https://getmakerlog.com) | A productive logger for makers. You also get to meet a community of hackers and makers who create useful (or not) products.
+- [Quire](https://quire.io) | **(Really recommending this one. Can serve as a solid alternative for Trello.)** A minimalistic all-in-one productivity tool. Can be made as a task list, a project board, a file sharing tool, and it highlights [an exhaustive list of features](https://quire.io/features) that'll make your productivity experience smoother.
 - [Rainy Mood](http://www.rainymood.com/) | Lets you focus through the ambience (if you're the type who find rain to be relaxing).
 - [RescueTime](https://www.rescuetime.com/) | A time management software that tracks your activities and rating them whether you've been productive or not.
 - [StackEdit](https://stackedit.io) | **(Really, really recommending you to check this one out.)** A web-based Markdown editor that comes with a lot of integration options to sync your notes with (include GitHub).
@@ -351,6 +349,7 @@
 
 ## Mathematics
 ### A collection of resources and tools to be able to aid you into solving mathematical problems. | math | #473144
+- [/r/learnmath](https://www.reddit.com/r/learnmath/) | A subreddit forming a welcoming community for people who is interested in taking a test dive into the world of mathematics.
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) | A YouTube channel that focuses on teaching mathematics intuitively by including animations. If you want to get started learning mathematics with this channel, I recommend to look into the playlist (or the Essence of X series).
 - [Awesome Math (by *rossant*)](https://github.com/rossant/awesome-math) | An [awesome](https://github.com/sindresorhus/awesome) list of websites, tools, and lecture notes for the branches of mathematics such as topology, calculus, analysis, and more.
 - [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) | **(Recommended for pre-calculus concepts. Pair that up with Professor Leonard (another of my personal recommendations) and you have a pair of YouTube channels that teaches high school mathematics for you.)** A YouTube channel led by [the titular mathematics teacher](https://misterwootube.com/) who produces online content for mathematics, mainly on pre-calculus topics.
@@ -363,6 +362,7 @@
 - [Symbolab](https://www.symbolab.com/) | A step by step calculator aiding you in solving algebra and calculus problems. One of the main features here is they also provide [practice problems and quizzes](https://www.symbolab.com/practice) in the site to help you improve your problem solving skills.
 - [SciPy](https://www.scipy.org/) | A free and open source mathematical, science, and engineering set of Python-based libraries and frameworks.
 - [Sage](http://www.sagemath.org/index.html) | A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more. Another free and open source alternative to [MATLAB](https://www.mathworks.com/products/matlab.html).
+- [Understanding Mathematics](https://github.com/nbro/understanding-math) | A GitHub repo that contains a list of references of various media for you on how to deeply understand the world of mathematics.
 - [Wolfram Alpha](https://www.wolframalpha.com/) | **(What is a mathematical tool list without Wolfram Alpha?)** Offers a plethora of mathematical (and non-mathematical) tools.
 - [Wolfram MathWorld](http://mathworld.wolfram.com/) | An encyclopedia of mathematics-related topics.
 
@@ -453,9 +453,11 @@
 ### Ehh... I don't know how to categorize these items yet. | uncategorized | #7c6a52
 - [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/) | It's a collection of wisdoms put together in a list from the Coding Horror blog.
 - [Archive](https://archive.org/) | **(It's also a good site to get public domain materials and some textbooks in here.)** It's an archive site for everything. You can find a lot of stuff in there.
+- [Codetriage](https://www.codetriage.com/) | **(This is a good website for those who are looking on contributing to open source projects.)** A open issuing tool for open source software. Take note that the site serves as a system for open source tools to make their issues move forward, if not resolve them which is even better.
 - [Developer Roadmap (by *kamranahmedse*)](https://github.com/kamranahmedse/developer-roadmap) | **(If you're looking for a web development roadmap, here's one quality resource for that.)** Your reference in case you want to choose a specific role in software development (specifically, in web development).
 - [DevTube](https://dev.tube) | YouTube for developers.
 - [Distrowatch](https://distrowatch.com/) | **(Recommended, if you're into Linux.)** A website watching for updates around Linux distros.
+- [Keybase](https://keybase.io/) | **(It's a useful way of giving credentials to the public if they need verification of your identity.)** A free and open source program that empowers security from identity by connecting your social links in a public way. It also offers a file sharing, file encryption, and private chat with other Keybase users.
 - [keyvalues](https://www.keyvalues.com/) | It's a engineering job finder.
 - [Local Hackday MLH (Major League Hacking)](https://localhackday.mlh.io/) | It's a global hackathon (that are related to MLH) finder.
 - [Odoo](https://www.odoo.com/) | An open source suite of web apps for growing your source. If you're curious about the open source part, you can personally give the [source code a visit](https://github.com/odoo/odoo) to see it yourself.
