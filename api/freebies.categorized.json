@@ -30,7 +30,7 @@
                 "link": "https://github.com/sindresorhus/awesome",
                 "pipe_separator": "",
                 "personal_rating": "This is one of the most starred project in GitHub and for a good reason. It's a very cool project suitable for all especially for tech.",
-                "description": "It's a curated list of lists; I guess you can say it's **awesome**, mwehehehehehehehe... 😎"
+                "description": "It's a curated tech-oriented list of resource lists; I guess you can say it's **awesome**, mwehehehehehehehe... 😎"
             },
             "Become a Programmer, Motherfucker": {
                 "type": "Other Resource Lists",
@@ -98,13 +98,6 @@
                 "link": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit/",
                 "pipe_separator": "",
                 "description": "Also here's [an mirror article by *Sahil Rajput* on dev.to](https://dev.to/sahilrajput/useful-websites-for-programmers-36k#coding-practice-for-beginners)."
-            },
-            "Web Dev't Study Resources (by *dargaCode* on GitHub)": {
-                "type": "Other Resource Lists",
-                "name": "Web Dev't Study Resources (by *dargaCode* on GitHub)",
-                "link": "https://github.com/dargaCode/WebDevStudyResources",
-                "pipe_separator": "",
-                "description": "A list of helpful resources both paid and free pointed out by the author of the repo. This can be a good starter point for those who are looking into web development."
             }
         },
         "icon_name": "list",
@@ -126,14 +119,6 @@
                 "link": "https://brilliant.org",
                 "pipe_separator": "",
                 "description": "An online education platform where they encourage learning through constantly solving of challenging problems."
-            },
-            "Codecademy": {
-                "type": "Distance Learning Resources",
-                "name": "Codecademy",
-                "link": "https://www.codecademy.com/",
-                "pipe_separator": "",
-                "personal_rating": "Their free courses is enough if you want to get started.",
-                "description": "A programming online learning platform. Offers premium courses."
             },
             "Coursera": {
                 "type": "Distance Learning Resources",
@@ -158,6 +143,13 @@
                 "pipe_separator": "",
                 "description": "Free courses on machine learning, ooooh yeah."
             },
+            "Google Developers": {
+                "type": "Distance Learning Resources",
+                "name": "Google Developers",
+                "link": "https://developers.google.com/",
+                "pipe_separator": "",
+                "description": "A hub of extensive documenations provided by Google developers. Not only it contains documentation on [web development](https://developers.google.com/web/) but also could get you started on [Android app development](https://developer.android.com/) and developing products utilizing [YouTube](https://developers.google.com/youtube/)."
+            },
             "HTML5 Rocks": {
                 "type": "Distance Learning Resources",
                 "name": "HTML5 Rocks",
@@ -180,12 +172,13 @@
                 "pipe_separator": "",
                 "description": "eLearning platform of LinkedIn."
             },
-            "Microsoft Virtual Academy": {
+            "MDN Web Docs": {
                 "type": "Distance Learning Resources",
-                "name": "Microsoft Virtual Academy",
-                "link": "https://mva.microsoft.com/",
+                "name": "MDN Web Docs",
+                "link": "https://developer.mozilla.org/en-US/",
                 "pipe_separator": "",
-                "description": "Microsoft's own learning platform."
+                "personal_rating": "I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site.",
+                "description": "An extensive documentation on web development provided by Mozilla Developer Network. Contains a gigantic amount of resources especially for those who are new to web development and programming, in general."
             },
             "MongoDB University": {
                 "type": "Distance Learning Resources",
@@ -312,6 +305,13 @@
                 "pipe_separator": "",
                 "description": "An educational resource and learning site on K-12 curriculum."
             },
+            "JHU Data Science Lab": {
+                "type": "Open Educational Resources",
+                "name": "JHU Data Science Lab",
+                "link": "https://jhudatascience.org/",
+                "pipe_separator": "",
+                "description": "An organization with the goal of making learning data science accessible. They mainly do their goal by providing open source educational content for learning different subfields on data science."
+            },
             "Khan Academy": {
                 "type": "Open Educational Resources",
                 "name": "Khan Academy",
@@ -383,14 +383,8 @@
                 "type": "Open Educational Resources",
                 "name": "Open University",
                 "link": "https://www.open.edu/openlearn/",
-                "pipe_separator": ""
-            },
-            "Open Yale Courses": {
-                "type": "Open Educational Resources",
-                "name": "Open Yale Courses",
-                "link": "https://oyc.yale.edu/courses",
                 "pipe_separator": "",
-                "description": "A short list of open courses provided by Yale University."
+                "description": "Features free courses, interactives, and educational materials. They also provide TV & audio programs which is certainly interesting, to say the least."
             },
             "OpenStax CNX": {
                 "type": "Open Educational Resources",
@@ -457,19 +451,19 @@
     "Free and Open Access Textbooks": {
         "description": "This section offers a collection of free (if not, open which is even better) textbooks for everyone. Most of them are something programming-related but you can see more of them at the \"Open Educational Resources\" section.",
         "children": {
-            "All About Circuits Textbook": {
-                "type": "Free and Open Access Textbooks",
-                "name": "All About Circuits Textbook",
-                "link": "https://www.allaboutcircuits.com/textbook/",
-                "pipe_separator": "",
-                "description": "An electronics textbook made by the Tony R. Kuphaldt. Contains a set of volumes covering electricity and electronics."
-            },
             "Algorithms (by *Jeff Erickson*)": {
                 "type": "Free and Open Access Textbooks",
                 "name": "Algorithms (by *Jeff Erickson*)",
                 "link": "http://algorithms.wtf/",
                 "pipe_separator": "",
                 "description": "It's a good book on algorithms (though not recommended as a first book on data structures and algorithms)."
+            },
+            "All About Circuits Textbook": {
+                "type": "Free and Open Access Textbooks",
+                "name": "All About Circuits Textbook",
+                "link": "https://www.allaboutcircuits.com/textbook/",
+                "pipe_separator": "",
+                "description": "An electronics textbook made by the Tony R. Kuphaldt. Contains a set of volumes covering electricity and electronics."
             },
             "Building Blocks for Theoretical Computer Science": {
                 "type": "Free and Open Access Textbooks",
@@ -517,11 +511,6 @@
                 "personal_rating": "Recommending this so much when starting out with game development.",
                 "description": "A book of patterns that are commonly found in game development. It's also free to read it online (obviously it is why it's in this list)."
             },
-            "Hack Book of Hoa/Compiler": {
-                "type": "Free and Open Access Textbooks",
-                "name": "Hack Book of Hoa/Compiler",
-                "link": "https://hoa-project.net/En/"
-            },
             "How to Design Programs, 2nd Edition": {
                 "type": "Free and Open Access Textbooks",
                 "name": "How to Design Programs, 2nd Edition",
@@ -540,6 +529,13 @@
                 "link": "https://inventwithpython.com/",
                 "pipe_separator": "",
                 "description": "A collection of free Python online books authored by Al Sweigart."
+            },
+            "Learning JavaScript Design Patterns": {
+                "type": "Free and Open Access Textbooks",
+                "name": "Learning JavaScript Design Patterns",
+                "link": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+                "pipe_separator": "",
+                "description": "A free and open source textbook authored by Addy Osmani. It describes different design patterns that are commonly found written in JavaScript as a bridge to implementing them."
             },
             "Learn You A Haskell": {
                 "type": "Free and Open Access Textbooks",
@@ -564,6 +560,20 @@
                 "personal_rating": "I really like the different programming languages approach with this book.",
                 "description": "An open content textbook that tackles the implementation and analysis of data structures such as queues, dictionaries, and graphs. Offers versions for different programming languages as well for you to take the book with ease in your favorite programming language."
             },
+            "Open Music Theory": {
+                "type": "Free and Open Access Textbooks",
+                "name": "Open Music Theory",
+                "link": "http://openmusictheory.com/",
+                "pipe_separator": "",
+                "description": "A open textbook on college-level music theories and lessons."
+            },
+            "Project Gutenburg": {
+                "type": "Free and Open Access Textbooks",
+                "name": "Project Gutenburg",
+                "link": "http://www.gutenberg.org/",
+                "pipe_separator": "",
+                "description": "An archive site of more than 50,000 publicly available (mostly from public domain) digital books. It contains literary materials for different subjects such as music, science, psychology, and more."
+            },
             "Scientific Programming and Computer Architecture": {
                 "type": "Free and Open Access Textbooks",
                 "name": "Scientific Programming and Computer Architecture",
@@ -584,13 +594,6 @@
                 "link": "http://aosabook.org/en/index.html",
                 "pipe_separator": "",
                 "description": "A bundle of books that are free to read online."
-            },
-            "Open Music Theory": {
-                "type": "Free and Open Access Textbooks",
-                "name": "Open Music Theory",
-                "link": "http://openmusictheory.com/",
-                "pipe_separator": "",
-                "description": "A open textbook on college-level music theories and lessons."
             }
         },
         "icon_name": "textbook",
@@ -747,6 +750,13 @@
                 "pipe_separator": "",
                 "description": "A free web-based digital audio workstation (DAW) by Cakewalk, known for their premium DAW by the same name. It's also a social platform for musicians to share their work."
             },
+            "Chrome Music Lab": {
+                "type": "Music",
+                "name": "Chrome Music Lab",
+                "link": "https://musiclab.chromeexperiments.com/",
+                "pipe_separator": "",
+                "description": "A compilation of experimental musical tools built by Google. It could be a fun way of fiddling around with music."
+            },
             "Fundamentals of Music Theory": {
                 "type": "Music",
                 "name": "Fundamentals of Music Theory",
@@ -769,6 +779,13 @@
                 "pipe_separator": "",
                 "personal_rating": "I recommend this one a lot if you want to aid with studying music theory, they've done good last year ever since they've been acquired by the Ultimate Guitar company.",
                 "description": "A free and open source composition and notation software. It also has cross-platform support for Windows, Mac OS, and Linux. You can see the source code itself on their [remote Git repo](https://github.com/musescore/MuseScore/)."
+            },
+            "musictheory.net": {
+                "type": "Music",
+                "name": "musictheory.net",
+                "link": "https://www.musictheory.net/",
+                "pipe_separator": "",
+                "description": "A website that mainly features lessons, exercises, and tools for you to learn and practice on music theory topics."
             },
             "Music Theory for Musicians and Normal People (by *Toby W. Rush*)": {
                 "type": "Music",
@@ -1123,21 +1140,6 @@
                 "pipe_separator": "",
                 "description": "A GitHub for documentations, enabling team-based documenation work much easier and more searchable."
             },
-            "Google Developers": {
-                "type": "Documentations",
-                "name": "Google Developers",
-                "link": "https://developers.google.com/",
-                "pipe_separator": "",
-                "description": "A hub of extensive documenations provided by Google developers. Not only it contains documentation on [web development](https://developers.google.com/web/) but also could get you started on [Android app development](https://developer.android.com/) and developing products utilizing [YouTube](https://developers.google.com/youtube/)."
-            },
-            "MDN Web Docs": {
-                "type": "Documentations",
-                "name": "MDN Web Docs",
-                "link": "https://developer.mozilla.org/en-US/",
-                "pipe_separator": "",
-                "personal_rating": "I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site.",
-                "description": "An extensive documentation on web development provided by Mozilla Developer Network. Contains a gigantic amount of resources especially for those who are new to web development and programming, in general."
-            },
             "Sphinx": {
                 "type": "Documentations",
                 "name": "Sphinx",
@@ -1479,13 +1481,6 @@
                 "pipe_separator": "",
                 "description": "Not related to programming; a good refresher about a variety of stuff mainly about productivity and learning."
             },
-            "DevChat": {
-                "type": "Podcasts",
-                "name": "DevChat",
-                "link": "https://devchat.tv/",
-                "pipe_separator": "",
-                "description": "A list of podcast."
-            },
             "Developer Tea": {
                 "type": "Podcasts",
                 "name": "Developer Tea",
@@ -1629,20 +1624,6 @@
                 "link": "https://scotthyoung.com/",
                 "pipe_separator": "",
                 "description": "A blog that mainly focuses on learning and entrepreneurship."
-            },
-            "webapplog": {
-                "type": "Blogs",
-                "name": "webapplog",
-                "link": "https://webapplog.com/",
-                "pipe_separator": "",
-                "description": "Mainly focuses on Node.js."
-            },
-            "Wes Bos's Blog": {
-                "type": "Blogs",
-                "name": "Wes Bos's Blog",
-                "link": "https://wesbos.com/blog/",
-                "pipe_separator": "",
-                "description": "Creator of several courses and some helpful posts along the way."
             }
         },
         "icon_name": "blog",
@@ -2201,6 +2182,14 @@
                 "pipe_separator": "",
                 "description": "A productive logger for makers. You also get to meet a community of hackers and makers who create useful (or not) products."
             },
+            "Quire": {
+                "type": "Productivity",
+                "name": "Quire",
+                "link": "https://quire.io",
+                "pipe_separator": "",
+                "personal_rating": "Really recommending this one. Can serve as a solid alternative for Trello.",
+                "description": "A minimalistic all-in-one productivity tool. Can be made as a task list, a project board, a file sharing tool, and it highlights [an exhaustive list of features](https://quire.io/features) that'll make your productivity experience smoother."
+            },
             "Rainy Mood": {
                 "type": "Productivity",
                 "name": "Rainy Mood",
@@ -2237,6 +2226,13 @@
     "Mathematics": {
         "description": "A collection of resources and tools to be able to aid you into solving mathematical problems.",
         "children": {
+            "/r/learnmath": {
+                "type": "Mathematics",
+                "name": "/r/learnmath",
+                "link": "https://www.reddit.com/r/learnmath/",
+                "pipe_separator": "",
+                "description": "A subreddit forming a welcoming community for people who is interested in taking a test dive into the world of mathematics."
+            },
             "3Blue1Brown": {
                 "type": "Mathematics",
                 "name": "3Blue1Brown",
@@ -2322,6 +2318,13 @@
                 "link": "http://www.sagemath.org/index.html",
                 "pipe_separator": "",
                 "description": "A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more. Another free and open source alternative to [MATLAB](https://www.mathworks.com/products/matlab.html)."
+            },
+            "Understanding Mathematics": {
+                "type": "Mathematics",
+                "name": "Understanding Mathematics",
+                "link": "https://github.com/nbro/understanding-math",
+                "pipe_separator": "",
+                "description": "A GitHub repo that contains a list of references of various media for you on how to deeply understand the world of mathematics."
             },
             "Wolfram Alpha": {
                 "type": "Mathematics",
@@ -2846,6 +2849,14 @@
                 "personal_rating": "It's also a good site to get public domain materials and some textbooks in here.",
                 "description": "It's an archive site for everything. You can find a lot of stuff in there."
             },
+            "Codetriage": {
+                "type": "Miscellaneous",
+                "name": "Codetriage",
+                "link": "https://www.codetriage.com/",
+                "pipe_separator": "",
+                "personal_rating": "This is a good website for those who are looking on contributing to open source projects.",
+                "description": "A open issuing tool for open source software. Take note that the site serves as a system for open source tools to make their issues move forward, if not resolve them which is even better."
+            },
             "Developer Roadmap (by *kamranahmedse*)": {
                 "type": "Miscellaneous",
                 "name": "Developer Roadmap (by *kamranahmedse*)",
@@ -2868,6 +2879,14 @@
                 "pipe_separator": "",
                 "personal_rating": "Recommended, if you're into Linux.",
                 "description": "A website watching for updates around Linux distros."
+            },
+            "Keybase": {
+                "type": "Miscellaneous",
+                "name": "Keybase",
+                "link": "https://keybase.io/",
+                "pipe_separator": "",
+                "personal_rating": "It's a useful way of giving credentials to the public if they need verification of your identity.",
+                "description": "A free and open source program that empowers security from identity by connecting your social links in a public way. It also offers a file sharing, file encryption, and private chat with other Keybase users."
             },
             "keyvalues": {
                 "type": "Miscellaneous",
