@@ -42,6 +42,9 @@ for (const item in data) {
 }
 ```
 
+## Changelog
+To see what potentially breaking changes have occured in the API, you can see the [changelog](./docs/CHANGELOG.md).
+
 ## Contributing
 You can contribute mainly either by code, feedback, criticisms, or link suggestions. 
 
