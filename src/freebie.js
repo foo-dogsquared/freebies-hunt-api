@@ -25,7 +25,7 @@ class Category {
     this.children = [];
 
     children.forEach((freebie, index) => {
-      this.children.push(new Freebie(index, freebie.name, freebie.url, name, freebie.description, freebie.personal_rating));
+      this.children.push(new Freebie(index, freebie.name, freebie.link, name, freebie.description, freebie.personal_rating));
     })
   }
 }
