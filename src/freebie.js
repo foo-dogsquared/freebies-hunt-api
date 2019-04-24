@@ -12,16 +12,21 @@ class Freebie {
 }
 
 class Category {
-  constructor(description, icon_name, main_color, children) {
-    if (typeof children !== "object") throw new TypeError("[children] should be a children of Freebies");
+  constructor(name, description, icon_name, main_color, children) {
+    if (typeof children !== "object") throw new TypeError("[children] should be an object");
     if (typeof description !== "string") throw new TypeError("[description] should be a string")
     if (typeof icon_name !== "string") throw new TypeError("[icon_name] should be a string")
     if (typeof main_color !== "string") throw new TypeError("[main_color] should be a string")
     
+    this.name = name;
     this.description = description;
-    this.children = children;
-    this.icon_name = icon_name;
-    this.main_color = main_color;
+    this.iconName = icon_name;
+    this.mainColor = main_color;
+    this.children = [];
+
+    children.forEach((freebie, index) => {
+      this.children.push(new Freebie(index, freebie.name, freebie.url, name, freebie.description, freebie.personal_rating));
+    })
   }
 }
 

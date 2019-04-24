@@ -24,8 +24,8 @@ class MarkdownListParser {
         case "TYPE":
           type = tokenData;
           if (categorized) {
-            Freebies[type] = {}
-            Freebies[type].children = {}
+            Freebies[type] = {};
+            Freebies[type].children = [];
           };
           break;
         case "TYPE_METADATA":
@@ -37,12 +37,13 @@ class MarkdownListParser {
         case "LIST":
           let name = tokenData["NAME"].data;
           if (categorized) {
-            Freebies[type]["children"][name] = {};
-            Freebies[type]["children"][name].type = type;
+            const resource = {};
   
             // enumerating through the list
             for (const part in tokenData) 
-              Object.defineProperty(Freebies[type]["children"][name], part.toLowerCase(), {value: tokenData[part].data, enumerable: true});
+              Object.defineProperty(resource, part.toLowerCase(), {value: tokenData[part].data, enumerable: true});
+
+            Freebies[type].children.push(resource);
           }
           else {
             if (tokenData in Freebies) name = `${name} ${type}`;

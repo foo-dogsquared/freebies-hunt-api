@@ -17,7 +17,7 @@ const categorizedFreebies = markdownListParser.parse(lexerItems, true);
 
 /* Just uncomment this if you want to study how the parser parses through the lexer tokens */
 // fs.writeFileSync(path.resolve(__dirname, "./parsingUncategorizedResults.json"), JSON.stringify(freebies, null, 4), {encoding: "utf8"});
-// fs.writeFileSync(path.resolve(__dirname, "./parsingCategorizedResults.json"), JSON.stringify(categorizedFreebies, null, 4), {encoding: "utf8"});
+fs.writeFileSync(path.resolve(__dirname, "./parsingCategorizedResults.json"), JSON.stringify(categorizedFreebies, null, 4), {encoding: "utf8"});
 
 // writing the freebies in their own object
 const freebiesJdbInstance = jaysonDB.getDB(path.resolve(__dirname, "../api/freebies.json"));
@@ -38,14 +38,12 @@ freebiesJdbInstance.export();
 console.log("All of the freebies (uncategorized) has been exported to the JSON file.")
 
 
-const categorizedFreebiesJdbInstance = jaysonDB.getDB(path.resolve(__dirname, "../api/freebies.categorized.json"));
+const categorizedFreebiesJdbInstance = new jaysonDB("freebies.categorized", { path: `./api` });
 let secondIndex = 0;
-
-categorizedFreebiesJdbInstance.delete(() => true);
 
 for (const name in categorizedFreebies) {
   const category = categorizedFreebies[name];
-  const categoryInstance = new Freebie.Category(category.description, category.icon_name, category.main_color, category.children);
+  const categoryInstance = new Freebie.Category(name, category.description, category.icon_name, category.main_color, category.children);
 
   categorizedFreebiesJdbInstance.create(categoryInstance, name);
 
