@@ -1097,13 +1097,20 @@
             },
             {
                 "id": 11,
+                "name": "National Institute of Science and Technology (NIST)",
+                "url": "https://www.nist.gov/",
+                "type": "Research",
+                "description": "A governing body on facilitating research on advancing scientific and technological breakthroughs. Also provides public access on its [publications and data](https://www.nist.gov/open)."
+            },
+            {
+                "id": 12,
                 "name": "Papers We Love",
                 "url": "https://github.com/papers-we-love/papers-we-love",
                 "type": "Research",
                 "description": "A community on reading and discussing academic computer science papers. The linked hyperlink is a GitHub repo containing a list of local chapters of the community, a list of resources to look for other papers, and a list of links for how to read an academic paper (which is always a very nice feature to include)."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Researchgate",
                 "url": "https://www.researchgate.net/",
                 "type": "Research",
@@ -1697,13 +1704,6 @@
             },
             {
                 "id": 6,
-                "name": "Postanly",
-                "url": "https://postanly.ongoodbits.com/",
-                "type": "Newsletters",
-                "description": "A weekly digest of productivity life articles."
-            },
-            {
-                "id": 7,
                 "name": "Pycoders Weekly",
                 "url": "https://pycoders.com/",
                 "type": "Newsletters",
@@ -1975,21 +1975,13 @@
             },
             {
                 "id": 1,
-                "name": "Codeanywhere",
-                "url": "https://www.codeanywhere.com/",
-                "type": "IDE and Text Editors",
-                "description": "An IDE that supports mostly coding anywhere from the web browser to the mobile phone. It has a built-in terminal console, integration support with remote file services such as Dropbox and Google Drive, connection with remote Git repositories, and even build containers with it (like how Docker works).",
-                "personalComment": "If you want to code with the mobile phone, I recommend using a bluetooth keyboard with a USB-on-the-go adapter. It's not fun typing on the touchscreen keyboard."
-            },
-            {
-                "id": 2,
                 "name": "Codepen",
                 "url": "https://codepen.io",
                 "type": "IDE and Text Editors",
                 "description": "A playground IDE for front-end development."
             },
             {
-                "id": 3,
+                "id": 2,
                 "name": "CodeSandbox",
                 "url": "https://codesandbox.io/",
                 "type": "IDE and Text Editors",
@@ -1997,22 +1989,22 @@
                 "personalComment": "Also it works offline and mainly used for front-end frameworks so it's a double plus for me."
             },
             {
-                "id": 4,
+                "id": 3,
                 "name": "Eclipse",
                 "url": "https://www.eclipse.org/",
                 "type": "IDE and Text Editors",
                 "description": "Offers a wide variety of programming tools and IDEs for different programming languages and development processes."
             },
             {
-                "id": 5,
+                "id": 4,
                 "name": "Jetbrains Tools Suite",
                 "url": "https://www.jetbrains.com/",
                 "type": "IDE and Text Editors",
                 "description": "Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.",
-                "personalComment": "Recommend it a lot for the variety of tools that they're offering."
+                "personalComment": "Recommend it a lot for the variety of tools that they're offering. Also some of their tools have a free version available so look out for that."
             },
             {
-                "id": 6,
+                "id": 5,
                 "name": "Repl.it",
                 "url": "https://repl.it/",
                 "type": "IDE and Text Editors",
@@ -2020,7 +2012,7 @@
                 "personalComment": "Recommend it a lot when starting out with back-end development. The tool also has a hacker community behind it so I recommend you to take a look at it."
             },
             {
-                "id": 7,
+                "id": 6,
                 "name": "Vim",
                 "url": "https://www.vim.org/",
                 "type": "IDE and Text Editors",
@@ -2028,7 +2020,7 @@
                 "personalComment": "I have no words for this, yet. The closest experience so far is by using the default text editor on my Git installation."
             },
             {
-                "id": 8,
+                "id": 7,
                 "name": "Visual Studio (IDE)",
                 "url": "https://www.visualstudio.com/",
                 "type": "IDE and Text Editors",
@@ -2036,7 +2028,7 @@
                 "personalComment": "I recommend this but don't be overly reliant ;p"
             },
             {
-                "id": 9,
+                "id": 8,
                 "name": "Visual Studio Code",
                 "url": "https://code.visualstudio.com/",
                 "type": "IDE and Text Editors",
@@ -2685,10 +2677,24 @@
             },
             {
                 "id": 4,
+                "name": "Intel Student Pack",
+                "url": "https://software.intel.com/en-us/qualify-for-free-software/student",
+                "type": "Student Packs",
+                "description": "An assortment of free tools offered by Intel. Contains Intel software used for scientific and computing."
+            },
+            {
+                "id": 5,
                 "name": "JetBrain Student Pack",
                 "url": "https://www.jetbrains.com/student/",
                 "type": "Student Packs",
                 "description": "Offers free educational licenses for their tools such as [WebStorm](https://www.jetbrains.com/webstorm/), [Clion](https://www.jetbrains.com/clion/), and [PhpStorm](https://www.jetbrains.com/phpstorm/). You could also re-apply as long as you're still eligible."
+            },
+            {
+                "id": 6,
+                "name": "Vectorworks Educational Suite",
+                "url": "https://student.myvectorworks.net/content/Products",
+                "type": "Student Packs",
+                "description": "Offers an educational version for all of [Vectorworks]() software. Contains an array of design tools for [buildings](https://www.vectorworks.net/en/architect), [landscapes](https://www.vectorworks.net/en/landmark), [showstages](https://www.vectorworks.net/en/spotlight), and [2D and 3D sketches](https://www.vectorworks.net/en/fundamentals) and a [rendering engine](https://www.vectorworks.net/products/features/renderworks)."
             }
         ]
     },
@@ -2772,45 +2778,72 @@
             },
             {
                 "id": 1,
+                "name": "FreeBSD",
+                "url": "https://www.freebsdfoundation.org/",
+                "type": "Open Content Communities",
+                "description": "A foundation that supports the [FreeBSD Project](https://www.freebsd.org/) and the concept of free software."
+            },
+            {
+                "id": 2,
+                "name": "GNU Software",
+                "url": "https://www.gnu.org/",
+                "type": "Open Content Communities",
+                "description": "A software foundation that mainly supports the philosophy of free software. They've created and maintained software projects used in various fields such as [Octave](https://www.gnu.org/software/octave/), [GCC](https://www.gnu.org/software/gcc/), [GDB](https://www.gnu.org/software/gdb/), [Emacs](https://www.gnu.org/software/emacs/), and [much more](https://www.gnu.org/software/)."
+            },
+            {
+                "id": 3,
+                "name": "Linux Foundation",
+                "url": "https://www.linuxfoundation.org",
+                "type": "Open Content Communities",
+                "description": "A open source software foundation that brings technology together to create an ecosystem of open source programs."
+            },
+            {
+                "id": 4,
                 "name": "Linux.com",
                 "url": "https://www.linux.com/",
                 "type": "Open Content Communities",
                 "description": "It's about Linux and open source software, overall."
             },
             {
-                "id": 2,
+                "id": 5,
                 "name": "Mozilla Foundations",
                 "url": "https://foundation.mozilla.org/",
                 "type": "Open Content Communities",
                 "description": "A software foundation that pushes free internet for all."
             },
             {
-                "id": 3,
+                "id": 6,
+                "name": "National Institute of Science and Technology (NIST)",
+                "url": "https://www.nist.gov/",
+                "type": "Open Content Communities",
+                "description": "A governing body on facilitating research on advancing scientific and technological breakthroughs. Also provides public access on its [publications and data](https://www.nist.gov/open)."
+            },
+            {
+                "id": 7,
                 "name": "OER Commons",
                 "url": "https://www.oercommons.org/",
                 "type": "Open Content Communities",
                 "description": "A community that supports open educational resources to be accessible to all."
             },
             {
-                "id": 4,
+                "id": 8,
                 "name": "Open Culture",
                 "url": "http://www.openculture.com/",
                 "type": "Open Content Communities",
                 "description": "A site that provides open content and resources."
             },
             {
-                "id": 5,
+                "id": 9,
                 "name": "Open Source",
                 "url": "https://opensource.com/",
                 "type": "Open Content Communities",
                 "description": "A site supported by [Red Hat](https://www.redhat.com/en) that talks all open source things."
             },
             {
-                "id": 6,
-                "name": "Linux Foundation",
-                "url": "https://www.linuxfoundation.org",
-                "type": "Open Content Communities",
-                "description": "A open source software foundation that brings technology together to create an ecosystem of open source programs."
+                "id": 10,
+                "name": "Open Source Initiative",
+                "url": "https://opensource.org/",
+                "type": "Open Content Communities"
             }
         ]
     },
@@ -2843,24 +2876,38 @@
             },
             {
                 "id": 3,
-                "name": "Keep A Changelog",
-                "url": "https://keepachangelog.com/en/1.0.0/",
-                "type": "Programming Style Guides and Standards",
-                "description": "Contains specification notes for keeping a changelog file and its conventions of writing one."
-            },
-            {
-                "id": 4,
                 "name": "Internation Organization for Standardization (ISO)",
                 "url": "https://www.iso.org/standards.html",
                 "type": "Programming Style Guides and Standards",
                 "description": "An organization mostly known for publishing international and global standards on various fields such as computer science, mathematics, healthcare, and music."
             },
             {
+                "id": 4,
+                "name": "Internet Engineering Task Forces (IETF)",
+                "url": "https://www.ietf.org/",
+                "type": "Programming Style Guides and Standards",
+                "description": "Similar to ISO, they're an organization that publishes standards and technical specifications for different areas."
+            },
+            {
                 "id": 5,
+                "name": "Keep A Changelog",
+                "url": "https://keepachangelog.com/en/1.0.0/",
+                "type": "Programming Style Guides and Standards",
+                "description": "Contains specification notes for keeping a changelog file and its conventions of writing one."
+            },
+            {
+                "id": 6,
                 "name": "Semantic Versioning",
                 "url": "https://semver.org/",
                 "type": "Programming Style Guides and Standards",
                 "description": "Contains the specification on how to number your software versions."
+            },
+            {
+                "id": 7,
+                "name": "World Wide Web Consortium (W3C)",
+                "url": "https://www.w3.org/",
+                "type": "Programming Style Guides and Standards",
+                "description": "They are the leading council that publishes open internet standards and specifications such as HTML and CSS. Most of the web features that we experiences tend to be reviewed and standardized by them."
             }
         ]
     },

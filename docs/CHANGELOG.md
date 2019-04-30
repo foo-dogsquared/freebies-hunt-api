@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 All specified dates are in standard [ISO 8601 date and time format](https://www.iso.org/iso-8601-date-and-time-format.html).
 
+## [Unreleased]
+
+## [1.3.1]
+### Added
+- Add a personal comment on **Jetbrains Tool Suite**
+- Add the following resources:
+    - **National Institute of Science and Technology** in *Research* and *Open Content Communities* section
+    - **FreeBSD** at *Open Content Communities* section
+    - **GNU Software** at *Open Content Communities* section
+    - **Open Source Initiative** at *Open Content Communities* section
+    - **World Wide Web Consortium** in *Programming Styles and Standards*
+    - **Internet Engineering Task Forces** in *Programming Styles and Standards*
+    - **Intel Student Pack** in *Student Packs*
+    - **Vectorworks Educational Suite** in *Student Packs*
+
+### Removed
+- Remove **Postanly** from *Newsletters* section. It's abandoned now which goes against the definition of being a newsletter.
+
 ## [1.3.0] - 2019-04-29
 ### Changed
 - Update the schema of the freebie categories

@@ -165,6 +165,7 @@
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch) | A search engine made by Google for publicly available datasets.
 - [Kaggle](https://www.kaggle.com/datasets) | A website that references public data sets. It's quite a website for your data science or research projects.
 - [LaTeX](https://www.latex-project.org/) | A highly regarded typesetting system for scientific documents. Supports a wide variety of mathematical (and scientific) expressions and symbols from algebra, logic, calculus, and more advanced mathematical disciplines. The program is not standalone itself but it does have plenty of text editors built on top of the typesetting system to let you prepare LaTeX documents easily. The provided website already has a list of programs for you to easily refer to a text editor but still [here's a list of programs built on top of LaTeX.](https://github.com/egeerardyn/awesome-LaTeX).
+- [National Institute of Science and Technology (NIST)](https://www.nist.gov/) | A governing body on facilitating research on advancing scientific and technological breakthroughs. Also provides public access on its [publications and data](https://www.nist.gov/open).
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love) | A community on reading and discussing academic computer science papers. The linked hyperlink is a GitHub repo containing a list of local chapters of the community, a list of resources to look for other papers, and a list of links for how to read an academic paper (which is always a very nice feature to include).
 - [Researchgate](https://www.researchgate.net/) | An online community of researchers sharing and exploring other academic papers. Also, most published studies under their platform are free to view though you can't join their community unless you've proven your credentials as an academic research student.
 
@@ -261,7 +262,6 @@
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/) | Weekly newsletter about HTML5 Game Development.
 - [JavaScript Weekly](https://javascriptweekly.com/) | A weekly newsletter that sends a curated list of JavaScript-related articles and tutorials.
 - [Official Node.js Weekly Newsletter](https://newsletter.nodejs.org/) | A monthly newsletter that sends you a curated list of news and resources involving Node.js.
-- [Postanly](https://postanly.ongoodbits.com/) | A weekly digest of productivity life articles.
 - [Pycoders Weekly](https://pycoders.com/) | A weekly newsletter on Python.
 
 ## YouTube Channels
@@ -304,11 +304,10 @@
 ## IDE and Text Editors
 ### Includes text editors and IDE that facilities putting shorter time into programming your project. | ide | #936ba7
 - [Atom](https://atom.io/) | A text editor made by the team at [GitHub](https://github.com/). Offers extensibility and user customization to suit their specific needs with HTML, CSS, and JavaScript since it runs on [Electron](https://electronjs.org/), a JavaScript framework for building cross-platform desktop apps also built by the GitHub team. Offers a platform for user-created packages and themes.
-- [Codeanywhere](https://www.codeanywhere.com/) | **(If you want to code with the mobile phone, I recommend using a bluetooth keyboard with a USB-on-the-go adapter. It's not fun typing on the touchscreen keyboard.)** An IDE that supports mostly coding anywhere from the web browser to the mobile phone. It has a built-in terminal console, integration support with remote file services such as Dropbox and Google Drive, connection with remote Git repositories, and even build containers with it (like how Docker works).
 - [Codepen](https://codepen.io) | A playground IDE for front-end development.
 - [CodeSandbox](https://codesandbox.io/) | **(Also it works offline and mainly used for front-end frameworks so it's a double plus for me.)** Really acts as a solid online alternative in case you want to work on the go (mostly, for JavaScript-oriented web development). Has strong support for front-end libraries and frameworks such as React, Vue, and Angular.
 - [Eclipse](https://www.eclipse.org/) | Offers a wide variety of programming tools and IDEs for different programming languages and development processes.
-- [Jetbrains Tools Suite](https://www.jetbrains.com/) | **(Recommend it a lot for the variety of tools that they're offering.)** Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.
+- [Jetbrains Tools Suite](https://www.jetbrains.com/) | **(Recommend it a lot for the variety of tools that they're offering. Also some of their tools have a free version available so look out for that.)** Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.
 - [Repl.it](https://repl.it/) | **(Recommend it a lot when starting out with back-end development. The tool also has a hacker community behind it so I recommend you to take a look at it.)** An IDE for different programming languages. Also supports back-end development to be able to quickly share and test it with other people.
 - [Vim](https://www.vim.org/) | **(I have no words for this, yet. The closest experience so far is by using the default text editor on my Git installation.)** A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds). 
 - [Visual Studio (IDE)](https://www.visualstudio.com/) | **(I recommend this but don't be overly reliant ;p)** A Windows-only IDE that offers wide support for different programming languages and tech stacks from mobile apps, games, desktop apps, and web apps. 
@@ -417,7 +416,9 @@
 - [Autocad Education](https://www.autodesk.com/education/free-software/featured) | Offers free years of the premium version of their productline of computer-aided design (CAD) programs. You could also re-apply as long as you're still eligible.
 - [Azure for Education](https://azure.microsoft.com/en-us/free/students/) | A free student grant for students. Grants you $100 Azure Credits and a wide range of free developer products. Also, no credit card needed but you have to prove you're a student through email address (I guess those .edu top-level domain or something).
 - [GitHub Educational Pack](https://education.github.com/pack/) | **(Recommending this by a long shot. A plethora of benefits from here.)** Assortment of benefits like unlimited private repositories on their own site, free domain name for a year, and free premium boosts on more sites.
+- [Intel Student Pack](https://software.intel.com/en-us/qualify-for-free-software/student) | An assortment of free tools offered by Intel. Contains Intel software used for scientific and computing. 
 - [JetBrain Student Pack](https://www.jetbrains.com/student/) | Offers free educational licenses for their tools such as [WebStorm](https://www.jetbrains.com/webstorm/), [Clion](https://www.jetbrains.com/clion/), and [PhpStorm](https://www.jetbrains.com/phpstorm/). You could also re-apply as long as you're still eligible.
+- [Vectorworks Educational Suite](https://student.myvectorworks.net/content/Products) | Offers an educational version for all of [Vectorworks]() software. Contains an array of design tools for [buildings](https://www.vectorworks.net/en/architect), [landscapes](https://www.vectorworks.net/en/landmark), [showstages](https://www.vectorworks.net/en/spotlight), and [2D and 3D sketches](https://www.vectorworks.net/en/fundamentals) and a [rendering engine](https://www.vectorworks.net/products/features/renderworks).
 
 ## Inspiration
 ### Needed some inspiration for ideas or projects (or just want to get some things done)? Here's some of the resources that offers that. | inspiration | #f3dfa2
@@ -433,21 +434,27 @@
 ## Open Content Communities
 ### Included here are some of the communities and organizations that proudly promote open content. | open-content | #ffbc42
 - [Creative Commons](https://creativecommons.org/) | An organization that provides easy-to-use licenses for your intellectual works while giving the public the permission to use, enabling for easier collaboration with protection for your efforts.
+- [FreeBSD](https://www.freebsdfoundation.org/) | A foundation that supports the [FreeBSD Project](https://www.freebsd.org/) and the concept of free software.
+- [GNU Software](https://www.gnu.org/) | A software foundation that mainly supports the philosophy of free software. They've created and maintained software projects used in various fields such as [Octave](https://www.gnu.org/software/octave/), [GCC](https://www.gnu.org/software/gcc/), [GDB](https://www.gnu.org/software/gdb/), [Emacs](https://www.gnu.org/software/emacs/), and [much more](https://www.gnu.org/software/).
+- [Linux Foundation](https://www.linuxfoundation.org) | A open source software foundation that brings technology together to create an ecosystem of open source programs.
 - [Linux.com](https://www.linux.com/) | It's about Linux and open source software, overall.
 - [Mozilla Foundations](https://foundation.mozilla.org/) | A software foundation that pushes free internet for all.
+- [National Institute of Science and Technology (NIST)](https://www.nist.gov/) | A governing body on facilitating research on advancing scientific and technological breakthroughs. Also provides public access on its [publications and data](https://www.nist.gov/open).
 - [OER Commons](https://www.oercommons.org/) | A community that supports open educational resources to be accessible to all.
 - [Open Culture](http://www.openculture.com/) | A site that provides open content and resources.
 - [Open Source](https://opensource.com/) | A site supported by [Red Hat](https://www.redhat.com/en) that talks all open source things.
-- [Linux Foundation](https://www.linuxfoundation.org) | A open source software foundation that brings technology together to create an ecosystem of open source programs.
+- [Open Source Initiative](https://opensource.org/)
 
 ## Programming Style Guides and Standards
 ### Want a quick list of programming standard and style guides? Well, I got that just for you. | standards | #54426b
 - [Awesome Style Guide (by *kciter*)](https://github.com/kciter/awesome-style-guide) | An [awesome](https://github.com/sindresorhus/awesome) list of style guides of different programming languages and tools.
 - [Choose A License](https://choosealicense.com/) | A site created by the team behind [GitHub](https://github.com/) that tackles about the topic of choosing licenses for your open source projects.
 - [Code of Covenant](https://www.contributor-covenant.org/) | This is where the code of conduct often based from.
-- [Keep A Changelog](https://keepachangelog.com/en/1.0.0/) | Contains specification notes for keeping a changelog file and its conventions of writing one. 
 - [Internation Organization for Standardization (ISO)](https://www.iso.org/standards.html) | An organization mostly known for publishing international and global standards on various fields such as computer science, mathematics, healthcare, and music.
+- [Internet Engineering Task Forces (IETF)](https://www.ietf.org/) | Similar to ISO, they're an organization that publishes standards and technical specifications for different areas.
+- [Keep A Changelog](https://keepachangelog.com/en/1.0.0/) | Contains specification notes for keeping a changelog file and its conventions of writing one. 
 - [Semantic Versioning](https://semver.org/) | Contains the specification on how to number your software versions.
+- [World Wide Web Consortium (W3C)](https://www.w3.org/) | They are the leading council that publishes open internet standards and specifications such as HTML and CSS. Most of the web features that we experiences tend to be reviewed and standardized by them.
 
 ## Miscellaneous
 ### Ehh... I don't know how to categorize these items yet. | uncategorized | #7c6a52
