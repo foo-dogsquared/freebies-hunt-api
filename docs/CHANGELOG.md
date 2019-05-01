@@ -8,7 +8,7 @@ All specified dates are in standard [ISO 8601 date and time format](https://www.
 
 ## [Unreleased]
 
-## [1.3.1]
+## [1.3.1] - 2019-05-01
 ### Added
 - Add a personal comment on **Jetbrains Tool Suite**
 - Add the following resources:
@@ -24,7 +24,7 @@ All specified dates are in standard [ISO 8601 date and time format](https://www.
 ### Removed
 - Remove **Postanly** from *Newsletters* section. It's abandoned now which goes against the definition of being a newsletter.
 
-## [1.3.0] - 2019-04-29
+## [1.3.0] - 2019-04-24
 ### Changed
 - Update the schema of the freebie categories
 - Update the data reflecting the newly revised schema
