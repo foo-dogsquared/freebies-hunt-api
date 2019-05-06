@@ -1007,6 +1007,13 @@
                 "url": "https://opengameart.org/",
                 "type": "Game Development",
                 "description": "A website that offers free stock resources/assets for your game development process."
+            },
+            {
+                "id": 9,
+                "name": "Red Blob Games",
+                "url": "https://www.redblobgames.com/",
+                "type": "Game Development",
+                "description": "A blog from a game developer on game development. His posts usually include visual and interactive examples to aid his explanation which is really a nice way to discuss game dev concepts."
             }
         ]
     },
@@ -1055,62 +1062,69 @@
             },
             {
                 "id": 5,
+                "name": "Data.gov",
+                "url": "https://www.data.gov/",
+                "type": "Research",
+                "description": "The repository of various datasets initiated and publicly released from the US government."
+            },
+            {
+                "id": 6,
                 "name": "Figshare",
                 "url": "https://figshare.com/",
                 "type": "Research",
                 "description": "A platform for open scientific research data."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "Mendeley",
                 "url": "https://mendeley.com/",
                 "type": "Research",
                 "description": "A research organization tool. Also comes with a research network."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Google Scholar",
                 "url": "https://scholar.google.com/",
                 "type": "Research",
                 "description": "An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "Google Dataset Search",
                 "url": "https://toolbox.google.com/datasetsearch",
                 "type": "Research",
                 "description": "A search engine made by Google for publicly available datasets."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "Kaggle",
                 "url": "https://www.kaggle.com/datasets",
                 "type": "Research",
                 "description": "A website that references public data sets. It's quite a website for your data science or research projects."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "LaTeX",
                 "url": "https://www.latex-project.org/",
                 "type": "Research",
                 "description": "A highly regarded typesetting system for scientific documents. Supports a wide variety of mathematical (and scientific) expressions and symbols from algebra, logic, calculus, and more advanced mathematical disciplines. The program is not standalone itself but it does have plenty of text editors built on top of the typesetting system to let you prepare LaTeX documents easily. The provided website already has a list of programs for you to easily refer to a text editor but still [here's a list of programs built on top of LaTeX.](https://github.com/egeerardyn/awesome-LaTeX)."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "National Institute of Science and Technology (NIST)",
                 "url": "https://www.nist.gov/",
                 "type": "Research",
                 "description": "A governing body on facilitating research on advancing scientific and technological breakthroughs. Also provides public access on its [publications and data](https://www.nist.gov/open)."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Papers We Love",
                 "url": "https://github.com/papers-we-love/papers-we-love",
                 "type": "Research",
                 "description": "A community on reading and discussing academic computer science papers. The linked hyperlink is a GitHub repo containing a list of local chapters of the community, a list of resources to look for other papers, and a list of links for how to read an academic paper (which is always a very nice feature to include)."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "Researchgate",
                 "url": "https://www.researchgate.net/",
                 "type": "Research",
@@ -1162,20 +1176,27 @@
             },
             {
                 "id": 5,
+                "name": "LaTeX",
+                "url": "https://www.latex-project.org/",
+                "type": "Documentations",
+                "description": "A free and open source typesetting system for a wide variety of literatures from articles, books, and theses. It's the de facto tool for scientific and mathematical publications. You can [get started on using it by downloading certain tools with it](https://www.latex-project.org/get/)."
+            },
+            {
+                "id": 6,
                 "name": "Sphinx",
                 "url": "http://sphinx-doc.org/",
                 "type": "Documentations",
                 "description": "A documenation generator originally written in Python for Python projects by converting [reStructuredText](http://docutils.sourceforge.net/rst.html) into different formats such as  You can find their GitHub repo [right here](https://github.com/sphinx-doc/sphinx)."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "Tiddlywiki",
                 "url": "https://tiddlywiki.com/",
                 "type": "Documentations",
                 "description": "A free and open-source software (FOSS) that serves as a non-linear personal notebook. It can be hosted on GitHub and GitLab (and other similar web hosting services). Think of it as a personal Wikipedia."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Pandoc",
                 "url": "http://pandoc.org/",
                 "type": "Documentations",
@@ -1639,13 +1660,20 @@
             },
             {
                 "id": 11,
+                "name": "Red Blob Games",
+                "url": "https://www.redblobgames.com/",
+                "type": "Blogs",
+                "description": "A blog from a game developer on game development. His posts usually include visual and interactive examples to aid his explanation which is really a nice way to discuss game dev concepts."
+            },
+            {
+                "id": 12,
                 "name": "Scott Logic",
                 "url": "https://blog.scottlogic.com/",
                 "type": "Blogs",
                 "description": "It's a blog that focuses on a broad spectrum of stuff."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Scott Young",
                 "url": "https://scotthyoung.com/",
                 "type": "Blogs",
@@ -1704,6 +1732,13 @@
             },
             {
                 "id": 6,
+                "name": "O’Reilly Programming Newsletter",
+                "url": "https://www.oreilly.com/programming/newsletter.html",
+                "type": "Newsletters",
+                "description": "A weekly newsletter from O'Reilly that contains articles and resources on programming."
+            },
+            {
+                "id": 7,
                 "name": "Pycoders Weekly",
                 "url": "https://pycoders.com/",
                 "type": "Newsletters",
@@ -2017,7 +2052,7 @@
                 "url": "https://www.vim.org/",
                 "type": "IDE and Text Editors",
                 "description": "A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds).",
-                "personalComment": "I have no words for this, yet. The closest experience so far is by using the default text editor on my Git installation."
+                "personalComment": "I gotta say that this is probably one of the coolest text editor I've experienced so far. Features ton of shortcuts for navigating and manipulating through the file and has an active ecosystem of plugins to choose from."
             },
             {
                 "id": 7,
@@ -2311,6 +2346,13 @@
             },
             {
                 "id": 9,
+                "name": "Paul's Online Notes",
+                "url": "http://tutorial.math.lamar.edu/",
+                "type": "Mathematics",
+                "description": "A popular mathematics online notes. Contains cheat sheets and detailed notes on several mathematical subjects like algebra and calculus (and its subtopics)."
+            },
+            {
+                "id": 10,
                 "name": "Professor Leonard",
                 "url": "https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg",
                 "type": "Mathematics",
@@ -2318,35 +2360,35 @@
                 "personalComment": "Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Symbolab",
                 "url": "https://www.symbolab.com/",
                 "type": "Mathematics",
                 "description": "A step by step calculator aiding you in solving algebra and calculus problems. One of the main features here is they also provide [practice problems and quizzes](https://www.symbolab.com/practice) in the site to help you improve your problem solving skills."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "SciPy",
                 "url": "https://www.scipy.org/",
                 "type": "Mathematics",
                 "description": "A free and open source mathematical, science, and engineering set of Python-based libraries and frameworks."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Sage",
                 "url": "http://www.sagemath.org/index.html",
                 "type": "Mathematics",
                 "description": "A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more. Another free and open source alternative to [MATLAB](https://www.mathworks.com/products/matlab.html)."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "Understanding Mathematics",
                 "url": "https://github.com/nbro/understanding-math",
                 "type": "Mathematics",
                 "description": "A GitHub repo that contains a list of references of various media for you on how to deeply understand the world of mathematics."
             },
             {
-                "id": 14,
+                "id": 15,
                 "name": "Wolfram Alpha",
                 "url": "https://www.wolframalpha.com/",
                 "type": "Mathematics",
@@ -2354,7 +2396,7 @@
                 "personalComment": "What is a mathematical tool list without Wolfram Alpha?"
             },
             {
-                "id": 15,
+                "id": 16,
                 "name": "Wolfram MathWorld",
                 "url": "http://mathworld.wolfram.com/",
                 "type": "Mathematics",
@@ -2408,6 +2450,14 @@
             },
             {
                 "id": 5,
+                "name": "Glitch",
+                "url": "https://glitch.com/",
+                "type": "Platforms For Your Future Apps",
+                "description": "A platform for your apps",
+                "personalComment": "Personally recommend it for your hobby projects especially if you're looking for a platform for the backend of your apps."
+            },
+            {
+                "id": 6,
                 "name": "Heroku",
                 "url": "http://heroku.com/",
                 "type": "Platforms For Your Future Apps",
@@ -2415,14 +2465,14 @@
                 "personalComment": "Recommended, if you're starting with back-end development. I find it easy to deploy apps with it."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "Microsoft Azure | Free Tier",
                 "url": "https://azure.microsoft.com/en-us/free/",
                 "type": "Platforms For Your Future Apps",
                 "description": "Includes a year of free trial for their premium products such as Linux and Windows virtual machines, file storage, and SQL databases."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Netlify",
                 "url": "http://netlify.com/",
                 "type": "Platforms For Your Future Apps",
@@ -2430,7 +2480,7 @@
                 "personalComment": "Also comes with ways on how to make your static site be dynamic or something."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "Sourceforge",
                 "url": "https://sourceforge.net/",
                 "type": "Platforms For Your Future Apps",
@@ -2527,6 +2577,13 @@
             },
             {
                 "id": 11,
+                "name": "Simple Icons",
+                "url": "https://simpleicons.org/",
+                "type": "Stock Resources",
+                "description": "A free and open source icon set of popular brands. You can see the [repo on GitHub](https://github.com/simple-icons/simple-icons)."
+            },
+            {
+                "id": 12,
                 "name": "Unsplash",
                 "url": "https://unsplash.com/",
                 "type": "Stock Resources",
@@ -2534,8 +2591,62 @@
             }
         ]
     },
-    "Design": {
-        "name": "Design",
+    "Computer-aided Design (CAD)": {
+        "name": "Computer-aided Design (CAD)",
+        "description": "Includes a list of tools and resources for you to get started on creating and exploring computer-aided designs. Mostly explored its uses in engineering and scientific courses.",
+        "iconName": "cad",
+        "mainColor": "#47e5bc",
+        "children": [
+            {
+                "id": 0,
+                "name": "Blender",
+                "url": "https://www.blender.org/",
+                "type": "Computer-aided Design (CAD)"
+            },
+            {
+                "id": 1,
+                "name": "FreeCAD",
+                "url": "https://www.freecadweb.org/",
+                "type": "Computer-aided Design (CAD)"
+            },
+            {
+                "id": 2,
+                "name": "Google Sketchup",
+                "url": "https://www.sketchup.com/",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling."
+            },
+            {
+                "id": 3,
+                "name": "OpenSCAD",
+                "url": "http://www.openscad.org/index.html",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/)."
+            },
+            {
+                "id": 4,
+                "name": "AutoCAD Fusion 360",
+                "url": "https://www.autodesk.com/products/fusion-360",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A 3D sketching and modelling tool made by Autocad. Has a plethora of features outside of being a 3D design tool; it could also generate design and simulate with realtime physics. Also, they have available support for students (with free 3 years) and startups (with a free year). Just make sure you check if you're eligible before you request for one."
+            },
+            {
+                "id": 5,
+                "name": "BRL-CAD",
+                "url": "http://brlcad.org/",
+                "type": "Computer-aided Design (CAD)"
+            },
+            {
+                "id": 6,
+                "name": "Onshape",
+                "url": "https://www.onshape.com",
+                "type": "Computer-aided Design (CAD)",
+                "description": "Has support for educational institutions and individuals. An online-based CAD tool which means it could be run on different platforms."
+            }
+        ]
+    },
+    "Graphics Design": {
+        "name": "Graphics Design",
         "description": "Includes a plethora of resources for you to be able to design and create visual aids and illustrations.",
         "iconName": "paintbrush",
         "mainColor": "#e67f0d",
@@ -2544,21 +2655,21 @@
                 "id": 0,
                 "name": "Awesome Design (by *gztchan*)",
                 "url": "https://github.com/gztchan/awesome-design",
-                "type": "Design",
+                "type": "Graphics Design",
                 "description": "An [awesome](https://github.com/sindresorhus/awesome) list of design-related resources for you to explore more of it, if you're looking for more."
             },
             {
                 "id": 1,
                 "name": "Canva",
                 "url": "https://www.canva.com/",
-                "type": "Design",
+                "type": "Graphics Design",
                 "description": "Why not create your own creative designs."
             },
             {
                 "id": 2,
                 "name": "Coolors",
                 "url": "https://coolors.co/",
-                "type": "Design",
+                "type": "Graphics Design",
                 "description": "An intuitive color scheme generator.",
                 "personalComment": "My go-to color scheme generator."
             },
@@ -2566,7 +2677,7 @@
                 "id": 3,
                 "name": "draw.io",
                 "url": "https://draw.io",
-                "type": "Design",
+                "type": "Graphics Design",
                 "description": "A web-based online diagram and flowchart maker software.",
                 "personalComment": "I recommend this a lot if you want to design some visual aid. Also comes with desktop versions though I don't really recommend it as it's mostly the same except you run it in the desktop."
             },
@@ -2574,7 +2685,7 @@
                 "id": 4,
                 "name": "Figma",
                 "url": "https://www.figma.com/",
-                "type": "Design",
+                "type": "Graphics Design",
                 "description": "Basically, a FREE web-based version of Adobe XD.",
                 "personalComment": "Recommended for designing and prototyping apps."
             },
@@ -2582,7 +2693,7 @@
                 "id": 5,
                 "name": "GIMP",
                 "url": "https://www.gimp.org/",
-                "type": "Design",
+                "type": "Graphics Design",
                 "description": "A free and open source photo editor similar to Adobe's Photoshop. You can view its source code right [here](https://gitlab.gnome.org/GNOME/gimp).",
                 "personalComment": "Yup, this is basically a viable free replacement for Photoshop"
             },
@@ -2590,7 +2701,7 @@
                 "id": 6,
                 "name": "Inkscape",
                 "url": "https://inkscape.org/",
-                "type": "Design",
+                "type": "Graphics Design",
                 "description": "A free and open source vector illustration tool similar to Adobe's Illustrator. If you're interested in seeing the source code for yourself, you can view it [here](https://gitlab.com/inkscape/inkscape).",
                 "personalComment": "Yup, this is basically a viable free replacement for Illustrator."
             },
@@ -2598,8 +2709,15 @@
                 "id": 7,
                 "name": "Krita",
                 "url": "https://krita.org/en/",
-                "type": "Design",
+                "type": "Graphics Design",
                 "description": "A professional free and open source program for professionals, I think. It is available on the major desktop platforms: Windows, Mac OS, and Linux. If you want to visit the repo yourself, you can visit it from their [GitHub repo](https://github.com/KDE/krita)."
+            },
+            {
+                "id": 8,
+                "name": "Scribus",
+                "url": "https://www.scribus.net/",
+                "type": "Graphics Design",
+                "description": "A cross-platform free and open source page layout program. Mainly used for posters, magazine production, book covers, pamphlets, and more."
             }
         ]
     },
@@ -2843,7 +2961,8 @@
                 "id": 10,
                 "name": "Open Source Initiative",
                 "url": "https://opensource.org/",
-                "type": "Open Content Communities"
+                "type": "Open Content Communities",
+                "description": "A global organization on promoting the concepts and related tools of open source to the public."
             }
         ]
     },

@@ -9,7 +9,6 @@
 - [Best For Dev](https://bestfordev.github.io/) | A technical resource list, mainly includes tutorials, at one place.
 - [Boomkrak](http://boomkrak.com/) | **(Recommended for design-related resources.)** A resource list of tools for aiding you into getting started with your next project.
 - [Grow With Google](https://buildyourfuture.withgoogle.com/resources/) | A curated collection by Google that points out the directions on where to start in the world of tech.
-- [Hacker Tools](https://hacker-tools.github.io/) | **(I recommend this a lot if you want to explore options for programming. A lot of people said that tools are not much of importance but I still think it's great to have an overview course regarding those said tools.)** An MIT lecture series on programming tools. Also can serve as a resource list for different programming tools on text editors, version control systems, and desktop configurations.
 - [Lospec](https://lospec.com/) | **(If you want to get started on digital art, I recommend you to take a quick gander here.)** A website that curates digital art-related resources and articles for everyone interested on the field.
 - [No Excuse List](http://www.noexcuselist.com/) | A meta-list of resource list that points out to different resources for taking a particular field whether it is cooking, music, or programming.
 - [Tech Dev Guide with Google](https://techdevguide.withgoogle.com/resources/) | Another curated collection by Google.
@@ -151,6 +150,7 @@
 - [Godot Engine](https://godotengine.org/) | **(I recommend this very much especially with their free asset store.)** A free and open source cross-platform 2D and 3D game engine. You can visit the source code repo [right here](https://github.com/godotengine/godot).
 - [Make Human](http://www.makehumancommunity.org/) | A professional-grade free and open source software for creating 3D human (and humanoid) models.
 - [Open Game Art](https://opengameart.org/) | A website that offers free stock resources/assets for your game development process.
+- [Red Blob Games](https://www.redblobgames.com/) | A blog from a game developer on game development. His posts usually include visual and interactive examples to aid his explanation which is really a nice way to discuss game dev concepts.
 
 ## Research
 ### Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study. | study | #8fb8de
@@ -159,6 +159,7 @@
 - [Academia.edu](https://www.academia.edu/) | A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research.
 - [arXiv](https://arxiv.org/) | **(Recommending this one if you want to look for a literature for your research.)** A website that offers over 1 million open e-prints of papers on various fields such as astronomy, computer science, engineering, mathematics, and more.
 - [Brainly](https://brainly.com/) | **(Recommended if you're looking for an academics study group.)** A study group for students and peer-to-peer engagement. Formerly known as *OpenStudy*.
+- [Data.gov](https://www.data.gov/) | The repository of various datasets initiated and publicly released from the US government.
 - [Figshare](https://figshare.com/) | A platform for open scientific research data. 
 - [Mendeley](https://mendeley.com/) | A research organization tool. Also comes with a research network.
 - [Google Scholar](https://scholar.google.com/) | An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis.
@@ -176,6 +177,7 @@
 - [DokuWiki](https://www.dokuwiki.org/dokuwiki) | A free and open source collaborative wiki software without the use of a database.
 - [Doxygen](http://doxygen.nl/) | A free and open source documentation tool to generate online/offline references for your written software. Mainly supports C++ but it has support for other programming languages too. If you want to see the code yourself, you can visit the [repo](https://github.com/doxygen/doxygen).
 - [GitBook](https://www.gitbook.com/) | A GitHub for documentations, enabling team-based documenation work much easier and more searchable.
+- [LaTeX](https://www.latex-project.org/) | A free and open source typesetting system for a wide variety of literatures from articles, books, and theses. It's the de facto tool for scientific and mathematical publications. You can [get started on using it by downloading certain tools with it](https://www.latex-project.org/get/).
 - [Sphinx](http://sphinx-doc.org/) | A documenation generator originally written in Python for Python projects by converting [reStructuredText](http://docutils.sourceforge.net/rst.html) into different formats such as  You can find their GitHub repo [right here](https://github.com/sphinx-doc/sphinx).
 - [Tiddlywiki](https://tiddlywiki.com/) | A free and open-source software (FOSS) that serves as a non-linear personal notebook. It can be hosted on GitHub and GitLab (and other similar web hosting services). Think of it as a personal Wikipedia.
 - [Pandoc](http://pandoc.org/) | **(I haven't used much of this tool but this is one of the tools that I look forward to adding to my toolbelt.)** A free and open source document converter. Can convert various document formats (i.e. LaTeX, JSON, their own variant of Markdown (and other Markdown flavors)) into various output formats such as HTML, eBook formats, PDF, and other TeX formats. You could also extend into writing your own custom format, provided you'll write one. If you're interested in finding the source code, you can see it from [their GitHub repo](https://github.com/jgm/pandoc).
@@ -251,6 +253,7 @@
 - [Joel On Software](https://www.joelonsoftware.com) | A software-related blog from Joel Spolsky, the CEO from Stack Overflow.
 - [Jon Skeet's Coding Blog](https://codeblog.jonskeet.uk/) | Jon Skeet's blog; *\* insert Jon Skeet fact here \**
 - [Mozilla Hacks](http://hacks.mozilla.org/) | Mainly focuses on web development progress.
+- [Red Blob Games](https://www.redblobgames.com/) | A blog from a game developer on game development. His posts usually include visual and interactive examples to aid his explanation which is really a nice way to discuss game dev concepts.
 - [Scott Logic](https://blog.scottlogic.com/) | It's a blog that focuses on a broad spectrum of stuff.
 - [Scott Young](https://scotthyoung.com/) | A blog that mainly focuses on learning and entrepreneurship.
 
@@ -262,6 +265,7 @@
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/) | Weekly newsletter about HTML5 Game Development.
 - [JavaScript Weekly](https://javascriptweekly.com/) | A weekly newsletter that sends a curated list of JavaScript-related articles and tutorials.
 - [Official Node.js Weekly Newsletter](https://newsletter.nodejs.org/) | A monthly newsletter that sends you a curated list of news and resources involving Node.js.
+- [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) | A weekly newsletter from O'Reilly that contains articles and resources on programming.
 - [Pycoders Weekly](https://pycoders.com/) | A weekly newsletter on Python.
 
 ## YouTube Channels
@@ -309,7 +313,7 @@
 - [Eclipse](https://www.eclipse.org/) | Offers a wide variety of programming tools and IDEs for different programming languages and development processes.
 - [Jetbrains Tools Suite](https://www.jetbrains.com/) | **(Recommend it a lot for the variety of tools that they're offering. Also some of their tools have a free version available so look out for that.)** Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.
 - [Repl.it](https://repl.it/) | **(Recommend it a lot when starting out with back-end development. The tool also has a hacker community behind it so I recommend you to take a look at it.)** An IDE for different programming languages. Also supports back-end development to be able to quickly share and test it with other people.
-- [Vim](https://www.vim.org/) | **(I have no words for this, yet. The closest experience so far is by using the default text editor on my Git installation.)** A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds). 
+- [Vim](https://www.vim.org/) | **(I gotta say that this is probably one of the coolest text editor I've experienced so far. Features ton of shortcuts for navigating and manipulating through the file and has an active ecosystem of plugins to choose from.)** A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds).
 - [Visual Studio (IDE)](https://www.visualstudio.com/) | **(I recommend this but don't be overly reliant ;p)** A Windows-only IDE that offers wide support for different programming languages and tech stacks from mobile apps, games, desktop apps, and web apps. 
 - [Visual Studio Code](https://code.visualstudio.com/) | **(THIS VERY MUCH!)** A free and open source platform-agnostic (found on Windows, Mac, & Linux) text editor that runs in Electron. You can visit the source code right [here](https://github.com/Microsoft/vscode).
 
@@ -357,6 +361,7 @@
 - [Mathway](https://www.mathway.com/) | Similar to Geogebra, it provides a free online-based suite of mathematical tools to help in solving problems ranging from algebra, calculus, statistics, linear algebra, and even chemistry.
 - [Octave](https://www.gnu.org/software/octave/) | A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). In fact, it is mostly compatible with MATLAB code (READ: mostly). It is made by the team at [GNU Software](https://www.gnu.org/).
 - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) | A YouTube channel that focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it.
+- [Paul's Online Notes](http://tutorial.math.lamar.edu/) | A popular mathematics online notes. Contains cheat sheets and detailed notes on several mathematical subjects like algebra and calculus (and its subtopics).
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | **(Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.)** A YouTube channel that focuses on giving topics on calculus.
 - [Symbolab](https://www.symbolab.com/) | A step by step calculator aiding you in solving algebra and calculus problems. One of the main features here is they also provide [practice problems and quizzes](https://www.symbolab.com/practice) in the site to help you improve your problem solving skills.
 - [SciPy](https://www.scipy.org/) | A free and open source mathematical, science, and engineering set of Python-based libraries and frameworks.
@@ -372,6 +377,7 @@
 - [Firebase](https://firebase.google.com/) | **(Integration with this is also somewhat of a pain but it's very worth if you're looking for a generous free tier platform service.)** A platform as a service backed by Google. Provides integration with built-in database, crash reporting, authentication, cloud storage, and so much more. The free-tier service from here is quite generous though it needs a bit of extra steps to integrate your app with it (I think).
 - [GitHub](https://github.com/) | **(You have [GitHub Pages](https://pages.github.com/) which at the very least can serve static files pretty well.)** It's the most popular remote Git repository hosting service right now. Also includes a [code sharing tool](https://gist.github.com) and [a lot of integrated services](https://github.com/marketplace).
 - [GitLab](https://gitlab.com/) | **(Like GitHub, they also provide [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) which can serve static files.)** Includes unlimited ~~blade~~ free privated repos and an integrated continuous integration/continuous delivery (CI/CD) services.
+- [Glitch](https://glitch.com/) | **(Personally recommend it for your hobby projects especially if you're looking for a platform for the backend of your apps.)** A platform for your apps
 - [Heroku](http://heroku.com/) | **(Recommended, if you're starting with back-end development. I find it easy to deploy apps with it.)** Easy to deploy system for backend of your apps. Supports a wide variety of tech stacks such as for Python, PHP, Node, and Ruby on Rails.
 - [Microsoft Azure | Free Tier](https://azure.microsoft.com/en-us/free/) | Includes a year of free trial for their premium products such as Linux and Windows virtual machines, file storage, and SQL databases.
 - [Netlify](http://netlify.com/) | **(Also comes with ways on how to make your static site be dynamic or something.)** Their free options is pretty much amazing for static websites.
@@ -390,9 +396,20 @@
 - [Petrucci Music Library](https://imslp.org/wiki/) | A music library containing public domain songs.
 - [Pexels](https://www.pexels.com/) | Includes videos and images licensed under CC License.
 - [Pixabay](https://www.pixabay.com/) | Similar to Pexels, ranging its offers not only to photos that are free to use (depending on its author) but also to its videos, illustrations, and vectors.
+- [Simple Icons](https://simpleicons.org/) | A free and open source icon set of popular brands. You can see the [repo on GitHub](https://github.com/simple-icons/simple-icons).
 - [Unsplash](https://unsplash.com/) | A site that features photos that are free to use.
 
-## Design
+## Computer-aided Design (CAD)
+### Includes a list of tools and resources for you to get started on creating and exploring computer-aided designs. Mostly explored its uses in engineering and scientific courses. | cad | #47e5bc
+- [Blender](https://www.blender.org/)
+- [FreeCAD](https://www.freecadweb.org/)
+- [Google Sketchup](https://www.sketchup.com/) | A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling.
+- [OpenSCAD](http://www.openscad.org/index.html) | A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/).
+- [AutoCAD Fusion 360](https://www.autodesk.com/products/fusion-360) | A 3D sketching and modelling tool made by Autocad. Has a plethora of features outside of being a 3D design tool; it could also generate design and simulate with realtime physics. Also, they have available support for students (with free 3 years) and startups (with a free year). Just make sure you check if you're eligible before you request for one.
+- [BRL-CAD](http://brlcad.org/)
+- [Onshape](https://www.onshape.com) | Has support for educational institutions and individuals. An online-based CAD tool which means it could be run on different platforms.
+
+## Graphics Design
 ### Includes a plethora of resources for you to be able to design and create visual aids and illustrations. | paintbrush | #e67f0d
 - [Awesome Design (by *gztchan*)](https://github.com/gztchan/awesome-design) | An [awesome](https://github.com/sindresorhus/awesome) list of design-related resources for you to explore more of it, if you're looking for more.
 - [Canva](https://www.canva.com/) | Why not create your own creative designs.
@@ -402,6 +419,7 @@
 - [GIMP](https://www.gimp.org/) | **(Yup, this is basically a viable free replacement for Photoshop)** A free and open source photo editor similar to Adobe's Photoshop. You can view its source code right [here](https://gitlab.gnome.org/GNOME/gimp).
 - [Inkscape](https://inkscape.org/) | **(Yup, this is basically a viable free replacement for Illustrator.)** A free and open source vector illustration tool similar to Adobe's Illustrator. If you're interested in seeing the source code for yourself, you can view it [here](https://gitlab.com/inkscape/inkscape).
 - [Krita](https://krita.org/en/) | A professional free and open source program for professionals, I think. It is available on the major desktop platforms: Windows, Mac OS, and Linux. If you want to visit the repo yourself, you can visit it from their [GitHub repo](https://github.com/KDE/krita).
+- [Scribus](https://www.scribus.net/) | A cross-platform free and open source page layout program. Mainly used for posters, magazine production, book covers, pamphlets, and more.
 
 ## Content Delivery Networks (CDN)
 ### Included here are some of the businesses that provides a quick way to fetch your project resources. | cdn | #b0fe76
@@ -443,7 +461,7 @@
 - [OER Commons](https://www.oercommons.org/) | A community that supports open educational resources to be accessible to all.
 - [Open Culture](http://www.openculture.com/) | A site that provides open content and resources.
 - [Open Source](https://opensource.com/) | A site supported by [Red Hat](https://www.redhat.com/en) that talks all open source things.
-- [Open Source Initiative](https://opensource.org/)
+- [Open Source Initiative](https://opensource.org/) | A global organization on promoting the concepts and related tools of open source to the public.
 
 ## Programming Style Guides and Standards
 ### Want a quick list of programming standard and style guides? Well, I got that just for you. | standards | #54426b
