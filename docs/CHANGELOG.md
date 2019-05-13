@@ -9,6 +9,8 @@ All specified dates are in standard [ISO 8601 date and time format](https://www.
 All words that are in **boldface** must refer to a **resource** while words in *italic* should refer to the *categories*.
 
 ## [Unreleased]
+
+## [1.4.0] - 2019-05-13
 ### Added
 - Add the following new resouces:
     - **Data.gov** at *Research*
