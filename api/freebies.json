@@ -59,16 +59,8 @@
         "type": "Other Resource Lists",
         "description": "A curated collection by Google that points out the directions on where to start in the world of tech."
     },
-    "Hacker Tools": {
-        "id": 8,
-        "name": "Hacker Tools",
-        "url": "https://hacker-tools.github.io/",
-        "type": "Massive Open Online Courses (MOOCS)",
-        "description": "An MIT lecture series on programming tools. Also can serve as a resource list for different programming tools on text editors, version control systems, and desktop configurations.",
-        "personalComment": "I recommend this a lot if you want to explore options for programming. A lot of people said that tools are not much of importance but I still think it's great to have an overview course regarding those said tools."
-    },
     "Lospec": {
-        "id": 9,
+        "id": 8,
         "name": "Lospec",
         "url": "https://lospec.com/",
         "type": "Other Resource Lists",
@@ -76,42 +68,42 @@
         "personalComment": "If you want to get started on digital art, I recommend you to take a quick gander here."
     },
     "No Excuse List": {
-        "id": 10,
+        "id": 9,
         "name": "No Excuse List",
         "url": "http://www.noexcuselist.com/",
         "type": "Other Resource Lists",
         "description": "A meta-list of resource list that points out to different resources for taking a particular field whether it is cooking, music, or programming."
     },
     "Tech Dev Guide with Google": {
-        "id": 11,
+        "id": 10,
         "name": "Tech Dev Guide with Google",
         "url": "https://techdevguide.withgoogle.com/resources/",
         "type": "Other Resource Lists",
         "description": "Another curated collection by Google."
     },
     "Useful websites for programmers (by *sdmg15* on GitHub)": {
-        "id": 12,
+        "id": 11,
         "name": "Useful websites for programmers (by *sdmg15* on GitHub)",
         "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit/",
         "type": "Other Resource Lists",
         "description": "Also here's [an mirror article by *Sahil Rajput* on dev.to](https://dev.to/sahilrajput/useful-websites-for-programmers-36k#coding-practice-for-beginners)."
     },
     "Adobe Education Exchange": {
-        "id": 13,
+        "id": 12,
         "name": "Adobe Education Exchange",
         "url": "https://edex.adobe.com/en/professional-development/courses",
         "type": "Distance Learning Resources",
         "description": "Free courses offered by Adobe and its community."
     },
     "Brilliant": {
-        "id": 14,
+        "id": 13,
         "name": "Brilliant",
         "url": "https://brilliant.org",
         "type": "Distance Learning Resources",
         "description": "An online education platform where they encourage learning through constantly solving of challenging problems."
     },
     "Coursera": {
-        "id": 15,
+        "id": 14,
         "name": "Coursera",
         "url": "https://coursera.org/",
         "type": "Massive Open Online Courses (MOOCS)",
@@ -119,7 +111,7 @@
         "personalComment": "Another MOOC platform recommendation. Also have some exclusive courses that can be found only on Coursera so neither edX and Coursera can have a huge content gap over the other (I think, anyway)."
     },
     "edX": {
-        "id": 16,
+        "id": 15,
         "name": "edX",
         "url": "https://edx.org",
         "type": "Massive Open Online Courses (MOOCS)",
@@ -127,28 +119,28 @@
         "personalComment": "Hard to be able to create a course inside of the platform. Mostly created by well-known institutions and universities. Yup, I recommend it a lot."
     },
     "fast.ai": {
-        "id": 17,
+        "id": 16,
         "name": "fast.ai",
         "url": "http://www.fast.ai/",
         "type": "Distance Learning Resources",
         "description": "Free courses on machine learning, ooooh yeah."
     },
     "Google Developers": {
-        "id": 18,
+        "id": 17,
         "name": "Google Developers",
         "url": "https://developers.google.com/",
         "type": "Distance Learning Resources",
         "description": "A hub of extensive documenations provided by Google developers. Not only it contains documentation on [web development](https://developers.google.com/web/) but also could get you started on [Android app development](https://developer.android.com/) and developing products utilizing [YouTube](https://developers.google.com/youtube/)."
     },
     "HTML5 Rocks": {
-        "id": 19,
+        "id": 18,
         "name": "HTML5 Rocks",
         "url": "https://www.html5rocks.com/en/",
         "type": "Distance Learning Resources",
         "description": "A tutorial and explainer site for web developers."
     },
     "Learn X in Y Minutes": {
-        "id": 20,
+        "id": 19,
         "name": "Learn X in Y Minutes",
         "url": "https://learnxinyminutes.com",
         "type": "Distance Learning Resources",
@@ -156,14 +148,14 @@
         "personalComment": "What's `Y` minutes, you ask? The world may never know."
     },
     "LinkedIn Learning": {
-        "id": 21,
+        "id": 20,
         "name": "LinkedIn Learning",
         "url": "https://learning.linkedin.com/",
         "type": "Distance Learning Resources",
         "description": "eLearning platform of LinkedIn."
     },
     "MDN Web Docs": {
-        "id": 22,
+        "id": 21,
         "name": "MDN Web Docs",
         "url": "https://developer.mozilla.org/en-US/",
         "type": "Distance Learning Resources",
@@ -171,14 +163,14 @@
         "personalComment": "I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site."
     },
     "MongoDB University": {
-        "id": 23,
+        "id": 22,
         "name": "MongoDB University",
         "url": "https://university.mongodb.com/",
         "type": "Distance Learning Resources",
         "description": "Official courses from MongoDB."
     },
     "Scrimba": {
-        "id": 24,
+        "id": 23,
         "name": "Scrimba",
         "url": "https://scrimba.com/",
         "type": "Distance Learning Resources",
@@ -186,28 +178,28 @@
         "personalComment": "recommended"
     },
     "SkillShare": {
-        "id": 25,
+        "id": 24,
         "name": "SkillShare",
         "url": "https://www.skillshare.com/",
         "type": "Distance Learning Resources",
         "description": "An online platform for well-known instructors. It requires you to have some form of subscription to be able to access its premium courses but you can find some free trials with a new account."
     },
     "Teach Engineering": {
-        "id": 26,
+        "id": 25,
         "name": "Teach Engineering",
         "url": "https://www.teachengineering.org/",
         "type": "Distance Learning Resources",
         "description": "It's a educational resources site containing engineering stuff."
     },
     "The Odin Project": {
-        "id": 27,
+        "id": 26,
         "name": "The Odin Project",
         "url": "https://www.theodinproject.com/",
         "type": "Distance Learning Resources",
         "description": "A site that provides a project-based learning and a curriculum centered around it similar to freeCodeCamp."
     },
     "Tutorials Point": {
-        "id": 28,
+        "id": 27,
         "name": "Tutorials Point",
         "url": "https://www.tutorialspoint.com/index.htm",
         "type": "Distance Learning Resources",
@@ -215,21 +207,21 @@
         "personalComment": "I recommend this one though not as much."
     },
     "TutPlus": {
-        "id": 29,
+        "id": 28,
         "name": "TutPlus",
         "url": "https://tutsplus.com/",
         "type": "Distance Learning Resources",
         "description": "A website that offers resources such as course, articles, and ebooks on different fields such as web design, programming, graphic design, and business."
     },
     "Udacity": {
-        "id": 30,
+        "id": 29,
         "name": "Udacity",
         "url": "https://www.udacity.com/",
         "type": "Distance Learning Resources",
         "description": "Most, if not all courses are focused on technology."
     },
     "Udemy": {
-        "id": 31,
+        "id": 30,
         "name": "Udemy",
         "url": "https://udemy.com",
         "type": "Distance Learning Resources",
@@ -237,7 +229,7 @@
         "personalComment": "HINT: they are discounted for almost all-year round. I also recommend to only look out for the top courses since there's a lot of cluttering stuff in there."
     },
     "W3Schools": {
-        "id": 32,
+        "id": 31,
         "name": "W3Schools",
         "url": "https://www.w3schools.com/",
         "type": "Distance Learning Resources",
@@ -245,21 +237,21 @@
         "personalComment": "Personally, I mostly see this more of a quick referential site instead of a tutorial site."
     },
     "BC Campus Open Ed Open Textbook Database": {
-        "id": 33,
+        "id": 32,
         "name": "BC Campus Open Ed Open Textbook Database",
         "url": "https://open.bccampus.ca/",
         "type": "Open Educational Resources",
         "description": "An open educational resource database backed by [BC Campus](https://bccampus.ca/). Offers wide variety of open textbooks for arts, sciences, and business (among many others)."
     },
     "Bookboon": {
-        "id": 34,
+        "id": 33,
         "name": "Bookboon",
         "url": "https://bookboon.com/",
         "type": "Open Educational Resources",
         "description": "A site that offers open textbooks. It also offers premium books as well."
     },
     "CK12": {
-        "id": 35,
+        "id": 34,
         "name": "CK12",
         "url": "https://www.ck12.org/student/",
         "type": "Open Educational Resources",
@@ -267,14 +259,14 @@
         "personalComment": "Recommended for looking/reviewing into high school sciences curriculum."
     },
     "Community College Consortium for Open Educational Resources": {
-        "id": 36,
+        "id": 35,
         "name": "Community College Consortium for Open Educational Resources",
         "url": "https://www.cccoer.org/",
         "type": "Open Educational Resources",
         "description": "You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER)."
     },
     "freeCodeCamp": {
-        "id": 37,
+        "id": 36,
         "name": "freeCodeCamp",
         "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
         "type": "YouTube Channels",
@@ -282,28 +274,28 @@
         "personalComment": "Since the amount of content in this channel is gigantic and most of them came from third-party developers, it's a good idea to use this as a browser of referential videos."
     },
     "IXL": {
-        "id": 38,
+        "id": 37,
         "name": "IXL",
         "url": "https://www.ixl.com/",
         "type": "Open Educational Resources",
         "description": "An educational resource and learning site on K-12 curriculum."
     },
     "JHU Data Science Lab": {
-        "id": 39,
+        "id": 38,
         "name": "JHU Data Science Lab",
         "url": "https://jhudatascience.org/",
         "type": "Open Educational Resources",
         "description": "An organization with the goal of making learning data science accessible. They mainly do their goal by providing open source educational content for learning different subfields on data science."
     },
     "Khan Academy": {
-        "id": 40,
+        "id": 39,
         "name": "Khan Academy",
         "url": "https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g",
         "type": "YouTube Channels",
         "description": "Videos on various academic topics from mathematics, electronics, to economics and politics."
     },
     "Math Wiki": {
-        "id": 41,
+        "id": 40,
         "name": "Math Wiki",
         "url": "https://math.wikia.com/wiki/Math_Wiki",
         "type": "Open Educational Resources",
@@ -311,14 +303,14 @@
         "personalComment": "Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that."
     },
     "Merlot": {
-        "id": 42,
+        "id": 41,
         "name": "Merlot",
         "url": "https://www.merlot.org/merlot/index.htm",
         "type": "Open Educational Resources",
         "description": "An archive site of open educational resources viewable to everyone."
     },
     "MIT OpenCourseWare": {
-        "id": 43,
+        "id": 42,
         "name": "MIT OpenCourseWare",
         "url": "https://ocw.mit.edu/index.htm",
         "type": "Open Educational Resources",
@@ -326,35 +318,35 @@
         "personalComment": "Mah boi, I recommend this by a *loooooong* shot."
     },
     "MIT Press Open": {
-        "id": 44,
+        "id": 43,
         "name": "MIT Press Open",
         "url": "https://mitpress.mit.edu/mit-press-open",
         "type": "Open Educational Resources",
         "description": "Yes, free and open access books from MIT Press."
     },
     "OER Commons": {
-        "id": 45,
+        "id": 44,
         "name": "OER Commons",
         "url": "https://www.oercommons.org/",
         "type": "Open Content Communities",
         "description": "A community that supports open educational resources to be accessible to all."
     },
     "Open Library": {
-        "id": 46,
+        "id": 45,
         "name": "Open Library",
         "url": "https://openlibrary.org/",
         "type": "Open Educational Resources",
         "description": "A web library backed by Internet Archive that contains books that has opened for public domain. Include books for science, literature, novels, and even recipes."
     },
     "Open SUNY Textbooks": {
-        "id": 47,
+        "id": 46,
         "name": "Open SUNY Textbooks",
         "url": "https://textbooks.opensuny.org/",
         "type": "Open Educational Resources",
         "description": "An open textbook publication platform established by State University of New York libraries and supported by SUNY Innovative Instruction Technology Grants in which they offer their own set of textbooks."
     },
     "Open Textbook Library": {
-        "id": 48,
+        "id": 47,
         "name": "Open Textbook Library",
         "url": "https://open.umn.edu/opentextbooks",
         "type": "Open Educational Resources",
@@ -362,21 +354,21 @@
         "personalComment": "If you want to look for a wide database of open textbooks, here's one of them that I personally use."
     },
     "Open University": {
-        "id": 49,
+        "id": 48,
         "name": "Open University",
         "url": "https://www.open.edu/openlearn/",
         "type": "Open Educational Resources",
         "description": "Features free courses, interactives, and educational materials. They also provide TV & audio programs which is certainly interesting, to say the least."
     },
     "OpenStax CNX": {
-        "id": 50,
+        "id": 49,
         "name": "OpenStax CNX",
         "url": "https://cnx.org/",
         "type": "Open Educational Resources",
         "description": "A database of open educational resources backed up [OpenStax](https://openstax.org/). Also offers some community-made books."
     },
     "OpenStax": {
-        "id": 51,
+        "id": 50,
         "name": "OpenStax",
         "url": "https://openstax.org/",
         "type": "Open Educational Resources",
@@ -384,42 +376,42 @@
         "personalComment": "I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/)."
     },
     "OSDev.org": {
-        "id": 52,
+        "id": 51,
         "name": "OSDev.org",
         "url": "https://wiki.osdev.org/Main_Page",
         "type": "Inspiration",
         "description": "A detailed wiki on operating system development."
     },
     "ossu": {
-        "id": 53,
+        "id": 52,
         "name": "ossu",
         "url": "https://github.com/ossu/computer-science",
         "type": "Open Educational Resources",
         "description": "A community-built and approved curriculum for self-taught students to follow."
     },
     "Teach Yourself CS": {
-        "id": 54,
+        "id": 53,
         "name": "Teach Yourself CS",
         "url": "https://teachyourselfcs.com/",
         "type": "Open Educational Resources",
         "description": "A site that recommends resources on the topic of learning computer science. Kinda similar to ossu's curriculum."
     },
     "The Feynman's Lectures on Physics": {
-        "id": 55,
+        "id": 54,
         "name": "The Feynman's Lectures on Physics",
         "url": "http://www.feynmanlectures.caltech.edu/",
         "type": "Open Educational Resources",
         "description": "Well,self-explanatory title is self-explanatory. It's the website that lets you view [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)'s legendary notes on physics."
     },
     "The Open Source Computer Science Degree": {
-        "id": 56,
+        "id": 55,
         "name": "The Open Source Computer Science Degree",
         "url": "https://github.com/ForrestKnight/open-source-cs",
         "type": "Open Educational Resources",
         "description": "Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton."
     },
     "WikiToLearn": {
-        "id": 57,
+        "id": 56,
         "name": "WikiToLearn",
         "url": "https://www.wikitolearn.org/",
         "type": "Open Educational Resources",
@@ -427,21 +419,21 @@
         "personalComment": "One of my personal recommendations right here."
     },
     "Algorithms (by *Jeff Erickson*)": {
-        "id": 58,
+        "id": 57,
         "name": "Algorithms (by *Jeff Erickson*)",
         "url": "http://algorithms.wtf/",
         "type": "Free and Open Access Textbooks",
         "description": "It's a good book on algorithms (though not recommended as a first book on data structures and algorithms)."
     },
     "All About Circuits Textbook": {
-        "id": 59,
+        "id": 58,
         "name": "All About Circuits Textbook",
         "url": "https://www.allaboutcircuits.com/textbook/",
         "type": "Free and Open Access Textbooks",
         "description": "An electronics textbook made by the Tony R. Kuphaldt. Contains a set of volumes covering electricity and electronics."
     },
     "Building Blocks for Theoretical Computer Science": {
-        "id": 60,
+        "id": 59,
         "name": "Building Blocks for Theoretical Computer Science",
         "url": "http://mfleck.cs.illinois.edu/building-blocks/",
         "type": "Free and Open Access Textbooks",
@@ -449,7 +441,7 @@
         "personalComment": "Self-explanatory title is self-explanatory, I think."
     },
     "Calculus (by *Kalid Azad* from *Better Explained*)": {
-        "id": 61,
+        "id": 60,
         "name": "Calculus (by *Kalid Azad* from *Better Explained*)",
         "url": "https://betterexplained.com/calculus/",
         "type": "Free and Open Access Textbooks",
@@ -457,14 +449,14 @@
         "personalComment": "One of the more beginner-friendly books on learning calculus. I recommend it to give it a chance."
     },
     "Free Math Textbooks": {
-        "id": 62,
+        "id": 61,
         "name": "Free Math Textbooks",
         "url": "http://www.openculture.com/free-math-textbooks",
         "type": "Free and Open Access Textbooks",
         "description": "A list of free math textbooks from [Open Culture](http://www.openculture.com/)."
     },
     "Free Programming Books": {
-        "id": 63,
+        "id": 62,
         "name": "Free Programming Books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
         "type": "Free and Open Access Textbooks",
@@ -472,14 +464,14 @@
         "personalComment": "One of my top starred recommendations."
     },
     "Free Science Books": {
-        "id": 64,
+        "id": 63,
         "name": "Free Science Books",
         "url": "https://github.com/EbookFoundation/free-science-books",
         "type": "Free and Open Access Textbooks",
         "description": "Another GitHub repo by the E-Book Foundation."
     },
     "Game Programming Patterns": {
-        "id": 65,
+        "id": 64,
         "name": "Game Programming Patterns",
         "url": "http://gameprogrammingpatterns.com/",
         "type": "Game Development",
@@ -487,41 +479,41 @@
         "personalComment": "Recommending this so much when starting out with game development."
     },
     "How to Design Programs, 2nd Edition": {
-        "id": 66,
+        "id": 65,
         "name": "How to Design Programs, 2nd Edition",
         "url": "https://htdp.org/",
         "type": "Free and Open Access Textbooks",
         "description": "A computer science book published by the MIT Press that focuses on designing programs and in hindsight, how to efficiently formulate plans and stick with it until the very completion of your program."
     },
     "Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)": {
-        "id": 67,
+        "id": 66,
         "name": "Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)",
         "url": "https://ptolemy.berkeley.edu/books/leeseshia/download.html",
         "type": "Free and Open Access Textbooks"
     },
     "Invent with Python": {
-        "id": 68,
+        "id": 67,
         "name": "Invent with Python",
         "url": "https://inventwithpython.com/",
         "type": "Free and Open Access Textbooks",
         "description": "A collection of free Python online books authored by Al Sweigart."
     },
     "Learning JavaScript Design Patterns": {
-        "id": 69,
+        "id": 68,
         "name": "Learning JavaScript Design Patterns",
         "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
         "type": "Free and Open Access Textbooks",
         "description": "A free and open source textbook authored by Addy Osmani. It describes different design patterns that are commonly found written in JavaScript as a bridge to implementing them."
     },
     "Learn You A Haskell": {
-        "id": 70,
+        "id": 69,
         "name": "Learn You A Haskell",
         "url": "http://learnyouahaskell.com/",
         "type": "Free and Open Access Textbooks",
         "description": "A free web book that teaches you functional programming through [Haskell](https://www.haskell.org/)."
     },
     "Notes for Professionals": {
-        "id": 71,
+        "id": 70,
         "name": "Notes for Professionals",
         "url": "http://book.goalkicker.com/",
         "type": "Free and Open Access Textbooks",
@@ -529,7 +521,7 @@
         "personalComment": "This is not much of a recommended resource in the long term since it's based on [Stack Overflow's experimental documenation project that has been abandoned recently](https://meta.stackoverflow.com/questions/354217/sunsetting-documentation). Also see the /r/learnprogramming explanation as to [why this resource is discouraged](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_discouraged_resources). Yeah, take caution when referring with this material. Ultimately, it's better to refer to the official documentation than this one though it's nice while it still lasts."
     },
     "Open Data Structures": {
-        "id": 72,
+        "id": 71,
         "name": "Open Data Structures",
         "url": "http://opendatastructures.org/",
         "type": "Free and Open Access Textbooks",
@@ -537,77 +529,77 @@
         "personalComment": "I really like the different programming languages approach with this book."
     },
     "Open Music Theory": {
-        "id": 73,
+        "id": 72,
         "name": "Open Music Theory",
         "url": "http://openmusictheory.com/",
         "type": "Music",
         "description": "A open textbook on college-level music theories and lessons."
     },
     "Project Gutenburg": {
-        "id": 74,
+        "id": 73,
         "name": "Project Gutenburg",
         "url": "http://www.gutenberg.org/",
         "type": "Free and Open Access Textbooks",
         "description": "An archive site of more than 50,000 publicly available (mostly from public domain) digital books. It contains literary materials for different subjects such as music, science, psychology, and more."
     },
     "Scientific Programming and Computer Architecture": {
-        "id": 75,
+        "id": 74,
         "name": "Scientific Programming and Computer Architecture",
         "url": "https://divakarvi.github.io/bk-spca/spca.html",
         "type": "Free and Open Access Textbooks",
         "description": "An open MIT Press web book that focuses on analyzing and discussing the performance of computer programs and the practices of writing fast programs."
     },
     "Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)": {
-        "id": 76,
+        "id": 75,
         "name": "Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)",
         "url": "https://sarabander.github.io/sicp/",
         "type": "Free and Open Access Textbooks",
         "description": "Unofficial (and prettier) version of [one of MIT's famous programming book (that can also be found online)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)."
     },
     "The Architecture on Open Source Applications": {
-        "id": 77,
+        "id": 76,
         "name": "The Architecture on Open Source Applications",
         "url": "http://aosabook.org/en/index.html",
         "type": "Free and Open Access Textbooks",
         "description": "A bundle of books that are free to read online."
     },
     "Algorithms (Part 1) by Princeton University": {
-        "id": 78,
+        "id": 77,
         "name": "Algorithms (Part 1) by Princeton University",
         "url": "https://www.coursera.org/learn/algorithms-part1",
         "type": "Massive Open Online Courses (MOOCS)",
         "description": "An online course offered by Princeton University that tackles the essential concepts and information on algorithms. This is a fit for programmers who seriously need to know about algorithms and data structure. As you can tell, it's a two-parter and in this part, it mainly tackles sorting algorithms and some data structures."
     },
     "Algorithms (Part 2) by Princeton University": {
-        "id": 79,
+        "id": 78,
         "name": "Algorithms (Part 2) by Princeton University",
         "url": "https://www.coursera.org/learn/algorithms-part2",
         "type": "Massive Open Online Courses (MOOCS)",
         "description": "The second part of the Algorithms course from Princeton University. In this part, it mainly tackles about recursive data structures such as tries, trees, and graphs."
     },
     "Algorithms and Data Structures by The University of California, San Diego": {
-        "id": 80,
+        "id": 79,
         "name": "Algorithms and Data Structures by The University of California, San Diego",
         "url": "https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures",
         "type": "Massive Open Online Courses (MOOCS)",
         "description": "A edX algorithms course set offered by The University of California, San Diego. Composes of eight courses tackling on analysis, implementation, and deep discussion on creating data structures and algorithms. Since it's an [edX](https://www.edx.org/) course set, you can just go to the individual courses and audit the course to access its learning materials."
     },
     "Awesome CS Courses": {
-        "id": 81,
+        "id": 80,
         "name": "Awesome CS Courses",
         "url": "https://github.com/prakhar1989/awesome-courses",
         "type": "Massive Open Online Courses (MOOCS)",
         "description": "A GitHub repo containing a list of free computer science courses from well-known universities such as MIT, Stanford, UC Berkeley, and Harvard."
     },
     "Class Central": {
-        "id": 82,
+        "id": 81,
         "name": "Class Central",
         "url": "https://www.class-central.com/",
         "type": "Massive Open Online Courses (MOOCS)",
         "description": "A search engine for courses at different MOOC sites."
     },
     "Computational Thinking for Modeling and Simulation": {
-        "id": 83,
+        "id": 82,
         "name": "Computational Thinking for Modeling and Simulation",
         "url": "https://courses.edx.org/courses/course-v1:MITx+2.086x+3T2018/course/",
         "type": "Massive Open Online Courses (MOOCS)",
@@ -615,7 +607,7 @@
         "personalComment": "I recommend this very much, personally."
     },
     "CS50 Course by Harvard University": {
-        "id": 84,
+        "id": 83,
         "name": "CS50 Course by Harvard University",
         "url": "http://cs50.harvard.edu/",
         "type": "Massive Open Online Courses (MOOCS)",
@@ -623,7 +615,7 @@
         "personalComment": "Very very recommend. Much cool and intuitive."
     },
     "Data Structures and Algorithms Specialization by the University of California, San Diego and National Research University Higher School of Economics": {
-        "id": 85,
+        "id": 84,
         "name": "Data Structures and Algorithms Specialization by the University of California, San Diego and National Research University Higher School of Economics",
         "url": "https://www.coursera.org/specializations/data-structures-algorithms",
         "type": "Massive Open Online Courses (MOOCS)",
@@ -631,7 +623,7 @@
         "personalComment": "This one's different from the UC, San Diego edX course, mind you."
     },
     "Fundamentals of Computers by the Rice University": {
-        "id": 86,
+        "id": 85,
         "name": "Fundamentals of Computers by the Rice University",
         "url": "https://www.coursera.org/specializations/computer-fundamentals",
         "type": "Massive Open Online Courses (MOOCS)",
@@ -639,11 +631,19 @@
         "personalComment": "Like the rest of Coursera's specialization course sets, you can just go and visit the individual course modules to get audit the course for free."
     },
     "Fundamentals of Music Theory": {
-        "id": 87,
+        "id": 86,
         "name": "Fundamentals of Music Theory",
         "url": "https://www.coursera.org/learn/edinburgh-music-theory",
         "type": "Music",
         "description": "A Coursera course offered by Edinburgh University to get you started on learning the rudimentary information on music theory."
+    },
+    "Hacker Tools": {
+        "id": 87,
+        "name": "Hacker Tools",
+        "url": "https://hacker-tools.github.io/",
+        "type": "Massive Open Online Courses (MOOCS)",
+        "description": "An MIT lecture series on programming tools. Also can serve as a resource list for different programming tools on text editors, version control systems, and desktop configurations.",
+        "personalComment": "I recommend this a lot if you want to explore options for programming. A lot of people said that tools are not much of importance but I still think it's great to have an overview course regarding those said tools."
     },
     "MOOC List": {
         "id": 88,
@@ -794,7 +794,8 @@
         "id": 108,
         "name": "FreeCAD",
         "url": "https://www.freecadweb.org/",
-        "type": "Computer-aided Design (CAD)"
+        "type": "Computer-aided Design (CAD)",
+        "description": "A cross-platform free and open source modeller. Offers usefulness for various scientific and engineering fields such as electronics, mechatronics, and mathematics."
     },
     "GreatScott!": {
         "id": 109,
@@ -858,7 +859,9 @@
         "id": 117,
         "name": "Blender",
         "url": "https://www.blender.org/",
-        "type": "Computer-aided Design (CAD)"
+        "type": "Computer-aided Design (CAD)",
+        "description": "A cross-platform free and open source 3D modelling software. One of the leading software in terms of free software in 3D modelling. It also features video editing and a variety of physics simulation from cloth, smoke, to liquid.",
+        "personalComment": "If you're looking for a start in 3D modelling with free tools, this is one of the de facto tools on it."
     },
     "CS50's Introduction to Game Development": {
         "id": 118,
@@ -1789,7 +1792,7 @@
         "url": "https://www.vim.org/",
         "type": "IDE and Text Editors",
         "description": "A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds).",
-        "personalComment": "I gotta say that this is probably one of the coolest text editor I've experienced so far. Features ton of shortcuts for navigating and manipulating through the file and has an active ecosystem of plugins to choose from."
+        "personalComment": "I gotta say that this is probably one of the coolest text editor I've experienced so far. Features ton of shortcuts for navigating and manipulating through the file and has an active ecosystem of plugins."
     },
     "Visual Studio (IDE)": {
         "id": 245,
@@ -2240,56 +2243,51 @@
         "type": "Stock Resources",
         "description": "A site that features photos that are free to use."
     },
-    "Google Sketchup": {
-        "id": 306,
-        "name": "Google Sketchup",
-        "url": "https://www.sketchup.com/",
-        "type": "Computer-aided Design (CAD)",
-        "description": "A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling."
-    },
-    "OpenSCAD": {
-        "id": 307,
-        "name": "OpenSCAD",
-        "url": "http://www.openscad.org/index.html",
-        "type": "Computer-aided Design (CAD)",
-        "description": "A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/)."
-    },
     "AutoCAD Fusion 360": {
-        "id": 308,
+        "id": 306,
         "name": "AutoCAD Fusion 360",
         "url": "https://www.autodesk.com/products/fusion-360",
         "type": "Computer-aided Design (CAD)",
         "description": "A 3D sketching and modelling tool made by Autocad. Has a plethora of features outside of being a 3D design tool; it could also generate design and simulate with realtime physics. Also, they have available support for students (with free 3 years) and startups (with a free year). Just make sure you check if you're eligible before you request for one."
     },
     "BRL-CAD": {
-        "id": 309,
+        "id": 307,
         "name": "BRL-CAD",
         "url": "http://brlcad.org/",
-        "type": "Computer-aided Design (CAD)"
-    },
-    "Onshape": {
-        "id": 310,
-        "name": "Onshape",
-        "url": "https://www.onshape.com",
         "type": "Computer-aided Design (CAD)",
-        "description": "Has support for educational institutions and individuals. An online-based CAD tool which means it could be run on different platforms."
+        "description": "A cross-platform free and open source modelling system mainly used for engineering tasks: 3D modelling, image and data processing, and creating diagrams/blueprints.",
+        "personalComment": "Fun fact: This is believed to be the world's oldest software repository which its development started at December 1979. Also, it found its use on the military."
+    },
+    "Google Sketchup": {
+        "id": 308,
+        "name": "Google Sketchup",
+        "url": "https://www.sketchup.com/",
+        "type": "Computer-aided Design (CAD)",
+        "description": "A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling."
+    },
+    "OpenSCAD": {
+        "id": 309,
+        "name": "OpenSCAD",
+        "url": "http://www.openscad.org/index.html",
+        "type": "Computer-aided Design (CAD)",
+        "description": "A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/)."
     },
     "Awesome Design (by *gztchan*)": {
-        "id": 311,
+        "id": 310,
         "name": "Awesome Design (by *gztchan*)",
         "url": "https://github.com/gztchan/awesome-design",
         "type": "Graphics Design",
         "description": "An [awesome](https://github.com/sindresorhus/awesome) list of design-related resources for you to explore more of it, if you're looking for more."
     },
     "Canva": {
-        "id": 312,
+        "id": 311,
         "name": "Canva",
         "url": "https://www.canva.com/",
         "type": "Graphics Design",
         "description": "Why not create your own creative designs."
     },
     "Coolors": {
-        "id": 313,
+        "id": 312,
         "name": "Coolors",
         "url": "https://coolors.co/",
         "type": "Graphics Design",
@@ -2297,7 +2295,7 @@
         "personalComment": "My go-to color scheme generator."
     },
     "draw.io": {
-        "id": 314,
+        "id": 313,
         "name": "draw.io",
         "url": "https://draw.io",
         "type": "Graphics Design",
@@ -2305,7 +2303,7 @@
         "personalComment": "I recommend this a lot if you want to design some visual aid. Also comes with desktop versions though I don't really recommend it as it's mostly the same except you run it in the desktop."
     },
     "Figma": {
-        "id": 315,
+        "id": 314,
         "name": "Figma",
         "url": "https://www.figma.com/",
         "type": "Graphics Design",
@@ -2313,7 +2311,7 @@
         "personalComment": "Recommended for designing and prototyping apps."
     },
     "GIMP": {
-        "id": 316,
+        "id": 315,
         "name": "GIMP",
         "url": "https://www.gimp.org/",
         "type": "Graphics Design",
@@ -2321,7 +2319,7 @@
         "personalComment": "Yup, this is basically a viable free replacement for Photoshop"
     },
     "Inkscape": {
-        "id": 317,
+        "id": 316,
         "name": "Inkscape",
         "url": "https://inkscape.org/",
         "type": "Graphics Design",
@@ -2329,21 +2327,21 @@
         "personalComment": "Yup, this is basically a viable free replacement for Illustrator."
     },
     "Krita": {
-        "id": 318,
+        "id": 317,
         "name": "Krita",
         "url": "https://krita.org/en/",
         "type": "Graphics Design",
         "description": "A professional free and open source program for professionals, I think. It is available on the major desktop platforms: Windows, Mac OS, and Linux. If you want to visit the repo yourself, you can visit it from their [GitHub repo](https://github.com/KDE/krita)."
     },
     "Scribus": {
-        "id": 319,
+        "id": 318,
         "name": "Scribus",
         "url": "https://www.scribus.net/",
         "type": "Graphics Design",
         "description": "A cross-platform free and open source page layout program. Mainly used for posters, magazine production, book covers, pamphlets, and more."
     },
     "cdnjs": {
-        "id": 320,
+        "id": 319,
         "name": "cdnjs",
         "url": "https://cdnjs.com/",
         "type": "Content Delivery Networks (CDN)",
@@ -2351,49 +2349,49 @@
         "personalComment": "If you're looking for web dev't libraries, I recommend you find it here. Most of the popular libraries and frameworks are hosted here."
     },
     "Cloudinary": {
-        "id": 321,
+        "id": 320,
         "name": "Cloudinary",
         "url": "https://cloudinary.com/",
         "type": "Content Delivery Networks (CDN)",
         "description": "Mostly images and video CDN; also has image and video manipulation."
     },
     "Staticaly": {
-        "id": 322,
+        "id": 321,
         "name": "Staticaly",
         "url": "https://www.staticaly.com/",
         "type": "Content Delivery Networks (CDN)",
         "description": "CDN that serves files from different repo (BitBucket, GitLab, GitHub, and even GitHub gists) with the proper headers."
     },
     "UploadCare": {
-        "id": 323,
+        "id": 322,
         "name": "UploadCare",
         "url": "https://uploadcare.com/",
         "type": "Content Delivery Networks (CDN)",
         "description": "Image CDN with image manipulation on-the-fly."
     },
     "AWS Educate": {
-        "id": 324,
+        "id": 323,
         "name": "AWS Educate",
         "url": "https://aws.amazon.com/education/awseducate/",
         "type": "Student Packs",
         "description": "Offers a free educational license for using Amazon Web Services (AWS)."
     },
     "Autocad Education": {
-        "id": 325,
+        "id": 324,
         "name": "Autocad Education",
         "url": "https://www.autodesk.com/education/free-software/featured",
         "type": "Student Packs",
         "description": "Offers free years of the premium version of their productline of computer-aided design (CAD) programs. You could also re-apply as long as you're still eligible."
     },
     "Azure for Education": {
-        "id": 326,
+        "id": 325,
         "name": "Azure for Education",
         "url": "https://azure.microsoft.com/en-us/free/students/",
         "type": "Student Packs",
         "description": "A free student grant for students. Grants you $100 Azure Credits and a wide range of free developer products. Also, no credit card needed but you have to prove you're a student through email address (I guess those .edu top-level domain or something)."
     },
     "GitHub Educational Pack": {
-        "id": 327,
+        "id": 326,
         "name": "GitHub Educational Pack",
         "url": "https://education.github.com/pack/",
         "type": "Student Packs",
@@ -2401,56 +2399,56 @@
         "personalComment": "Recommending this by a long shot. A plethora of benefits from here."
     },
     "Intel Student Pack": {
-        "id": 328,
+        "id": 327,
         "name": "Intel Student Pack",
         "url": "https://software.intel.com/en-us/qualify-for-free-software/student",
         "type": "Student Packs",
         "description": "An assortment of free tools offered by Intel. Contains Intel software used for scientific and computing."
     },
     "JetBrain Student Pack": {
-        "id": 329,
+        "id": 328,
         "name": "JetBrain Student Pack",
         "url": "https://www.jetbrains.com/student/",
         "type": "Student Packs",
         "description": "Offers free educational licenses for their tools such as [WebStorm](https://www.jetbrains.com/webstorm/), [Clion](https://www.jetbrains.com/clion/), and [PhpStorm](https://www.jetbrains.com/phpstorm/). You could also re-apply as long as you're still eligible."
     },
     "Vectorworks Educational Suite": {
-        "id": 330,
+        "id": 329,
         "name": "Vectorworks Educational Suite",
         "url": "https://student.myvectorworks.net/content/Products",
         "type": "Student Packs",
         "description": "Offers an educational version for all of [Vectorworks]() software. Contains an array of design tools for [buildings](https://www.vectorworks.net/en/architect), [landscapes](https://www.vectorworks.net/en/landmark), [showstages](https://www.vectorworks.net/en/spotlight), and [2D and 3D sketches](https://www.vectorworks.net/en/fundamentals) and a [rendering engine](https://www.vectorworks.net/products/features/renderworks)."
     },
     "Build Your Own X (by *danistefanovic*)": {
-        "id": 331,
+        "id": 330,
         "name": "Build Your Own X (by *danistefanovic*)",
         "url": "https://github.com/danistefanovic/build-your-own-x",
         "type": "Inspiration",
         "description": "A list of resources for building your own version of a technology from programming languages, 3D renderers, bots, games, and text editors."
     },
     "Dribbble": {
-        "id": 332,
+        "id": 331,
         "name": "Dribbble",
         "url": "https://dribbble.com/",
         "type": "Inspiration",
         "description": "If you want some inspiration for some design-related projects, here's a community site of designers that share their own work."
     },
     "OS Tutorial (by *cfenollosa*)": {
-        "id": 333,
+        "id": 332,
         "name": "OS Tutorial (by *cfenollosa*)",
         "url": "https://github.com/cfenollosa/os-tutorial",
         "type": "Inspiration",
         "description": "A GitHub repo that contains a tutorial on making your own operating system from scratch."
     },
     "Product Hunt": {
-        "id": 334,
+        "id": 333,
         "name": "Product Hunt",
         "url": "https://www.producthunt.com/",
         "type": "Inspiration",
         "description": "A platform for finding and exploring products made from a wide variety of people and organizations who create a product."
     },
     "Project Based Learning (by *tuvtran*)": {
-        "id": 335,
+        "id": 334,
         "name": "Project Based Learning (by *tuvtran*)",
         "url": "https://github.com/tuvtran/project-based-learning",
         "type": "Inspiration",
@@ -2458,140 +2456,140 @@
         "personalComment": "You can also make a project based on the things that listed here. Think of it like a fork of the project."
     },
     "Projects (by *karan*)": {
-        "id": 336,
+        "id": 335,
         "name": "Projects (by *karan*)",
         "url": "https://github.com/karan/Projects",
         "type": "Inspiration",
         "description": "A GitHub repo of a project list."
     },
     "Rosetta Code Programming Tasklist": {
-        "id": 337,
+        "id": 336,
         "name": "Rosetta Code Programming Tasklist",
         "url": "https://rosettacode.org/wiki/Category:Programming_Tasks",
         "type": "Inspiration",
         "description": "It's a humungous list of programming tasks that you can do ranging from intermediate to advanced thinking and planning skills to get the job rolling."
     },
     "Creative Commons": {
-        "id": 338,
+        "id": 337,
         "name": "Creative Commons",
         "url": "https://creativecommons.org/",
         "type": "Open Content Communities",
         "description": "An organization that provides easy-to-use licenses for your intellectual works while giving the public the permission to use, enabling for easier collaboration with protection for your efforts."
     },
     "GNU Software": {
-        "id": 339,
+        "id": 338,
         "name": "GNU Software",
         "url": "https://www.gnu.org/",
         "type": "Open Content Communities",
         "description": "A software foundation that mainly supports the philosophy of free software. They've created and maintained software projects used in various fields such as [Octave](https://www.gnu.org/software/octave/), [GCC](https://www.gnu.org/software/gcc/), [GDB](https://www.gnu.org/software/gdb/), [Emacs](https://www.gnu.org/software/emacs/), and [much more](https://www.gnu.org/software/)."
     },
     "Linux Foundation": {
-        "id": 340,
+        "id": 339,
         "name": "Linux Foundation",
         "url": "https://www.linuxfoundation.org",
         "type": "Open Content Communities",
         "description": "A open source software foundation that brings technology together to create an ecosystem of open source programs."
     },
     "Linux.com": {
-        "id": 341,
+        "id": 340,
         "name": "Linux.com",
         "url": "https://www.linux.com/",
         "type": "Open Content Communities",
         "description": "It's about Linux and open source software, overall."
     },
     "Mozilla Foundations": {
-        "id": 342,
+        "id": 341,
         "name": "Mozilla Foundations",
         "url": "https://foundation.mozilla.org/",
         "type": "Open Content Communities",
         "description": "A software foundation that pushes free internet for all."
     },
     "Open Culture": {
-        "id": 343,
+        "id": 342,
         "name": "Open Culture",
         "url": "http://www.openculture.com/",
         "type": "Open Content Communities",
         "description": "A site that provides open content and resources."
     },
     "Open Source": {
-        "id": 344,
+        "id": 343,
         "name": "Open Source",
         "url": "https://opensource.com/",
         "type": "Open Content Communities",
         "description": "A site supported by [Red Hat](https://www.redhat.com/en) that talks all open source things."
     },
     "Open Source Initiative": {
-        "id": 345,
+        "id": 344,
         "name": "Open Source Initiative",
         "url": "https://opensource.org/",
         "type": "Open Content Communities",
         "description": "A global organization on promoting the concepts and related tools of open source to the public."
     },
     "Awesome Style Guide (by *kciter*)": {
-        "id": 346,
+        "id": 345,
         "name": "Awesome Style Guide (by *kciter*)",
         "url": "https://github.com/kciter/awesome-style-guide",
         "type": "Programming Style Guides and Standards",
         "description": "An [awesome](https://github.com/sindresorhus/awesome) list of style guides of different programming languages and tools."
     },
     "Choose A License": {
-        "id": 347,
+        "id": 346,
         "name": "Choose A License",
         "url": "https://choosealicense.com/",
         "type": "Programming Style Guides and Standards",
         "description": "A site created by the team behind [GitHub](https://github.com/) that tackles about the topic of choosing licenses for your open source projects."
     },
     "Code of Covenant": {
-        "id": 348,
+        "id": 347,
         "name": "Code of Covenant",
         "url": "https://www.contributor-covenant.org/",
         "type": "Programming Style Guides and Standards",
         "description": "This is where the code of conduct often based from."
     },
     "Internation Organization for Standardization (ISO)": {
-        "id": 349,
+        "id": 348,
         "name": "Internation Organization for Standardization (ISO)",
         "url": "https://www.iso.org/standards.html",
         "type": "Programming Style Guides and Standards",
         "description": "An organization mostly known for publishing international and global standards on various fields such as computer science, mathematics, healthcare, and music."
     },
     "Internet Engineering Task Forces (IETF)": {
-        "id": 350,
+        "id": 349,
         "name": "Internet Engineering Task Forces (IETF)",
         "url": "https://www.ietf.org/",
         "type": "Programming Style Guides and Standards",
         "description": "Similar to ISO, they're an organization that publishes standards and technical specifications for different areas."
     },
     "Keep A Changelog": {
-        "id": 351,
+        "id": 350,
         "name": "Keep A Changelog",
         "url": "https://keepachangelog.com/en/1.0.0/",
         "type": "Programming Style Guides and Standards",
         "description": "Contains specification notes for keeping a changelog file and its conventions of writing one."
     },
     "Semantic Versioning": {
-        "id": 352,
+        "id": 351,
         "name": "Semantic Versioning",
         "url": "https://semver.org/",
         "type": "Programming Style Guides and Standards",
         "description": "Contains the specification on how to number your software versions."
     },
     "World Wide Web Consortium (W3C)": {
-        "id": 353,
+        "id": 352,
         "name": "World Wide Web Consortium (W3C)",
         "url": "https://www.w3.org/",
         "type": "Programming Style Guides and Standards",
         "description": "They are the leading council that publishes open internet standards and specifications such as HTML and CSS. Most of the web features that we experiences tend to be reviewed and standardized by them."
     },
     "A Pragmatic Quick Reference": {
-        "id": 354,
+        "id": 353,
         "name": "A Pragmatic Quick Reference",
         "url": "https://blog.codinghorror.com/a-pragmatic-quick-reference/",
         "type": "Miscellaneous",
         "description": "It's a collection of wisdoms put together in a list from the Coding Horror blog."
     },
     "Archive": {
-        "id": 355,
+        "id": 354,
         "name": "Archive",
         "url": "https://archive.org/",
         "type": "Miscellaneous",
@@ -2599,7 +2597,7 @@
         "personalComment": "It's also a good site to get public domain materials and some textbooks in here."
     },
     "Codetriage": {
-        "id": 356,
+        "id": 355,
         "name": "Codetriage",
         "url": "https://www.codetriage.com/",
         "type": "Miscellaneous",
@@ -2607,7 +2605,7 @@
         "personalComment": "This is a good website for those who are looking on contributing to open source projects."
     },
     "Developer Roadmap (by *kamranahmedse*)": {
-        "id": 357,
+        "id": 356,
         "name": "Developer Roadmap (by *kamranahmedse*)",
         "url": "https://github.com/kamranahmedse/developer-roadmap",
         "type": "Miscellaneous",
@@ -2615,14 +2613,14 @@
         "personalComment": "If you're looking for a web development roadmap, here's one quality resource for that."
     },
     "DevTube": {
-        "id": 358,
+        "id": 357,
         "name": "DevTube",
         "url": "https://dev.tube",
         "type": "Miscellaneous",
         "description": "YouTube for developers."
     },
     "Distrowatch": {
-        "id": 359,
+        "id": 358,
         "name": "Distrowatch",
         "url": "https://distrowatch.com/",
         "type": "Miscellaneous",
@@ -2630,7 +2628,7 @@
         "personalComment": "Recommended, if you're into Linux."
     },
     "Keybase": {
-        "id": 360,
+        "id": 359,
         "name": "Keybase",
         "url": "https://keybase.io/",
         "type": "Miscellaneous",
@@ -2638,35 +2636,35 @@
         "personalComment": "It's a useful way of giving credentials to the public if they need verification of your identity."
     },
     "keyvalues": {
-        "id": 361,
+        "id": 360,
         "name": "keyvalues",
         "url": "https://www.keyvalues.com/",
         "type": "Miscellaneous",
         "description": "It's a engineering job finder."
     },
     "Local Hackday MLH (Major League Hacking)": {
-        "id": 362,
+        "id": 361,
         "name": "Local Hackday MLH (Major League Hacking)",
         "url": "https://localhackday.mlh.io/",
         "type": "Miscellaneous",
         "description": "It's a global hackathon (that are related to MLH) finder."
     },
     "Odoo": {
-        "id": 363,
+        "id": 362,
         "name": "Odoo",
         "url": "https://www.odoo.com/",
         "type": "Miscellaneous",
         "description": "An open source suite of web apps for growing your source. If you're curious about the open source part, you can personally give the [source code a visit](https://github.com/odoo/odoo) to see it yourself."
     },
     "The Book of Secret Knowledge (by *trimstray*)": {
-        "id": 364,
+        "id": 363,
         "name": "The Book of Secret Knowledge (by *trimstray*)",
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
         "type": "Miscellaneous",
         "description": "A GitHub repo that contains a list of programmer-related materials that [trimstray](https://github.com/trimstray) (along with the other contributors) refer to every day. You have a list of GUI tools, CLI tools, blogs, one-liners (not *that* one-liner), and a lot more."
     },
     "Wayback Machine": {
-        "id": 365,
+        "id": 364,
         "name": "Wayback Machine",
         "url": "https://archive.org/web/web.php",
         "type": "Miscellaneous",

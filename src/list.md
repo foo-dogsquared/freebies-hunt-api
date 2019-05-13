@@ -313,7 +313,7 @@
 - [Eclipse](https://www.eclipse.org/) | Offers a wide variety of programming tools and IDEs for different programming languages and development processes.
 - [Jetbrains Tools Suite](https://www.jetbrains.com/) | **(Recommend it a lot for the variety of tools that they're offering. Also some of their tools have a free version available so look out for that.)** Has an assortment of tools for different programming languages and environment; also has support for students so you can apply for an educational pack, if you're eligible.
 - [Repl.it](https://repl.it/) | **(Recommend it a lot when starting out with back-end development. The tool also has a hacker community behind it so I recommend you to take a look at it.)** An IDE for different programming languages. Also supports back-end development to be able to quickly share and test it with other people.
-- [Vim](https://www.vim.org/) | **(I gotta say that this is probably one of the coolest text editor I've experienced so far. Features ton of shortcuts for navigating and manipulating through the file and has an active ecosystem of plugins to choose from.)** A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds).
+- [Vim](https://www.vim.org/) | **(I gotta say that this is probably one of the coolest text editor I've experienced so far. Features ton of shortcuts for navigating and manipulating through the file and has an active ecosystem of plugins.)** A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds).
 - [Visual Studio (IDE)](https://www.visualstudio.com/) | **(I recommend this but don't be overly reliant ;p)** A Windows-only IDE that offers wide support for different programming languages and tech stacks from mobile apps, games, desktop apps, and web apps. 
 - [Visual Studio Code](https://code.visualstudio.com/) | **(THIS VERY MUCH!)** A free and open source platform-agnostic (found on Windows, Mac, & Linux) text editor that runs in Electron. You can visit the source code right [here](https://github.com/Microsoft/vscode).
 
@@ -401,13 +401,12 @@
 
 ## Computer-aided Design (CAD)
 ### Includes a list of tools and resources for you to get started on creating and exploring computer-aided designs. Mostly explored its uses in engineering and scientific courses. | cad | #47e5bc
-- [Blender](https://www.blender.org/)
-- [FreeCAD](https://www.freecadweb.org/)
+- [AutoCAD Fusion 360](https://www.autodesk.com/products/fusion-360) | A 3D sketching and modelling tool made by Autocad. Has a plethora of features outside of being a 3D design tool; it could also generate design and simulate with realtime physics. Also, they have available support for students (with free 3 years) and startups (with a free year). Just make sure you check if you're eligible before you request for one.
+- [Blender](https://www.blender.org/) | **(If you're looking for a start in 3D modelling with free tools, this is one of the de facto tools on it.)** A cross-platform free and open source 3D modelling software. One of the leading software in terms of free software in 3D modelling. It also features video editing and a variety of physics simulation from cloth, smoke, to liquid.
+- [BRL-CAD](http://brlcad.org/) | **(Fun fact: This is believed to be the world's oldest software repository which its development started at December 1979. Also, it found its use on the military.)** A cross-platform free and open source modelling system mainly used for engineering tasks: 3D modelling, image and data processing, and creating diagrams/blueprints.
+- [FreeCAD](https://www.freecadweb.org/) | A cross-platform free and open source modeller. Offers usefulness for various scientific and engineering fields such as electronics, mechatronics, and mathematics.
 - [Google Sketchup](https://www.sketchup.com/) | A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling.
 - [OpenSCAD](http://www.openscad.org/index.html) | A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/).
-- [AutoCAD Fusion 360](https://www.autodesk.com/products/fusion-360) | A 3D sketching and modelling tool made by Autocad. Has a plethora of features outside of being a 3D design tool; it could also generate design and simulate with realtime physics. Also, they have available support for students (with free 3 years) and startups (with a free year). Just make sure you check if you're eligible before you request for one.
-- [BRL-CAD](http://brlcad.org/)
-- [Onshape](https://www.onshape.com) | Has support for educational institutions and individuals. An online-based CAD tool which means it could be run on different platforms.
 
 ## Graphics Design
 ### Includes a plethora of resources for you to be able to design and create visual aids and illustrations. | paintbrush | #e67f0d

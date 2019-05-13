@@ -67,14 +67,6 @@
             },
             {
                 "id": 8,
-                "name": "Hacker Tools",
-                "url": "https://hacker-tools.github.io/",
-                "type": "Other Resource Lists",
-                "description": "An MIT lecture series on programming tools. Also can serve as a resource list for different programming tools on text editors, version control systems, and desktop configurations.",
-                "personalComment": "I recommend this a lot if you want to explore options for programming. A lot of people said that tools are not much of importance but I still think it's great to have an overview course regarding those said tools."
-            },
-            {
-                "id": 9,
                 "name": "Lospec",
                 "url": "https://lospec.com/",
                 "type": "Other Resource Lists",
@@ -82,21 +74,21 @@
                 "personalComment": "If you want to get started on digital art, I recommend you to take a quick gander here."
             },
             {
-                "id": 10,
+                "id": 9,
                 "name": "No Excuse List",
                 "url": "http://www.noexcuselist.com/",
                 "type": "Other Resource Lists",
                 "description": "A meta-list of resource list that points out to different resources for taking a particular field whether it is cooking, music, or programming."
             },
             {
-                "id": 11,
+                "id": 10,
                 "name": "Tech Dev Guide with Google",
                 "url": "https://techdevguide.withgoogle.com/resources/",
                 "type": "Other Resource Lists",
                 "description": "Another curated collection by Google."
             },
             {
-                "id": 12,
+                "id": 11,
                 "name": "Useful websites for programmers (by *sdmg15* on GitHub)",
                 "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit/",
                 "type": "Other Resource Lists",
@@ -2052,7 +2044,7 @@
                 "url": "https://www.vim.org/",
                 "type": "IDE and Text Editors",
                 "description": "A minimalist text editor that rules with an iron fist by forcing you to go with only a keyboard (it doesn't sound bad as it sounds).",
-                "personalComment": "I gotta say that this is probably one of the coolest text editor I've experienced so far. Features ton of shortcuts for navigating and manipulating through the file and has an active ecosystem of plugins to choose from."
+                "personalComment": "I gotta say that this is probably one of the coolest text editor I've experienced so far. Features ton of shortcuts for navigating and manipulating through the file and has an active ecosystem of plugins."
             },
             {
                 "id": 7,
@@ -2599,49 +2591,47 @@
         "children": [
             {
                 "id": 0,
-                "name": "Blender",
-                "url": "https://www.blender.org/",
-                "type": "Computer-aided Design (CAD)"
-            },
-            {
-                "id": 1,
-                "name": "FreeCAD",
-                "url": "https://www.freecadweb.org/",
-                "type": "Computer-aided Design (CAD)"
-            },
-            {
-                "id": 2,
-                "name": "Google Sketchup",
-                "url": "https://www.sketchup.com/",
-                "type": "Computer-aided Design (CAD)",
-                "description": "A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling."
-            },
-            {
-                "id": 3,
-                "name": "OpenSCAD",
-                "url": "http://www.openscad.org/index.html",
-                "type": "Computer-aided Design (CAD)",
-                "description": "A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/)."
-            },
-            {
-                "id": 4,
                 "name": "AutoCAD Fusion 360",
                 "url": "https://www.autodesk.com/products/fusion-360",
                 "type": "Computer-aided Design (CAD)",
                 "description": "A 3D sketching and modelling tool made by Autocad. Has a plethora of features outside of being a 3D design tool; it could also generate design and simulate with realtime physics. Also, they have available support for students (with free 3 years) and startups (with a free year). Just make sure you check if you're eligible before you request for one."
             },
             {
-                "id": 5,
-                "name": "BRL-CAD",
-                "url": "http://brlcad.org/",
-                "type": "Computer-aided Design (CAD)"
+                "id": 1,
+                "name": "Blender",
+                "url": "https://www.blender.org/",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A cross-platform free and open source 3D modelling software. One of the leading software in terms of free software in 3D modelling. It also features video editing and a variety of physics simulation from cloth, smoke, to liquid.",
+                "personalComment": "If you're looking for a start in 3D modelling with free tools, this is one of the de facto tools on it."
             },
             {
-                "id": 6,
-                "name": "Onshape",
-                "url": "https://www.onshape.com",
+                "id": 2,
+                "name": "BRL-CAD",
+                "url": "http://brlcad.org/",
                 "type": "Computer-aided Design (CAD)",
-                "description": "Has support for educational institutions and individuals. An online-based CAD tool which means it could be run on different platforms."
+                "description": "A cross-platform free and open source modelling system mainly used for engineering tasks: 3D modelling, image and data processing, and creating diagrams/blueprints.",
+                "personalComment": "Fun fact: This is believed to be the world's oldest software repository which its development started at December 1979. Also, it found its use on the military."
+            },
+            {
+                "id": 3,
+                "name": "FreeCAD",
+                "url": "https://www.freecadweb.org/",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A cross-platform free and open source modeller. Offers usefulness for various scientific and engineering fields such as electronics, mechatronics, and mathematics."
+            },
+            {
+                "id": 4,
+                "name": "Google Sketchup",
+                "url": "https://www.sketchup.com/",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling."
+            },
+            {
+                "id": 5,
+                "name": "OpenSCAD",
+                "url": "http://www.openscad.org/index.html",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/)."
             }
         ]
     },
