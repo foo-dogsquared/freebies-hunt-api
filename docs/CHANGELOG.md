@@ -10,6 +10,15 @@ All words that are in **boldface** must refer to a **resource** while words in *
 
 ## [Unreleased]
 
+## [1.4.1] - 2019-07-06
+## Added
+- Add the following new resources:
+    - **Anaconda** at *Mathematics*
+    - **ImageMagick** at *Graphics Design*
+    - **Kdenlive** at *Miscellaneous*
+    - **LeoCAD** at *Computer-aided Design (CAD)*
+    - **Rambox** at *Communication*
+
 ## [1.4.0] - 2019-05-13
 ### Added
 - Add the following new resouces:
