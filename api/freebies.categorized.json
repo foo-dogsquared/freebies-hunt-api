@@ -2147,6 +2147,13 @@
             },
             {
                 "id": 3,
+                "name": "Rambox",
+                "url": "https://rambox.pro/",
+                "type": "Communication",
+                "description": "A free and open source software that manages your emails, chat rooms, and online accounts in one window. It is also cross-platform, working on the major platforms especially on Linux where it uses [Appimage](https://appimage.org/) to distribute it among these systems. Do take note that it has a premium model of the app with extended library of supported apps. To check out the free and open source version of the app, you can visit the [GitHub repo](https://github.com/ramboxapp/community-edition)."
+            },
+            {
+                "id": 4,
                 "name": "Slack",
                 "url": "https://slack.com/",
                 "type": "Communication",
@@ -2154,7 +2161,7 @@
                 "personalComment": "Recommended for using it for a group chat. Also supports a lot of integrations as well with the API."
             },
             {
-                "id": 4,
+                "id": 5,
                 "name": "Thunderbird",
                 "url": "https://www.thunderbird.net/en-US/",
                 "type": "Communication",
@@ -2288,13 +2295,20 @@
             },
             {
                 "id": 2,
+                "name": "Anaconda",
+                "url": "https://www.anaconda.com/",
+                "type": "Mathematics",
+                "description": "An open-source platform for mathematics and data science. It's a package distribution with a feature-complete set of tools and libraries for data science ([NumPy](http://www.numpy.org/), [pandas](https://pandas.pydata.org/), etc.), machine learning ([Tensorflow](https://www.tensorflow.org/), [scikit-learn](https://scikit-learn.org/stable/), etc.), and other mathematical tasks ([Jupyter Notebook](https://jupyter.org/index.html), [Matplotlib](https://matplotlib.org/), etc.) that can be done with an individual."
+            },
+            {
+                "id": 3,
                 "name": "Awesome Math (by *rossant*)",
                 "url": "https://github.com/rossant/awesome-math",
                 "type": "Mathematics",
                 "description": "An [awesome](https://github.com/sindresorhus/awesome) list of websites, tools, and lecture notes for the branches of mathematics such as topology, calculus, analysis, and more."
             },
             {
-                "id": 3,
+                "id": 4,
                 "name": "Eddie Woo",
                 "url": "https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ",
                 "type": "Mathematics",
@@ -2302,49 +2316,49 @@
                 "personalComment": "Recommended for pre-calculus concepts. Pair that up with Professor Leonard (another of my personal recommendations) and you have a pair of YouTube channels that teaches high school mathematics for you."
             },
             {
-                "id": 4,
+                "id": 5,
                 "name": "fxSolver",
                 "url": "https://www.fxsolver.com/",
                 "type": "Mathematics",
                 "description": "A mathematical solver. Also provides formula for different fields including medical sciences, aerospace engineering, computer sciences, and much more."
             },
             {
-                "id": 5,
+                "id": 6,
                 "name": "Geogebra",
                 "url": "https://www.geogebra.org/",
                 "type": "Mathematics",
                 "description": "A free and open source web suite of mathematical tools. Includes a graphing calculator, a 3D graphing tool, and geometry tools. Also provides mathematical resources for different mathematical branches which you can see in their [Resources section](https://www.geogebra.org/materials)."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "Mathway",
                 "url": "https://www.mathway.com/",
                 "type": "Mathematics",
                 "description": "Similar to Geogebra, it provides a free online-based suite of mathematical tools to help in solving problems ranging from algebra, calculus, statistics, linear algebra, and even chemistry."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Octave",
                 "url": "https://www.gnu.org/software/octave/",
                 "type": "Mathematics",
                 "description": "A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). In fact, it is mostly compatible with MATLAB code (READ: mostly). It is made by the team at [GNU Software](https://www.gnu.org/)."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "patrickJMT",
                 "url": "https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ",
                 "type": "Mathematics",
                 "description": "A YouTube channel that focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "Paul's Online Notes",
                 "url": "http://tutorial.math.lamar.edu/",
                 "type": "Mathematics",
                 "description": "A popular mathematics online notes. Contains cheat sheets and detailed notes on several mathematical subjects like algebra and calculus (and its subtopics)."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Professor Leonard",
                 "url": "https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg",
                 "type": "Mathematics",
@@ -2352,35 +2366,35 @@
                 "personalComment": "Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Symbolab",
                 "url": "https://www.symbolab.com/",
                 "type": "Mathematics",
                 "description": "A step by step calculator aiding you in solving algebra and calculus problems. One of the main features here is they also provide [practice problems and quizzes](https://www.symbolab.com/practice) in the site to help you improve your problem solving skills."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "SciPy",
                 "url": "https://www.scipy.org/",
                 "type": "Mathematics",
                 "description": "A free and open source mathematical, science, and engineering set of Python-based libraries and frameworks."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "Sage",
                 "url": "http://www.sagemath.org/index.html",
                 "type": "Mathematics",
                 "description": "A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more. Another free and open source alternative to [MATLAB](https://www.mathworks.com/products/matlab.html)."
             },
             {
-                "id": 14,
+                "id": 15,
                 "name": "Understanding Mathematics",
                 "url": "https://github.com/nbro/understanding-math",
                 "type": "Mathematics",
                 "description": "A GitHub repo that contains a list of references of various media for you on how to deeply understand the world of mathematics."
             },
             {
-                "id": 15,
+                "id": 16,
                 "name": "Wolfram Alpha",
                 "url": "https://www.wolframalpha.com/",
                 "type": "Mathematics",
@@ -2388,7 +2402,7 @@
                 "personalComment": "What is a mathematical tool list without Wolfram Alpha?"
             },
             {
-                "id": 16,
+                "id": 17,
                 "name": "Wolfram MathWorld",
                 "url": "http://mathworld.wolfram.com/",
                 "type": "Mathematics",
@@ -2628,6 +2642,13 @@
             },
             {
                 "id": 5,
+                "name": "LeoCAD",
+                "url": "https://www.leocad.org/",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A cross-platform free and open source computer-aided design software based on [LEGO](https://en.wikipedia.org/wiki/Lego). If you want to see the source code, you can visit it in [GitHub](https://github.com/leozide/leocad)."
+            },
+            {
+                "id": 6,
                 "name": "OpenSCAD",
                 "url": "http://www.openscad.org/index.html",
                 "type": "Computer-aided Design (CAD)",
@@ -2689,6 +2710,13 @@
             },
             {
                 "id": 6,
+                "name": "ImageMagick",
+                "url": "https://imagemagick.org/index.php",
+                "type": "Graphics Design",
+                "description": "It's a free and open source image manipulation program similar to Inkscape. Unlike the aforementioned tool, this program offers the approach of doing the process without a GUI, enabling you to make it faster (if you've got the hang of it)."
+            },
+            {
+                "id": 7,
                 "name": "Inkscape",
                 "url": "https://inkscape.org/",
                 "type": "Graphics Design",
@@ -2696,14 +2724,14 @@
                 "personalComment": "Yup, this is basically a viable free replacement for Illustrator."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Krita",
                 "url": "https://krita.org/en/",
                 "type": "Graphics Design",
                 "description": "A professional free and open source program for professionals, I think. It is available on the major desktop platforms: Windows, Mac OS, and Linux. If you want to visit the repo yourself, you can visit it from their [GitHub repo](https://github.com/KDE/krita)."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "Scribus",
                 "url": "https://www.scribus.net/",
                 "type": "Graphics Design",
@@ -3074,6 +3102,13 @@
             },
             {
                 "id": 6,
+                "name": "kdenlive",
+                "url": "https://kdenlive.org/en/",
+                "type": "Miscellaneous",
+                "description": "A free and open source video production suite primarily aimed at Unix/Linux-based environment though a Windows port is on the works. You can view the source code in [their Git repository](https://cgit.kde.org/kdenlive.git/)."
+            },
+            {
+                "id": 7,
                 "name": "Keybase",
                 "url": "https://keybase.io/",
                 "type": "Miscellaneous",
@@ -3081,35 +3116,35 @@
                 "personalComment": "It's a useful way of giving credentials to the public if they need verification of your identity."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "keyvalues",
                 "url": "https://www.keyvalues.com/",
                 "type": "Miscellaneous",
                 "description": "It's a engineering job finder."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "Local Hackday MLH (Major League Hacking)",
                 "url": "https://localhackday.mlh.io/",
                 "type": "Miscellaneous",
                 "description": "It's a global hackathon (that are related to MLH) finder."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "Odoo",
                 "url": "https://www.odoo.com/",
                 "type": "Miscellaneous",
                 "description": "An open source suite of web apps for growing your source. If you're curious about the open source part, you can personally give the [source code a visit](https://github.com/odoo/odoo) to see it yourself."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "The Book of Secret Knowledge (by *trimstray*)",
                 "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
                 "type": "Miscellaneous",
                 "description": "A GitHub repo that contains a list of programmer-related materials that [trimstray](https://github.com/trimstray) (along with the other contributors) refer to every day. You have a list of GUI tools, CLI tools, blogs, one-liners (not *that* one-liner), and a lot more."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Wayback Machine",
                 "url": "https://archive.org/web/web.php",
                 "type": "Miscellaneous",
