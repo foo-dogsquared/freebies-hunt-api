@@ -9,9 +9,47 @@ All specified dates are in standard [ISO 8601 date and time format](https://www.
 All words that are in **boldface** must refer to a **resource** while words in *italic* should refer to the *categories*.
 
 ## [Unreleased]
+### Added
+- Add the following new resources:
+    * Communities
+        - **itch.io**
+        - **Game Jolt**
+    * Free and Open Access Textbooks
+        - **American Institute of Mathematics Approved Open Textbooks**
+    * Game Development
+        - **Byond**
+        - **Game Jolt**
+        - **itch.io**
+        - **Kenney**
+        - **TIC-80 Computer**
+    * Math
+        - **American Institute of Mathematics Approved Open Textbooks**
+    * Music
+        - **SampleSwap**
+    * Miscellaneous
+        - **NASA Software Catalog**
+        - **What every CS majors should know?**
+    * Platforms For Your Future Apps
+        - **Zeit Now** 
+    * Stock Resources
+        - **Incompetech** 
+        - **SampleSwap**
+        - **YouTube Audio Library**
+- Add a new section, *Games*, with the following new resources:
+    - **0 A.D.**
+    - **Cataclysm: Dark Days Ahead**
+    - **Dwarf Fortress**
+    - **id Software's Games**
+    - **Megaman Maker**
+    - **OpenTTD**
+    - **Powder Toy**
+    - **Super Tux Kart**
+    - **Ultima Ratio Regum**
+    - **Veloren**
+- Update and add **Repl.it** at *Platforms For Your Future Apps*
 
 ## [1.4.1] - 2019-07-06
-## Added
+### Added
 - Add the following new resources:
     - **Anaconda** at *Mathematics*
     - **ImageMagick** at *Graphics Design*
