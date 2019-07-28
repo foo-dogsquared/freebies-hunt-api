@@ -465,6 +465,13 @@
             },
             {
                 "id": 2,
+                "name": "American Institute of Mathematics Approved Open Textbooks",
+                "url": "https://aimath.org/textbooks/approved-textbooks/",
+                "type": "Free and Open Access Textbooks",
+                "description": "Quite self explanatory. It's a list of approved open textbooks for a variety of mathematics-related branches such as calculus, number theory, logic, and differential equations. You can also see how these books has been approved through their open [evaluation criteria](https://aimath.org/textbooks/evaluation-criteria/) that has been put up on their website."
+            },
+            {
+                "id": 3,
                 "name": "Building Blocks for Theoretical Computer Science",
                 "url": "http://mfleck.cs.illinois.edu/building-blocks/",
                 "type": "Free and Open Access Textbooks",
@@ -472,7 +479,7 @@
                 "personalComment": "Self-explanatory title is self-explanatory, I think."
             },
             {
-                "id": 3,
+                "id": 4,
                 "name": "Calculus (by *Kalid Azad* from *Better Explained*)",
                 "url": "https://betterexplained.com/calculus/",
                 "type": "Free and Open Access Textbooks",
@@ -480,14 +487,14 @@
                 "personalComment": "One of the more beginner-friendly books on learning calculus. I recommend it to give it a chance."
             },
             {
-                "id": 4,
+                "id": 5,
                 "name": "Free Math Textbooks",
                 "url": "http://www.openculture.com/free-math-textbooks",
                 "type": "Free and Open Access Textbooks",
                 "description": "A list of free math textbooks from [Open Culture](http://www.openculture.com/)."
             },
             {
-                "id": 5,
+                "id": 6,
                 "name": "Free Programming Books",
                 "url": "https://github.com/EbookFoundation/free-programming-books",
                 "type": "Free and Open Access Textbooks",
@@ -495,14 +502,14 @@
                 "personalComment": "One of my top starred recommendations."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "Free Science Books",
                 "url": "https://github.com/EbookFoundation/free-science-books",
                 "type": "Free and Open Access Textbooks",
                 "description": "Another GitHub repo by the E-Book Foundation."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Game Programming Patterns",
                 "url": "http://gameprogrammingpatterns.com/",
                 "type": "Free and Open Access Textbooks",
@@ -510,41 +517,41 @@
                 "personalComment": "Recommending this so much when starting out with game development."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "How to Design Programs, 2nd Edition",
                 "url": "https://htdp.org/",
                 "type": "Free and Open Access Textbooks",
                 "description": "A computer science book published by the MIT Press that focuses on designing programs and in hindsight, how to efficiently formulate plans and stick with it until the very completion of your program."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "Introduction to Embedded Systems, 2nd Edition (2017, Lee and Seshia)",
                 "url": "https://ptolemy.berkeley.edu/books/leeseshia/download.html",
                 "type": "Free and Open Access Textbooks"
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Invent with Python",
                 "url": "https://inventwithpython.com/",
                 "type": "Free and Open Access Textbooks",
                 "description": "A collection of free Python online books authored by Al Sweigart."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Learning JavaScript Design Patterns",
                 "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
                 "type": "Free and Open Access Textbooks",
                 "description": "A free and open source textbook authored by Addy Osmani. It describes different design patterns that are commonly found written in JavaScript as a bridge to implementing them."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Learn You A Haskell",
                 "url": "http://learnyouahaskell.com/",
                 "type": "Free and Open Access Textbooks",
                 "description": "A free web book that teaches you functional programming through [Haskell](https://www.haskell.org/)."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "Notes for Professionals",
                 "url": "http://book.goalkicker.com/",
                 "type": "Free and Open Access Textbooks",
@@ -552,7 +559,7 @@
                 "personalComment": "This is not much of a recommended resource in the long term since it's based on [Stack Overflow's experimental documenation project that has been abandoned recently](https://meta.stackoverflow.com/questions/354217/sunsetting-documentation). Also see the /r/learnprogramming explanation as to [why this resource is discouraged](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_discouraged_resources). Yeah, take caution when referring with this material. Ultimately, it's better to refer to the official documentation than this one though it's nice while it still lasts."
             },
             {
-                "id": 14,
+                "id": 15,
                 "name": "Open Data Structures",
                 "url": "http://opendatastructures.org/",
                 "type": "Free and Open Access Textbooks",
@@ -560,35 +567,35 @@
                 "personalComment": "I really like the different programming languages approach with this book."
             },
             {
-                "id": 15,
+                "id": 16,
                 "name": "Open Music Theory",
                 "url": "http://openmusictheory.com/",
                 "type": "Free and Open Access Textbooks",
                 "description": "A open textbook on college-level music theories and lessons."
             },
             {
-                "id": 16,
+                "id": 17,
                 "name": "Project Gutenburg",
                 "url": "http://www.gutenberg.org/",
                 "type": "Free and Open Access Textbooks",
                 "description": "An archive site of more than 50,000 publicly available (mostly from public domain) digital books. It contains literary materials for different subjects such as music, science, psychology, and more."
             },
             {
-                "id": 17,
+                "id": 18,
                 "name": "Scientific Programming and Computer Architecture",
                 "url": "https://divakarvi.github.io/bk-spca/spca.html",
                 "type": "Free and Open Access Textbooks",
                 "description": "An open MIT Press web book that focuses on analyzing and discussing the performance of computer programs and the practices of writing fast programs."
             },
             {
-                "id": 18,
+                "id": 19,
                 "name": "Structure and Interpretation of Computer Programs, 2nd Edition (HTML version)",
                 "url": "https://sarabander.github.io/sicp/",
                 "type": "Free and Open Access Textbooks",
                 "description": "Unofficial (and prettier) version of [one of MIT's famous programming book (that can also be found online)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)."
             },
             {
-                "id": 19,
+                "id": 20,
                 "name": "The Architecture on Open Source Applications",
                 "url": "http://aosabook.org/en/index.html",
                 "type": "Free and Open Access Textbooks",
@@ -811,6 +818,13 @@
             },
             {
                 "id": 12,
+                "name": "SampleSwap",
+                "url": "https://sampleswap.org/",
+                "type": "Music",
+                "description": "It's a website that contains free professional-level high-quality samples and loops that is free to use for commercial purposes (still, read the license before using it)."
+            },
+            {
+                "id": 13,
                 "name": "Sonic Pi",
                 "url": "https://github.com/samaaron/sonic-pi",
                 "type": "Music",
@@ -818,14 +832,14 @@
                 "personalComment": "This is why programming is fantastic."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "teoria",
                 "url": "https://www.teoria.com/",
                 "type": "Music",
                 "description": "A website that dedicates to list music theory resources and tutorials."
             },
             {
-                "id": 14,
+                "id": 15,
                 "name": "Virtual Piano",
                 "url": "https://virtualpiano.net/",
                 "type": "Music",
@@ -943,20 +957,27 @@
             },
             {
                 "id": 1,
-                "name": "Boundary Break video series by *Shesez*",
-                "url": "https://www.youtube.com/playlist?list=PLYfhW_P-MkU7vBmWwwyqdIWNDzXfEZwnO",
-                "type": "Game Development",
-                "description": "A YouTube video series by Shesez where he plays video games outside of gameplay boundaries. If you want to see how video games set are made, this can be a good starting point."
-            },
-            {
-                "id": 2,
                 "name": "Blender",
                 "url": "https://www.blender.org/",
                 "type": "Game Development",
                 "description": "A free and open source 3D modelling software. Despite being in the game dev't section, it could be used for things outside of game development such as 3D animations and illustrations."
             },
             {
+                "id": 2,
+                "name": "Boundary Break video series by *Shesez*",
+                "url": "https://www.youtube.com/playlist?list=PLYfhW_P-MkU7vBmWwwyqdIWNDzXfEZwnO",
+                "type": "Game Development",
+                "description": "A YouTube video series by Shesez where he plays video games outside of gameplay boundaries. If you want to see how video games set are made, this can be a good starting point."
+            },
+            {
                 "id": 3,
+                "name": "Byond",
+                "url": "https://secure.byond.com/",
+                "type": "Game Development",
+                "description": "A platform for creating and maintaining your online multiplayer games. Offers a custom language in order to create one and it is free, after all (I mean it wouldn't be listed here if it wasn't)."
+            },
+            {
+                "id": 4,
                 "name": "CS50's Introduction to Game Development",
                 "url": "https://www.edx.org/course/cs50s-introduction-to-game-development",
                 "type": "Game Development",
@@ -964,7 +985,14 @@
                 "personalComment": "I mean it's CS50, I totally recommend this one."
             },
             {
-                "id": 4,
+                "id": 5,
+                "name": "Game Jolt",
+                "url": "https://gamejolt.com/",
+                "type": "Game Development",
+                "description": "One of the go-to game marketplace for indie game developers. As such, you can explore, meet, and create your audience and fellow game developers. Submitted games vary from its genre, quality, and pricing. Think Steam but for indie game devs with [their own client](https://gamejolt.com/client), [forums](https://gamejolt.com/forums), and [game jams](http://jams.gamejolt.com/)."
+            },
+            {
+                "id": 6,
                 "name": "Game Programming Patterns",
                 "url": "http://gameprogrammingpatterns.com/",
                 "type": "Game Development",
@@ -972,14 +1000,14 @@
                 "personalComment": "Recommending this so much when starting out with game development."
             },
             {
-                "id": 5,
+                "id": 7,
                 "name": "GDevelop",
                 "url": "https://gdevelop-app.com/",
                 "type": "Game Development",
                 "description": "A free and open source app for game creation. You could create games without programming skills, a suitable tool for introducing to game development (and programming, overall)."
             },
             {
-                "id": 6,
+                "id": 8,
                 "name": "Godot Engine",
                 "url": "https://godotengine.org/",
                 "type": "Game Development",
@@ -987,25 +1015,137 @@
                 "personalComment": "I recommend this very much especially with their free asset store."
             },
             {
-                "id": 7,
+                "id": 9,
+                "name": "itch.io",
+                "url": "https://itch.io/",
+                "type": "Game Development",
+                "description": "Similar to Game Jolt, it is one of the biggest indie game marketplace for indie game developers who are living the indie game dev life (or aspires to be one). Like Game Jolt, they provide more than games like [game jams](https://itch.io/jams), [an asset store](https://itch.io/game-assets), and [a forum](https://itch.io/community)."
+            },
+            {
+                "id": 10,
+                "name": "Kenney",
+                "url": "https://kenney.nl/",
+                "type": "Game Development",
+                "description": "It's a company that creates free game assets (both 2D and 3D and varies between graphics and audio) with no strings attached as all of their assets are released under [Public Domain CC0](https://creativecommons.org/publicdomain/zero/1.0/)."
+            },
+            {
+                "id": 11,
                 "name": "Make Human",
                 "url": "http://www.makehumancommunity.org/",
                 "type": "Game Development",
                 "description": "A professional-grade free and open source software for creating 3D human (and humanoid) models."
             },
             {
-                "id": 8,
+                "id": 12,
                 "name": "Open Game Art",
                 "url": "https://opengameart.org/",
                 "type": "Game Development",
                 "description": "A website that offers free stock resources/assets for your game development process."
             },
             {
-                "id": 9,
+                "id": 13,
                 "name": "Red Blob Games",
                 "url": "https://www.redblobgames.com/",
                 "type": "Game Development",
                 "description": "A blog from a game developer on game development. His posts usually include visual and interactive examples to aid his explanation which is really a nice way to discuss game dev concepts."
+            },
+            {
+                "id": 14,
+                "name": "TIC-80 Computer",
+                "url": "https://tic.computer/",
+                "type": "Game Development",
+                "description": "A virtual machine (or a fantasy computer, as they say) that specifically made for games and game development. Includes hardware-like restrictions, built-in tools for creating your games, and multiple language support such as Lua and JavaScript."
+            }
+        ]
+    },
+    "Games": {
+        "name": "Games",
+        "description": "My personal list of free (and open source, if possible) games. You can also find a lot of them over at Gamejolt, Itch, and Steam.",
+        "iconName": "game-controller",
+        "mainColor": "#f4e409",
+        "children": [
+            {
+                "id": 0,
+                "name": "0AD",
+                "url": "https://play0ad.com/",
+                "type": "Games",
+                "description": "A free and open source ancient warfare strategy game based off [Age of Empires](https://www.ageofempires.com/).",
+                "personalComment": "This is one of the grandest free and open source game out there. From its presentation to its gameplay. And as of writing this (on 2019-07-24), it is still under early development so expect instability when first starting this game."
+            },
+            {
+                "id": 1,
+                "name": "Cataclysm: Dark Days Ahead",
+                "url": "https://cataclysmdda.org/",
+                "type": "Games",
+                "description": "A free and open source cross-platform turn-based survival game that takes place in an apocalyptic world with you having to do everything just to survive.",
+                "personalComment": "I find it hard to start with but it is becoming fun over time. Surprisingly, there's a _lot_ of variety here."
+            },
+            {
+                "id": 2,
+                "name": "Dwarf Fortress",
+                "url": "http://www.bay12games.com/dwarves/index.html",
+                "type": "Games",
+                "description": "A free cross-platform (*very*) ambitious world simulator. It is famously known for the amount of details and realism integrated within the game. Its source is openly distributed and the devs mostly get their support through donations.",
+                "personalComment": "If you want to get started, you're free to lurk in [this subreddit](https://www.reddit.com/r/dwarffortress/) and look for their [getting started guide](https://www.reddit.com/r/dwarffortress/#side-heading)."
+            },
+            {
+                "id": 3,
+                "name": "id Software's Games",
+                "url": "https://github.com/id-Software",
+                "type": "Games",
+                "description": "A bunch of [id Software](https://www.idsoftware.com/) games where its source code has been opened for public. Such titles include [Doom](https://github.com/id-Software/DOOM), [Quake](https://github.com/id-Software/Quake), and [Wolfenstein 3D](https://github.com/id-Software/wolf3d). You do have to build it on your own, though (or install it through the OS package manager or something)."
+            },
+            {
+                "id": 4,
+                "name": "Megaman Maker",
+                "url": "https://megamanmaker.com",
+                "type": "Games",
+                "description": "A free Megaman fan-game that lets you create and play levels similar to [Super Mario Maker](https://en.wikipedia.org/wiki/Super_Mario_Maker). Only works in Windows-based environment."
+            },
+            {
+                "id": 5,
+                "name": "Minetest",
+                "url": "http://www.minetest.net/",
+                "type": "Games",
+                "description": "Said to be the most feature-complete free and open source competitor to [Minecraft](https://www.minecraft.net/). It's a free and open source cross-platform Minecraft clone.",
+                "personalComment": "The vanilla version is quite bare and it doesn't feature the feature set Minecraft has (like mobs, for example). You could expand it through add-ons."
+            },
+            {
+                "id": 6,
+                "name": "OpenTTD",
+                "url": "https://www.openttd.org/",
+                "type": "Games",
+                "description": "A free, open source, and cross platform game based on Transport Tycoon Deluxe."
+            },
+            {
+                "id": 7,
+                "name": "Super Tux Kart",
+                "url": "https://supertuxkart.net/",
+                "type": "Games",
+                "description": "An open source game based on TuxKart (which in turn based on the ever-famous Mario Kart). Features a story mode and unlockables as you progress through. You can take a look at their source code [on their GitHub page](https://github.com/supertuxkart/stk-code).",
+                "personalComment": "One of the best free and open software game I've ever played. Fully recommend."
+            },
+            {
+                "id": 8,
+                "name": "Ultima Ratio Regum",
+                "url": "https://www.markrjohnsongames.com/games/ultima-ratio-regum/",
+                "type": "Games",
+                "description": "A Windows-only rougelike game set out on a large procedural world similar to [Dwarf Fortress](http://www.bay12games.com/dwarves/index.html) where you get to fully explore and do whatever the heck you do."
+            },
+            {
+                "id": 9,
+                "name": "Powder Toy",
+                "url": "https://powdertoy.co.uk/",
+                "type": "Games",
+                "description": "A free and open source cross-platform 'sand-falling' physics sandbox. It is mostly famous for being an introductory science tool for interactions between different chemicals and substances. You can see the source code on [their GitHub page](https://github.com/The-Powder-Toy/The-Powder-Toy/)."
+            },
+            {
+                "id": 10,
+                "name": "Veloren",
+                "url": "https://veloren.net/",
+                "type": "Games",
+                "description": "A free and open source RPG that takes inspiration from [Cube World](https://en.wikipedia.org/wiki/Cube_World), [Minecraft](https://www.minecraft.net/), and [Dwarf Fortress](http://www.bay12games.com/dwarves/index.html).",
+                "personalComment": "As of 2019-07-17, it is under  You can get in touch with the community through [their subreddit](https://www.reddit.com/r/Veloren) and [their Discord server](https://discord.gg/kjwJwjK). Also as of 2019-07-17, the game is under early development so its features is not yet complete compared to Cube World."
             }
         ]
     },
@@ -1434,6 +1574,13 @@
             },
             {
                 "id": 8,
+                "name": "Game Jolt",
+                "url": "https://gamejolt.com/",
+                "type": "Communities",
+                "description": "One of the go-to game marketplace for indie game developers. As such, you can explore, meet, and create your audience and fellow game developers. Submitted games vary from its genre, quality, and pricing. Think Steam but for indie game devs."
+            },
+            {
+                "id": 9,
                 "name": "Instructables",
                 "url": "https://www.instructables.com",
                 "type": "Communities",
@@ -1441,34 +1588,41 @@
                 "personalComment": "One of the best DIY community out there. Easy to navigate and explore, too."
             },
             {
-                "id": 9,
+                "id": 10,
+                "name": "itch.io",
+                "url": "https://itch.io/",
+                "type": "Communities",
+                "description": "Similar to Game Jolt, it is one of the biggest indie game marketplace for indie game developers who are living the indie game dev life (or aspires to be one). They're more upfront with building a community by providing more than games like [game jams](https://itch.io/jams), [an asset store](https://itch.io/game-assets), and [a forum](https://itch.io/community)."
+            },
+            {
+                "id": 11,
                 "name": "HackerNews",
                 "url": "https://news.ycombinator.com/",
                 "type": "Communities"
             },
             {
-                "id": 10,
+                "id": 12,
                 "name": "Maker's Kitchen",
                 "url": "https://makerskitchen.xyz/",
                 "type": "Communities",
                 "description": "A community of indie product makers and enthusiasts. They have a Slack group with a wide range of channels and topics to discuss."
             },
             {
-                "id": 11,
+                "id": 13,
                 "name": "Reddit /r/coding",
                 "url": "https://www.reddit.com/r/coding/",
                 "type": "Communities",
                 "description": "A subreddit that discusses programming without the constant barrage of HackerNews-esque type of tech and startup news."
             },
             {
-                "id": 12,
+                "id": 14,
                 "name": "Reddit /r/learnprogramming",
                 "url": "https://www.reddit.com/r/learnprogramming/",
                 "type": "Communities",
                 "description": "A beginner-friendly dev subreddit for well, learning programming."
             },
             {
-                "id": 13,
+                "id": 15,
                 "name": "Stack Overflow",
                 "url": "https://stackoverflow.com",
                 "type": "Communities",
@@ -2295,20 +2449,27 @@
             },
             {
                 "id": 2,
+                "name": "American Institute of Mathematics Approved Open Textbooks",
+                "url": "https://aimath.org/textbooks/approved-textbooks/",
+                "type": "Mathematics",
+                "description": "Quite self explanatory. It's a list of approved open textbooks for a variety of mathematics-related branches such as calculus, number theory, logic, and differential equations. You can also see how these books has been approved through their open [evaluation criteria](https://aimath.org/textbooks/evaluation-criteria/) that has been put up on their website."
+            },
+            {
+                "id": 3,
                 "name": "Anaconda",
                 "url": "https://www.anaconda.com/",
                 "type": "Mathematics",
                 "description": "An open-source platform for mathematics and data science. It's a package distribution with a feature-complete set of tools and libraries for data science ([NumPy](http://www.numpy.org/), [pandas](https://pandas.pydata.org/), etc.), machine learning ([Tensorflow](https://www.tensorflow.org/), [scikit-learn](https://scikit-learn.org/stable/), etc.), and other mathematical tasks ([Jupyter Notebook](https://jupyter.org/index.html), [Matplotlib](https://matplotlib.org/), etc.) that can be done with an individual."
             },
             {
-                "id": 3,
+                "id": 4,
                 "name": "Awesome Math (by *rossant*)",
                 "url": "https://github.com/rossant/awesome-math",
                 "type": "Mathematics",
                 "description": "An [awesome](https://github.com/sindresorhus/awesome) list of websites, tools, and lecture notes for the branches of mathematics such as topology, calculus, analysis, and more."
             },
             {
-                "id": 4,
+                "id": 5,
                 "name": "Eddie Woo",
                 "url": "https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ",
                 "type": "Mathematics",
@@ -2316,49 +2477,49 @@
                 "personalComment": "Recommended for pre-calculus concepts. Pair that up with Professor Leonard (another of my personal recommendations) and you have a pair of YouTube channels that teaches high school mathematics for you."
             },
             {
-                "id": 5,
+                "id": 6,
                 "name": "fxSolver",
                 "url": "https://www.fxsolver.com/",
                 "type": "Mathematics",
                 "description": "A mathematical solver. Also provides formula for different fields including medical sciences, aerospace engineering, computer sciences, and much more."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "Geogebra",
                 "url": "https://www.geogebra.org/",
                 "type": "Mathematics",
                 "description": "A free and open source web suite of mathematical tools. Includes a graphing calculator, a 3D graphing tool, and geometry tools. Also provides mathematical resources for different mathematical branches which you can see in their [Resources section](https://www.geogebra.org/materials)."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Mathway",
                 "url": "https://www.mathway.com/",
                 "type": "Mathematics",
                 "description": "Similar to Geogebra, it provides a free online-based suite of mathematical tools to help in solving problems ranging from algebra, calculus, statistics, linear algebra, and even chemistry."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "Octave",
                 "url": "https://www.gnu.org/software/octave/",
                 "type": "Mathematics",
                 "description": "A free and open source scientific and computational programming language similar to [MATLAB](https://www.mathworks.com/products/matlab.html). In fact, it is mostly compatible with MATLAB code (READ: mostly). It is made by the team at [GNU Software](https://www.gnu.org/)."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "patrickJMT",
                 "url": "https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ",
                 "type": "Mathematics",
                 "description": "A YouTube channel that focuses on mathematics so if you want to learn math through YouTube, here is one channel that specializes on it."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Paul's Online Notes",
                 "url": "http://tutorial.math.lamar.edu/",
                 "type": "Mathematics",
                 "description": "A popular mathematics online notes. Contains cheat sheets and detailed notes on several mathematical subjects like algebra and calculus (and its subtopics)."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Professor Leonard",
                 "url": "https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg",
                 "type": "Mathematics",
@@ -2366,35 +2527,35 @@
                 "personalComment": "Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Symbolab",
                 "url": "https://www.symbolab.com/",
                 "type": "Mathematics",
                 "description": "A step by step calculator aiding you in solving algebra and calculus problems. One of the main features here is they also provide [practice problems and quizzes](https://www.symbolab.com/practice) in the site to help you improve your problem solving skills."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "SciPy",
                 "url": "https://www.scipy.org/",
                 "type": "Mathematics",
                 "description": "A free and open source mathematical, science, and engineering set of Python-based libraries and frameworks."
             },
             {
-                "id": 14,
+                "id": 15,
                 "name": "Sage",
                 "url": "http://www.sagemath.org/index.html",
                 "type": "Mathematics",
                 "description": "A free and open source mathematical software built on top of existing open source projects such as [SciPy](https://www.scipy.org/) libraries and many more. Another free and open source alternative to [MATLAB](https://www.mathworks.com/products/matlab.html)."
             },
             {
-                "id": 15,
+                "id": 16,
                 "name": "Understanding Mathematics",
                 "url": "https://github.com/nbro/understanding-math",
                 "type": "Mathematics",
                 "description": "A GitHub repo that contains a list of references of various media for you on how to deeply understand the world of mathematics."
             },
             {
-                "id": 16,
+                "id": 17,
                 "name": "Wolfram Alpha",
                 "url": "https://www.wolframalpha.com/",
                 "type": "Mathematics",
@@ -2402,7 +2563,7 @@
                 "personalComment": "What is a mathematical tool list without Wolfram Alpha?"
             },
             {
-                "id": 17,
+                "id": 18,
                 "name": "Wolfram MathWorld",
                 "url": "http://mathworld.wolfram.com/",
                 "type": "Mathematics",
@@ -2459,7 +2620,7 @@
                 "name": "Glitch",
                 "url": "https://glitch.com/",
                 "type": "Platforms For Your Future Apps",
-                "description": "A platform for your apps",
+                "description": "A platform for your apps that are freely modifiable (or remixable, as the term) for the whole community. Includes support mainly for Node.js apps.",
                 "personalComment": "Personally recommend it for your hobby projects especially if you're looking for a platform for the backend of your apps."
             },
             {
@@ -2487,10 +2648,25 @@
             },
             {
                 "id": 9,
+                "name": "Repl.it",
+                "url": "https://repl.it/",
+                "type": "Platforms For Your Future Apps",
+                "description": "A platform for your apps that can be freely modified/viewed by the whole community. It includes support for a wide variety of languages including C++, Python, Node.js, Go, Rust, and Haskell.",
+                "personalComment": "Perfect platform for your apps, if you're into releasing your apps for the sake of educating yourself."
+            },
+            {
+                "id": 10,
                 "name": "Sourceforge",
                 "url": "https://sourceforge.net/",
                 "type": "Platforms For Your Future Apps",
                 "description": "A platform for your upcoming open source software projects."
+            },
+            {
+                "id": 11,
+                "name": "Zeit Now",
+                "url": "https://zeit.co/now",
+                "type": "Platforms For Your Future Apps",
+                "description": "A global serverless deployment platform for your cloud-based applications. It has tight integration with GitHub, supports a variety of server-sided languages and frameworks such as [PHP](https://www.php.net), [Python](https://www.python.org/), [Go](https://golang.org/), and [Node.js](https://nodejs.org/). It offers a [generous free tier](https://zeit.co/pricing) and you only get to pay as your app grow."
             }
         ]
     },
@@ -2555,45 +2731,66 @@
             },
             {
                 "id": 7,
+                "name": "Incompetech",
+                "url": "https://incompetech.com/music/",
+                "type": "Stock Resources",
+                "description": "It's the company (or specifically [one person](https://www.youtube.com/user/kmmusic)) behind one of the largest (if not THE largest) producer of royalty-free and open music collection. And it features [the best graph paper generator as well](https://incompetech.com/graphpaper/)."
+            },
+            {
+                "id": 8,
                 "name": "Open Clip Art",
                 "url": "https://www.openclipart.org/",
                 "type": "Stock Resources",
                 "description": "Includes clip art open to use and modify for everybody."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "Petrucci Music Library",
                 "url": "https://imslp.org/wiki/",
                 "type": "Stock Resources",
                 "description": "A music library containing public domain songs."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "Pexels",
                 "url": "https://www.pexels.com/",
                 "type": "Stock Resources",
                 "description": "Includes videos and images licensed under CC License."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Pixabay",
                 "url": "https://www.pixabay.com/",
                 "type": "Stock Resources",
                 "description": "Similar to Pexels, ranging its offers not only to photos that are free to use (depending on its author) but also to its videos, illustrations, and vectors."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Simple Icons",
                 "url": "https://simpleicons.org/",
                 "type": "Stock Resources",
                 "description": "A free and open source icon set of popular brands. You can see the [repo on GitHub](https://github.com/simple-icons/simple-icons)."
             },
             {
-                "id": 12,
+                "id": 13,
+                "name": "SampleSwap",
+                "url": "https://sampleswap.org/",
+                "type": "Stock Resources",
+                "description": "A website that contains royalty-free music that is free to use for commercial purposes (depending on the author, still read their respective licensing page). Also contains samples and loops if you're there for composing music."
+            },
+            {
+                "id": 14,
                 "name": "Unsplash",
                 "url": "https://unsplash.com/",
                 "type": "Stock Resources",
                 "description": "A site that features photos that are free to use."
+            },
+            {
+                "id": 15,
+                "name": "YouTube Audio Library",
+                "url": "https://www.youtube.com/audiolibrary/",
+                "type": "Stock Resources",
+                "description": "A sound library compiled by YouTube. Includes music and sound effects that can be freely used in your videos (without much chances of getting strikes, if you're active on YouTube) and other media."
             }
         ]
     },
@@ -2830,7 +3027,7 @@
                 "name": "Vectorworks Educational Suite",
                 "url": "https://student.myvectorworks.net/content/Products",
                 "type": "Student Packs",
-                "description": "Offers an educational version for all of [Vectorworks]() software. Contains an array of design tools for [buildings](https://www.vectorworks.net/en/architect), [landscapes](https://www.vectorworks.net/en/landmark), [showstages](https://www.vectorworks.net/en/spotlight), and [2D and 3D sketches](https://www.vectorworks.net/en/fundamentals) and a [rendering engine](https://www.vectorworks.net/products/features/renderworks)."
+                "description": "Offers an educational version for all of [Vectorworks](https://www.vectorworks.net) software. Contains an array of design tools for [buildings](https://www.vectorworks.net/en/architect), [landscapes](https://www.vectorworks.net/en/landmark), [showstages](https://www.vectorworks.net/en/spotlight), and [2D and 3D sketches](https://www.vectorworks.net/en/fundamentals) and a [rendering engine](https://www.vectorworks.net/products/features/renderworks)."
             }
         ]
     },
@@ -3131,24 +3328,38 @@
             },
             {
                 "id": 10,
+                "name": "NASA Software Catalog",
+                "url": "https://software.nasa.gov/",
+                "type": "Miscellaneous",
+                "description": "It's a website that features softwares that NASA uses for their operations. Most of which has something to do with spacecraft and other space-related studies. Some of them are freely available as they have provided a link to it but most of the time, it still has restricted access so don't get your hopes too high."
+            },
+            {
+                "id": 11,
                 "name": "Odoo",
                 "url": "https://www.odoo.com/",
                 "type": "Miscellaneous",
                 "description": "An open source suite of web apps for growing your source. If you're curious about the open source part, you can personally give the [source code a visit](https://github.com/odoo/odoo) to see it yourself."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "The Book of Secret Knowledge (by *trimstray*)",
                 "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
                 "type": "Miscellaneous",
                 "description": "A GitHub repo that contains a list of programmer-related materials that [trimstray](https://github.com/trimstray) (along with the other contributors) refer to every day. You have a list of GUI tools, CLI tools, blogs, one-liners (not *that* one-liner), and a lot more."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Wayback Machine",
                 "url": "https://archive.org/web/web.php",
                 "type": "Miscellaneous",
                 "description": "A time machine for the web (not exactly that but you know...)."
+            },
+            {
+                "id": 14,
+                "name": "What every CS majors should know?",
+                "url": "http://matt.might.net/articles/what-cs-majors-should-know/",
+                "type": "Miscellaneous",
+                "description": "It's a living document that lists out what things every CS majors should know. It's also a useful starting reference point for those who are looking into the CS field."
             }
         ]
     }
