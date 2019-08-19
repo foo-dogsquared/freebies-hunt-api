@@ -10,6 +10,36 @@ All words that are in **boldface** must refer to a **resource** while words in *
 
 ## [Unreleased]
 
+## [1.5.1] - 2019/08/19
+### Added
+- Add the following new resources:
+    * Other Resource Lists
+        - **List of applications from the Arch Linux wiki**
+    * Computer-aided Design (CAD)
+        - **KiCAD**
+    * Electronics
+        - **KiCAD**
+    * Miscellaneous
+        - **Shotcut**
+    * Music
+        - **VSCO2 Community Edition**
+
+### Removed
+- Remove the following resources:
+    * Distance Learning Resources
+        - [LinkedIn Learning](https://learning.linkedin.com/) - most of its content are premium and I find a lot better courses over at edX and Coursera
+        - [MongoDB University](https://university.mongodb.com/) - too niche for the list 
+        - [The Odin Project](https://www.theodinproject.com/) - freeCodeCamp is a bit better regarding the community aspect
+        - [Udemy](https://udemy.com) - same reason as LinkedIn Learning
+    * Katas
+        - [Coderbyte](http://coderbyte.com) - there's just too many        
+    * Open Educational Resources
+        - [Bookboon](https://bookboon.com/) - has (understandably) annoying download process to work with and I find better alternatives at Open Textbook Library
+    * Operating Systems
+        - [Solus](https://getsol.us/) - didn't able to use it anyways
+    * Massive Open Online Courses (MOOCS)
+        - [Software Engineering Micromasters course by The University of British Columbia](https://www.edx.org/micromasters/software-development) - has too many software engineering courses
+
 ## [1.5.0] - 2019/07/28
 ### Added
 - Add the following new resources:
