@@ -67,6 +67,13 @@
             },
             {
                 "id": 8,
+                "name": "List of applications from the Arch Linux wiki",
+                "url": "https://wiki.archlinux.org/index.php/List_of_applications",
+                "type": "Other Resource Lists",
+                "description": "A list of mostly free and open source applications for various purposes listed from the [Arch Linux Wiki](https://wiki.archlinux.org/)."
+            },
+            {
+                "id": 9,
                 "name": "Lospec",
                 "url": "https://lospec.com/",
                 "type": "Other Resource Lists",
@@ -74,21 +81,21 @@
                 "personalComment": "If you want to get started on digital art, I recommend you to take a quick gander here."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "No Excuse List",
                 "url": "http://www.noexcuselist.com/",
                 "type": "Other Resource Lists",
                 "description": "A meta-list of resource list that points out to different resources for taking a particular field whether it is cooking, music, or programming."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Tech Dev Guide with Google",
                 "url": "https://techdevguide.withgoogle.com/resources/",
                 "type": "Other Resource Lists",
                 "description": "Another curated collection by Google."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Useful websites for programmers (by *sdmg15* on GitHub)",
                 "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit/",
                 "type": "Other Resource Lists",
@@ -163,13 +170,6 @@
             },
             {
                 "id": 8,
-                "name": "LinkedIn Learning",
-                "url": "https://learning.linkedin.com/",
-                "type": "Distance Learning Resources",
-                "description": "eLearning platform of LinkedIn."
-            },
-            {
-                "id": 9,
                 "name": "MDN Web Docs",
                 "url": "https://developer.mozilla.org/en-US/",
                 "type": "Distance Learning Resources",
@@ -177,14 +177,7 @@
                 "personalComment": "I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site."
             },
             {
-                "id": 10,
-                "name": "MongoDB University",
-                "url": "https://university.mongodb.com/",
-                "type": "Distance Learning Resources",
-                "description": "Official courses from MongoDB."
-            },
-            {
-                "id": 11,
+                "id": 9,
                 "name": "Scrimba",
                 "url": "https://scrimba.com/",
                 "type": "Distance Learning Resources",
@@ -192,28 +185,21 @@
                 "personalComment": "recommended"
             },
             {
-                "id": 12,
+                "id": 10,
                 "name": "SkillShare",
                 "url": "https://www.skillshare.com/",
                 "type": "Distance Learning Resources",
                 "description": "An online platform for well-known instructors. It requires you to have some form of subscription to be able to access its premium courses but you can find some free trials with a new account."
             },
             {
-                "id": 13,
+                "id": 11,
                 "name": "Teach Engineering",
                 "url": "https://www.teachengineering.org/",
                 "type": "Distance Learning Resources",
                 "description": "It's a educational resources site containing engineering stuff."
             },
             {
-                "id": 14,
-                "name": "The Odin Project",
-                "url": "https://www.theodinproject.com/",
-                "type": "Distance Learning Resources",
-                "description": "A site that provides a project-based learning and a curriculum centered around it similar to freeCodeCamp."
-            },
-            {
-                "id": 15,
+                "id": 12,
                 "name": "Tutorials Point",
                 "url": "https://www.tutorialspoint.com/index.htm",
                 "type": "Distance Learning Resources",
@@ -221,29 +207,21 @@
                 "personalComment": "I recommend this one though not as much."
             },
             {
-                "id": 16,
+                "id": 13,
                 "name": "TutPlus",
                 "url": "https://tutsplus.com/",
                 "type": "Distance Learning Resources",
                 "description": "A website that offers resources such as course, articles, and ebooks on different fields such as web design, programming, graphic design, and business."
             },
             {
-                "id": 17,
+                "id": 14,
                 "name": "Udacity",
                 "url": "https://www.udacity.com/",
                 "type": "Distance Learning Resources",
                 "description": "Most, if not all courses are focused on technology."
             },
             {
-                "id": 18,
-                "name": "Udemy",
-                "url": "https://udemy.com",
-                "type": "Distance Learning Resources",
-                "description": "An online course platform for anyone who wants to publish their own courses.",
-                "personalComment": "HINT: they are discounted for almost all-year round. I also recommend to only look out for the top courses since there's a lot of cluttering stuff in there."
-            },
-            {
-                "id": 19,
+                "id": 15,
                 "name": "W3Schools",
                 "url": "https://www.w3schools.com/",
                 "type": "Distance Learning Resources",
@@ -267,13 +245,6 @@
             },
             {
                 "id": 1,
-                "name": "Bookboon",
-                "url": "https://bookboon.com/",
-                "type": "Open Educational Resources",
-                "description": "A site that offers open textbooks. It also offers premium books as well."
-            },
-            {
-                "id": 2,
                 "name": "CK12",
                 "url": "https://www.ck12.org/student/",
                 "type": "Open Educational Resources",
@@ -281,14 +252,14 @@
                 "personalComment": "Recommended for looking/reviewing into high school sciences curriculum."
             },
             {
-                "id": 3,
+                "id": 2,
                 "name": "Community College Consortium for Open Educational Resources",
                 "url": "https://www.cccoer.org/",
                 "type": "Open Educational Resources",
                 "description": "You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER)."
             },
             {
-                "id": 4,
+                "id": 3,
                 "name": "freeCodeCamp",
                 "url": "https://freecodecamp.org",
                 "type": "Open Educational Resources",
@@ -296,21 +267,21 @@
                 "personalComment": "It has a [forum](https://forum.freecodecamp.org/) to interact and has its curriculum open sourced."
             },
             {
-                "id": 5,
+                "id": 4,
                 "name": "IXL",
                 "url": "https://www.ixl.com/",
                 "type": "Open Educational Resources",
                 "description": "An educational resource and learning site on K-12 curriculum."
             },
             {
-                "id": 6,
+                "id": 5,
                 "name": "JHU Data Science Lab",
                 "url": "https://jhudatascience.org/",
                 "type": "Open Educational Resources",
                 "description": "An organization with the goal of making learning data science accessible. They mainly do their goal by providing open source educational content for learning different subfields on data science."
             },
             {
-                "id": 7,
+                "id": 6,
                 "name": "Khan Academy",
                 "url": "https://khanacademy.org",
                 "type": "Open Educational Resources",
@@ -318,7 +289,7 @@
                 "personalComment": "It's well known and has I think one of the biggest learners' community."
             },
             {
-                "id": 8,
+                "id": 7,
                 "name": "Math Wiki",
                 "url": "https://math.wikia.com/wiki/Math_Wiki",
                 "type": "Open Educational Resources",
@@ -326,14 +297,14 @@
                 "personalComment": "Well, it is structured like a textbook and it is said that the Math Wiki is a textbook so there's that."
             },
             {
-                "id": 9,
+                "id": 8,
                 "name": "Merlot",
                 "url": "https://www.merlot.org/merlot/index.htm",
                 "type": "Open Educational Resources",
                 "description": "An archive site of open educational resources viewable to everyone."
             },
             {
-                "id": 10,
+                "id": 9,
                 "name": "MIT OpenCourseWare",
                 "url": "https://ocw.mit.edu/index.htm",
                 "type": "Open Educational Resources",
@@ -341,35 +312,35 @@
                 "personalComment": "Mah boi, I recommend this by a *loooooong* shot."
             },
             {
-                "id": 11,
+                "id": 10,
                 "name": "MIT Press Open",
                 "url": "https://mitpress.mit.edu/mit-press-open",
                 "type": "Open Educational Resources",
                 "description": "Yes, free and open access books from MIT Press."
             },
             {
-                "id": 12,
+                "id": 11,
                 "name": "OER Commons",
                 "url": "https://www.oercommons.org/",
                 "type": "Open Educational Resources",
                 "description": "Offers an archive of open educational resources for all educational levels from preschool to college level."
             },
             {
-                "id": 13,
+                "id": 12,
                 "name": "Open Library",
                 "url": "https://openlibrary.org/",
                 "type": "Open Educational Resources",
                 "description": "A web library backed by Internet Archive that contains books that has opened for public domain. Include books for science, literature, novels, and even recipes."
             },
             {
-                "id": 14,
+                "id": 13,
                 "name": "Open SUNY Textbooks",
                 "url": "https://textbooks.opensuny.org/",
                 "type": "Open Educational Resources",
                 "description": "An open textbook publication platform established by State University of New York libraries and supported by SUNY Innovative Instruction Technology Grants in which they offer their own set of textbooks."
             },
             {
-                "id": 15,
+                "id": 14,
                 "name": "Open Textbook Library",
                 "url": "https://open.umn.edu/opentextbooks",
                 "type": "Open Educational Resources",
@@ -377,21 +348,21 @@
                 "personalComment": "If you want to look for a wide database of open textbooks, here's one of them that I personally use."
             },
             {
-                "id": 16,
+                "id": 15,
                 "name": "Open University",
                 "url": "https://www.open.edu/openlearn/",
                 "type": "Open Educational Resources",
                 "description": "Features free courses, interactives, and educational materials. They also provide TV & audio programs which is certainly interesting, to say the least."
             },
             {
-                "id": 17,
+                "id": 16,
                 "name": "OpenStax CNX",
                 "url": "https://cnx.org/",
                 "type": "Open Educational Resources",
                 "description": "A database of open educational resources backed up [OpenStax](https://openstax.org/). Also offers some community-made books."
             },
             {
-                "id": 18,
+                "id": 17,
                 "name": "OpenStax",
                 "url": "https://openstax.org/",
                 "type": "Open Educational Resources",
@@ -399,42 +370,42 @@
                 "personalComment": "I recommend this one a lot. It has attained large backup from foundations such as [Melinda and Gates Foundation](https://www.gatesfoundation.org/), [Google](https://www.google.com/), [The Open Society Foundation](https://www.opensocietyfoundations.org/), and the [National Science Foundation](https://www.nsf.gov/)."
             },
             {
-                "id": 19,
+                "id": 18,
                 "name": "OSDev.org",
                 "url": "https://wiki.osdev.org/Main_Page",
                 "type": "Open Educational Resources",
                 "description": "A detailed wiki on operating system development."
             },
             {
-                "id": 20,
+                "id": 19,
                 "name": "ossu",
                 "url": "https://github.com/ossu/computer-science",
                 "type": "Open Educational Resources",
                 "description": "A community-built and approved curriculum for self-taught students to follow."
             },
             {
-                "id": 21,
+                "id": 20,
                 "name": "Teach Yourself CS",
                 "url": "https://teachyourselfcs.com/",
                 "type": "Open Educational Resources",
                 "description": "A site that recommends resources on the topic of learning computer science. Kinda similar to ossu's curriculum."
             },
             {
-                "id": 22,
+                "id": 21,
                 "name": "The Feynman's Lectures on Physics",
                 "url": "http://www.feynmanlectures.caltech.edu/",
                 "type": "Open Educational Resources",
                 "description": "Well,self-explanatory title is self-explanatory. It's the website that lets you view [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)'s legendary notes on physics."
             },
             {
-                "id": 23,
+                "id": 22,
                 "name": "The Open Source Computer Science Degree",
                 "url": "https://github.com/ForrestKnight/open-source-cs",
                 "type": "Open Educational Resources",
                 "description": "Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton."
             },
             {
-                "id": 24,
+                "id": 23,
                 "name": "WikiToLearn",
                 "url": "https://www.wikitolearn.org/",
                 "type": "Open Educational Resources",
@@ -714,13 +685,6 @@
                 "url": "https://www.mooc-list.com/",
                 "type": "Massive Open Online Courses (MOOCS)",
                 "description": "A MOOC search engine, similar to Class Central."
-            },
-            {
-                "id": 14,
-                "name": "Software Engineering Micromasters course by The University of British Columbia",
-                "url": "https://www.edx.org/micromasters/software-development",
-                "type": "Massive Open Online Courses (MOOCS)",
-                "description": "An edX Micromasters course set that introduces you to software engineering and how to effectively plan, organize, and create programs that scale efficiently."
             }
         ]
     },
@@ -845,6 +809,13 @@
                 "type": "Music",
                 "description": "A virtual piano that can be interacted with the computer keyboard.",
                 "personalComment": "If you don't have any physical instrument to interact with at the moment, you could always take a virtual instrument. Like this virtual piano, for instance."
+            },
+            {
+                "id": 16,
+                "name": "VSCO2 Community Edition",
+                "url": "https://vis.versilstudios.com/vsco-community.html",
+                "type": "Music",
+                "description": "An open source sample set of orchestral instruments. You can see the samples themselves in [their GitHub repo](https://github.com/sgossner/VSCO-2-CE)."
             }
         ]
     },
@@ -927,13 +898,20 @@
             },
             {
                 "id": 10,
+                "name": "KiCAD",
+                "url": "http://kicad-pcb.org/",
+                "type": "Electronics",
+                "description": "A cross-platform free and open source electronics design automation suite."
+            },
+            {
+                "id": 11,
                 "name": "KTechLabs",
                 "url": "https://github.com/ktechlab/ktechlab",
                 "type": "Electronics",
                 "description": "A free and open source IDE for microcontrollers and electronics."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Tinkercad",
                 "url": "https://www.tinkercad.com/",
                 "type": "Electronics",
@@ -1360,13 +1338,6 @@
             },
             {
                 "id": 2,
-                "name": "Coderbyte",
-                "url": "http://coderbyte.com",
-                "type": "Katas (Practice Sites)",
-                "description": "A website to improve your coding skills with a set of coding challenges. It can also help with your upcoming interview with their set of challenges designed for that."
-            },
-            {
-                "id": 3,
                 "name": "Codechef",
                 "url": "http://www.codechef.com/",
                 "type": "Katas (Practice Sites)",
@@ -1374,7 +1345,7 @@
                 "personalComment": "One of my personal recommendations. Give it a try."
             },
             {
-                "id": 4,
+                "id": 3,
                 "name": "Codewars",
                 "url": "http://codewars.com/",
                 "type": "Katas (Practice Sites)",
@@ -1382,14 +1353,14 @@
                 "personalComment": "It's probably one of the most popular kata site out there."
             },
             {
-                "id": 5,
+                "id": 4,
                 "name": "Codingame",
                 "url": "https://www.codingame.com/",
                 "type": "Katas (Practice Sites)",
                 "description": "A coding practice site where you get to train with visual feedbacks (in other words, playing video games). They also have an active community behind it, too."
             },
             {
-                "id": 6,
+                "id": 5,
                 "name": "Daily Coding Problem",
                 "url": "https://www.dailycodingproblem.com/",
                 "type": "Katas (Practice Sites)",
@@ -1397,7 +1368,7 @@
                 "personalComment": "They also have a [relatively recent book on it](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634), as well."
             },
             {
-                "id": 7,
+                "id": 6,
                 "name": "Euler Project",
                 "url": "https://projecteuler.net/",
                 "type": "Katas (Practice Sites)",
@@ -1405,35 +1376,35 @@
                 "personalComment": "Recommend it a lot, especially if you want to be more challenged."
             },
             {
-                "id": 8,
+                "id": 7,
                 "name": "Exercism",
                 "url": "https://exercism.io",
                 "type": "Katas (Practice Sites)",
                 "description": "A site that focuses improving you through the mentor-mentee model."
             },
             {
-                "id": 9,
+                "id": 8,
                 "name": "Google Coding Competitions",
                 "url": "https://codingcompetitions.withgoogle.com/",
                 "type": "Katas (Practice Sites)",
                 "description": "A site where Google coding competitions take place. Also hosts a variety of competitions and you even have access when a certain coding competition is done so you can take at your own pace."
             },
             {
-                "id": 10,
+                "id": 9,
                 "name": "HackerRank",
                 "url": "https://hackerrank.com/",
                 "type": "Katas (Practice Sites)",
                 "description": "A site that offers programming challenges along with some beginner-friendly sets."
             },
             {
-                "id": 11,
+                "id": 10,
                 "name": "HackerEarth",
                 "url": "https://www.hackerearth.com/",
                 "type": "Katas (Practice Sites)",
                 "description": "A programming challenge site that well, encourages you to take on the challenges in programming. It includes programming hackathons, challenge sets, and a curated collection of programming problems for various technical concepts such as data structures, mathematics, and basic programming."
             },
             {
-                "id": 12,
+                "id": 11,
                 "name": "Pramp",
                 "url": "https://www.pramp.com/",
                 "type": "Katas (Practice Sites)",
@@ -2081,21 +2052,13 @@
             },
             {
                 "id": 1,
-                "name": "Fedora",
-                "url": "https://fedoraproject.org/",
-                "type": "Operating Systems",
-                "description": "Kind of similar to Ubuntu but it is backed by [Red Hat](https://www.redhat.com/en) and it is used as a testbed for the latest features. Usually updates every 6 months.",
-                "personalComment": "This is the Linux distro that I'm using right now."
-            },
-            {
-                "id": 2,
                 "name": "FreeBSD",
                 "url": "https://www.freebsd.org/",
                 "type": "Operating Systems",
                 "description": "A free and open source operating system based on BSD."
             },
             {
-                "id": 3,
+                "id": 2,
                 "name": "Linux Mint",
                 "url": "https://www.linuxmint.com/",
                 "type": "Operating Systems",
@@ -2103,28 +2066,21 @@
                 "personalComment": "Recommended for beginners."
             },
             {
-                "id": 4,
+                "id": 3,
                 "name": "Manjaro",
                 "url": "https://manjaro.org/",
                 "type": "Operating Systems",
                 "description": "An Arch-based desktop and intuitive Linux distro with a rolling release model. Another one of the beginner-friendly distro that gives you an ease of maintenance and a wide range of available software with Arch Linux software repositories."
             },
             {
-                "id": 5,
+                "id": 4,
                 "name": "OpenSUSE",
                 "url": "https://www.opensuse.org/",
                 "type": "Operating Systems",
                 "description": "A stable release Linux distro for accessibility. Available in two distinct versions: Tumbleweed and Leap."
             },
             {
-                "id": 6,
-                "name": "Solus",
-                "url": "https://getsol.us/",
-                "type": "Operating Systems",
-                "description": "A desktop/workstation Linux distro that is made from scratch. There's plenty of support for most production use cases such as for software development, content creation, and office use."
-            },
-            {
-                "id": 7,
+                "id": 5,
                 "name": "Ubuntu",
                 "url": "http://ubuntu.com/",
                 "type": "Operating Systems",
@@ -2132,7 +2088,7 @@
                 "personalComment": "I recommend this one for beginners. Though I have some problems with it due to hardware issues."
             },
             {
-                "id": 8,
+                "id": 6,
                 "name": "Windows 10",
                 "url": "https://www.microsoft.com/en-us/software-download/windows10ISO",
                 "type": "Operating Systems",
@@ -2839,13 +2795,20 @@
             },
             {
                 "id": 5,
+                "name": "KiCAD",
+                "url": "http://kicad-pcb.org/",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A cross-platform free and open source electronics design automation suite."
+            },
+            {
+                "id": 6,
                 "name": "LeoCAD",
                 "url": "https://www.leocad.org/",
                 "type": "Computer-aided Design (CAD)",
                 "description": "A cross-platform free and open source computer-aided design software based on [LEGO](https://en.wikipedia.org/wiki/Lego). If you want to see the source code, you can visit it in [GitHub](https://github.com/leozide/leocad)."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "OpenSCAD",
                 "url": "http://www.openscad.org/index.html",
                 "type": "Computer-aided Design (CAD)",
@@ -3342,20 +3305,27 @@
             },
             {
                 "id": 12,
+                "name": "Shotcut",
+                "url": "https://shotcut.com/",
+                "type": "Miscellaneous",
+                "description": "A cross-platform free and open source video editor."
+            },
+            {
+                "id": 13,
                 "name": "The Book of Secret Knowledge (by *trimstray*)",
                 "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
                 "type": "Miscellaneous",
                 "description": "A GitHub repo that contains a list of programmer-related materials that [trimstray](https://github.com/trimstray) (along with the other contributors) refer to every day. You have a list of GUI tools, CLI tools, blogs, one-liners (not *that* one-liner), and a lot more."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "Wayback Machine",
                 "url": "https://archive.org/web/web.php",
                 "type": "Miscellaneous",
                 "description": "A time machine for the web (not exactly that but you know...)."
             },
             {
-                "id": 14,
+                "id": 15,
                 "name": "What every CS majors should know?",
                 "url": "http://matt.might.net/articles/what-cs-majors-should-know/",
                 "type": "Miscellaneous",

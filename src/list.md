@@ -9,6 +9,7 @@
 - [Best For Dev](https://bestfordev.github.io/) | A technical resource list, mainly includes tutorials, at one place.
 - [Boomkrak](http://boomkrak.com/) | **(Recommended for design-related resources.)** A resource list of tools for aiding you into getting started with your next project.
 - [Grow With Google](https://buildyourfuture.withgoogle.com/resources/) | A curated collection by Google that points out the directions on where to start in the world of tech.
+- [List of applications from the Arch Linux wiki](https://wiki.archlinux.org/index.php/List_of_applications) | A list of mostly free and open source applications for various purposes listed from the [Arch Linux Wiki](https://wiki.archlinux.org/).
 - [Lospec](https://lospec.com/) | **(If you want to get started on digital art, I recommend you to take a quick gander here.)** A website that curates digital art-related resources and articles for everyone interested on the field.
 - [No Excuse List](http://www.noexcuselist.com/) | A meta-list of resource list that points out to different resources for taking a particular field whether it is cooking, music, or programming.
 - [Tech Dev Guide with Google](https://techdevguide.withgoogle.com/resources/) | Another curated collection by Google.
@@ -24,23 +25,18 @@
 - [Google Developers](https://developers.google.com/) | A hub of extensive documenations provided by Google developers. Not only it contains documentation on [web development](https://developers.google.com/web/) but also could get you started on [Android app development](https://developer.android.com/) and developing products utilizing [YouTube](https://developers.google.com/youtube/).
 - [HTML5 Rocks](https://www.html5rocks.com/en/) | A tutorial and explainer site for web developers.
 - [Learn X in Y Minutes](https://learnxinyminutes.com) | **(What's `Y` minutes, you ask? The world may never know.)** A community-created repository of summaries for you to learn the X programming languages and tools in just Y minutes.
-- [LinkedIn Learning](https://learning.linkedin.com/) | eLearning platform of LinkedIn.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) | **(I think not a lot of people recommend to take a deep examination at this site but it does have a lot of things to offer. Seriously, take some time to take a stroll (uhh... visit?) into this site.)** An extensive documentation on web development provided by Mozilla Developer Network. Contains a gigantic amount of resources especially for those who are new to web development and programming, in general.
-- [MongoDB University](https://university.mongodb.com/) | Official courses from MongoDB.
 - [Scrimba](https://scrimba.com/) | **(recommended)** A free online platform that offers videos with interactive code. It's like a child of [YouTube](https://youtube.com/) and [Glitch](https://glitch.com/), as they say.
 - [SkillShare](https://www.skillshare.com/) | An online platform for well-known instructors. It requires you to have some form of subscription to be able to access its premium courses but you can find some free trials with a new account.
 - [Teach Engineering](https://www.teachengineering.org/) | It's a educational resources site containing engineering stuff.
-- [The Odin Project](https://www.theodinproject.com/) | A site that provides a project-based learning and a curriculum centered around it similar to freeCodeCamp.
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm) | **(I recommend this one though not as much.)** A good overview on a bunch of programming languages.
 - [TutPlus](https://tutsplus.com/) | A website that offers resources such as course, articles, and ebooks on different fields such as web design, programming, graphic design, and business.
 - [Udacity](https://www.udacity.com/) | Most, if not all courses are focused on technology.
-- [Udemy](https://udemy.com) | **(HINT: they are discounted for almost all-year round. I also recommend to only look out for the top courses since there's a lot of cluttering stuff in there.)** An online course platform for anyone who wants to publish their own courses.
 - [W3Schools](https://www.w3schools.com/) | **(Personally, I mostly see this more of a quick referential site instead of a tutorial site.)** A site of programming tutorials and such.
 
 ## Open Educational Resources
 ### Includes resources that are openly licensed and can be reused and redistributed by anyone. | oer | #c1ff9b
 - [BC Campus Open Ed Open Textbook Database](https://open.bccampus.ca/) | An open educational resource database backed by [BC Campus](https://bccampus.ca/). Offers wide variety of open textbooks for arts, sciences, and business (among many others).
-- [Bookboon](https://bookboon.com/) | A site that offers open textbooks. It also offers premium books as well.
 - [CK12](https://www.ck12.org/student/) | **(Recommended for looking/reviewing into high school sciences curriculum.)** A community group that offers variety of open educational resources from Flexbooks open textbooks, activities, and simulations.
 - [Community College Consortium for Open Educational Resources](https://www.cccoer.org/) | You can find it [here](https://www.cccoer.org/learn/find-oer/) for the most part if you want the open educational resources (OER).
 - [freeCodeCamp](https://freecodecamp.org) | **(It has a [forum](https://forum.freecodecamp.org/) to interact and has its curriculum open sourced.)** Project-based curriculum for web development. Also has its codebase and curriculum open sourced on [GitHub](http://github.com/freeCodeCamp/freeCodeCamp).
@@ -105,7 +101,6 @@
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | **(Also, it could use some textbooks to supplement some learnings, I recommend checking to the music resources for that.)** It's a Coursera course offered by Edinburgh University on fundamentals of music theory.
 - [Hacker Tools](https://hacker-tools.github.io/) | **(I recommend this a lot if you want to explore options for programming. A lot of people said that tools are not much of importance but I still think it's great to have an overview course regarding those said tools.)** An MIT lecture series on programming tools. Also can serve as a resource list for different programming tools on text editors, version control systems, and desktop configurations.
 - [MOOC List](https://www.mooc-list.com/) | A MOOC search engine, similar to Class Central.
-- [Software Engineering Micromasters course by The University of British Columbia](https://www.edx.org/micromasters/software-development) | An edX Micromasters course set that introduces you to software engineering and how to effectively plan, organize, and create programs that scale efficiently.
 
 ## Music
 ### Includes a bunch of resources that can aid you in studying music with free resources. | music-note | #13293d
@@ -125,6 +120,7 @@
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) | **(This is why programming is fantastic.)** A programming language that lets you create music.
 - [teoria](https://www.teoria.com/) | A website that dedicates to list music theory resources and tutorials.
 - [Virtual Piano](https://virtualpiano.net/) | **(If you don't have any physical instrument to interact with at the moment, you could always take a virtual instrument. Like this virtual piano, for instance.)** A virtual piano that can be interacted with the computer keyboard.
+- [VSCO2 Community Edition](https://vis.versilstudios.com/vsco-community.html) | An open source sample set of orchestral instruments. You can see the samples themselves in [their GitHub repo](https://github.com/sgossner/VSCO-2-CE).
 
 ## Electronics
 ### Includes various reference points to get you started on tinkering hardware. | hardware | #81f4e1
@@ -138,6 +134,7 @@
 - [Hackaday](https://hackaday.io/) | A community of hardware hackers mainly helps each other by sharing their projects and discussing hardware-related stuff among them.
 - [Hackster](https://www.hackster.io/) | A community of hardware hackers similar to Hackaday.
 - [Instructables](https://www.instructables.com/) | A do-it-yourself (DIY) community but it also has one of the largest hardware/electronics hackers community out there.
+- [KiCAD](http://kicad-pcb.org/) | A cross-platform free and open source electronics design automation suite.
 - [KTechLabs](https://github.com/ktechlab/ktechlab) | A free and open source IDE for microcontrollers and electronics.
 - [Tinkercad](https://www.tinkercad.com/) | A free collection of tools by Autodesk to get started on electronics, engineering, and programming. It may look like it's targeted for kids but it's still a good way on getting started with electronics, nonetheless by offering a circuit simulator and an integrated environment for programming and debugging your circuits.
 
@@ -207,7 +204,6 @@
 ### Includes a facility and resources to practice solving programming problems and sharpen your problem solving skills. | algorithm | #b38a58
 - [/r/dailyprogrammer](https://old.reddit.com/r/dailyprogrammer/) | Includes challenges set for beginners, intermediate, and advanced programmers.
 - [Advent of Code](https://adventofcode.com/) | **(Very much recommended, also beginner-friendly for challenges (kinda).)** An annual event where a challenge set is gradually released every Advent season (starting from December 1st).
-- [Coderbyte](http://coderbyte.com) | A website to improve your coding skills with a set of coding challenges. It can also help with your upcoming interview with their set of challenges designed for that.
 - [Codechef](http://www.codechef.com/) | **(One of my personal recommendations. Give it a try.)** A website and a community of coding challengers that offers a wide variety of coding challenges-related activities. Includes occasional contests, programming tutorials, a freeCodeCamp forum-esque Q&A forum, and coding challenges for all programmers of different skill levels.
 - [Codewars](http://codewars.com/) | **(It's probably one of the most popular kata site out there.)** A community-focused programming kata site where users can create their own katas to let other people solve it.
 - [Codingame](https://www.codingame.com/) | A coding practice site where you get to train with visual feedbacks (in other words, playing video games). They also have an active community behind it, too.
@@ -319,12 +315,10 @@
 ## Operating Systems
 ### Includes free operating systems of different platforms to be able to run different programs on your machine. (I mean you wouldn't see this site if it wasn't for those, right?) | operating-system | #91c5c1
 - [Arch Linux](http://archlinux.org/) | **(Not recommended for beginners.)** A simple and elegant rolling release Linux distro for giving you the only components to make it work and letting you in full control of the customization. If you to know the nuts and bolts of the Linux kernel, then go ahead and try this (hopefully you have all of the needed hardware compatible and has a fast enough internet connection).
-- [Fedora](https://fedoraproject.org/) | **(This is the Linux distro that I'm using right now.)** Kind of similar to Ubuntu but it is backed by [Red Hat](https://www.redhat.com/en) and it is used as a testbed for the latest features. Usually updates every 6 months.
 - [FreeBSD](https://www.freebsd.org/) | A free and open source operating system based on BSD.
 - [Linux Mint](https://www.linuxmint.com/) | **(Recommended for beginners.)** An Ubuntu-based distro with a fixed release model that provides a classic desktop experience with multimedia support out-of-the-box and user-created configuration.
 - [Manjaro](https://manjaro.org/) | An Arch-based desktop and intuitive Linux distro with a rolling release model. Another one of the beginner-friendly distro that gives you an ease of maintenance and a wide range of available software with Arch Linux software repositories.
 - [OpenSUSE](https://www.opensuse.org/) | A stable release Linux distro for accessibility. Available in two distinct versions: Tumbleweed and Leap.
-- [Solus](https://getsol.us/) | A desktop/workstation Linux distro that is made from scratch. There's plenty of support for most production use cases such as for software development, content creation, and office use.
 - [Ubuntu](http://ubuntu.com/) | **(I recommend this one for beginners. Though I have some problems with it due to hardware issues.)** A stable release Linux distro made by Canonical being updated every 6 months starting from April. Has two releases, one being the long-term support (LTS) version and the other is the more advanced version.
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO) | **(I guess it is free now, also recommended if you want to explore Windows app marketplace.)** Includes various reasons to stay or dual-boot with a Linux distro.
 
@@ -437,6 +431,7 @@
 - [BRL-CAD](http://brlcad.org/) | **(Fun fact: This is believed to be the world's oldest software repository which its development started at December 1979. Also, it found its use on the military.)** A cross-platform free and open source modelling system mainly used for engineering tasks: 3D modelling, image and data processing, and creating diagrams/blueprints.
 - [FreeCAD](https://www.freecadweb.org/) | A cross-platform free and open source modeller. Offers usefulness for various scientific and engineering fields such as electronics, mechatronics, and mathematics.
 - [Google Sketchup](https://www.sketchup.com/) | A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling.
+- [KiCAD](http://kicad-pcb.org/) | A cross-platform free and open source electronics design automation suite.
 - [LeoCAD](https://www.leocad.org/) | A cross-platform free and open source computer-aided design software based on [LEGO](https://en.wikipedia.org/wiki/Lego). If you want to see the source code, you can visit it in [GitHub](https://github.com/leozide/leocad).
 - [OpenSCAD](http://www.openscad.org/index.html) | A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/).
 
@@ -520,6 +515,7 @@
 - [Local Hackday MLH (Major League Hacking)](https://localhackday.mlh.io/) | It's a global hackathon (that are related to MLH) finder.
 - [NASA Software Catalog](https://software.nasa.gov/) | It's a website that features softwares that NASA uses for their operations. Most of which has something to do with spacecraft and other space-related studies. Some of them are freely available as they have provided a link to it but most of the time, it still has restricted access so don't get your hopes too high.
 - [Odoo](https://www.odoo.com/) | An open source suite of web apps for growing your source. If you're curious about the open source part, you can personally give the [source code a visit](https://github.com/odoo/odoo) to see it yourself.
+- [Shotcut](https://shotcut.com/) | A cross-platform free and open source video editor.
 - [The Book of Secret Knowledge (by *trimstray*)](https://github.com/trimstray/the-book-of-secret-knowledge) | A GitHub repo that contains a list of programmer-related materials that [trimstray](https://github.com/trimstray) (along with the other contributors) refer to every day. You have a list of GUI tools, CLI tools, blogs, one-liners (not *that* one-liner), and a lot more.
 - [Wayback Machine](https://archive.org/web/web.php) | A time machine for the web (not exactly that but you know...).
 - [What every CS majors should know?](http://matt.might.net/articles/what-cs-majors-should-know/) | It's a living document that lists out what things every CS majors should know. It's also a useful starting reference point for those who are looking into the CS field.
