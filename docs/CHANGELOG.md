@@ -9,61 +9,73 @@ All specified dates are in standard [ISO 8601 date and time format](https://www.
 All words that are in **boldface** must refer to a **resource** while words in *italic* should refer to the *categories*.
 
 ## [Unreleased]
+### Added
+- Add the following new resources:
+    * *Computer-aided Design (CAD)*
+        - **Processing**
+    * *Stock Resources*
+        - **Free Web Illustrations**
+        - **unDraw**
+
+### Removed
+- Remove the following resources:
+    * *Computer-aided Design (CAD)*
+        - [AutoCAD Fusion 360](https://www.autodesk.com/products/fusion-360) - I forgot. It's not free.
 
 ## [1.5.1] - 2019/08/19
 ### Added
 - Add the following new resources:
-    * Other Resource Lists
+    * *Other Resource Lists*
         - **List of applications from the Arch Linux wiki**
-    * Computer-aided Design (CAD)
+    * *Computer-aided Design (CAD)*
         - **KiCAD**
-    * Electronics
+    * *Electronics*
         - **KiCAD**
-    * Miscellaneous
+    * *Miscellaneous*
         - **Shotcut**
-    * Music
+    * *Music*
         - **VSCO2 Community Edition**
 
 ### Removed
 - Remove the following resources:
-    * Distance Learning Resources
+    * *Distance Learning Resources*
         - [LinkedIn Learning](https://learning.linkedin.com/) - most of its content are premium and I find a lot better courses over at edX and Coursera
         - [MongoDB University](https://university.mongodb.com/) - too niche for the list 
         - [The Odin Project](https://www.theodinproject.com/) - freeCodeCamp is a bit better regarding the community aspect
         - [Udemy](https://udemy.com) - same reason as LinkedIn Learning
-    * Katas
+    * *Katas*
         - [Coderbyte](http://coderbyte.com) - there's just too many        
-    * Open Educational Resources
+    * *Open Educational Resources*
         - [Bookboon](https://bookboon.com/) - has (understandably) annoying download process to work with and I find better alternatives at Open Textbook Library
-    * Operating Systems
+    * *Operating Systems*
         - [Solus](https://getsol.us/) - didn't able to use it anyways
-    * Massive Open Online Courses (MOOCS)
+    * *Massive Open Online Courses (MOOCS)*
         - [Software Engineering Micromasters course by The University of British Columbia](https://www.edx.org/micromasters/software-development) - has too many software engineering courses
 
 ## [1.5.0] - 2019/07/28
 ### Added
 - Add the following new resources:
-    * Communities
+    * *Communities*
         - **itch.io**
         - **Game Jolt**
-    * Free and Open Access Textbooks
+    * *Free and Open Access Textbooks*
         - **American Institute of Mathematics Approved Open Textbooks**
-    * Game Development
+    * *Game Development*
         - **Byond**
         - **Game Jolt**
         - **itch.io**
         - **Kenney**
         - **TIC-80 Computer**
-    * Math
+    * *Math*
         - **American Institute of Mathematics Approved Open Textbooks**
-    * Music
+    * *Music*
         - **SampleSwap**
-    * Miscellaneous
+    * *Miscellaneous*
         - **NASA Software Catalog**
         - **What every CS majors should know?**
-    * Platforms For Your Future Apps
+    * *Platforms For Your Future Apps*
         - **Zeit Now** 
-    * Stock Resources
+    * *Stock Resources*
         - **Incompetech** 
         - **SampleSwap**
         - **YouTube Audio Library**

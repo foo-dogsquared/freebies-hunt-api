@@ -412,6 +412,7 @@
 - [Creative Market](https://creativemarket.com/) | A marketplace for stock resources such as illustrations, fonts, images, vectors, Photoshop templates, and more. But the main reason why I'm listing here is because of the weekly free creative stuff roundabout thing that's going on.
 - [Font Squirrel](https://www.fontsquirrel.com/) | **(IDK, is it free for personal use though? 🤔)** Offers a hand-selected font selection that features fonts that are free to use for commercial projects.
 - [Free Sound](https://freesound.org/) | A user-centric sound archive site that lets you freely use their hosted sounds.
+- [Free Web Illustrations](https://freewebillustrations.com/) | A search engine that indexes free web illustrations (usually in SVG) available for commercial and non-commercial purposes. Also features on-the-fly color customization for your brand.
 - [Freepik](https://www.freepik.com/) | **(This is the source of icons used for all of the icons here (except the website logo).)** A website that offers free vectors, icons, photos, and Photoshop templates.
 - [Iconmonstr](http://iconmonstr.com/) | **(This is my personal go-to when looking for an icon since it is also used for free without a required attribution.)** A free collection of icons for general objects. Also, the iconset is periodically being expanded.
 - [Incompetech](https://incompetech.com/music/) | It's the company (or specifically [one person](https://www.youtube.com/user/kmmusic)) behind one of the largest (if not THE largest) producer of royalty-free and open music collection. And it features [the best graph paper generator as well](https://incompetech.com/graphpaper/).
@@ -421,18 +422,19 @@
 - [Pixabay](https://www.pixabay.com/) | Similar to Pexels, ranging its offers not only to photos that are free to use (depending on its author) but also to its videos, illustrations, and vectors.
 - [Simple Icons](https://simpleicons.org/) | A free and open source icon set of popular brands. You can see the [repo on GitHub](https://github.com/simple-icons/simple-icons).
 - [SampleSwap](https://sampleswap.org/) | A website that contains royalty-free music that is free to use for commercial purposes (depending on the author, still read their respective licensing page). Also contains samples and loops if you're there for composing music.
+- [unDraw](https://undraw.co/illustrations) | A website that offers free and open source illustrations [suitable for personal and commercial purposes](https://undraw.co/license). Also features on-the-fly color customizations for your brand.
 - [Unsplash](https://unsplash.com/) | A site that features photos that are free to use.
 - [YouTube Audio Library](https://www.youtube.com/audiolibrary/) | A sound library compiled by YouTube. Includes music and sound effects that can be freely used in your videos (without much chances of getting strikes, if you're active on YouTube) and other media.
 
 ## Computer-aided Design (CAD)
 ### Includes a list of tools and resources for you to get started on creating and exploring computer-aided designs. Mostly explored its uses in engineering and scientific courses. | cad | #47e5bc
-- [AutoCAD Fusion 360](https://www.autodesk.com/products/fusion-360) | A 3D sketching and modelling tool made by Autocad. Has a plethora of features outside of being a 3D design tool; it could also generate design and simulate with realtime physics. Also, they have available support for students (with free 3 years) and startups (with a free year). Just make sure you check if you're eligible before you request for one.
 - [Blender](https://www.blender.org/) | **(If you're looking for a start in 3D modelling with free tools, this is one of the de facto tools on it.)** A cross-platform free and open source 3D modelling software. One of the leading software in terms of free software in 3D modelling. It also features video editing and a variety of physics simulation from cloth, smoke, to liquid.
 - [BRL-CAD](http://brlcad.org/) | **(Fun fact: This is believed to be the world's oldest software repository which its development started at December 1979. Also, it found its use on the military.)** A cross-platform free and open source modelling system mainly used for engineering tasks: 3D modelling, image and data processing, and creating diagrams/blueprints.
 - [FreeCAD](https://www.freecadweb.org/) | A cross-platform free and open source modeller. Offers usefulness for various scientific and engineering fields such as electronics, mechatronics, and mathematics.
 - [Google Sketchup](https://www.sketchup.com/) | A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling.
 - [KiCAD](http://kicad-pcb.org/) | A cross-platform free and open source electronics design automation suite.
 - [LeoCAD](https://www.leocad.org/) | A cross-platform free and open source computer-aided design software based on [LEGO](https://en.wikipedia.org/wiki/Lego). If you want to see the source code, you can visit it in [GitHub](https://github.com/leozide/leocad).
+- [Processing](https://processing.org/) | A framework on getting started with programming with visual arts. Mostly used in making generative art.
 - [OpenSCAD](http://www.openscad.org/index.html) | A free and open source CAD where it prides itself being the programmers' CAD. Instead of creating models through a user interface, you have to create a model through scripting. If you want to see the source code, it's in their [GitHub repo](https://github.com/openscad/openscad/).
 
 ## Graphics Design
