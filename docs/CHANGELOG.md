@@ -9,18 +9,35 @@ All specified dates are in standard [ISO 8601 date and time format](https://www.
 All words that are in **boldface** must refer to a **resource** while words in *italic* should refer to the *categories*.
 
 ## [Unreleased]
+
+## [1.5.2] - 2019/10/01
 ### Added
 - Add the following new resources:
     * *Computer-aided Design (CAD)*
         - **Processing**
+    * *Open Educational Resources*
+        - **Wikibooks**
+    * *Research*
+        - **Academic Torrents**
     * *Stock Resources*
         - **Free Web Illustrations**
         - **unDraw**
+    * *YouTube Channels*
+        - **javidx9**
+
+### Changed
+
+- Lighten the color of the "YouTube channel" section. 
 
 ### Removed
 - Remove the following resources:
     * *Computer-aided Design (CAD)*
         - [AutoCAD Fusion 360](https://www.autodesk.com/products/fusion-360) - I forgot. It's not free.
+    * *YouTube Channels*
+        - [Jarvis Johnson](https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA) - I just stopped watching. Nothing more. 
+        - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) - Well, I don't know why I first recommend it here. 
+        His content is becoming more "hype" in energy and more of an entertainment show than a n educational one. 
+        Also, see [this article](https://www.theregister.co.uk/2019/09/27/youtube_ai_star/). 
 
 ## [1.5.1] - 2019/08/19
 ### Added

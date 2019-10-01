@@ -58,7 +58,8 @@
 - [ossu](https://github.com/ossu/computer-science) | A community-built and approved curriculum for self-taught students to follow.
 - [Teach Yourself CS](https://teachyourselfcs.com/) | A site that recommends resources on the topic of learning computer science. Kinda similar to ossu's curriculum.
 - [The Feynman's Lectures on Physics](http://www.feynmanlectures.caltech.edu/) | Well,self-explanatory title is self-explanatory. It's the website that lets you view [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)'s legendary notes on physics.
-- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) | Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton.
+- [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) | Similar to `ossu`, it's a open source curriculum with linked courses from reputable universities such as Stanford, MIT, and Princeton. 
+- [Wikibooks](https://en.wikibooks.org/wiki/Main_Page) | Contains community-curated books for various subjects such as [Introduction to LaTeX](https://en.wikibooks.org/wiki/LaTeX) and [Introduction to Blender](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro). 
 - [WikiToLearn](https://www.wikitolearn.org/) | **(One of my personal recommendations right here.)** A collaborative effort made into an introductory wiki for different subjects such as computer science, mathematics, engineering, business, and more.
 
 ## Free and Open Access Textbooks
@@ -171,7 +172,8 @@
 - [Veloren](https://veloren.net/) | **(As of 2019-07-17, it is under  You can get in touch with the community through [their subreddit](https://www.reddit.com/r/Veloren) and [their Discord server](https://discord.gg/kjwJwjK). Also as of 2019-07-17, the game is under early development so its features is not yet complete compared to Cube World.)** A free and open source RPG that takes inspiration from [Cube World](https://en.wikipedia.org/wiki/Cube_World), [Minecraft](https://www.minecraft.net/), and [Dwarf Fortress](http://www.bay12games.com/dwarves/index.html). 
 
 ## Research
-### Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study. | study | #8fb8de
+### Listed are the hubs for getting academic resources like research papers, various references, facilitating studying with groups and collections of data used for the study. | study | #8fb8de 
+- [Academic Torrents](http://academictorrents.com/) | A tracker for academic materials such as journals, whitepapers, and videos. Even features convenient bibliographic features. 
 - [Awesome Research (by *emptymalei*)](https://github.com/emptymalei/awesome-research) | An [awesome](https://github.com/sindresorhus/awesome) list of mostly free and open source research tools and resources for your research project.
 - [Awesome Public Datasets (by *awesomedata*)](https://github.com/awesomedata/awesome-public-datasets) | An [awesome](https://github.com/sindresorhus/awesome) list of publicly available datasets for your research (or just to find a data set for your data visualization/science learning or something).
 - [Academia.edu](https://www.academia.edu/) | A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research.
@@ -288,7 +290,7 @@
 - [Pycoders Weekly](https://pycoders.com/) | A weekly newsletter on Python.
 
 ## YouTube Channels
-### Includes a list of YouTube channels on various topics that I personally watch out for. | youtube | #ff5964
+### Includes a list of YouTube channels on various topics that I personally watch out for. | youtube | #ff868e
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) | A YouTube channel that focuses on teaching mathematics intuitively by including animations.
 - [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw) | A YouTube channel that focuses on video game music from dynamic music similar to [Banjo Kazooie](https://en.wikipedia.org/wiki/Banjo-Kazooie)'s (or [A Hat in Time](http://hatintime.com/), if you want a modern example) varying version of the stage theme to video game music with odd time signatures.
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ) | **(This could be handy for a sudden random tech learning.)** Includes tech talks and discussions.
@@ -297,8 +299,8 @@
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | **(Since the amount of content in this channel is gigantic and most of them came from third-party developers, it's a good idea to use this as a browser of referential videos.)** freeCodeCamp's official YouTube channel. Its content varies from tutorials from other developers to a whole course series (in fact, CS50 made it as one of them). You could also view some of their content from their [freeCodeCamp Talks channel](https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A/videos).
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | **(An entertaining developer, a plus for me.)** Your metaphorical caffeine every Monday. A YouTube channel hosted by [@mpjme](https://twitter.com/mpjme) that focuses on various developer-related concepts.
 - [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337) | Focuses on anything that is game design and development. Gives you insight on how Half Life teaches without a tutorial, how Megaman 11's level design does more with less, and the how does a particular level has been designed.
-- [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ) | A YouTube channel of electronic projects how-tos and tutorials.
-- [Jarvis Johnson](https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA) | **(I think he doesn't do those tech videos anymore but I'm not complaining.)** A commentary channel with a slightest bit of tech.
+- [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ) | A YouTube channel of electronic projects how-tos and tutorials. 
+- [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) | Also known as the One Lone Coder. He provides content for programming presenting it as a fun, silly, and odd thing to do. 
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) | Videos on various academic topics from mathematics, electronics, to economics and politics.
 - [LGR](https://www.youtube.com/channel/UCLx053rWZxCiYWsBETgdKrQ) | A YouTube channel that has a focus on retro computing though it does have a bit of a variety of content from game reviews to thrift store trips.
 - [LOOK MUM NO COMPUTER](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw) | Includes content on creating weird inventions and other stuff by a musician and inventor: a fart box, a synth that plays on a bike, a DIY envelope generator, and much more.
@@ -307,7 +309,6 @@
 - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ) | Focuses on mathematicLs so if you want to learn math through YouTube, here is one channel that specializes on it.
 - [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA) | A YouTube channel of a teacher who produces content on various academic topics including mathematics, sciences, and history.
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | **(Recommended for calculus stuff, also pair this one with Eddie Woo and you got a pair of YouTube channels to teach you the high school math.)** A YouTube channel that focuses on giving topics on calculus.
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) | A YouTuber that focuses on anything related to machine learning and AI development.
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) | **(Recommend it a lot! Dan Shiffman is not only a good instructor but a very entertaining one, too! 🤗)** A programming YouTube channel mainly hosted by [Dan Shiffman](https://shiffman.net/) that focuses on mathematical and creative coding.
 - [Travesty Media](https://www.youtube.com/user/TechGuyWeb/) | **(A very good starting point on web development.)** Focuses on creating simple and easy-to-follow web development and programming content.
 - [Vsauce](https://www.youtube.com/user/Vsauce) | **(Need to say more?)** It's a YouTube channel led by Michael Stevens that focuses on the knowledge. Any type of knowledge and nerd-labelled stuff, really.

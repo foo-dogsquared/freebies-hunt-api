@@ -406,6 +406,13 @@
             },
             {
                 "id": 23,
+                "name": "Wikibooks",
+                "url": "https://en.wikibooks.org/wiki/Main_Page",
+                "type": "Open Educational Resources",
+                "description": "Contains community-curated books for various subjects such as [Introduction to LaTeX](https://en.wikibooks.org/wiki/LaTeX) and [Introduction to Blender](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)."
+            },
+            {
+                "id": 24,
                 "name": "WikiToLearn",
                 "url": "https://www.wikitolearn.org/",
                 "type": "Open Educational Resources",
@@ -1135,27 +1142,34 @@
         "children": [
             {
                 "id": 0,
+                "name": "Academic Torrents",
+                "url": "http://academictorrents.com/",
+                "type": "Research",
+                "description": "A tracker for academic materials such as journals, whitepapers, and videos. Even features convenient bibliographic features."
+            },
+            {
+                "id": 1,
                 "name": "Awesome Research (by *emptymalei*)",
                 "url": "https://github.com/emptymalei/awesome-research",
                 "type": "Research",
                 "description": "An [awesome](https://github.com/sindresorhus/awesome) list of mostly free and open source research tools and resources for your research project."
             },
             {
-                "id": 1,
+                "id": 2,
                 "name": "Awesome Public Datasets (by *awesomedata*)",
                 "url": "https://github.com/awesomedata/awesome-public-datasets",
                 "type": "Research",
                 "description": "An [awesome](https://github.com/sindresorhus/awesome) list of publicly available datasets for your research (or just to find a data set for your data visualization/science learning or something)."
             },
             {
-                "id": 2,
+                "id": 3,
                 "name": "Academia.edu",
                 "url": "https://www.academia.edu/",
                 "type": "Research",
                 "description": "A collaborative and sharing platform for your research papers. It could also be useful to explore and find some literatures to be referenced for your next research."
             },
             {
-                "id": 3,
+                "id": 4,
                 "name": "arXiv",
                 "url": "https://arxiv.org/",
                 "type": "Research",
@@ -1163,7 +1177,7 @@
                 "personalComment": "Recommending this one if you want to look for a literature for your research."
             },
             {
-                "id": 4,
+                "id": 5,
                 "name": "Brainly",
                 "url": "https://brainly.com/",
                 "type": "Research",
@@ -1171,70 +1185,70 @@
                 "personalComment": "Recommended if you're looking for an academics study group."
             },
             {
-                "id": 5,
+                "id": 6,
                 "name": "Data.gov",
                 "url": "https://www.data.gov/",
                 "type": "Research",
                 "description": "The repository of various datasets initiated and publicly released from the US government."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "Figshare",
                 "url": "https://figshare.com/",
                 "type": "Research",
                 "description": "A platform for open scientific research data."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Mendeley",
                 "url": "https://mendeley.com/",
                 "type": "Research",
                 "description": "A research organization tool. Also comes with a research network."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "Google Scholar",
                 "url": "https://scholar.google.com/",
                 "type": "Research",
                 "description": "An academic research and publication hub. Could be useful in finding literary sources for your next research or thesis."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "Google Dataset Search",
                 "url": "https://toolbox.google.com/datasetsearch",
                 "type": "Research",
                 "description": "A search engine made by Google for publicly available datasets."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Kaggle",
                 "url": "https://www.kaggle.com/datasets",
                 "type": "Research",
                 "description": "A website that references public data sets. It's quite a website for your data science or research projects."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "LaTeX",
                 "url": "https://www.latex-project.org/",
                 "type": "Research",
                 "description": "A highly regarded typesetting system for scientific documents. Supports a wide variety of mathematical (and scientific) expressions and symbols from algebra, logic, calculus, and more advanced mathematical disciplines. The program is not standalone itself but it does have plenty of text editors built on top of the typesetting system to let you prepare LaTeX documents easily. The provided website already has a list of programs for you to easily refer to a text editor but still [here's a list of programs built on top of LaTeX.](https://github.com/egeerardyn/awesome-LaTeX)."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "National Institute of Science and Technology (NIST)",
                 "url": "https://www.nist.gov/",
                 "type": "Research",
                 "description": "A governing body on facilitating research on advancing scientific and technological breakthroughs. Also provides public access on its [publications and data](https://www.nist.gov/open)."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "Papers We Love",
                 "url": "https://github.com/papers-we-love/papers-we-love",
                 "type": "Research",
                 "description": "A community on reading and discussing academic computer science papers. The linked hyperlink is a GitHub repo containing a list of local chapters of the community, a list of resources to look for other papers, and a list of links for how to read an academic paper (which is always a very nice feature to include)."
             },
             {
-                "id": 14,
+                "id": 15,
                 "name": "Researchgate",
                 "url": "https://www.researchgate.net/",
                 "type": "Research",
@@ -1867,7 +1881,7 @@
         "name": "YouTube Channels",
         "description": "Includes a list of YouTube channels on various topics that I personally watch out for.",
         "iconName": "youtube",
-        "mainColor": "#ff5964",
+        "mainColor": "#ff868e",
         "children": [
             {
                 "id": 0,
@@ -1939,11 +1953,10 @@
             },
             {
                 "id": 9,
-                "name": "Jarvis Johnson",
-                "url": "https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA",
+                "name": "javidx9",
+                "url": "https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA",
                 "type": "YouTube Channels",
-                "description": "A commentary channel with a slightest bit of tech.",
-                "personalComment": "I think he doesn't do those tech videos anymore but I'm not complaining."
+                "description": "Also known as the One Lone Coder. He provides content for programming presenting it as a fun, silly, and odd thing to do."
             },
             {
                 "id": 10,
@@ -2005,13 +2018,6 @@
             },
             {
                 "id": 18,
-                "name": "Siraj Raval",
-                "url": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
-                "type": "YouTube Channels",
-                "description": "A YouTuber that focuses on anything related to machine learning and AI development."
-            },
-            {
-                "id": 19,
                 "name": "The Coding Train",
                 "url": "https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw",
                 "type": "YouTube Channels",
@@ -2019,7 +2025,7 @@
                 "personalComment": "Recommend it a lot! Dan Shiffman is not only a good instructor but a very entertaining one, too! 🤗"
             },
             {
-                "id": 20,
+                "id": 19,
                 "name": "Travesty Media",
                 "url": "https://www.youtube.com/user/TechGuyWeb/",
                 "type": "YouTube Channels",
@@ -2027,7 +2033,7 @@
                 "personalComment": "A very good starting point on web development."
             },
             {
-                "id": 21,
+                "id": 20,
                 "name": "Vsauce",
                 "url": "https://www.youtube.com/user/Vsauce",
                 "type": "YouTube Channels",
@@ -2671,6 +2677,13 @@
             },
             {
                 "id": 5,
+                "name": "Free Web Illustrations",
+                "url": "https://freewebillustrations.com/",
+                "type": "Stock Resources",
+                "description": "A search engine that indexes free web illustrations (usually in SVG) available for commercial and non-commercial purposes. Also features on-the-fly color customization for your brand."
+            },
+            {
+                "id": 6,
                 "name": "Freepik",
                 "url": "https://www.freepik.com/",
                 "type": "Stock Resources",
@@ -2678,7 +2691,7 @@
                 "personalComment": "This is the source of icons used for all of the icons here (except the website logo)."
             },
             {
-                "id": 6,
+                "id": 7,
                 "name": "Iconmonstr",
                 "url": "http://iconmonstr.com/",
                 "type": "Stock Resources",
@@ -2686,63 +2699,70 @@
                 "personalComment": "This is my personal go-to when looking for an icon since it is also used for free without a required attribution."
             },
             {
-                "id": 7,
+                "id": 8,
                 "name": "Incompetech",
                 "url": "https://incompetech.com/music/",
                 "type": "Stock Resources",
                 "description": "It's the company (or specifically [one person](https://www.youtube.com/user/kmmusic)) behind one of the largest (if not THE largest) producer of royalty-free and open music collection. And it features [the best graph paper generator as well](https://incompetech.com/graphpaper/)."
             },
             {
-                "id": 8,
+                "id": 9,
                 "name": "Open Clip Art",
                 "url": "https://www.openclipart.org/",
                 "type": "Stock Resources",
                 "description": "Includes clip art open to use and modify for everybody."
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "Petrucci Music Library",
                 "url": "https://imslp.org/wiki/",
                 "type": "Stock Resources",
                 "description": "A music library containing public domain songs."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Pexels",
                 "url": "https://www.pexels.com/",
                 "type": "Stock Resources",
                 "description": "Includes videos and images licensed under CC License."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Pixabay",
                 "url": "https://www.pixabay.com/",
                 "type": "Stock Resources",
                 "description": "Similar to Pexels, ranging its offers not only to photos that are free to use (depending on its author) but also to its videos, illustrations, and vectors."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Simple Icons",
                 "url": "https://simpleicons.org/",
                 "type": "Stock Resources",
                 "description": "A free and open source icon set of popular brands. You can see the [repo on GitHub](https://github.com/simple-icons/simple-icons)."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "SampleSwap",
                 "url": "https://sampleswap.org/",
                 "type": "Stock Resources",
                 "description": "A website that contains royalty-free music that is free to use for commercial purposes (depending on the author, still read their respective licensing page). Also contains samples and loops if you're there for composing music."
             },
             {
-                "id": 14,
+                "id": 15,
+                "name": "unDraw",
+                "url": "https://undraw.co/illustrations",
+                "type": "Stock Resources",
+                "description": "A website that offers free and open source illustrations [suitable for personal and commercial purposes](https://undraw.co/license). Also features on-the-fly color customizations for your brand."
+            },
+            {
+                "id": 16,
                 "name": "Unsplash",
                 "url": "https://unsplash.com/",
                 "type": "Stock Resources",
                 "description": "A site that features photos that are free to use."
             },
             {
-                "id": 15,
+                "id": 17,
                 "name": "YouTube Audio Library",
                 "url": "https://www.youtube.com/audiolibrary/",
                 "type": "Stock Resources",
@@ -2758,13 +2778,6 @@
         "children": [
             {
                 "id": 0,
-                "name": "AutoCAD Fusion 360",
-                "url": "https://www.autodesk.com/products/fusion-360",
-                "type": "Computer-aided Design (CAD)",
-                "description": "A 3D sketching and modelling tool made by Autocad. Has a plethora of features outside of being a 3D design tool; it could also generate design and simulate with realtime physics. Also, they have available support for students (with free 3 years) and startups (with a free year). Just make sure you check if you're eligible before you request for one."
-            },
-            {
-                "id": 1,
                 "name": "Blender",
                 "url": "https://www.blender.org/",
                 "type": "Computer-aided Design (CAD)",
@@ -2772,7 +2785,7 @@
                 "personalComment": "If you're looking for a start in 3D modelling with free tools, this is one of the de facto tools on it."
             },
             {
-                "id": 2,
+                "id": 1,
                 "name": "BRL-CAD",
                 "url": "http://brlcad.org/",
                 "type": "Computer-aided Design (CAD)",
@@ -2780,32 +2793,39 @@
                 "personalComment": "Fun fact: This is believed to be the world's oldest software repository which its development started at December 1979. Also, it found its use on the military."
             },
             {
-                "id": 3,
+                "id": 2,
                 "name": "FreeCAD",
                 "url": "https://www.freecadweb.org/",
                 "type": "Computer-aided Design (CAD)",
                 "description": "A cross-platform free and open source modeller. Offers usefulness for various scientific and engineering fields such as electronics, mechatronics, and mathematics."
             },
             {
-                "id": 4,
+                "id": 3,
                 "name": "Google Sketchup",
                 "url": "https://www.sketchup.com/",
                 "type": "Computer-aided Design (CAD)",
                 "description": "A freemium web-based 3D modelling tool hosted by Google. The free version of the tool is mostly enough to get started on 3D modelling."
             },
             {
-                "id": 5,
+                "id": 4,
                 "name": "KiCAD",
                 "url": "http://kicad-pcb.org/",
                 "type": "Computer-aided Design (CAD)",
                 "description": "A cross-platform free and open source electronics design automation suite."
             },
             {
-                "id": 6,
+                "id": 5,
                 "name": "LeoCAD",
                 "url": "https://www.leocad.org/",
                 "type": "Computer-aided Design (CAD)",
                 "description": "A cross-platform free and open source computer-aided design software based on [LEGO](https://en.wikipedia.org/wiki/Lego). If you want to see the source code, you can visit it in [GitHub](https://github.com/leozide/leocad)."
+            },
+            {
+                "id": 6,
+                "name": "Processing",
+                "url": "https://processing.org/",
+                "type": "Computer-aided Design (CAD)",
+                "description": "A framework on getting started with programming with visual arts. Mostly used in making generative art."
             },
             {
                 "id": 7,
