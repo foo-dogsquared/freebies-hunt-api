@@ -1059,6 +1059,13 @@
             },
             {
                 "id": 1,
+                "name": "Battle of Wesnoth",
+                "url": "https://www.wesnoth.org",
+                "type": "Games",
+                "description": "A free and open source turn-based game that takes place in a fantasy world. The source code is [freely available at GitHub](https://github.com/wesnoth/wesnoth)."
+            },
+            {
+                "id": 2,
                 "name": "Cataclysm: Dark Days Ahead",
                 "url": "https://cataclysmdda.org/",
                 "type": "Games",
@@ -1066,7 +1073,21 @@
                 "personalComment": "I find it hard to start with but it is becoming fun over time. Surprisingly, there's a _lot_ of variety here."
             },
             {
-                "id": 2,
+                "id": 3,
+                "name": "Citybound",
+                "url": "http://cityboundsim.com/",
+                "type": "Games",
+                "description": "A city building game with a focus on realism through details. The source code is available in the [official GitHub repo](https://github.com/citybound/citybound)."
+            },
+            {
+                "id": 4,
+                "name": "Clone Hero",
+                "url": "https://clonehero.net/",
+                "type": "Games",
+                "description": "As it is already indicated by the title, it is a clone of Guitar Hero. It is available for the major operating systems."
+            },
+            {
+                "id": 5,
                 "name": "Dwarf Fortress",
                 "url": "http://www.bay12games.com/dwarves/index.html",
                 "type": "Games",
@@ -1074,21 +1095,28 @@
                 "personalComment": "If you want to get started, you're free to lurk in [this subreddit](https://www.reddit.com/r/dwarffortress/) and look for their [getting started guide](https://www.reddit.com/r/dwarffortress/#side-heading)."
             },
             {
-                "id": 3,
+                "id": 6,
+                "name": "FreeCiv",
+                "url": "http://www.freeciv.org/",
+                "type": "Games",
+                "description": "A free and open source real-time strategy (RTS) game inspired from the Sid Meier's Civilization series. If you want to see the source code, you can visit it at the [official GitHub repo](https://en.wikipedia.org/wiki/Freeciv)."
+            },
+            {
+                "id": 7,
                 "name": "id Software's Games",
                 "url": "https://github.com/id-Software",
                 "type": "Games",
                 "description": "A bunch of [id Software](https://www.idsoftware.com/) games where its source code has been opened for public. Such titles include [Doom](https://github.com/id-Software/DOOM), [Quake](https://github.com/id-Software/Quake), and [Wolfenstein 3D](https://github.com/id-Software/wolf3d). You do have to build it on your own, though (or install it through the OS package manager or something)."
             },
             {
-                "id": 4,
+                "id": 8,
                 "name": "Megaman Maker",
                 "url": "https://megamanmaker.com",
                 "type": "Games",
                 "description": "A free Megaman fan-game that lets you create and play levels similar to [Super Mario Maker](https://en.wikipedia.org/wiki/Super_Mario_Maker). Only works in Windows-based environment."
             },
             {
-                "id": 5,
+                "id": 9,
                 "name": "Minetest",
                 "url": "http://www.minetest.net/",
                 "type": "Games",
@@ -1096,14 +1124,14 @@
                 "personalComment": "The vanilla version is quite bare and it doesn't feature the feature set Minecraft has (like mobs, for example). You could expand it through add-ons."
             },
             {
-                "id": 6,
+                "id": 10,
                 "name": "OpenTTD",
                 "url": "https://www.openttd.org/",
                 "type": "Games",
                 "description": "A free, open source, and cross platform game based on Transport Tycoon Deluxe."
             },
             {
-                "id": 7,
+                "id": 11,
                 "name": "Super Tux Kart",
                 "url": "https://supertuxkart.net/",
                 "type": "Games",
@@ -1111,21 +1139,21 @@
                 "personalComment": "One of the best free and open software game I've ever played. Fully recommend."
             },
             {
-                "id": 8,
+                "id": 12,
                 "name": "Ultima Ratio Regum",
                 "url": "https://www.markrjohnsongames.com/games/ultima-ratio-regum/",
                 "type": "Games",
                 "description": "A Windows-only rougelike game set out on a large procedural world similar to [Dwarf Fortress](http://www.bay12games.com/dwarves/index.html) where you get to fully explore and do whatever the heck you do."
             },
             {
-                "id": 9,
+                "id": 13,
                 "name": "Powder Toy",
                 "url": "https://powdertoy.co.uk/",
                 "type": "Games",
                 "description": "A free and open source cross-platform 'sand-falling' physics sandbox. It is mostly famous for being an introductory science tool for interactions between different chemicals and substances. You can see the source code on [their GitHub page](https://github.com/The-Powder-Toy/The-Powder-Toy/)."
             },
             {
-                "id": 10,
+                "id": 14,
                 "name": "Veloren",
                 "url": "https://veloren.net/",
                 "type": "Games",
@@ -2767,6 +2795,93 @@
                 "url": "https://www.youtube.com/audiolibrary/",
                 "type": "Stock Resources",
                 "description": "A sound library compiled by YouTube. Includes music and sound effects that can be freely used in your videos (without much chances of getting strikes, if you're active on YouTube) and other media."
+            }
+        ]
+    },
+    "Fonts": {
+        "name": "Fonts",
+        "description": "A selection of great free fonts from yours truly.",
+        "iconName": "fonts",
+        "mainColor": "#bddbd0",
+        "children": [
+            {
+                "id": 0,
+                "name": "Computer Modern",
+                "url": "https://tug.org/FontCatalogue/computermodern/",
+                "type": "Fonts",
+                "description": "The default font of LaTeX. As written from the page itself, it is recommended to use the [Latin Modern set](https://tug.org/FontCatalogue/latinmodernroman/) instead as it is an improved version of it."
+            },
+            {
+                "id": 1,
+                "name": "Fira Code",
+                "url": "https://github.com/tonsky/FiraCode",
+                "type": "Fonts",
+                "description": "A monospace font inspired from the Fira Mono. It offers font ligatures with additional glyph sets like the powerline glyphs."
+            },
+            {
+                "id": 2,
+                "name": "IBM Plex",
+                "url": "https://github.com/IBM/plex",
+                "type": "Fonts",
+                "description": "The official typeface of IBM. Offers roman, sans, and monospace variants. Also has good support for international languages."
+            },
+            {
+                "id": 3,
+                "name": "Iosevka",
+                "url": "https://typeof.net/Iosevka/",
+                "type": "Fonts",
+                "description": "A great monospace font that is ideal for programming. Offers a selection of font ligatures."
+            },
+            {
+                "id": 4,
+                "name": "Latin Modern Math",
+                "url": "http://www.gust.org.pl/projects/e-foundry/lm-math",
+                "type": "Fonts",
+                "description": "A math font designed to complement the Computer Modern font set developed by Donald Knuth. This is the default math font in modern LaTeX distributions."
+            },
+            {
+                "id": 5,
+                "name": "Noto",
+                "url": "https://www.google.com/get/noto/",
+                "type": "Fonts",
+                "description": "A universal font family from Google that ambitiously aims to create a font set for all languages. Features a serif, sans, and monospace variants."
+            },
+            {
+                "id": 6,
+                "name": "Source Code Pro",
+                "url": "https://github.com/adobe-fonts/source-code-pro",
+                "type": "Fonts",
+                "description": "The monospace variant of the Source Pro family from Adobe. It is designed to be used on coding environments. Available in various font formats such as OTF, TTF, and as a variable font."
+            },
+            {
+                "id": 7,
+                "name": "Source Sans Pro",
+                "url": "https://github.com/adobe-fonts/source-sans-pro",
+                "type": "Fonts",
+                "description": "A part of the Source Pro series font from Adobe. As such, it is designed to complement [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro). Available in various font formats such as OTF, TTF, and as a variable font."
+            },
+            {
+                "id": 8,
+                "name": "Source Serif Pro",
+                "url": "https://github.com/adobe-fonts/source-serif-pro",
+                "type": "Fonts",
+                "description": "A good free serif font from Adobe. Made to complement [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro). Available in various font formats such as OTF, TTF, and as a variable font.",
+                "personalComment": "My go-to serif font nowadays."
+            },
+            {
+                "id": 9,
+                "name": "STIX",
+                "url": "https://github.com/stipub/stixfonts",
+                "type": "Fonts",
+                "description": "A math Unicode font for a variety of scientific, technical, and mathematical texts. It is also good as a standalone serif font as well.",
+                "personalComment": "My recommandation for a math font. I also use this for my LaTeX documents."
+            },
+            {
+                "id": 10,
+                "name": "XITS",
+                "url": "https://github.com/alif-type/xits",
+                "type": "Fonts",
+                "description": "A math font based from the [STIX math font (version 1)](https://github.com/stipub/stixfonts) with improved table support. As of 2019-12-30, STIX is at version 2 and it is completely different from its previous major version, making them distinct now (on top of the additional improvements XITS have)."
             }
         ]
     },

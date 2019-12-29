@@ -10,6 +10,27 @@ All words that are in **boldface** must refer to a **resource** while words in *
 
 ## [Unreleased]
 
+## [1.6.0] - 2019/12/30
+### Added
+- Add a new section, *Fonts*, with the following resources:
+    - **Computer Modern**
+    - **Fira Code**
+    - **IBM Plex**
+    - **Iosevka**
+    - **Latin Modern Math**
+    - **Noto**
+    - **Source Code Pro**
+    - **Source Sans Pro**
+    - **Source Serif Pro**
+    - **STIX**
+    - **XITS**
+- Add the following new resources:
+    - *Games*
+        - **Battle of Wesnoth**
+        - **Citybound**
+        - **Clone Hero**
+        - **FreeCiv**
+
 ## [1.5.2] - 2019/10/01
 ### Added
 - Add the following new resources:
